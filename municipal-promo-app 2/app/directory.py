@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import re
+import shutil
 from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Any
@@ -43,6 +44,15 @@ EXCLUDE_LABELS = {
 EXCLUDE_NAME_TERMS = ["広域連合", "一部事務組合", "後期高齢者", "電子申請", "行政手続"]
 
 
+def ensure_json_file(path: Path, default) -> None:
+    if path.is_dir():
+        shutil.rmtree(path)
+    if not path.exists():
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(json.dumps(default, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+
 def fetch(url: str) -> str:
     response = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
     response.raise_for_status()
@@ -64,12 +74,14 @@ def directory_is_fresh(days: int = 30) -> bool:
         status = json.loads(DIRECTORY_STATUS_FILE.read_text(encoding="utf-8"))
         updated = datetime.fromisoformat(status["updated_at"])
         return datetime.now(updated.tzinfo) - updated < timedelta(days=days)
-    except (FileNotFoundError, KeyError, ValueError, json.JSONDecodeError):
+    except (FileNotFoundError, IsADirectoryError, PermissionError, OSError, KeyError, ValueError, json.JSONDecodeError, TypeError):
         return False
 
 
 def build_directory(force: bool = False) -> list[dict[str, Any]]:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+    ensure_json_file(DIRECTORY_FILE, [])
+    ensure_json_file(DIRECTORY_STATUS_FILE, {"updated_at": None, "count": 0, "errors": []})
     if not force and directory_is_fresh() and DIRECTORY_FILE.exists():
         return json.loads(DIRECTORY_FILE.read_text(encoding="utf-8"))
 

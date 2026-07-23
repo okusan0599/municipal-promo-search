@@ -24,7 +24,7 @@ _refresh_lock = threading.Lock()
 def read_json(path: Path, fallback):
     try:
         return json.loads(path.read_text(encoding="utf-8"))
-    except (FileNotFoundError, json.JSONDecodeError):
+    except (FileNotFoundError, IsADirectoryError, PermissionError, OSError, json.JSONDecodeError, TypeError):
         return fallback
 
 

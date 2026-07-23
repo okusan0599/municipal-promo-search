@@ -5,6 +5,7 @@ import json
 import os
 import re
 import time
+import shutil
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Any
@@ -62,6 +63,16 @@ THEME_RULES = {
 ERA_BASE = {"令和": 2018, "平成": 1988}
 
 
+def ensure_json_file(path: Path, default) -> None:
+    """Repair browser-upload accidents where a JSON filename became a directory."""
+    if path.is_dir():
+        shutil.rmtree(path)
+    if not path.exists():
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_text(json.dumps(default, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+
 def fetch(url: str) -> str:
     response = requests.get(url, headers=HEADERS, timeout=TIMEOUT, allow_redirects=True)
     response.raise_for_status()
@@ -80,7 +91,7 @@ def compact(text: str) -> str:
 def read_json(path: Path, fallback):
     try:
         return json.loads(path.read_text(encoding="utf-8"))
-    except (FileNotFoundError, json.JSONDecodeError):
+    except (FileNotFoundError, IsADirectoryError, PermissionError, OSError, json.JSONDecodeError, TypeError):
         return fallback
 
 
@@ -314,6 +325,9 @@ def merge_projects(existing: list[dict[str, Any]], fresh: list[dict[str, Any]]) 
 
 def crawl_all() -> dict[str, Any]:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
+    ensure_json_file(DATA_FILE, [])
+    ensure_json_file(STATUS_FILE, {"updated_at": None, "count": 0, "sources": [], "errors": []})
+    ensure_json_file(CURSOR_FILE, {"next_index": 0})
     directory = build_directory()
     batch, batch_start, next_index = select_batch(directory)
     # Direct sources for major prefectural procurement pages are checked every run.
