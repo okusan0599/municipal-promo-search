@@ -1,8 +1,812 @@
 [
-  {"region":"北海道","area":"北海道","municipality":"北海道","url":"https://www.pref.hokkaido.lg.jp/category/d003/c006/s012/","source_name":"北海道公式・プロポーザル"},
-  {"region":"福岡県","area":"九州","municipality":"福岡県","url":"https://www.pref.fukuoka.lg.jp/bid/","source_name":"福岡県公式・入札公募"},
-  {"region":"佐賀県","area":"九州","municipality":"佐賀県","url":"https://www.pref.saga.lg.jp/list00631.html","source_name":"佐賀県公式・入札公募"},
-  {"region":"山口県","area":"中国","municipality":"山口県","url":"https://www.pref.yamaguchi.lg.jp/soshiki/159/102354.html","source_name":"山口県公式・業務委託公告"},
-  {"region":"鹿児島県","area":"九州","municipality":"鹿児島県","url":"https://www.pref.kagoshima.jp/kensei/nyusatu/nyusatujoho/index.html","source_name":"鹿児島県公式・入札情報"},
-  {"region":"兵庫県","area":"近畿","municipality":"兵庫県","url":"https://web.pref.hyogo.lg.jp/bid/bid_opn_02.html","source_name":"兵庫県公式・委託役務公告"}
+  {
+    "region": "北海道",
+    "area": "北海道",
+    "municipality": "北海道",
+    "url": "https://www.pref.hokkaido.lg.jp/",
+    "source_name": "北海道公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "青森県",
+    "area": "東北",
+    "municipality": "青森県",
+    "url": "https://www.pref.aomori.lg.jp/",
+    "source_name": "青森県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "岩手県",
+    "area": "東北",
+    "municipality": "岩手県",
+    "url": "https://www.pref.iwate.jp/",
+    "source_name": "岩手県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "宮城県",
+    "area": "東北",
+    "municipality": "宮城県",
+    "url": "https://www.pref.miyagi.jp/",
+    "source_name": "宮城県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "秋田県",
+    "area": "東北",
+    "municipality": "秋田県",
+    "url": "https://www.pref.akita.lg.jp/",
+    "source_name": "秋田県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "山形県",
+    "area": "東北",
+    "municipality": "山形県",
+    "url": "https://www.pref.yamagata.jp/",
+    "source_name": "山形県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "福島県",
+    "area": "東北",
+    "municipality": "福島県",
+    "url": "https://www.pref.fukushima.lg.jp/",
+    "source_name": "福島県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "茨城県",
+    "area": "北関東",
+    "municipality": "茨城県",
+    "url": "https://www.pref.ibaraki.jp/",
+    "source_name": "茨城県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "栃木県",
+    "area": "北関東",
+    "municipality": "栃木県",
+    "url": "https://www.pref.tochigi.lg.jp/",
+    "source_name": "栃木県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "群馬県",
+    "area": "北関東",
+    "municipality": "群馬県",
+    "url": "https://www.pref.gunma.jp/",
+    "source_name": "群馬県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "埼玉県",
+    "area": "南関東",
+    "municipality": "埼玉県",
+    "url": "https://www.pref.saitama.lg.jp/",
+    "source_name": "埼玉県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "千葉県",
+    "area": "南関東",
+    "municipality": "千葉県",
+    "url": "https://www.pref.chiba.lg.jp/",
+    "source_name": "千葉県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "東京都",
+    "url": "https://www.metro.tokyo.lg.jp/",
+    "source_name": "東京都公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "神奈川県",
+    "area": "南関東",
+    "municipality": "神奈川県",
+    "url": "https://www.pref.kanagawa.jp/",
+    "source_name": "神奈川県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "新潟県",
+    "area": "甲信越",
+    "municipality": "新潟県",
+    "url": "https://www.pref.niigata.lg.jp/",
+    "source_name": "新潟県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "富山県",
+    "area": "北陸",
+    "municipality": "富山県",
+    "url": "https://www.pref.toyama.jp/",
+    "source_name": "富山県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "石川県",
+    "area": "北陸",
+    "municipality": "石川県",
+    "url": "https://www.pref.ishikawa.lg.jp/",
+    "source_name": "石川県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "福井県",
+    "area": "北陸",
+    "municipality": "福井県",
+    "url": "https://www.pref.fukui.lg.jp/",
+    "source_name": "福井県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "山梨県",
+    "area": "甲信越",
+    "municipality": "山梨県",
+    "url": "https://www.pref.yamanashi.jp/",
+    "source_name": "山梨県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "長野県",
+    "area": "甲信越",
+    "municipality": "長野県",
+    "url": "https://www.pref.nagano.lg.jp/",
+    "source_name": "長野県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "岐阜県",
+    "area": "東海",
+    "municipality": "岐阜県",
+    "url": "https://www.pref.gifu.lg.jp/",
+    "source_name": "岐阜県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "静岡県",
+    "area": "東海",
+    "municipality": "静岡県",
+    "url": "https://www.pref.shizuoka.jp/",
+    "source_name": "静岡県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "愛知県",
+    "area": "東海",
+    "municipality": "愛知県",
+    "url": "https://www.pref.aichi.jp/",
+    "source_name": "愛知県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "三重県",
+    "area": "東海",
+    "municipality": "三重県",
+    "url": "https://www.pref.mie.lg.jp/",
+    "source_name": "三重県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "滋賀県",
+    "area": "近畿",
+    "municipality": "滋賀県",
+    "url": "https://www.pref.shiga.lg.jp/",
+    "source_name": "滋賀県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "京都府",
+    "area": "近畿",
+    "municipality": "京都府",
+    "url": "https://www.pref.kyoto.jp/",
+    "source_name": "京都府公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "大阪府",
+    "area": "近畿",
+    "municipality": "大阪府",
+    "url": "https://www.pref.osaka.lg.jp/",
+    "source_name": "大阪府公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "兵庫県",
+    "area": "近畿",
+    "municipality": "兵庫県",
+    "url": "https://web.pref.hyogo.lg.jp/",
+    "source_name": "兵庫県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "奈良県",
+    "area": "近畿",
+    "municipality": "奈良県",
+    "url": "https://www.pref.nara.jp/",
+    "source_name": "奈良県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "和歌山県",
+    "area": "近畿",
+    "municipality": "和歌山県",
+    "url": "https://www.pref.wakayama.lg.jp/",
+    "source_name": "和歌山県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "鳥取県",
+    "area": "中国",
+    "municipality": "鳥取県",
+    "url": "https://www.pref.tottori.lg.jp/",
+    "source_name": "鳥取県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "島根県",
+    "area": "中国",
+    "municipality": "島根県",
+    "url": "https://www.pref.shimane.lg.jp/",
+    "source_name": "島根県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "岡山県",
+    "area": "中国",
+    "municipality": "岡山県",
+    "url": "https://www.pref.okayama.jp/",
+    "source_name": "岡山県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "広島県",
+    "area": "中国",
+    "municipality": "広島県",
+    "url": "https://www.pref.hiroshima.lg.jp/",
+    "source_name": "広島県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "山口県",
+    "area": "中国",
+    "municipality": "山口県",
+    "url": "https://www.pref.yamaguchi.lg.jp/",
+    "source_name": "山口県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "徳島県",
+    "area": "四国",
+    "municipality": "徳島県",
+    "url": "https://www.pref.tokushima.lg.jp/",
+    "source_name": "徳島県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "香川県",
+    "area": "四国",
+    "municipality": "香川県",
+    "url": "https://www.pref.kagawa.lg.jp/",
+    "source_name": "香川県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "愛媛県",
+    "area": "四国",
+    "municipality": "愛媛県",
+    "url": "https://www.pref.ehime.jp/",
+    "source_name": "愛媛県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "高知県",
+    "area": "四国",
+    "municipality": "高知県",
+    "url": "https://www.pref.kochi.lg.jp/",
+    "source_name": "高知県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "福岡県",
+    "area": "九州",
+    "municipality": "福岡県",
+    "url": "https://www.pref.fukuoka.lg.jp/",
+    "source_name": "福岡県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "佐賀県",
+    "area": "九州",
+    "municipality": "佐賀県",
+    "url": "https://www.pref.saga.lg.jp/",
+    "source_name": "佐賀県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "長崎県",
+    "area": "九州",
+    "municipality": "長崎県",
+    "url": "https://www.pref.nagasaki.jp/",
+    "source_name": "長崎県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "熊本県",
+    "area": "九州",
+    "municipality": "熊本県",
+    "url": "https://www.pref.kumamoto.jp/",
+    "source_name": "熊本県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "大分県",
+    "area": "九州",
+    "municipality": "大分県",
+    "url": "https://www.pref.oita.jp/",
+    "source_name": "大分県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "宮崎県",
+    "area": "九州",
+    "municipality": "宮崎県",
+    "url": "https://www.pref.miyazaki.lg.jp/",
+    "source_name": "宮崎県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "鹿児島県",
+    "area": "九州",
+    "municipality": "鹿児島県",
+    "url": "https://www.pref.kagoshima.jp/",
+    "source_name": "鹿児島県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "沖縄県",
+    "area": "沖縄",
+    "municipality": "沖縄県",
+    "url": "https://www.pref.okinawa.jp/",
+    "source_name": "沖縄県公式サイト",
+    "source_type": "prefecture",
+    "priority": 1
+  },
+  {
+    "region": "北海道",
+    "area": "北海道",
+    "municipality": "札幌市",
+    "url": "https://www.city.sapporo.jp/",
+    "source_name": "札幌市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "宮城県",
+    "area": "東北",
+    "municipality": "仙台市",
+    "url": "https://www.city.sendai.jp/",
+    "source_name": "仙台市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "埼玉県",
+    "area": "南関東",
+    "municipality": "さいたま市",
+    "url": "https://www.city.saitama.lg.jp/",
+    "source_name": "さいたま市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "千葉県",
+    "area": "南関東",
+    "municipality": "千葉市",
+    "url": "https://www.city.chiba.jp/",
+    "source_name": "千葉市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "神奈川県",
+    "area": "南関東",
+    "municipality": "横浜市",
+    "url": "https://www.city.yokohama.lg.jp/",
+    "source_name": "横浜市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "神奈川県",
+    "area": "南関東",
+    "municipality": "川崎市",
+    "url": "https://www.city.kawasaki.jp/",
+    "source_name": "川崎市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "神奈川県",
+    "area": "南関東",
+    "municipality": "相模原市",
+    "url": "https://www.city.sagamihara.kanagawa.jp/",
+    "source_name": "相模原市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "新潟県",
+    "area": "甲信越",
+    "municipality": "新潟市",
+    "url": "https://www.city.niigata.lg.jp/",
+    "source_name": "新潟市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "静岡県",
+    "area": "東海",
+    "municipality": "静岡市",
+    "url": "https://www.city.shizuoka.lg.jp/",
+    "source_name": "静岡市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "静岡県",
+    "area": "東海",
+    "municipality": "浜松市",
+    "url": "https://www.city.hamamatsu.shizuoka.jp/",
+    "source_name": "浜松市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "愛知県",
+    "area": "東海",
+    "municipality": "名古屋市",
+    "url": "https://www.city.nagoya.jp/",
+    "source_name": "名古屋市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "京都府",
+    "area": "近畿",
+    "municipality": "京都市",
+    "url": "https://www.city.kyoto.lg.jp/",
+    "source_name": "京都市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "大阪府",
+    "area": "近畿",
+    "municipality": "大阪市",
+    "url": "https://www.city.osaka.lg.jp/",
+    "source_name": "大阪市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "大阪府",
+    "area": "近畿",
+    "municipality": "堺市",
+    "url": "https://www.city.sakai.lg.jp/",
+    "source_name": "堺市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "兵庫県",
+    "area": "近畿",
+    "municipality": "神戸市",
+    "url": "https://www.city.kobe.lg.jp/",
+    "source_name": "神戸市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "岡山県",
+    "area": "中国",
+    "municipality": "岡山市",
+    "url": "https://www.city.okayama.jp/",
+    "source_name": "岡山市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "広島県",
+    "area": "中国",
+    "municipality": "広島市",
+    "url": "https://www.city.hiroshima.lg.jp/",
+    "source_name": "広島市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "福岡県",
+    "area": "九州",
+    "municipality": "北九州市",
+    "url": "https://www.city.kitakyushu.lg.jp/",
+    "source_name": "北九州市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "福岡県",
+    "area": "九州",
+    "municipality": "福岡市",
+    "url": "https://www.city.fukuoka.lg.jp/",
+    "source_name": "福岡市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "熊本県",
+    "area": "九州",
+    "municipality": "熊本市",
+    "url": "https://www.city.kumamoto.jp/",
+    "source_name": "熊本市公式サイト",
+    "source_type": "designated_city",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "千代田区",
+    "url": "https://www.city.chiyoda.lg.jp/",
+    "source_name": "千代田区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "中央区",
+    "url": "https://www.city.chuo.lg.jp/",
+    "source_name": "中央区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "港区",
+    "url": "https://www.city.minato.tokyo.jp/",
+    "source_name": "港区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "新宿区",
+    "url": "https://www.city.shinjuku.lg.jp/",
+    "source_name": "新宿区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "文京区",
+    "url": "https://www.city.bunkyo.lg.jp/",
+    "source_name": "文京区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "台東区",
+    "url": "https://www.city.taito.lg.jp/",
+    "source_name": "台東区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "墨田区",
+    "url": "https://www.city.sumida.lg.jp/",
+    "source_name": "墨田区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "江東区",
+    "url": "https://www.city.koto.lg.jp/",
+    "source_name": "江東区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "品川区",
+    "url": "https://www.city.shinagawa.tokyo.jp/",
+    "source_name": "品川区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "目黒区",
+    "url": "https://www.city.meguro.tokyo.jp/",
+    "source_name": "目黒区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "大田区",
+    "url": "https://www.city.ota.tokyo.jp/",
+    "source_name": "大田区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "世田谷区",
+    "url": "https://www.city.setagaya.lg.jp/",
+    "source_name": "世田谷区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "渋谷区",
+    "url": "https://www.city.shibuya.tokyo.jp/",
+    "source_name": "渋谷区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "中野区",
+    "url": "https://www.city.tokyo-nakano.lg.jp/",
+    "source_name": "中野区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "杉並区",
+    "url": "https://www.city.suginami.tokyo.jp/",
+    "source_name": "杉並区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "豊島区",
+    "url": "https://www.city.toshima.lg.jp/",
+    "source_name": "豊島区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "北区",
+    "url": "https://www.city.kita.tokyo.jp/",
+    "source_name": "北区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "荒川区",
+    "url": "https://www.city.arakawa.tokyo.jp/",
+    "source_name": "荒川区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "板橋区",
+    "url": "https://www.city.itabashi.tokyo.jp/",
+    "source_name": "板橋区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "練馬区",
+    "url": "https://www.city.nerima.tokyo.jp/",
+    "source_name": "練馬区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "足立区",
+    "url": "https://www.city.adachi.tokyo.jp/",
+    "source_name": "足立区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "葛飾区",
+    "url": "https://www.city.katsushika.lg.jp/",
+    "source_name": "葛飾区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  },
+  {
+    "region": "東京都",
+    "area": "南関東",
+    "municipality": "江戸川区",
+    "url": "https://www.city.edogawa.tokyo.jp/",
+    "source_name": "江戸川区公式サイト",
+    "source_type": "tokyo_ward",
+    "priority": 1
+  }
 ]

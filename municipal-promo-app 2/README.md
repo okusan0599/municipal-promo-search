@@ -1,47 +1,37 @@
-# 自治体プロモーション公示検索（全国・段階巡回版）
+# 自治体プロモーション案件検索 第一段階・最大構成
 
-都道府県、市、区、町、村を対象に、公式サイト上のプロモーション／クリエイティブ関連公示を段階的に巡回します。
+## 対象
+- 47都道府県
+- 20政令指定都市
+- 東京23区
+- 合計 90 公式サイト
 
-## 全国化の仕組み
+J-LISへ実行時アクセスせず、`sources.json` の固定公式URLを使います。各公式トップページから、入札・契約・調達・公募・プロポーザル等のハブページを探索し、クリエイティブ関連案件を抽出します。
 
-- J-LIS「全国自治体マップ検索」から自治体公式サイト一覧を生成
-- 都道府県・市・指定都市の区・町・村を収集対象に登録
-- 1回の実行で既定35自治体を巡回し、次回は続きから再開
-- 既存案件と新規案件をURLで重複統合
-- 締切超過を自動的に終了へ変更
-- 北海道・福岡・佐賀・山口・鹿児島・兵庫の公募ページは毎回優先巡回
-
-全国全団体を一度に巡回するとアクセス負荷と実行時間が大きいため、分割巡回にしています。`/api/status` の `municipalities_total`、`batch_start`、`next_index` で進捗を確認できます。
-
-## Render設定
-
-- Root Directory: `municipal-promo-app 2`
-- Build Command: `pip install -r requirements.txt`
-- Start Command: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+## Render環境変数
 - `PYTHON_VERSION=3.12.10`
 - `AUTO_REFRESH=true`
-- `CRAWL_BATCH_SIZE=35`
+- `CRAWL_BATCH_SIZE=20`（無料版推奨。増やす場合は30程度まで）
+- `REFRESH_INTERVAL_HOURS=6`
+- `REFRESH_TOKEN=` 任意の長いランダム文字列
 
-## 確実な自動更新
+## Render設定
+- Build: `pip install -r requirements.txt`
+- Start: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
 
-Render無料版の起動時更新だけでは永続性が弱いため、GitHub Actionsによる6時間ごとの分割巡回を推奨します。
+## 確認URL
+- `/api/status` 巡回状況
+- `/api/projects` 案件JSON
+- `/api/sources` 対象公式サイト一覧
 
-`github-workflow-template/nationwide-crawl.yml` を、GitHubリポジトリ直下の `.github/workflows/nationwide-crawl.yml` として配置してください。アプリフォルダの中ではなく、リポジトリ直下です。
+## GitHub Actions（推奨）
+`.github/workflows/crawl.yml` を同梱。リポジトリ Settings > Secrets and variables > Actions に以下を登録します。
+- `RENDER_APP_URL` = `https://municipal-promo-search.onrender.com`
+- `REFRESH_TOKEN` = Renderと同じ値
 
-GitHubの `Settings → Actions → General → Workflow permissions` で `Read and write permissions` を選択すると、Actionsが更新データをコミットできます。
-
-## API
-
-- `/api/projects` 案件一覧
-- `/api/status` 案件数・巡回進捗・取得エラー
-- `/api/municipalities` 自治体ディレクトリ
-- `/api/directory-status` 自治体一覧の更新状況
-- `/health` 稼働確認
+6時間ごとにRenderを起こし、次の20自治体を巡回します。約5回で90ソースを一巡します。
 
 ## 注意
-
-全国自治体サイトは構造が統一されていないため、汎用クローラーだけで完全網羅はできません。取得漏れが多い自治体は、公式の公募・入札一覧URLを `sources.json` に優先ソースとして追加すると精度が上がります。応募前は必ず原文ページを確認してください。
-
-
-## 2026-07 修正
-GitHubのブラウザアップロードで `data/projects.json` などが誤ってフォルダ化された場合でも、起動時に自動修復するようにしました。`/api/projects` はデータ未生成時も 500 ではなく空配列を返します。
+- 自治体サイトの構造差により漏れはあります。応募判断は必ず原文で確認してください。
+- Render無料版のローカルJSONは再デプロイで消える場合があります。本番運用ではPostgreSQLへ移行してください。
+- 公式サイトへの負荷を避けるため低頻度・逐次アクセスです。
