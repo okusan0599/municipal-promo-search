@@ -11,6 +11,7 @@ from fastapi.responses import FileResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 
 from .crawler import DATA_FILE, STATUS_FILE, crawl_all
+from .directory import DIRECTORY_FILE, DIRECTORY_STATUS_FILE
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 INDEX_FILE = BASE_DIR / "index.html"
@@ -68,6 +69,16 @@ def projects() -> JSONResponse:
 @app.get("/api/status")
 def status() -> JSONResponse:
     return JSONResponse(content=read_json(STATUS_FILE, {"updated_at": None, "count": 0, "sources": [], "errors": []}))
+
+
+@app.get("/api/municipalities")
+def municipalities() -> JSONResponse:
+    return JSONResponse(content=read_json(DIRECTORY_FILE, []))
+
+
+@app.get("/api/directory-status")
+def directory_status() -> JSONResponse:
+    return JSONResponse(content=read_json(DIRECTORY_STATUS_FILE, {"updated_at": None, "count": 0, "errors": []}))
 
 
 @app.post("/api/refresh")

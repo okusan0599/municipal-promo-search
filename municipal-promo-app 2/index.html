@@ -196,6 +196,8 @@
         <select id="region">
           <option value="">すべて</option>
         </select>
+        <label for="municipality">市区町村</label>
+        <select id="municipality"><option value="">すべて</option></select>
       </div>
       <div class="field">
         <label for="theme">テーマ</label>
@@ -246,18 +248,24 @@
 
 <script>
 const TARGET_REGIONS = [
-  {area:'北海道', region:'北海道'},
-  {area:'九州', region:'福岡県'},
-  {area:'九州', region:'佐賀県'},
-  {area:'中国', region:'山口県'},
-  {area:'九州', region:'鹿児島県'},
-  {area:'近畿', region:'兵庫県'}
+  {area:'北海道',region:'北海道'},
+  {area:'東北',region:'青森県'},{area:'東北',region:'岩手県'},{area:'東北',region:'宮城県'},{area:'東北',region:'秋田県'},{area:'東北',region:'山形県'},{area:'東北',region:'福島県'},
+  {area:'北関東',region:'茨城県'},{area:'北関東',region:'栃木県'},{area:'北関東',region:'群馬県'},
+  {area:'南関東',region:'埼玉県'},{area:'南関東',region:'千葉県'},{area:'南関東',region:'東京都'},{area:'南関東',region:'神奈川県'},
+  {area:'甲信越',region:'新潟県'},{area:'甲信越',region:'山梨県'},{area:'甲信越',region:'長野県'},
+  {area:'北陸',region:'富山県'},{area:'北陸',region:'石川県'},{area:'北陸',region:'福井県'},
+  {area:'東海',region:'岐阜県'},{area:'東海',region:'静岡県'},{area:'東海',region:'愛知県'},{area:'東海',region:'三重県'},
+  {area:'近畿',region:'滋賀県'},{area:'近畿',region:'京都府'},{area:'近畿',region:'大阪府'},{area:'近畿',region:'兵庫県'},{area:'近畿',region:'奈良県'},{area:'近畿',region:'和歌山県'},
+  {area:'中国',region:'鳥取県'},{area:'中国',region:'島根県'},{area:'中国',region:'岡山県'},{area:'中国',region:'広島県'},{area:'中国',region:'山口県'},
+  {area:'四国',region:'徳島県'},{area:'四国',region:'香川県'},{area:'四国',region:'愛媛県'},{area:'四国',region:'高知県'},
+  {area:'九州',region:'福岡県'},{area:'九州',region:'佐賀県'},{area:'九州',region:'長崎県'},{area:'九州',region:'熊本県'},{area:'九州',region:'大分県'},{area:'九州',region:'宮崎県'},{area:'九州',region:'鹿児島県'},
+  {area:'沖縄',region:'沖縄県'}
 ];
 
 let projects = [];
 let dataMode = 'loading';
 const $ = id => document.getElementById(id);
-const areaEl = $('area'), regionEl = $('region'), themeEl = $('theme');
+const areaEl = $('area'), regionEl = $('region'), municipalityEl = $('municipality'), themeEl = $('theme');
 const cardsEl = $('cards'), countEl = $('count');
 const areaOrder = ['北海道','東北','北関東','南関東','甲信越','北陸','東海','近畿','中国','四国','九州','沖縄'];
 
@@ -318,19 +326,24 @@ function setOptions(el, firstLabel, values, selected='') {
   if ([...el.options].some(o => o.value === selected)) el.value = selected;
 }
 function rebuildFilters() {
-  const selectedArea = areaEl.value, selectedRegion = regionEl.value, selectedTheme = themeEl.value;
+  const selectedArea = areaEl.value, selectedRegion = regionEl.value, selectedMunicipality = municipalityEl.value, selectedTheme = themeEl.value;
   const areas = [...new Set([...projects.map(p=>p.area), ...TARGET_REGIONS.map(p=>p.area)].filter(Boolean))].sort((a,b)=>{
     const ai=areaOrder.indexOf(a), bi=areaOrder.indexOf(b);
     return (ai<0?999:ai)-(bi<0?999:bi) || a.localeCompare(b,'ja');
   });
   setOptions(areaEl, '全国', areas, selectedArea);
   rebuildRegions(selectedRegion);
+  rebuildMunicipalities(selectedMunicipality);
   const themes = [...new Set(projects.flatMap(p=>p.theme).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ja'));
   setOptions(themeEl, 'すべて', themes, selectedTheme);
 }
 function rebuildRegions(selected='') {
   const regions = [...new Set([...projects.filter(p=>!areaEl.value || p.area===areaEl.value).map(p=>p.region), ...TARGET_REGIONS.filter(p=>!areaEl.value || p.area===areaEl.value).map(p=>p.region)].filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ja'));
   setOptions(regionEl, 'すべて', regions, selected);
+}
+function rebuildMunicipalities(selected='') {
+  const municipalities = [...new Set(projects.filter(p=>(!areaEl.value || p.area===areaEl.value) && (!regionEl.value || p.region===regionEl.value)).map(p=>p.municipality).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ja'));
+  setOptions(municipalityEl, 'すべて', municipalities, selected);
 }
 function formatDate(value) {
   if (!value) return '未確認';
@@ -353,6 +366,7 @@ function render() {
     if (keyword && !hay.includes(keyword)) return false;
     if (areaEl.value && p.area!==areaEl.value) return false;
     if (regionEl.value && p.region!==regionEl.value) return false;
+    if (municipalityEl.value && p.municipality!==municipalityEl.value) return false;
     if (themeEl.value && !p.theme.includes(themeEl.value)) return false;
     if (budgetMin!==null && (p.budget===null || p.budget<budgetMin)) return false;
     if (budgetMax!==null && (p.budget===null || p.budget>budgetMax)) return false;
@@ -370,7 +384,7 @@ function render() {
   countEl.textContent=result.length;
   if(!result.length){
     const message = projects.length ? '条件に一致する案件がありません。' : '自治体サイトから初回データを収集中です。数分後に再読み込みしてください。';
-    const sub = projects.length ? '条件を緩めるか、リセットしてください。' : '対象：北海道・福岡県・佐賀県・山口県・鹿児島県・兵庫県';
+    const sub = projects.length ? '条件を緩めるか、リセットしてください。' : '対象：全国の都道府県・市・区・町・村（段階巡回）';
     cardsEl.innerHTML=`<div class="panel empty"><strong>${message}</strong><br><span>${sub}</span></div>`;
     return;
   }
@@ -387,11 +401,11 @@ const liveInputs=['keyword','budgetMin','budgetMax','noticeFrom','deadlineTo','o
 liveInputs.forEach(id=>$(id).addEventListener(id==='keyword'?'input':'change',render));
 $('searchBtn').addEventListener('click',render);
 $('sort').addEventListener('change',render);
-areaEl.addEventListener('change',()=>{ rebuildRegions(); render(); });
-regionEl.addEventListener('change',render); themeEl.addEventListener('change',render);
+areaEl.addEventListener('change',()=>{ rebuildRegions(); rebuildMunicipalities(); render(); });
+regionEl.addEventListener('change',()=>{ rebuildMunicipalities(); render(); }); municipalityEl.addEventListener('change',render); themeEl.addEventListener('change',render);
 $('resetBtn').addEventListener('click',()=>{
   $('keyword').value=''; $('budgetMin').value=''; $('budgetMax').value=''; $('noticeFrom').value=''; $('deadlineTo').value=''; $('openOnly').checked=true;
-  areaEl.value=''; rebuildRegions(); regionEl.value=''; themeEl.value=''; $('sort').value='deadlineAsc'; render();
+  areaEl.value=''; rebuildRegions(); regionEl.value=''; rebuildMunicipalities(); municipalityEl.value=''; themeEl.value=''; $('sort').value='deadlineAsc'; render();
 });
 loadProjects();
 </script>
