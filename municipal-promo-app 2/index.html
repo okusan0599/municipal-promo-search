@@ -245,11 +245,13 @@
 </div>
 
 <script>
-const DEMO_PROJECTS = [
-  {id:'demo-1',area:'南関東',region:'東京都',municipality:'渋谷区',noticeDate:'2026-07-18',deadline:'2026-08-07',presentationDate:'2026-08-20',budget:1500,theme:['広報','SNS運用'],title:'シティプロモーション情報発信業務（デモ）',summary:'検索機能確認用のデモ案件です。ライブデータ取得後は自動的に置き換わります。',status:'open',sourceUrl:'https://www.city.shibuya.tokyo.jp/',sourceName:'デモデータ',lastChecked:null},
-  {id:'demo-2',area:'北関東',region:'茨城県',municipality:'水戸市',noticeDate:'2026-07-10',deadline:'2026-07-28',presentationDate:null,budget:780,theme:['観光PR','動画制作'],title:'観光誘客プロモーション動画制作業務（デモ）',summary:'予算・地域・期限・テーマによる絞り込みを確認するためのデモ案件です。',status:'soon',sourceUrl:'https://www.city.mito.lg.jp/',sourceName:'デモデータ',lastChecked:null},
-  {id:'demo-3',area:'東海',region:'愛知県',municipality:'名古屋市',noticeDate:'2026-06-20',deadline:'2026-07-15',presentationDate:'2026-07-22',budget:2400,theme:['イベント','広告'],title:'都市魅力発信イベント企画運営業務（デモ）',summary:'募集終了表示と「募集中のみ」の切り替えを確認するためのデモ案件です。',status:'closed',sourceUrl:'https://www.city.nagoya.jp/',sourceName:'デモデータ',lastChecked:null},
-  {id:'demo-4',area:'近畿',region:'京都府',municipality:'京都市',noticeDate:'2026-07-21',deadline:'2026-08-18',presentationDate:'参加者に通知',budget:null,theme:['Web制作','ブランディング'],title:'文化ブランドWebサイト再構築業務（デモ）',summary:'予算未確認案件の表示確認用デモです。',status:'open',sourceUrl:'https://www.city.kyoto.lg.jp/',sourceName:'デモデータ',lastChecked:null}
+const TARGET_REGIONS = [
+  {area:'北海道', region:'北海道'},
+  {area:'九州', region:'福岡県'},
+  {area:'九州', region:'佐賀県'},
+  {area:'中国', region:'山口県'},
+  {area:'九州', region:'鹿児島県'},
+  {area:'近畿', region:'兵庫県'}
 ];
 
 let projects = [];
@@ -302,9 +304,9 @@ async function loadProjects() {
     dataMode = 'live';
     badge.textContent = `LIVE DATA / ${projects.length}件`;
   } else {
-    projects = DEMO_PROJECTS.map(normalizedProject);
-    dataMode = 'demo';
-    badge.textContent = 'DEMO / ライブデータ未取得';
+    projects = [];
+    dataMode = 'empty';
+    badge.textContent = 'LIVE / 初回収集中';
   }
   rebuildFilters();
   render();
@@ -317,7 +319,7 @@ function setOptions(el, firstLabel, values, selected='') {
 }
 function rebuildFilters() {
   const selectedArea = areaEl.value, selectedRegion = regionEl.value, selectedTheme = themeEl.value;
-  const areas = [...new Set(projects.map(p=>p.area).filter(Boolean))].sort((a,b)=>{
+  const areas = [...new Set([...projects.map(p=>p.area), ...TARGET_REGIONS.map(p=>p.area)].filter(Boolean))].sort((a,b)=>{
     const ai=areaOrder.indexOf(a), bi=areaOrder.indexOf(b);
     return (ai<0?999:ai)-(bi<0?999:bi) || a.localeCompare(b,'ja');
   });
@@ -327,7 +329,7 @@ function rebuildFilters() {
   setOptions(themeEl, 'すべて', themes, selectedTheme);
 }
 function rebuildRegions(selected='') {
-  const regions = [...new Set(projects.filter(p=>!areaEl.value || p.area===areaEl.value).map(p=>p.region).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ja'));
+  const regions = [...new Set([...projects.filter(p=>!areaEl.value || p.area===areaEl.value).map(p=>p.region), ...TARGET_REGIONS.filter(p=>!areaEl.value || p.area===areaEl.value).map(p=>p.region)].filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ja'));
   setOptions(regionEl, 'すべて', regions, selected);
 }
 function formatDate(value) {
@@ -367,7 +369,9 @@ function render() {
   });
   countEl.textContent=result.length;
   if(!result.length){
-    cardsEl.innerHTML='<div class="panel empty"><strong>条件に一致する案件がありません。</strong><br><span>条件を緩めるか、リセットしてください。</span></div>';
+    const message = projects.length ? '条件に一致する案件がありません。' : '自治体サイトから初回データを収集中です。数分後に再読み込みしてください。';
+    const sub = projects.length ? '条件を緩めるか、リセットしてください。' : '対象：北海道・福岡県・佐賀県・山口県・鹿児島県・兵庫県';
+    cardsEl.innerHTML=`<div class="panel empty"><strong>${message}</strong><br><span>${sub}</span></div>`;
     return;
   }
   cardsEl.innerHTML=result.map(p=>`<article class="panel card">

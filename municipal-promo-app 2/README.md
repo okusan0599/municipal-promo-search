@@ -1,63 +1,32 @@
-# 自治体プロモーション公示検索 LIVE版
+# 自治体プロモーション公示検索（6地域ライブ収集版）
 
-既存UIを保ったまま、自治体公式ページを巡回して案件をSQLiteへ蓄積し、APIまたは静的JSONから表示する構成です。
+対象地域：北海道、福岡県、佐賀県、山口県、鹿児島県、兵庫県。
 
-## できること
+## Render設定
 
-- 自治体公式ページの定期巡回
-- プロモーション／広報／広告／観光／SNS／動画／Web／イベント等の案件候補抽出
-- 公示日・提出期限・予算・テーマ・原文URLの構造化
-- 締切日を使った「募集中／締切間近／募集終了」の自動判定
-- SQLiteへの履歴保存
-- FastAPIの検索API
-- GitHub Actionsによる毎日06:15（日本時間）の自動更新
-- APIがない静的ホスティングでは `data/projects.json` を利用
+- Root Directory: GitHub上の実際のフォルダ名（現在の構成なら `municipal-promo-app 2`）
+- Build Command: `pip install -r requirements.txt`
+- Start Command: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+- Environment variable: `PYTHON_VERSION=3.12.10`
+- Environment variable: `AUTO_REFRESH=true`
 
-## ローカル起動
+起動時、データが未取得または12時間以上古い場合、6地域の公式ページをバックグラウンド巡回します。初回は数分かかることがあります。
 
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-python -m app.crawler
-uvicorn app.main:app --reload
-```
+## 手動更新（任意）
 
-ブラウザで `http://127.0.0.1:8000` を開きます。
-
-## データ更新
+RenderのEnvironmentに `REFRESH_TOKEN` を設定すると、次のPOSTで更新を開始できます。
 
 ```bash
-python -m app.crawler
+curl -X POST https://YOUR-SERVICE.onrender.com/api/refresh \
+  -H "X-Refresh-Token: YOUR_TOKEN"
 ```
-
-対象自治体は `sources.json` に追加します。巡回先は自治体公式の一覧ページを指定してください。
 
 ## API
 
-`GET /api/projects`
+- `/api/projects` 案件一覧
+- `/api/status` 最終更新日時、件数、取得エラー
+- `/health` 稼働確認
 
-利用可能なパラメータ：`area`, `region`, `budget_min`, `budget_max`, `status`, `q`
+## 注意
 
-## 公開方法
-
-### GitHub Pages
-
-リポジトリへ配置し、GitHub Actionsを有効にすると `data/projects.json` が日次更新されます。静的ページとして公開できます。
-
-### Render / Railway / Cloud Run
-
-起動コマンドを以下にします。
-
-```bash
-uvicorn app.main:app --host 0.0.0.0 --port $PORT
-```
-
-この場合はSQLite/API経由で表示されます。
-
-## 重要な運用上の注意
-
-- 自治体ごとにHTML構造が異なるため、初期の汎用抽出で拾えないサイトは個別アダプターを追加します。
-- PDF内だけにある予算・プレゼン日は、追加のPDF解析ルールまたは確認画面で補完する想定です。
-- robots.txt、利用規約、アクセス頻度を確認し、低頻度巡回を守ってください。
-- 抽出結果には誤りがあり得るため、応募前には必ず「自治体ページを見る」から原文を確認してください。
+自治体サイトは形式が統一されていないため、抽出漏れや日付・予算の未確認が発生します。応募前に必ず「自治体ページを見る」から原文を確認してください。

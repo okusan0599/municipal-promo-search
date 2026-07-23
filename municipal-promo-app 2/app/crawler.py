@@ -1,105 +1,249 @@
 from __future__ import annotations
-import hashlib, json, re, sqlite3, sys
-from datetime import date, datetime, timedelta
+
+import hashlib
+import json
+import re
+from datetime import date, datetime
 from pathlib import Path
+from typing import Any
 from urllib.parse import urljoin, urlparse
+
 import requests
 from bs4 import BeautifulSoup
-from dateutil import parser as dtparser
 
-ROOT=Path(__file__).resolve().parents[1]
-DB=ROOT/'data'/'projects.db'; OUT=ROOT/'data'/'projects.json'; SOURCES=ROOT/'sources.json'
-UA='MunicipalPromoCrawler/1.0 (+public procurement research; low frequency)'
-KEYWORDS=['プロモーション','広報','広告','観光','誘客','SNS','動画','映像','Web','ウェブ','サイト制作','イベント','ブランディング','情報発信','クリエイティブ','キャンペーン','PR','デザイン','ロゴ','コンテンツ','企画運営']
-PROC=['プロポーザル','企画提案','提案競技','企画コンペ','公募','委託']
-EXCLUDE=['審査結果','選定結果','契約結果','委託先を決定','質問と回答','質問への回答','募集終了','中止']
-THEMES={'観光PR':['観光','誘客','インバウンド'],'SNS運用':['SNS','Instagram','X（旧Twitter）','LINE'],'動画制作':['動画','映像','CM'],'イベント':['イベント','催事','フェスタ','大会'],'Web制作':['Web','ウェブ','ホームページ','サイト'],'広告':['広告','メディア','交通広告'],'ブランディング':['ブランド','ブランディング','ロゴ'],'移住促進':['移住','定住'],'文化発信':['文化','芸術','アート'],'広報':['広報','情報発信','PR']}
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = BASE_DIR / "data"
+DATA_FILE = DATA_DIR / "projects.json"
+STATUS_FILE = DATA_DIR / "status.json"
+SOURCES_FILE = BASE_DIR / "sources.json"
 
-def txt(node): return ' '.join(node.get_text(' ',strip=True).split())
-def iso_from(s):
-    pats=[r'(20\d{2})[年/.-]\s*(\d{1,2})[月/.-]\s*(\d{1,2})日?',r'令和\s*(\d{1,2})年\s*(\d{1,2})月\s*(\d{1,2})日']
-    for i,p in enumerate(pats):
-        m=re.search(p,s)
-        if m:
-            y=int(m.group(1))+(2018 if i else 0); mo=int(m.group(2)); d=int(m.group(3))
-            try:return date(y,mo,d).isoformat()
-            except:return None
+HEADERS = {
+    "User-Agent": "MunicipalPromotionSearch/1.0 (+public procurement index; low-frequency crawler)",
+    "Accept-Language": "ja,en;q=0.8",
+}
+TIMEOUT = 20
+
+CREATIVE_TERMS = [
+    "プロモーション", "広報", "広告", "観光", "誘客", "情報発信", "魅力発信", "PR", "ＰＲ",
+    "SNS", "ＳＮＳ", "動画", "映像", "Web", "WEB", "ウェブ", "ホームページ", "サイト制作",
+    "イベント", "キャンペーン", "ブランディング", "デザイン", "クリエイティブ", "メディア",
+    "移住", "交流人口", "関係人口", "シティプロモーション", "パンフレット", "冊子", "ロゴ",
+]
+PROCUREMENT_TERMS = ["プロポーザル", "企画提案", "提案競技", "公募", "委託", "入札"]
+SKIP_TERMS = ["選定結果", "審査結果", "落札結果", "契約結果", "募集終了", "受付終了", "中止"]
+
+THEME_RULES = {
+    "観光PR": ["観光", "誘客", "周遊", "旅行"],
+    "広報・広告": ["広報", "広告", "PR", "ＰＲ", "情報発信", "魅力発信"],
+    "SNS運用": ["SNS", "ＳＮＳ", "ソーシャル"],
+    "動画制作": ["動画", "映像", "YouTube", "ユーチューブ"],
+    "Web制作": ["Web", "WEB", "ウェブ", "ホームページ", "サイト制作"],
+    "イベント": ["イベント", "催事", "フェア", "キャンペーン"],
+    "ブランディング": ["ブランド", "ブランディング", "ロゴ", "デザイン"],
+    "移住・関係人口": ["移住", "交流人口", "関係人口"],
+    "メディア": ["メディア", "テレビ", "ラジオ", "新聞", "雑誌"],
+}
+
+ERA_BASE = {"令和": 2018, "平成": 1988}
+
+
+def fetch(url: str) -> str:
+    response = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+    response.raise_for_status()
+    response.encoding = response.apparent_encoding or response.encoding
+    return response.text
+
+
+def compact(text: str) -> str:
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def iso_date(year: int, month: int, day: int) -> str | None:
+    try:
+        return date(year, month, day).isoformat()
+    except ValueError:
+        return None
+
+
+def parse_japanese_date(text: str) -> str | None:
+    text = text.replace("元年", "1年")
+    patterns = [
+        r"(?P<era>令和|平成)\s*(?P<ey>\d{1,2})\s*年\s*(?P<m>\d{1,2})\s*月\s*(?P<d>\d{1,2})\s*日",
+        r"(?P<y>20\d{2})\s*[年/.-]\s*(?P<m>\d{1,2})\s*[月/.-]\s*(?P<d>\d{1,2})\s*日?",
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, text)
+        if not match:
+            continue
+        groups = match.groupdict()
+        year = int(groups["y"]) if groups.get("y") else ERA_BASE[groups["era"]] + int(groups["ey"])
+        return iso_date(year, int(groups["m"]), int(groups["d"]))
     return None
 
-def deadline_from(text, base_year):
-    candidates=[]
-    for m in re.finditer(r'(?:提出|提案書|参加申込|申請|応募|締切|期限)[^。\n]{0,35}?(20\d{2})年\s*(\d{1,2})月\s*(\d{1,2})日',text):
-        try:candidates.append(date(int(m.group(1)),int(m.group(2)),int(m.group(3))))
-        except:pass
-    for m in re.finditer(r'(?:提出|提案書|参加申込|申請|応募|締切|期限)[^。\n]{0,25}?(\d{1,2})月\s*(\d{1,2})日',text):
-        try:candidates.append(date(base_year,int(m.group(1)),int(m.group(2))))
-        except:pass
-    return max(candidates).isoformat() if candidates else None
 
-def budget_from(text):
-    pats=[(r'(?:上限|限度|予算|委託料|契約金額)[^\n。]{0,30}?([\d,]+(?:\.\d+)?)\s*万円',10000),(r'(?:上限|限度|予算|委託料|契約金額)[^\n。]{0,30}?([\d,]+)\s*千円',1000),(r'(?:上限|限度|予算|委託料|契約金額)[^\n。]{0,30}?([\d,]+)\s*円',1)]
-    for p,mul in pats:
-        m=re.search(p,text)
-        if m:
-            return round(float(m.group(1).replace(',',''))*mul/10000)
+def date_near(text: str, labels: list[str]) -> str | None:
+    for label in labels:
+        for match in re.finditer(label, text, flags=re.I):
+            window = text[match.start(): match.start() + 180]
+            parsed = parse_japanese_date(window)
+            if parsed:
+                return parsed
     return None
 
-def classify(text):
-    found=[k for k,ws in THEMES.items() if any(w.lower() in text.lower() for w in ws)]
-    return found[:4] or ['その他クリエイティブ']
 
-def fetch(url):
-    r=requests.get(url,headers={'User-Agent':UA},timeout=30); r.raise_for_status(); r.encoding=r.apparent_encoding or r.encoding
-    return r.text
+def extract_notice_date(soup: BeautifulSoup, text: str) -> str | None:
+    for selector in ["time", "[datetime]", ".update", ".date", ".published", ".last-modified"]:
+        for node in soup.select(selector):
+            raw = node.get("datetime") or node.get_text(" ", strip=True)
+            parsed = parse_japanese_date(raw)
+            if parsed:
+                return parsed
+    return date_near(text, ["更新日", "掲載日", "公告日", "公示日", "公開日"])
 
-def ensure_db():
-    DB.parent.mkdir(exist_ok=True)
-    con=sqlite3.connect(DB)
-    con.execute('''CREATE TABLE IF NOT EXISTS projects(id TEXT PRIMARY KEY, area TEXT, region TEXT, municipality TEXT, notice_date TEXT, deadline TEXT, presentation_date TEXT, budget INTEGER, themes TEXT, title TEXT, summary TEXT, status TEXT, source_url TEXT, source_name TEXT, last_checked TEXT, confidence REAL)''')
-    return con
 
-def crawl_source(src):
-    html=fetch(src['url']); soup=BeautifulSoup(html,'html.parser'); found=[]
-    for a in soup.find_all('a',href=True):
-        title=txt(a)
-        if len(title)<8 or not any(k.lower() in title.lower() for k in PROC) or not any(k.lower() in title.lower() for k in KEYWORDS): continue
-        if any(x in title for x in EXCLUDE): continue
-        url=urljoin(src['url'],a['href'])
-        if urlparse(url).netloc!=urlparse(src['url']).netloc: continue
-        context=txt(a.parent)[:500]
-        notice=iso_from(context) or iso_from(title)
-        detail=''
-        try: detail=txt(BeautifulSoup(fetch(url),'html.parser'))[:120000]
-        except Exception: detail=context
-        combined=title+' '+detail
-        base_year=int((notice or date.today().isoformat())[:4])
-        deadline=deadline_from(combined,base_year)
-        budget=budget_from(combined)
-        status='open'
-        if any(x in combined[:5000] for x in ['募集終了','受付終了','公募終了','中止']): status='closed'
-        elif deadline:
-            dd=date.fromisoformat(deadline)
-            if dd<date.today(): status='closed'
-            elif dd<=date.today()+timedelta(days=7): status='soon'
-        pid=hashlib.sha256(url.encode()).hexdigest()[:20]
-        summary=re.sub(r'\s+',' ',detail)[:240] if detail else title
-        found.append({'id':pid,'area':src['area'],'region':src['region'],'municipality':src['municipality'],'noticeDate':notice,'deadline':deadline,'presentationDate':None,'budget':budget,'theme':classify(combined),'title':title,'summary':summary,'status':status,'sourceUrl':url,'sourceName':src['name'],'lastChecked':datetime.now().astimezone().isoformat(timespec='minutes'),'confidence':0.72 if deadline else 0.55})
+def extract_deadline(text: str) -> str | None:
+    return date_near(text, [
+        "企画提案書.*?提出期限", "提案書.*?提出期限", "応募書類.*?提出期限", "提出期限",
+        "受領期限", "受付期限", "参加表明書.*?期限", "参加申込.*?期限", "応募期限",
+    ])
+
+
+def extract_presentation(text: str) -> str | None:
+    return date_near(text, ["プレゼンテーション", "プレゼン", "ヒアリング", "審査会", "提案審査"])
+
+
+def extract_budget_man_yen(text: str) -> float | None:
+    labels = ["予算限度額", "委託上限額", "契約上限額", "委託金額", "提案上限額", "予定価格", "限度額"]
+    for label in labels:
+        match = re.search(label + r".{0,80}", text, flags=re.I)
+        if not match:
+            continue
+        window = match.group(0).replace(",", "")
+        amount = re.search(r"([0-9]+(?:\.[0-9]+)?)\s*(億円|万円|千円|円)", window)
+        if not amount:
+            continue
+        value = float(amount.group(1))
+        unit = amount.group(2)
+        multiplier = {"億円": 10000, "万円": 1, "千円": 0.1, "円": 0.0001}[unit]
+        return round(value * multiplier, 1)
+    return None
+
+
+def extract_themes(text: str) -> list[str]:
+    themes = [theme for theme, words in THEME_RULES.items() if any(word.lower() in text.lower() for word in words)]
+    return themes or ["その他クリエイティブ"]
+
+
+def candidate_title(title: str) -> bool:
+    lowered = title.lower()
+    return any(term.lower() in lowered for term in CREATIVE_TERMS) and any(term.lower() in lowered for term in PROCUREMENT_TERMS)
+
+
+def same_official_domain(source_url: str, target_url: str) -> bool:
+    src = urlparse(source_url).netloc.split(":")[0]
+    dst = urlparse(target_url).netloc.split(":")[0]
+    return dst == src or dst.endswith("." + src) or src.endswith("." + dst)
+
+
+def collect_candidate_links(source: dict[str, Any]) -> list[tuple[str, str]]:
+    html = fetch(source["url"])
+    soup = BeautifulSoup(html, "html.parser")
+    found: list[tuple[str, str]] = []
+    seen: set[str] = set()
+    for anchor in soup.find_all("a", href=True):
+        title = compact(anchor.get_text(" ", strip=True))
+        if not title or not candidate_title(title):
+            continue
+        url = urljoin(source["url"], anchor["href"])
+        if not url.startswith("http") or not same_official_domain(source["url"], url) or url in seen:
+            continue
+        if url.lower().endswith((".pdf", ".doc", ".docx", ".xls", ".xlsx", ".zip")):
+            continue
+        seen.add(url)
+        found.append((title, url))
+        if len(found) >= 80:
+            break
     return found
 
-def main():
-    sources=json.loads(SOURCES.read_text())
-    allp=[]; errors=[]
-    for s in sources:
-        try: allp.extend(crawl_source(s))
-        except Exception as e: errors.append({'source':s['name'],'error':str(e)})
-    con=ensure_db()
-    for p in allp:
-        con.execute('''INSERT INTO projects VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?) ON CONFLICT(id) DO UPDATE SET area=excluded.area,region=excluded.region,municipality=excluded.municipality,notice_date=excluded.notice_date,deadline=excluded.deadline,presentation_date=excluded.presentation_date,budget=excluded.budget,themes=excluded.themes,title=excluded.title,summary=excluded.summary,status=excluded.status,source_url=excluded.source_url,source_name=excluded.source_name,last_checked=excluded.last_checked,confidence=excluded.confidence''',(p['id'],p['area'],p['region'],p['municipality'],p['noticeDate'],p['deadline'],p['presentationDate'],p['budget'],json.dumps(p['theme'],ensure_ascii=False),p['title'],p['summary'],p['status'],p['sourceUrl'],p['sourceName'],p['lastChecked'],p['confidence']))
-    con.commit()
-    rows=con.execute('SELECT * FROM projects ORDER BY COALESCE(deadline,"9999-12-31"), COALESCE(notice_date,"0000-00-00") DESC').fetchall(); cols=[d[0] for d in con.execute('SELECT * FROM projects LIMIT 0').description]
-    out=[]
-    for r in rows:
-        x=dict(zip(cols,r)); out.append({'id':x['id'],'area':x['area'],'region':x['region'],'municipality':x['municipality'],'noticeDate':x['notice_date'],'deadline':x['deadline'],'presentationDate':x['presentation_date'],'budget':x['budget'],'theme':json.loads(x['themes']),'title':x['title'],'summary':x['summary'],'status':x['status'],'sourceUrl':x['source_url'],'sourceName':x['source_name'],'lastChecked':x['last_checked'],'confidence':x['confidence']})
-    OUT.write_text(json.dumps({'generatedAt':datetime.now().astimezone().isoformat(timespec='minutes'),'projects':out,'errors':errors},ensure_ascii=False,indent=2))
-    print(json.dumps({'projects':len(out),'new_or_updated':len(allp),'errors':errors},ensure_ascii=False))
-if __name__=='__main__': main()
+
+def parse_project(source: dict[str, Any], hinted_title: str, url: str) -> dict[str, Any] | None:
+    html = fetch(url)
+    soup = BeautifulSoup(html, "html.parser")
+    for tag in soup(["script", "style", "noscript", "nav", "footer"]):
+        tag.decompose()
+    title_node = soup.find("h1") or soup.find("title")
+    title = compact(title_node.get_text(" ", strip=True)) if title_node else hinted_title
+    text = compact(soup.get_text(" ", strip=True))
+    if not any(term.lower() in (title + " " + text[:2000]).lower() for term in CREATIVE_TERMS):
+        return None
+
+    deadline = extract_deadline(text)
+    notice_date = extract_notice_date(soup, text)
+    presentation = extract_presentation(text)
+    budget = extract_budget_man_yen(text)
+    today = date.today().isoformat()
+    closed_hint = any(term in (title + text[:1000]) for term in SKIP_TERMS)
+    if deadline and deadline < today:
+        status = "closed"
+    elif deadline and (date.fromisoformat(deadline) - date.today()).days <= 7:
+        status = "soon"
+    elif closed_hint:
+        status = "closed"
+    else:
+        status = "open"
+
+    summary = text[:340]
+    project_id = hashlib.sha1(url.encode("utf-8")).hexdigest()[:16]
+    return {
+        "id": project_id,
+        "area": source["area"],
+        "region": source["region"],
+        "municipality": source.get("municipality", source["region"]),
+        "noticeDate": notice_date,
+        "deadline": deadline,
+        "presentationDate": presentation,
+        "budget": budget,
+        "theme": extract_themes(title + " " + text[:4000]),
+        "title": title,
+        "summary": summary,
+        "status": status,
+        "sourceUrl": url,
+        "sourceName": source["source_name"],
+        "lastChecked": datetime.now().astimezone().isoformat(timespec="seconds"),
+    }
+
+
+def crawl_all() -> dict[str, Any]:
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    sources = json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
+    projects: list[dict[str, Any]] = []
+    errors: list[dict[str, str]] = []
+    for source in sources:
+        try:
+            links = collect_candidate_links(source)
+        except Exception as exc:
+            errors.append({"source": source["region"], "error": str(exc)})
+            continue
+        for hinted_title, url in links:
+            try:
+                project = parse_project(source, hinted_title, url)
+                if project:
+                    projects.append(project)
+            except Exception as exc:
+                errors.append({"source": source["region"], "url": url, "error": str(exc)})
+
+    deduped = {project["sourceUrl"]: project for project in projects}
+    results = sorted(deduped.values(), key=lambda item: (item.get("deadline") or "9999-12-31", item.get("noticeDate") or "0000-00-00"))
+    DATA_FILE.write_text(json.dumps(results, ensure_ascii=False, indent=2), encoding="utf-8")
+    status = {
+        "updated_at": datetime.now().astimezone().isoformat(timespec="seconds"),
+        "count": len(results),
+        "sources": [source["region"] for source in sources],
+        "errors": errors[-30:],
+    }
+    STATUS_FILE.write_text(json.dumps(status, ensure_ascii=False, indent=2), encoding="utf-8")
+    return status
+
+
+if __name__ == "__main__":
+    print(json.dumps(crawl_all(), ensure_ascii=False, indent=2))
