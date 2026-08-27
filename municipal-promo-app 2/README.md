@@ -1,18 +1,22 @@
-# 自治体プロモーション公示検索 v3
+# 自治体プロモーション公示検索 v4 Stable
 
-中小企業庁「官公需情報ポータルサイト検索API」を主データ源にしたライブ検索版です。
+官公需情報ポータルサイト検索APIを使い、全国の広報・観光・SNS・動画・Web・イベント・ブランディング等の役務案件を横断検索するFastAPIアプリです。
 
-## 何が変わったか
+## v4で変えた点
 
-- 自治体トップページを順番に巡回する方式を主系統から外し、官公需情報ポータルの公式APIから全国横断で同期します。
-- API結果の `ExternalDocumentURI` を原公示リンクとして使用します。
-- 公告本文 (`ProjectDescription`) から提案期限・プレゼン日・予算を可能な範囲で抽出します。
-- 地域ブロック、47都道府県、市区町村・発注機関、テーマ、予算、公示日、期限で絞り込めます。
-- APIキャッシュは既定30分。Render再起動時にも初回同期をバックグラウンドで行います。
+Render Freeで503と再起動が繰り返される問題を避けるため、Webサーバー起動時の自動同期・常駐スケジューラーを廃止しました。
 
-## Render
+- 起動時に外部APIへアクセスしない
+- 1回の同期はKKJ API 1リクエストだけ
+- 取得上限は初期値120件（最大250件）
+- `/health` はGET/HEADとも200
+- 初回表示時、キャッシュが空/古い場合だけ同期
+- 6時間ごとのGitHub Actions更新にも対応
+- JSON書き込みは原子的に更新
 
-Root Directory: 現在このファイル群を置いているフォルダ（例 `municipal-promo-app 2`）
+## Render設定
+
+Root Directoryは既存の配置に合わせてください（例: `municipal-promo-app 2`）。
 
 Build Command:
 
@@ -26,28 +30,60 @@ Start Command:
 uvicorn app.main:app --host 0.0.0.0 --port $PORT
 ```
 
-Environment:
+Environment Variables:
 
 ```text
 PYTHON_VERSION=3.12.10
-AUTO_REFRESH=true
-KKJ_CACHE_MINUTES=30
+KKJ_COUNT_PER_QUERY=120
 KKJ_LOOKBACK_DAYS=180
-KKJ_COUNT_PER_QUERY=500
+KKJ_CACHE_MINUTES=30
 KKJ_TIMEOUT=25
+REFRESH_TOKEN=<任意の長いランダム文字列>
 ```
 
-`REFRESH_TOKEN` は任意です。設定した場合、`POST /api/refresh` は `X-Refresh-Token` ヘッダーが必要です。
+`AUTO_REFRESH` は不要です。残っていてもv4では起動時同期に使いません。
+
+Renderの Settings > Health Checks を使う場合は、Health Check Pathを次にします。
+
+```text
+/health
+```
 
 ## URL
 
-- 検索画面 `/`
-- 案件JSON `/api/projects`
-- 同期状態 `/api/status`
-- ヘルスチェック `/health`
+検索画面:
 
-## データ出典
+```text
+https://municipal-promo-search.onrender.com/
+```
 
-本アプリは中小企業庁「官公需情報ポータルサイト検索API」を利用します。官公需情報ポータルの規約に従い、画面内に同APIの利用とポータルへのリンクを明記しています。
+案件JSON:
 
-官公需情報ポータル自体も全ての発注情報の提供を保証していません。応募判断前に必ず原公示を確認してください。
+```text
+https://municipal-promo-search.onrender.com/api/projects
+```
+
+状態:
+
+```text
+https://municipal-promo-search.onrender.com/api/status
+```
+
+稼働確認:
+
+```text
+https://municipal-promo-search.onrender.com/health
+```
+
+## GitHub Actionsによる更新
+
+`.github/workflows/keep-fresh.yml` を利用する場合、Repository secretsに以下を設定します。
+
+- `RENDER_APP_URL` = `https://municipal-promo-search.onrender.com`
+- `REFRESH_TOKEN` = Renderと同じ値
+
+6時間ごとにアプリを起こして、1回の軽量同期を行います。
+
+## 注意
+
+官公需情報ポータルは発注機関の全公告を保証するものではありません。表示された案件も、期限・予算・参加条件は必ず「原公示を見る」から自治体等の原文を確認してください。

@@ -20,7 +20,7 @@ STATUS_FILE = DATA_DIR / "status.json"
 KKJ_API_URL = os.getenv("KKJ_API_URL", "https://www.kkj.go.jp/api/")
 KKJ_LOOKBACK_DAYS = int(os.getenv("KKJ_LOOKBACK_DAYS", "180"))
 KKJ_CACHE_MINUTES = int(os.getenv("KKJ_CACHE_MINUTES", "30"))
-KKJ_COUNT_PER_QUERY = min(1000, max(20, int(os.getenv("KKJ_COUNT_PER_QUERY", "500"))))
+KKJ_COUNT_PER_QUERY = min(250, max(20, int(os.getenv("KKJ_COUNT_PER_QUERY", "120"))))
 KKJ_TIMEOUT = int(os.getenv("KKJ_TIMEOUT", "25"))
 KKJ_REQUEST_INTERVAL = float(os.getenv("KKJ_REQUEST_INTERVAL", "1.0"))
 
@@ -30,14 +30,18 @@ HEADERS = {
     "Accept-Language": "ja,en;q=0.5",
 }
 
-# Split into several moderate requests instead of one giant query. This avoids the API's
-# 1,000-result cap while keeping the request load low.
-QUERY_GROUPS = [
-    "プロモーション OR シティプロモーション OR 広報 OR 広告 OR ブランディング OR マーケティング",
-    "観光 OR 誘客 OR 移住 OR 関係人口 OR 交流人口 OR 魅力発信",
-    "SNS OR 動画 OR 映像 OR Web OR ウェブ OR ホームページ OR メディア",
-    "イベント OR キャンペーン OR デザイン OR クリエイティブ OR パンフレット OR ポスター OR ロゴ",
-]
+# Keep each live sync bounded to one upstream request. This is deliberately
+# conservative for Render Free (512 MB): the KKJ API returns full notice text in XML,
+# so requesting hundreds of records across multiple query groups can create large
+# transient memory spikes.
+COMBINED_QUERY = (
+    "プロモーション OR シティプロモーション OR 広報 OR 広告 OR ブランディング OR "
+    "観光 OR 誘客 OR 移住 OR 関係人口 OR 魅力発信 OR SNS OR 動画 OR 映像 OR Web OR "
+    "ホームページ OR イベント OR キャンペーン OR デザイン OR クリエイティブ OR "
+    "パンフレット OR ポスター OR ロゴ"
+)
+QUERY_GROUPS = [COMBINED_QUERY]
+
 
 AREA_BY_PREF = {
     "北海道": "北海道",
@@ -74,7 +78,9 @@ SESSION.headers.update(HEADERS)
 
 def _write_json(path: Path, value: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(value, ensure_ascii=False, indent=2), encoding="utf-8")
+    temp = path.with_suffix(path.suffix + ".tmp")
+    temp.write_text(json.dumps(value, ensure_ascii=False, indent=2), encoding="utf-8")
+    temp.replace(path)
 
 
 def _read_json(path: Path, fallback: Any) -> Any:
