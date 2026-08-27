@@ -1,37 +1,53 @@
-# 自治体プロモーション案件検索 第一段階・最大構成
+# 自治体プロモーション公示検索 v3
 
-## 対象
-- 47都道府県
-- 20政令指定都市
-- 東京23区
-- 合計 90 公式サイト
+中小企業庁「官公需情報ポータルサイト検索API」を主データ源にしたライブ検索版です。
 
-J-LISへ実行時アクセスせず、`sources.json` の固定公式URLを使います。各公式トップページから、入札・契約・調達・公募・プロポーザル等のハブページを探索し、クリエイティブ関連案件を抽出します。
+## 何が変わったか
 
-## Render環境変数
-- `PYTHON_VERSION=3.12.10`
-- `AUTO_REFRESH=true`
-- `CRAWL_BATCH_SIZE=20`（無料版推奨。増やす場合は30程度まで）
-- `REFRESH_INTERVAL_HOURS=6`
-- `REFRESH_TOKEN=` 任意の長いランダム文字列
+- 自治体トップページを順番に巡回する方式を主系統から外し、官公需情報ポータルの公式APIから全国横断で同期します。
+- API結果の `ExternalDocumentURI` を原公示リンクとして使用します。
+- 公告本文 (`ProjectDescription`) から提案期限・プレゼン日・予算を可能な範囲で抽出します。
+- 地域ブロック、47都道府県、市区町村・発注機関、テーマ、予算、公示日、期限で絞り込めます。
+- APIキャッシュは既定30分。Render再起動時にも初回同期をバックグラウンドで行います。
 
-## Render設定
-- Build: `pip install -r requirements.txt`
-- Start: `uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+## Render
 
-## 確認URL
-- `/api/status` 巡回状況
-- `/api/projects` 案件JSON
-- `/api/sources` 対象公式サイト一覧
+Root Directory: 現在このファイル群を置いているフォルダ（例 `municipal-promo-app 2`）
 
-## GitHub Actions（推奨）
-`.github/workflows/crawl.yml` を同梱。リポジトリ Settings > Secrets and variables > Actions に以下を登録します。
-- `RENDER_APP_URL` = `https://municipal-promo-search.onrender.com`
-- `REFRESH_TOKEN` = Renderと同じ値
+Build Command:
 
-6時間ごとにRenderを起こし、次の20自治体を巡回します。約5回で90ソースを一巡します。
+```bash
+pip install -r requirements.txt
+```
 
-## 注意
-- 自治体サイトの構造差により漏れはあります。応募判断は必ず原文で確認してください。
-- Render無料版のローカルJSONは再デプロイで消える場合があります。本番運用ではPostgreSQLへ移行してください。
-- 公式サイトへの負荷を避けるため低頻度・逐次アクセスです。
+Start Command:
+
+```bash
+uvicorn app.main:app --host 0.0.0.0 --port $PORT
+```
+
+Environment:
+
+```text
+PYTHON_VERSION=3.12.10
+AUTO_REFRESH=true
+KKJ_CACHE_MINUTES=30
+KKJ_LOOKBACK_DAYS=180
+KKJ_COUNT_PER_QUERY=500
+KKJ_TIMEOUT=25
+```
+
+`REFRESH_TOKEN` は任意です。設定した場合、`POST /api/refresh` は `X-Refresh-Token` ヘッダーが必要です。
+
+## URL
+
+- 検索画面 `/`
+- 案件JSON `/api/projects`
+- 同期状態 `/api/status`
+- ヘルスチェック `/health`
+
+## データ出典
+
+本アプリは中小企業庁「官公需情報ポータルサイト検索API」を利用します。官公需情報ポータルの規約に従い、画面内に同APIの利用とポータルへのリンクを明記しています。
+
+官公需情報ポータル自体も全ての発注情報の提供を保証していません。応募判断前に必ず原公示を確認してください。
