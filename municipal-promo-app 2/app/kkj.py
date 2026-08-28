@@ -12,10 +12,13 @@ from typing import Any
 
 import requests
 
+from .classifier import classify_project, clean_project_description
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"
 CACHE_FILE = DATA_DIR / "projects.json"
 STATUS_FILE = DATA_DIR / "status.json"
+CLASSIFICATION_VERSION = 2
 
 KKJ_API_URL = os.getenv("KKJ_API_URL", "https://www.kkj.go.jp/api/")
 KKJ_LOOKBACK_DAYS = int(os.getenv("KKJ_LOOKBACK_DAYS", "180"))
@@ -38,7 +41,10 @@ COMBINED_QUERY = (
     "プロモーション OR シティプロモーション OR 広報 OR 広告 OR ブランディング OR "
     "観光 OR 誘客 OR 移住 OR 関係人口 OR 魅力発信 OR SNS OR 動画 OR 映像 OR Web OR "
     "ホームページ OR イベント OR キャンペーン OR デザイン OR クリエイティブ OR "
-    "パンフレット OR ポスター OR ロゴ"
+    "パンフレット OR ポスター OR ロゴ OR コンサルティング OR 戦略策定 OR 基本構想 OR "
+    "事業戦略 OR マーケティング OR 市場調査 OR アンケート OR 調査分析 OR AI OR 生成AI OR "
+    "人工知能 OR データ分析 OR データ活用 OR DX OR デジタル活用 OR コミュニケーション OR "
+    "広報戦略 OR パブリシティ"
 )
 QUERY_GROUPS = [COMBINED_QUERY]
 
@@ -58,17 +64,32 @@ AREA_BY_PREF = {
     "沖縄県": "沖縄",
 }
 
-THEME_RULES = {
+THEME_TITLE_RULES = {
     "観光PR": ["観光", "誘客", "周遊", "旅行", "インバウンド"],
     "広報・広告": ["広報", "広告", "PR", "ＰＲ", "情報発信", "魅力発信", "プロモーション"],
-    "SNS運用": ["SNS", "ＳＮＳ", "ソーシャル", "Instagram", "X（", "TikTok"],
+    "SNS運用": ["SNS", "ＳＮＳ", "ソーシャル", "Instagram", "TikTok"],
     "動画制作": ["動画", "映像", "YouTube", "ユーチューブ"],
-    "Web制作": ["Web", "WEB", "ウェブ", "ホームページ", "サイト制作", "ウェブサイト"],
-    "イベント": ["イベント", "催事", "フェア", "キャンペーン", "展示"],
-    "ブランディング": ["ブランド", "ブランディング", "ロゴ", "デザイン"],
+    "Web制作": ["Webサイト", "WEBサイト", "ウェブサイト", "ホームページ制作", "サイト制作", "サイト構築", "リニューアル"],
+    "イベント": ["イベント", "催事", "フェア", "展示会", "キャンペーン"],
+    "ブランディング": ["ブランド", "ブランディング", "ロゴ", "VI", "CI"],
     "移住・関係人口": ["移住", "交流人口", "関係人口", "定住"],
     "メディア": ["メディア", "テレビ", "ラジオ", "新聞", "雑誌"],
     "制作物": ["パンフレット", "冊子", "ポスター", "リーフレット", "クリエイティブ"],
+}
+
+# Description evidence is stricter so a municipality website's menu/footer does
+# not create a false theme tag.
+THEME_BODY_RULES = {
+    "観光PR": ["観光誘客", "観光プロモーション", "インバウンド", "周遊促進", "旅行需要"],
+    "広報・広告": ["広報戦略", "広告制作", "広告運用", "情報発信", "魅力発信", "プロモーション"],
+    "SNS運用": ["SNS運用", "ソーシャルメディア運用", "Instagram運用", "TikTok運用"],
+    "動画制作": ["動画制作", "映像制作", "YouTube動画", "撮影・編集"],
+    "Web制作": ["Webサイト制作", "ウェブサイト制作", "ホームページ制作", "サイト構築", "サイト制作", "サイトリニューアル", "CMS構築"],
+    "イベント": ["イベント企画", "イベント運営", "展示会運営", "催事運営"],
+    "ブランディング": ["ブランド戦略", "地域ブランディング", "ロゴ制作", "VI策定", "CI策定"],
+    "移住・関係人口": ["移住促進", "関係人口創出", "交流人口拡大"],
+    "メディア": ["メディア露出", "テレビ放映", "ラジオ放送", "新聞広告", "雑誌広告"],
+    "制作物": ["パンフレット制作", "冊子制作", "ポスター制作", "リーフレット制作", "クリエイティブ制作"],
 }
 
 ERA_BASE = {"令和": 2018, "平成": 1988}
@@ -179,9 +200,15 @@ def _extract_budget(text: str) -> float | None:
     return None
 
 
-def _themes(text: str) -> list[str]:
-    low = text.lower()
-    found = [name for name, words in THEME_RULES.items() if any(word.lower() in low for word in words)]
+def _themes(title: str, description: str = "") -> list[str]:
+    title_low = (title or "").lower()
+    body_low = clean_project_description(description).lower()
+    found: list[str] = []
+    for name, words in THEME_TITLE_RULES.items():
+        title_match = any(word.lower() in title_low for word in words)
+        body_match = any(word.lower() in body_low for word in THEME_BODY_RULES.get(name, []))
+        if title_match or body_match:
+            found.append(name)
     return found or ["その他クリエイティブ"]
 
 
@@ -255,7 +282,9 @@ def _parse_xml(xml_text: str) -> tuple[int, list[dict[str, Any]]]:
         deadline = _extract_deadline(description)
         presentation = _extract_presentation(description)
         corpus = f"{title} {description}"
+        clean_description = clean_project_description(description)
         budget = _extract_budget(corpus)
+        dentsu_fit = classify_project(title, description)
         municipality = city or pref or org
         unique_seed = key or source_url or f"{org}|{title}|{notice_date}"
         project_id = hashlib.sha1(unique_seed.encode("utf-8", errors="ignore")).hexdigest()[:18]
@@ -272,9 +301,15 @@ def _parse_xml(xml_text: str) -> tuple[int, list[dict[str, Any]]]:
             "openingDate": opening_date,
             "deliveryDate": delivery_date,
             "budget": budget,
-            "theme": _themes(corpus),
+            "theme": _themes(title, description),
+            "classificationVersion": CLASSIFICATION_VERSION,
+            "dentsuFitScore": dentsu_fit["score"],
+            "dentsuFitLevel": dentsu_fit["level"],
+            "dentsuCategories": dentsu_fit["categories"],
+            "dentsuCategoryLabels": dentsu_fit["category_labels"],
+            "dentsuSignals": dentsu_fit["signals"],
             "title": title,
-            "summary": _compact(description)[:420],
+            "summary": _compact(clean_description)[:420],
             "status": _status(deadline, opening_date),
             "sourceUrl": source_url,
             "sourceName": org or "官公需情報ポータル",
@@ -338,6 +373,15 @@ def refresh_projects(force: bool = False) -> dict[str, Any]:
             hits, rows = _fetch_group(query, issue_from)
             total_hits += hits
             for project in rows:
+                # Rows returned by the current fetch pipeline are already classified.
+                # Mark them current before caching; this also keeps test/future fetch
+                # adapters that provide full classification fields from being
+                # needlessly reclassified on the same request.
+                if "classificationVersion" not in project and {
+                    "dentsuFitScore", "dentsuFitLevel", "dentsuCategories",
+                    "dentsuCategoryLabels", "dentsuSignals", "theme",
+                }.issubset(project):
+                    project["classificationVersion"] = CLASSIFICATION_VERSION
                 key = project.get("sourceUrl") or project.get("id")
                 if key:
                     merged[key] = project
@@ -389,10 +433,45 @@ def cache_is_fresh() -> bool:
         return False
 
 
+def _ensure_dentsu_fields(project: dict[str, Any]) -> tuple[dict[str, Any], bool]:
+    required = {
+        "dentsuFitScore", "dentsuFitLevel", "dentsuCategories",
+        "dentsuCategoryLabels", "dentsuSignals", "theme",
+    }
+    version = int(project.get("classificationVersion") or 0)
+    if version >= CLASSIFICATION_VERSION and required.issubset(project):
+        return project, False
+
+    title = str(project.get("title") or "")
+    summary = str(project.get("summary") or "")
+    fit = classify_project(title, summary)
+    enriched = dict(project)
+    enriched["dentsuFitScore"] = fit["score"]
+    enriched["dentsuFitLevel"] = fit["level"]
+    enriched["dentsuCategories"] = fit["categories"]
+    enriched["dentsuCategoryLabels"] = fit["category_labels"]
+    enriched["dentsuSignals"] = fit["signals"]
+    enriched["theme"] = _themes(title, summary)
+    enriched["classificationVersion"] = CLASSIFICATION_VERSION
+    enriched["summary"] = _compact(clean_project_description(summary))[:420]
+    return enriched, True
+
+
 def get_projects(refresh_if_stale: bool = True) -> list[dict[str, Any]]:
     if refresh_if_stale and not cache_is_fresh():
         refresh_projects(force=True)
-    return _read_json(CACHE_FILE, [])
+    rows = _read_json(CACHE_FILE, [])
+    enriched_rows: list[dict[str, Any]] = []
+    changed = False
+    for row in rows if isinstance(rows, list) else []:
+        if not isinstance(row, dict):
+            continue
+        enriched, was_changed = _ensure_dentsu_fields(row)
+        enriched_rows.append(enriched)
+        changed = changed or was_changed
+    if changed:
+        _write_json(CACHE_FILE, enriched_rows)
+    return enriched_rows
 
 
 def get_status() -> dict[str, Any]:

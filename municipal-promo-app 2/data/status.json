@@ -1,16 +1,9 @@
 {
-  "state": "running",
-  "started_at": "2026-08-27T02:47:26+00:00",
-  "updated_at": "2026-08-27T02:47:26+00:00",
-  "source": "官公需情報ポータルサイト検索API",
-  "query_groups_total": 4,
-  "query_groups_completed": 1,
+  "state": "not_started",
+  "updated_at": null,
   "count": 0,
-  "errors": [
-    {
-      "query": "プロモーション OR シティプロモーション OR 広報 OR 広告 OR ブランディング OR マーケティング",
-      "error": "HTTPSConnectionPool(host='www.kkj.go.jp', port=443): Max retries exceeded with url: /api/?Query=%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+OR+%E3%82%B7%E3%83%86%E3%82%A3%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+OR+%E5%BA%83%E5%A0%B1+OR+%E5%BA%83%E5%91%8A+OR+%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0+OR+%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0&Category=3&Count=500&CFT_Issue_Date=2026-02-28%2F (Caused by NameRes"
-    }
-  ],
-  "current_query": "プロモーション OR シティプロモーション OR 広報 OR 広告 OR ブランディング OR マーケティング"
+  "source": "官公需情報ポータルサイト検索API",
+  "query_groups_total": 1,
+  "query_groups_completed": 0,
+  "errors": []
 }

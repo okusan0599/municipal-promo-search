@@ -16,7 +16,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 INDEX_FILE = BASE_DIR / "index.html"
 DATA_DIR = BASE_DIR / "data"
 
-app = FastAPI(title="自治体プロモーション公示検索", version="4.0")
+app = FastAPI(title="自治体プロモーション公示検索", version="5.0")
 _refresh_lock = threading.Lock()
 
 

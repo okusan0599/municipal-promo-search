@@ -62,6 +62,10 @@ def test_projects_endpoint_refreshes_with_one_request(monkeypatch, tmp_path):
             'area': '九州', 'region': '福岡県', 'municipality': '福岡市',
             'organization': '福岡市', 'title': '観光プロモーション業務',
             'summary': 'テスト', 'theme': ['観光PR'], 'budget': 1000,
+            'dentsuFitScore': 88, 'dentsuFitLevel': 'high',
+            'dentsuCategories': ['tourism_place_branding', 'pr_communications'],
+            'dentsuCategoryLabels': ['観光・地域ブランディング', '広報・PR・コミュニケーション'],
+            'dentsuSignals': ['観光', 'プロモーション'],
             'presentationDate': None, 'openingDate': None, 'lastChecked': '2026-08-27T12:00:00+09:00'
         }]
 
@@ -72,3 +76,5 @@ def test_projects_endpoint_refreshes_with_one_request(monkeypatch, tmp_path):
     body = response.json()
     assert isinstance(body, list)
     assert body[0]['title'] == '観光プロモーション業務'
+    assert body[0]['dentsuFitLevel'] == 'high'
+    assert body[0]['dentsuCategories'] == ['tourism_place_branding', 'pr_communications']
