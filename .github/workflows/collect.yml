@@ -3,7 +3,7 @@ name: Collect municipal procurement data
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 */6 * * *'
+    - cron: '17 * * * *'
 
 permissions:
   contents: write
@@ -39,8 +39,8 @@ jobs:
 
       - name: Collect a bounded national batch
         env:
-          DISCOVERY_BATCH_SIZE: '25'
-          DIRECT_CRAWL_BATCH_SIZE: '12'
+          DISCOVERY_BATCH_SIZE: '100'
+          DIRECT_CRAWL_BATCH_SIZE: '50'
           DIRECT_DETAIL_LIMIT: '8'
           DIRECT_HTTP_TIMEOUT: '12'
           DIRECT_HOST_INTERVAL: '0.4'
