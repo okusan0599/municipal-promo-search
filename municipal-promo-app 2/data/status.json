@@ -1,15 +1,15 @@
 {
   "state": "completed",
-  "started_at": "2026-09-01T09:02:12+00:00",
-  "updated_at": "2026-09-01T09:12:04+00:00",
+  "started_at": "2026-09-01T14:11:08+00:00",
+  "updated_at": "2026-09-01T14:23:04+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 110,
     "status": {
       "state": "completed",
-      "started_at": "2026-09-01T09:02:12+00:00",
-      "updated_at": "2026-09-01T09:02:18+00:00",
+      "started_at": "2026-09-01T14:11:08+00:00",
+      "updated_at": "2026-09-01T14:11:14+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
@@ -24,36 +24,36 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 99,
-    "failed": 1,
-    "sourcesAdded": 198
+    "succeeded": 97,
+    "failed": 3,
+    "sourcesAdded": 326
   },
   "direct": {
     "processed": 50,
     "succeeded": 50,
     "failed": 0,
-    "projects": 291,
+    "projects": 294,
     "unchanged": 0
   },
   "statusNormalized": 0,
   "coverage": {
     "municipalities": 1788,
-    "municipalitiesVisited": 125,
-    "municipalityCoverageRate": 7.0,
-    "municipalitiesWithSources": 85,
-    "sources": 312,
-    "projects": 359,
-    "projectsWithDeadline": 82
+    "municipalitiesVisited": 225,
+    "municipalityCoverageRate": 12.6,
+    "municipalitiesWithSources": 157,
+    "sources": 638,
+    "projects": 531,
+    "projectsWithDeadline": 97
   },
   "sourceStats": {
     "municipalities": 1788,
-    "municipalitiesVisited": 125,
-    "municipalityCoverageRate": 7.0,
-    "municipalitiesWithSources": 85,
-    "sources": 312,
-    "projects": 359,
-    "projectsWithDeadline": 82,
-    "officialDirectProjects": 223,
+    "municipalitiesVisited": 225,
+    "municipalityCoverageRate": 12.6,
+    "municipalitiesWithSources": 157,
+    "sources": 638,
+    "projects": 531,
+    "projectsWithDeadline": 97,
+    "officialDirectProjects": 395,
     "kkjPrimaryProjects": 136
   },
   "errors": [],
