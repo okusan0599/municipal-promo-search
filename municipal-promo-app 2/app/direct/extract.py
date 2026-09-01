@@ -7,9 +7,10 @@ from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 
 from app.classifier import classify_project, clean_project_description
-from app.kkj import _themes
+from app.kkj import _themes, _status
 
 POSITIVE = ("プロポーザル", "企画提案", "提案競技", "公募", "業務委託", "委託", "入札公告", "募集要領", "実施要領")
+DOMAIN_POSITIVE = ("プロモーション", "広報", "広告", "観光", "誘客", "SNS", "ＳＮＳ", "動画", "映像", "イベント", "ブランディング", "マーケティング", "AI", "生成AI", "DX", "コンサル", "調査")
 NEGATIVE = ("過去", "archive", "アーカイブ", "工事", "修繕", "舗装", "清掃", "警備", "物品", "備品", "給食")
 ERA_BASE = {"令和": 2018, "平成": 1988}
 
@@ -36,6 +37,7 @@ def extract_project_links(html: str, base_url: str, limit: int = 80) -> list[dic
         if any(x.lower() in low for x in NEGATIVE):
             continue
         score = sum(5 for x in POSITIVE if x.lower() in low)
+        score += sum(3 for x in DOMAIN_POSITIVE if x.lower() in low)
         if score <= 0:
             continue
         if re.search(r"/(20\d{2}|r\d{1,2}|reiwa\d+)/?$", low):
@@ -111,7 +113,7 @@ def extract_project(html: str, url: str, context: dict) -> dict:
         "area": context.get("area"), "region": context.get("region"), "municipality": context.get("municipality"),
         "organization": context.get("organization") or context.get("municipality"), "title": title,
         "summary": clean[:1800], "noticeDate": notice, "deadline": deadline, "presentationDate": presentation,
-        "openingDate": None, "budget": _budget(clean), "status": "open", "sourceSystem": "municipality_direct",
+        "openingDate": None, "budget": _budget(clean), "status": _status(deadline, None), "sourceSystem": "municipality_direct",
         "sourceUrl": url, "officialSourceUrl": url, "lastChecked": checked, "dataQuality": "official",
         "theme": _themes(title, clean), "dentsuFitScore": fit["score"], "dentsuFitLevel": fit["level"],
         "dentsuCategories": fit["categories"], "dentsuCategoryLabels": fit["category_labels"],

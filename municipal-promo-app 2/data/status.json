@@ -1,9 +1,13 @@
 {
   "state": "not_started",
   "updated_at": null,
-  "count": 0,
-  "source": "官公需情報ポータルサイト検索API",
-  "query_groups_total": 1,
-  "query_groups_completed": 0,
-  "errors": []
+  "mode": "github-actions-json",
+  "coverage": {
+    "municipalities": 0,
+    "municipalitiesWithSources": 0,
+    "sources": 0,
+    "projects": 0
+  },
+  "errors": [],
+  "message": "GitHub Actions の初回収集を実行してください。"
 }

@@ -2,11 +2,18 @@ from __future__ import annotations
 
 import json
 import os
+from typing import Protocol
 from urllib.parse import urljoin
-from app.db import get_database
+
 from app.direct.discovery import discover_source_links, discover_sitemap_urls
 from app.direct.http import RobotsAwareClient
-from app.repository import ProjectRepository
+
+
+class DiscoveryStore(Protocol):
+    def upsert_source(self, row: dict): ...
+    def list_municipalities(self, *, without_sources: bool, limit: int, offset: int = 0) -> list[dict]: ...
+    def mark_municipality_verified(self, code: str) -> None: ...
+    def flush(self) -> None: ...
 
 
 def _merge_candidates(*groups: list[dict], limit: int = 20) -> list[dict]:
@@ -19,7 +26,7 @@ def _merge_candidates(*groups: list[dict], limit: int = 20) -> list[dict]:
     return sorted(merged.values(), key=lambda x: (-x.get("score", 0), x["url"]))[:limit]
 
 
-def discover_for_municipality(repo: ProjectRepository, client: RobotsAwareClient, municipality: dict) -> int:
+def discover_for_municipality(repo: DiscoveryStore, client: RobotsAwareClient, municipality: dict) -> int:
     url = municipality.get("officialUrl")
     if not url:
         return 0
@@ -48,26 +55,30 @@ def discover_for_municipality(repo: ProjectRepository, client: RobotsAwareClient
     return saved
 
 
-def run_batch(repo: ProjectRepository, client: RobotsAwareClient, limit: int = 20, offset: int = 0) -> dict:
+def run_batch(repo: DiscoveryStore, client: RobotsAwareClient, limit: int = 20, offset: int = 0) -> dict:
     rows = repo.list_municipalities(without_sources=True, limit=limit, offset=offset)
     result = {"processed": 0, "succeeded": 0, "failed": 0, "sourcesAdded": 0}
     for municipality in rows:
         result["processed"] += 1
         try:
             added = discover_for_municipality(repo, client, municipality)
-            result["sourcesAdded"] += added; result["succeeded"] += 1
+            result["sourcesAdded"] += added
+            result["succeeded"] += 1
         except Exception:
-            # Mark the attempt so one permanently broken homepage cannot block national progress.
             repo.mark_municipality_verified(municipality["code"])
             result["failed"] += 1
     return result
 
 
 def main() -> None:
-    db = get_database(); db.create_all(); repo = ProjectRepository(db)
-    limit = int(os.getenv("DISCOVERY_BATCH_SIZE", "60"))
-    client = RobotsAwareClient(timeout=int(os.getenv("DIRECT_HTTP_TIMEOUT", "15")), min_host_interval=float(os.getenv("DIRECT_HOST_INTERVAL", "2")))
-    print(json.dumps(run_batch(repo, client, limit=limit), ensure_ascii=False))
+    from app.json_store import JsonStore
+    from pathlib import Path
+    repo = JsonStore(Path(__file__).resolve().parents[2] / "data")
+    limit = int(os.getenv("DISCOVERY_BATCH_SIZE", "25"))
+    client = RobotsAwareClient(timeout=int(os.getenv("DIRECT_HTTP_TIMEOUT", "12")), min_host_interval=float(os.getenv("DIRECT_HOST_INTERVAL", "0.4")))
+    result = run_batch(repo, client, limit=limit)
+    repo.flush()
+    print(json.dumps(result, ensure_ascii=False))
 
 
 if __name__ == "__main__":

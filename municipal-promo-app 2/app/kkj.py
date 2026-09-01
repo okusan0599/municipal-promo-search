@@ -16,8 +16,8 @@ from .classifier import classify_project, clean_project_description
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"
-CACHE_FILE = DATA_DIR / "projects.json"
-STATUS_FILE = DATA_DIR / "status.json"
+CACHE_FILE = DATA_DIR / "kkj_projects.json"
+STATUS_FILE = DATA_DIR / "kkj_status.json"
 CLASSIFICATION_VERSION = 2
 
 KKJ_API_URL = os.getenv("KKJ_API_URL", "https://www.kkj.go.jp/api/")

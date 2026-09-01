@@ -1,123 +1,123 @@
-# 自治体プロモーション公示検索 v6
+# 自治体プロモーション公示検索 v6 Free
 
-全国自治体の公式公示ページを直接巡回し、官公需情報ポータルの全国横断データと統合して検索するFastAPIアプリです。
+全国の都道府県・市区町村の公式サイトを分割巡回し、官公需情報ポータル検索APIも併用して、電通が携われる可能性のある公示を検索する無料運用版です。
 
-## v6の構成
+## 無料版の構成
 
-- **Web Service:** 検索UIとAPIのみ。全国クロールは実行しません。
-- **PostgreSQL:** 自治体マスター、公示ソース、案件、重複ソースを永続保存します。
-- **Cron Job:** `python -m app.jobs.run_cycle` を定期実行し、自治体ソース探索・直接クロール・官公需API更新を行います。
-- **自治体マスター:** 初回Cronで `code4fukui/localgovjp` のCC0 JSONから自治体コード・公式トップURLを投入します。政令指定都市の行政区は除外し、東京23特別区は保持します。都道府県庁は別のprefecture JSONから投入します。
-- **既知ソース:** `data/source_seed.json`。唐津市の `https://www.city.karatsu.lg.jp/site/nyusatsu/` を初期シードとして同梱しています。
+- 収集: GitHub Actions
+- 保存: リポジトリ内の `data/*.json`
+- 検索画面: `index.html`
+- 公式サイト直接収集: 入札・契約・公募・プロポーザル・企画提案・業務委託ページを探索
+- 横断補完: 官公需情報ポータル検索API
+- 初期直接ソース: 唐津市 入札情報 `https://www.city.karatsu.lg.jp/site/nyusatsu/`
 
-## URL
+月額のデータベースサービスや定期ジョブサービスを必須にしません。GitHub Actions の利用枠内で分割巡回します。
 
-既存Renderサービスへ上書きする場合、公開URLは従来どおりです。
+## 1. GitHub に上書き
 
-`https://municipal-promo-search.onrender.com/`
+### 1-A. アプリ本体
 
-確認API:
+現在の `municipal-promo-search` リポジトリで、Render が参照しているフォルダ（これまでの環境では `municipal-promo-app 2`）を開きます。
 
-- `/health`
-- `/api/projects`
-- `/api/status`
-- `/api/admin/municipality-coverage`
-- `/api/admin/source-stats`
-- `/api/admin/crawl-status`
+`Add file` → `Upload files` から、このZIPを展開した**中身のうち `.github` 以外**を上書きして `Commit changes` します。
 
-## Renderへの反映
+重要なファイル:
 
-### 1. GitHubへv6を上書き
+- `index.html`
+- `app/`
+- `data/`
+- `requirements.txt`
 
-既存リポジトリのRender Root Directory（これまで `municipal-promo-app 2`）へ、このフォルダの中身をアップロードしてCommitします。
+### 1-B. GitHub Actions の workflow はリポジトリ直下へ
 
-### 2. Render Postgresを作成
+GitHub Actions が認識する workflow は、必ずリポジトリ直下の `.github/workflows/` に置く必要があります。`municipal-promo-app 2/.github/` では動きません。
 
-Render Dashboard → **New → Postgres**
+リポジトリのトップ画面に戻り、`Add file` → `Create new file` を選び、ファイル名欄へ次を入力します。
 
-- Name: `municipal-promo-db`
-- Region: `Singapore`（Web Serviceと同じ）
-- 検証だけならFreeでも可。ただしFree Postgresは30日で期限切れになるため継続運用は有料プラン推奨。
+```text
+.github/workflows/collect.yml
+```
 
-作成後、Postgresの **Internal Database URL** をコピーします。
+この配布物の `.github/workflows/collect.yml` の内容を貼り付けて `Commit changes` します。workflow 内の `APP_DIR` は現在の GitHub フォルダ名 `municipal-promo-app 2` に設定済みです。
 
-### 3. Web ServiceにDATABASE_URLを追加
+## 2. GitHub Actions の書き込みを許可
 
-`municipal-promo-search` → **Environment** → Add Environment Variable
+GitHub のリポジトリで:
 
-- `DATABASE_URL` = PostgresのInternal Database URL
-- `PYTHON_VERSION` = `3.12.10`
-- `KKJ_COUNT_PER_QUERY` = `120`
-- `KKJ_LOOKBACK_DAYS` = `180`
-- `DIRECT_HTTP_TIMEOUT` = `15`
-- `DIRECT_HOST_INTERVAL` = `2`
+`Settings` → `Actions` → `General` → `Workflow permissions`
 
-Build Command:
+`Read and write permissions` を選択して保存します。
 
-`pip install -r requirements.txt`
+## 3. 初回収集を手動実行
 
-Start Command:
+GitHub の `Actions` タブを開き、`Collect municipal procurement data` を選びます。
 
-`uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+`Run workflow` → `Run workflow` を押します。
 
-Health Check Path:
+初回実行では全国自治体マスターを投入し、官公需APIの取得と自治体公式公示ページの探索を小さいバッチで開始します。以後は6時間ごとに自動実行されます。
 
-`/health`
+標準設定:
 
-### 4. Web Serviceを再デプロイ
+- 自治体探索 25団体/回
+- 公式ソース巡回 12ページ/回
+- 1ソースあたり詳細 8案件まで
+- 官公需API 120件/回
 
-**Events → Manual Deploy → Clear build cache & deploy**
+全国すべてを一回で巡回せず、Actionsを回すたびにカバレッジを前進させます。
 
-`/health` が `storage: postgresql` になればDB接続成功です。
+## 4A. 既存 Render URL をそのまま使う方法
 
-### 5. Render Cron Jobを1つ作成
+現在の Render Free Web Service を残す場合、同じ公開URLを維持できます。
 
-Dashboard → **New → Cron Job** → 同じGitHubリポジトリを選び、Root DirectoryもWeb Serviceと同じにします。
+Render の `municipal-promo-search` → `Settings` で Start Command を次に変更します。
 
-- Name: `municipal-promo-national-crawl`
-- Region: Singapore
-- Build Command: `pip install -r requirements.txt`
-- Command: `python -m app.jobs.run_cycle`
-- Schedule: `0 */6 * * *`（UTCで6時間ごと）
+```text
+python -m http.server $PORT --bind 0.0.0.0
+```
 
-Cron JobのEnvironmentにもWeb Serviceと同じ `DATABASE_URL` を設定し、以下を追加します。
+Build Command は空欄、または次で構いません。
 
-- `DISCOVERY_BATCH_SIZE=60`
-- `DIRECT_CRAWL_BATCH_SIZE=30`
-- `DIRECT_DETAIL_LIMIT=30`
-- `SOURCE_DISCOVERY_LIMIT=12`
-- `MUNICIPALITY_SEED_MIN=1700`
+```text
+echo static
+```
 
-作成後、Cron Job画面の **Trigger Run** を1回押します。初回は全国自治体マスターの投入を行うため通常回より時間がかかります。
+Health Check Path を設定する場合は `/index.html` にします。
 
-### 6. カバレッジ確認
+GitHub の `data/*.json` が更新されるたびに Render が再デプロイし、検索画面に反映されます。Free Web Service のため、長時間アクセスがない後の初回表示には待ち時間が発生する場合があります。
 
-`https://municipal-promo-search.onrender.com/api/admin/municipality-coverage`
+## 4B. Render Static Site にする方法（推奨）
 
-- `municipalities`: 管理対象自治体数
-- `municipalitiesWithSources`: 公示ソース発見済み自治体数
-- `sources`: 直接巡回対象ページ数
-- `projects`: DB内の統合案件数
+スリープを避けたい場合は Render Static Site を使います。
 
-Cronを繰り返すたびに `municipalitiesWithSources` と `sources` が増える設計です。全自治体サイトの構造は統一されていないため、初日100%ではなく継続的に直接収集カバレッジを上げます。
+Render → `+ New` → `Static Site` → 同じ GitHub リポジトリを選択します。
 
-## 独立ジョブ
+設定例:
 
-必要に応じて個別にも実行できます。
+- Root Directory: `municipal-promo-app 2`（GitHub上の実際の配置に合わせる）
+- Build Command: `echo static`
+- Publish Directory: `.`
 
-- `python -m app.jobs.seed_db` — 全国自治体マスター＋既知ソース投入
-- `python -m app.jobs.discover_sources` — 公式トップ/sitemapから公示ページ探索
-- `python -m app.jobs.crawl_due_sources` — 期限到来ソースの直接クロール
-- `python -m app.jobs.refresh_kkj` — 官公需APIのみ更新
-- `python -m app.migrate` — 既存`data/projects.json`をDBへ移行
+作成後に発行される `onrender.com` URLが新しい検索URLです。
 
-## 直接収集の安全設計
+## 5. データ確認
 
-- Webリクエスト中に自治体サイトへアクセスしない
-- robots.txtを確認
-- 同一ホスト間隔デフォルト2秒
-- ETag / Last-Modifiedで条件付きGET
-- 403/429/失敗ソースはバックオフ
-- 1ソース失敗でバッチ全体を止めない
-- 同一案件は自治体公式ソースを主値として優先
-- PDF/WordはURL保持を基本とし、v6初版ではHTML中心に抽出
+検索画面は同一サイトの次のJSONを読みます。
+
+- `data/projects.json` — 統合案件
+- `data/status.json` — 収集状況
+- `data/municipalities.json` — 全国自治体マスター
+- `data/sources.json` — 発見済み自治体公式公示ページ
+
+`data/status.json` の `coverage` で、自治体総数・公示ページ発見済み自治体数・直接ソース数・案件数を確認できます。
+
+## 6. 自動更新が止まった場合
+
+GitHub → `Actions` → `Collect municipal procurement data` の最新実行を開きます。
+
+個別自治体のタイムアウトやアクセス拒否は `data/status.json` に記録し、他自治体の収集は継続します。
+
+## データの優先順位
+
+同一案件が複数経路から見つかった場合、自治体公式ページから直接取得した情報を優先し、官公需APIを補完ソースとして保持します。
+
+応募判断前には、検索結果の「原公示を見る」から自治体公式の公告を確認してください。
