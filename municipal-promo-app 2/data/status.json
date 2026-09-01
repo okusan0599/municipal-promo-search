@@ -1,15 +1,15 @@
 {
   "state": "completed",
-  "started_at": "2026-09-01T21:06:44+00:00",
-  "updated_at": "2026-09-01T21:17:55+00:00",
+  "started_at": "2026-09-01T23:21:22+00:00",
+  "updated_at": "2026-09-01T23:31:36+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 113,
     "status": {
       "state": "completed",
-      "started_at": "2026-09-01T21:06:44+00:00",
-      "updated_at": "2026-09-01T21:06:50+00:00",
+      "started_at": "2026-09-01T23:21:23+00:00",
+      "updated_at": "2026-09-01T23:21:31+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
@@ -24,36 +24,36 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 100,
-    "failed": 0,
-    "sourcesAdded": 294
+    "succeeded": 97,
+    "failed": 3,
+    "sourcesAdded": 321
   },
   "direct": {
     "processed": 50,
     "succeeded": 50,
     "failed": 0,
-    "projects": 257,
-    "unchanged": 0
+    "projects": 243,
+    "unchanged": 2
   },
   "statusNormalized": 0,
   "coverage": {
     "municipalities": 1788,
-    "municipalitiesVisited": 425,
-    "municipalityCoverageRate": 23.8,
-    "municipalitiesWithSources": 301,
-    "sources": 1300,
-    "projects": 912,
-    "projectsWithDeadline": 165
+    "municipalitiesVisited": 525,
+    "municipalityCoverageRate": 29.4,
+    "municipalitiesWithSources": 373,
+    "sources": 1621,
+    "projects": 1052,
+    "projectsWithDeadline": 188
   },
   "sourceStats": {
     "municipalities": 1788,
-    "municipalitiesVisited": 425,
-    "municipalityCoverageRate": 23.8,
-    "municipalitiesWithSources": 301,
-    "sources": 1300,
-    "projects": 912,
-    "projectsWithDeadline": 165,
-    "officialDirectProjects": 723,
+    "municipalitiesVisited": 525,
+    "municipalityCoverageRate": 29.4,
+    "municipalitiesWithSources": 373,
+    "sources": 1621,
+    "projects": 1052,
+    "projectsWithDeadline": 188,
+    "officialDirectProjects": 863,
     "kkjPrimaryProjects": 189
   },
   "errors": [],
