@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 
 from app.classifier import classify_project, clean_project_description
 from app.kkj import _themes
+from app.deadline import extract_deadline
 from app.project_status import project_status
 
 POSITIVE = ("プロポーザル", "企画提案", "提案競技", "公募", "業務委託", "委託", "入札公告", "募集要領", "実施要領")
@@ -101,7 +102,7 @@ def extract_project(html: str, url: str, context: dict) -> dict:
         text = text[title_pos:]
     clean = clean_project_description(text)
     notice = _near(clean, ("公示日", "公告日", "掲載日", "募集開始"))
-    deadline = _near(clean, ("企画提案書.{0,15}提出期限", "提案書.{0,15}提出期限", "参加申込.{0,15}期限", "応募.{0,10}期限", "提出期限", "締切"))
+    deadline = extract_deadline(clean)
     presentation = _near(clean, ("プレゼンテーション", "プレゼン", "ヒアリング", "審査会"))
     fit = classify_project(title, clean)
     attachments = []

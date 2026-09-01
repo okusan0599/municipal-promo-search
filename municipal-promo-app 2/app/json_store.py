@@ -253,12 +253,17 @@ class JsonStore:
         src.update({"lastFailureAt": _iso(now), "failureCount": failures, "lastError": message[:500],
                     "nextCrawlAt": _iso(now + timedelta(hours=hours))})
 
-    def coverage_stats(self) -> dict[str, int]:
+    def coverage_stats(self) -> dict[str, Any]:
         municipality_codes = {str(m.get("code")) for m in self.municipalities}
         active_sources = [s for s in self.sources if s.get("active", True)]
         with_sources = {str(s.get("municipalityCode")) for s in active_sources if str(s.get("municipalityCode")) in municipality_codes}
-        return {"municipalities": len(self.municipalities), "municipalitiesWithSources": len(with_sources),
-                "sources": len(active_sources), "projects": len(self.projects)}
+        visited = sum(1 for m in self.municipalities if m.get("lastVerifiedAt"))
+        total = len(self.municipalities)
+        rate = round((visited / total * 100), 1) if total else 0.0
+        projects_with_deadline = sum(1 for p in self.projects if p.get("deadline"))
+        return {"municipalities": total, "municipalitiesVisited": visited, "municipalityCoverageRate": rate,
+                "municipalitiesWithSources": len(with_sources), "sources": len(active_sources),
+                "projects": len(self.projects), "projectsWithDeadline": projects_with_deadline}
 
     def source_stats(self) -> dict[str, Any]:
         direct = sum(1 for p in self.projects if p.get("sourceSystem") == "municipality_direct")

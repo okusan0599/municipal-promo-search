@@ -13,6 +13,7 @@ from typing import Any
 import requests
 
 from .classifier import classify_project, clean_project_description
+from .deadline import extract_deadline as _shared_extract_deadline
 from .project_status import project_status
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -173,11 +174,7 @@ def _date_near(text: str, labels: list[str]) -> str | None:
 
 
 def _extract_deadline(text: str) -> str | None:
-    return _date_near(text, [
-        r"企画提案書.{0,15}提出期限", r"提案書.{0,15}提出期限", r"企画提案.{0,15}期限",
-        r"参加表明.{0,15}期限", r"参加申込.{0,15}期限", r"応募.{0,10}期限",
-        r"受付.{0,10}期限", r"提出期限", r"提出締切", r"締切",
-    ])
+    return _shared_extract_deadline(text)
 
 
 def _extract_presentation(text: str) -> str | None:
@@ -268,7 +265,7 @@ def _parse_xml(xml_text: str) -> tuple[int, list[dict[str, Any]]]:
         tender_date = _iso_day(_child_text(node, "TenderSubmissionDeadline"))
         opening_date = _iso_day(_child_text(node, "OpeningTendersEvent"))
         delivery_date = _iso_day(_child_text(node, "PeriodEndTime"))
-        deadline = _extract_deadline(description)
+        deadline = _extract_deadline(description) or tender_date
         presentation = _extract_presentation(description)
         corpus = f"{title} {description}"
         clean_description = clean_project_description(description)
