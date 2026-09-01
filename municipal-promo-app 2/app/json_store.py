@@ -8,6 +8,8 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
 
+from app.project_status import project_status
+
 
 def _now() -> datetime:
     return datetime.now(timezone.utc)
@@ -123,7 +125,31 @@ class JsonStore:
         return {"id": obj["id"], "municipalityCode": code, "url": url,
                 "sourceType": obj.get("sourceType"), "priority": obj.get("priority")}
 
+    def normalize_project_statuses(self) -> int:
+        changed = 0
+        for obj in self.projects:
+            detected = project_status(
+                obj.get("deadline"),
+                obj.get("openingDate"),
+                title=obj.get("title"),
+                summary=obj.get("summary"),
+            )
+            current = obj.get("status")
+            if current == "closed":
+                continue
+            if detected != "unknown" and detected != current:
+                obj["status"] = detected
+                changed += 1
+        return changed
+
     def upsert_project(self, row: dict[str, Any]) -> dict[str, Any]:
+        row = dict(row)
+        detected = project_status(
+            row.get("deadline"), row.get("openingDate"),
+            title=row.get("title"), summary=row.get("summary"),
+        )
+        if row.get("status") != "closed" and detected != "unknown":
+            row["status"] = detected
         key = _dedupe_key(row)
         obj = next((p for p in self.projects if p.get("dedupeKey") == key or p.get("_dedupeKey") == key), None)
         if obj is None:

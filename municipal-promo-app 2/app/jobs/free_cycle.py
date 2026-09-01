@@ -48,6 +48,11 @@ def run_cycle(
     }
     _write_json(status_file, output)
 
+    normalized_statuses = store.normalize_project_statuses()
+    if normalized_statuses:
+        store.flush()
+    output["statusNormalized"] = normalized_statuses
+
     errors: list[dict] = []
     try:
         if store.coverage_stats()["municipalities"] < int(os.getenv("MUNICIPALITY_SEED_MIN", "1700")):

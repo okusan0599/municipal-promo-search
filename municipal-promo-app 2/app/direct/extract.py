@@ -7,7 +7,8 @@ from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 
 from app.classifier import classify_project, clean_project_description
-from app.kkj import _themes, _status
+from app.kkj import _themes
+from app.project_status import project_status
 
 POSITIVE = ("プロポーザル", "企画提案", "提案競技", "公募", "業務委託", "委託", "入札公告", "募集要領", "実施要領")
 DOMAIN_POSITIVE = ("プロモーション", "広報", "広告", "観光", "誘客", "SNS", "ＳＮＳ", "動画", "映像", "イベント", "ブランディング", "マーケティング", "AI", "生成AI", "DX", "コンサル", "調査")
@@ -95,6 +96,9 @@ def extract_project(html: str, url: str, context: dict) -> dict:
     title_el = root.find("h1") or soup.find("title")
     title = " ".join(title_el.stripped_strings).strip() if title_el else context.get("candidateTitle") or "名称未確認"
     text = " ".join(root.stripped_strings)
+    title_pos = text.find(title) if title else -1
+    if title_pos >= 0:
+        text = text[title_pos:]
     clean = clean_project_description(text)
     notice = _near(clean, ("公示日", "公告日", "掲載日", "募集開始"))
     deadline = _near(clean, ("企画提案書.{0,15}提出期限", "提案書.{0,15}提出期限", "参加申込.{0,15}期限", "応募.{0,10}期限", "提出期限", "締切"))
@@ -113,7 +117,7 @@ def extract_project(html: str, url: str, context: dict) -> dict:
         "area": context.get("area"), "region": context.get("region"), "municipality": context.get("municipality"),
         "organization": context.get("organization") or context.get("municipality"), "title": title,
         "summary": clean[:1800], "noticeDate": notice, "deadline": deadline, "presentationDate": presentation,
-        "openingDate": None, "budget": _budget(clean), "status": _status(deadline, None), "sourceSystem": "municipality_direct",
+        "openingDate": None, "budget": _budget(clean), "status": project_status(deadline, None, title=title, summary=clean), "sourceSystem": "municipality_direct",
         "sourceUrl": url, "officialSourceUrl": url, "lastChecked": checked, "dataQuality": "official",
         "theme": _themes(title, clean), "dentsuFitScore": fit["score"], "dentsuFitLevel": fit["level"],
         "dentsuCategories": fit["categories"], "dentsuCategoryLabels": fit["category_labels"],

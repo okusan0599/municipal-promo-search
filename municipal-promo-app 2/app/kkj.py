@@ -13,6 +13,7 @@ from typing import Any
 import requests
 
 from .classifier import classify_project, clean_project_description
+from .project_status import project_status
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = BASE_DIR / "data"
@@ -212,20 +213,8 @@ def _themes(title: str, description: str = "") -> list[str]:
     return found or ["その他クリエイティブ"]
 
 
-def _status(deadline: str | None, opening_date: str | None) -> str:
-    today = date.today()
-    relevant = deadline or opening_date
-    if not relevant:
-        return "unknown"
-    try:
-        d = date.fromisoformat(relevant)
-    except ValueError:
-        return "unknown"
-    if d < today:
-        return "closed"
-    if (d - today).days <= 7:
-        return "soon"
-    return "open"
+def _status(deadline: str | None, opening_date: str | None, title: str = "", summary: str = "") -> str:
+    return project_status(deadline, opening_date, title=title, summary=summary)
 
 
 def _attachments(node: ET.Element) -> list[dict[str, str]]:
@@ -310,7 +299,7 @@ def _parse_xml(xml_text: str) -> tuple[int, list[dict[str, Any]]]:
             "dentsuSignals": dentsu_fit["signals"],
             "title": title,
             "summary": _compact(clean_description)[:420],
-            "status": _status(deadline, opening_date),
+            "status": _status(deadline, opening_date, title, clean_description),
             "sourceUrl": source_url,
             "sourceName": org or "官公需情報ポータル",
             "sourceSystem": "官公需情報ポータルサイト検索API",
