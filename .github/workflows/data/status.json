@@ -1,0 +1,13 @@
+{
+  "state": "not_started",
+  "updated_at": null,
+  "mode": "github-actions-json",
+  "coverage": {
+    "municipalities": 0,
+    "municipalitiesWithSources": 0,
+    "sources": 0,
+    "projects": 0
+  },
+  "errors": [],
+  "message": "GitHub Actions の初回収集を実行してください。"
+}
