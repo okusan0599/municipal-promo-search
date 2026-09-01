@@ -21,3 +21,10 @@ def test_all_dentsu_category_ids_are_present():
         "ai_data_dx", "branding_identity",
     ]:
         assert f'data-dentsu-category="{category}"' in HTML
+
+
+def test_v6_ui_distinguishes_direct_official_sources():
+    assert 'municipality_direct' in HTML
+    assert '自治体公式サイト（直接収集）' in HTML
+    assert 'officialSourceUrl' in HTML
+    assert 'sourceCount' in HTML
