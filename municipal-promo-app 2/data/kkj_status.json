@@ -1,15 +1,20 @@
 {
-  "state": "completed",
-  "started_at": "2026-09-02T14:32:36+00:00",
-  "updated_at": "2026-09-02T14:32:43+00:00",
+  "state": "error",
+  "started_at": "2026-09-02T18:46:50+00:00",
+  "updated_at": "2026-09-02T18:47:15+00:00",
   "source": "官公需情報ポータルサイト検索API",
   "query_groups_total": 1,
   "query_groups_completed": 1,
   "count": 113,
-  "errors": [],
+  "errors": [
+    {
+      "query": "プロモーション OR シティプロモーション OR 広報 OR 広告 OR ブランディング OR 観光 OR 誘客 OR 移住 OR 関係人口 OR 魅力発信 OR SNS OR 動画 OR 映像 OR Web OR ホームページ OR イベント OR キャンペーン OR デザイン OR クリエイティブ OR パンフレット OR ポスター OR ロゴ OR コンサルティング OR 戦略策定 OR 基本構想 OR 事業戦略 OR マーケティング OR 市場調査 OR アンケート OR 調査分析 OR AI OR 生成AI OR 人工知能 OR データ分析 OR データ活用 OR DX OR デジタル活用 OR コミュニケーション OR 広報戦略 OR パブリシティ",
+      "error": "HTTPSConnectionPool(host='www.kkj.go.jp', port=443): Read timed out."
+    }
+  ],
   "current_query": null,
-  "raw_hits_sum": 5848,
+  "raw_hits_sum": 0,
   "lookback_days": 180,
   "cache_minutes": 30,
-  "message": "APIから最新候補を取得しました。元公示は各案件リンクで確認してください。"
+  "message": "APIから新規データを取得できませんでした。キャッシュがあれば継続表示します。"
 }
