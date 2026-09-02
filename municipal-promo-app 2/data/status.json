@@ -1,15 +1,15 @@
 {
   "state": "completed",
-  "started_at": "2026-09-02T04:42:53+00:00",
-  "updated_at": "2026-09-02T04:50:38+00:00",
+  "started_at": "2026-09-02T09:42:03+00:00",
+  "updated_at": "2026-09-02T09:51:57+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 113,
     "status": {
       "state": "completed",
-      "started_at": "2026-09-02T04:42:53+00:00",
-      "updated_at": "2026-09-02T04:42:59+00:00",
+      "started_at": "2026-09-02T09:42:03+00:00",
+      "updated_at": "2026-09-02T09:42:14+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
@@ -24,36 +24,36 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 96,
-    "failed": 4,
-    "sourcesAdded": 446
+    "succeeded": 98,
+    "failed": 2,
+    "sourcesAdded": 395
   },
   "direct": {
     "processed": 50,
     "succeeded": 50,
     "failed": 0,
-    "projects": 246,
+    "projects": 240,
     "unchanged": 0
   },
-  "statusNormalized": 15,
+  "statusNormalized": 0,
   "coverage": {
     "municipalities": 1788,
-    "municipalitiesVisited": 625,
-    "municipalityCoverageRate": 35.0,
-    "municipalitiesWithSources": 454,
-    "sources": 2067,
-    "projects": 1265,
-    "projectsWithDeadline": 212
+    "municipalitiesVisited": 725,
+    "municipalityCoverageRate": 40.5,
+    "municipalitiesWithSources": 536,
+    "sources": 2462,
+    "projects": 1381,
+    "projectsWithDeadline": 235
   },
   "sourceStats": {
     "municipalities": 1788,
-    "municipalitiesVisited": 625,
-    "municipalityCoverageRate": 35.0,
-    "municipalitiesWithSources": 454,
-    "sources": 2067,
-    "projects": 1265,
-    "projectsWithDeadline": 212,
-    "officialDirectProjects": 1076,
+    "municipalitiesVisited": 725,
+    "municipalityCoverageRate": 40.5,
+    "municipalitiesWithSources": 536,
+    "sources": 2462,
+    "projects": 1381,
+    "projectsWithDeadline": 235,
+    "officialDirectProjects": 1192,
     "kkjPrimaryProjects": 189
   },
   "errors": [],
