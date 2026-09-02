@@ -1,15 +1,15 @@
 {
   "state": "completed",
-  "started_at": "2026-09-02T09:42:03+00:00",
-  "updated_at": "2026-09-02T09:51:57+00:00",
+  "started_at": "2026-09-02T14:32:36+00:00",
+  "updated_at": "2026-09-02T14:42:44+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 113,
     "status": {
       "state": "completed",
-      "started_at": "2026-09-02T09:42:03+00:00",
-      "updated_at": "2026-09-02T09:42:14+00:00",
+      "started_at": "2026-09-02T14:32:36+00:00",
+      "updated_at": "2026-09-02T14:32:43+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
@@ -24,36 +24,36 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 98,
-    "failed": 2,
-    "sourcesAdded": 395
+    "succeeded": 94,
+    "failed": 6,
+    "sourcesAdded": 377
   },
   "direct": {
     "processed": 50,
-    "succeeded": 50,
-    "failed": 0,
-    "projects": 240,
+    "succeeded": 45,
+    "failed": 5,
+    "projects": 164,
     "unchanged": 0
   },
   "statusNormalized": 0,
   "coverage": {
     "municipalities": 1788,
-    "municipalitiesVisited": 725,
-    "municipalityCoverageRate": 40.5,
-    "municipalitiesWithSources": 536,
-    "sources": 2462,
-    "projects": 1381,
-    "projectsWithDeadline": 235
+    "municipalitiesVisited": 825,
+    "municipalityCoverageRate": 46.1,
+    "municipalitiesWithSources": 613,
+    "sources": 2839,
+    "projects": 1530,
+    "projectsWithDeadline": 239
   },
   "sourceStats": {
     "municipalities": 1788,
-    "municipalitiesVisited": 725,
-    "municipalityCoverageRate": 40.5,
-    "municipalitiesWithSources": 536,
-    "sources": 2462,
-    "projects": 1381,
-    "projectsWithDeadline": 235,
-    "officialDirectProjects": 1192,
+    "municipalitiesVisited": 825,
+    "municipalityCoverageRate": 46.1,
+    "municipalitiesWithSources": 613,
+    "sources": 2839,
+    "projects": 1530,
+    "projectsWithDeadline": 239,
+    "officialDirectProjects": 1341,
     "kkjPrimaryProjects": 189
   },
   "errors": [],
