@@ -1,22 +1,22 @@
 {
   "state": "completed",
-  "started_at": "2026-09-01T23:21:22+00:00",
-  "updated_at": "2026-09-01T23:31:36+00:00",
+  "started_at": "2026-09-02T04:42:53+00:00",
+  "updated_at": "2026-09-02T04:50:38+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 113,
     "status": {
       "state": "completed",
-      "started_at": "2026-09-01T23:21:23+00:00",
-      "updated_at": "2026-09-01T23:21:31+00:00",
+      "started_at": "2026-09-02T04:42:53+00:00",
+      "updated_at": "2026-09-02T04:42:59+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
       "count": 113,
       "errors": [],
       "current_query": null,
-      "raw_hits_sum": 5907,
+      "raw_hits_sum": 5848,
       "lookback_days": 180,
       "cache_minutes": 30,
       "message": "APIから最新候補を取得しました。元公示は各案件リンクで確認してください。"
@@ -24,36 +24,36 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 97,
-    "failed": 3,
-    "sourcesAdded": 321
+    "succeeded": 96,
+    "failed": 4,
+    "sourcesAdded": 446
   },
   "direct": {
     "processed": 50,
     "succeeded": 50,
     "failed": 0,
-    "projects": 243,
-    "unchanged": 2
+    "projects": 246,
+    "unchanged": 0
   },
-  "statusNormalized": 0,
+  "statusNormalized": 15,
   "coverage": {
     "municipalities": 1788,
-    "municipalitiesVisited": 525,
-    "municipalityCoverageRate": 29.4,
-    "municipalitiesWithSources": 373,
-    "sources": 1621,
-    "projects": 1052,
-    "projectsWithDeadline": 188
+    "municipalitiesVisited": 625,
+    "municipalityCoverageRate": 35.0,
+    "municipalitiesWithSources": 454,
+    "sources": 2067,
+    "projects": 1265,
+    "projectsWithDeadline": 212
   },
   "sourceStats": {
     "municipalities": 1788,
-    "municipalitiesVisited": 525,
-    "municipalityCoverageRate": 29.4,
-    "municipalitiesWithSources": 373,
-    "sources": 1621,
-    "projects": 1052,
-    "projectsWithDeadline": 188,
-    "officialDirectProjects": 863,
+    "municipalitiesVisited": 625,
+    "municipalityCoverageRate": 35.0,
+    "municipalitiesWithSources": 454,
+    "sources": 2067,
+    "projects": 1265,
+    "projectsWithDeadline": 212,
+    "officialDirectProjects": 1076,
     "kkjPrimaryProjects": 189
   },
   "errors": [],
