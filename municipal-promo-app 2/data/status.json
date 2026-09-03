@@ -1,22 +1,22 @@
 {
   "state": "completed",
-  "started_at": "2026-09-03T16:30:56+00:00",
-  "updated_at": "2026-09-03T16:39:50+00:00",
+  "started_at": "2026-09-03T19:54:53+00:00",
+  "updated_at": "2026-09-03T20:02:23+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
-    "count": 107,
+    "count": 110,
     "status": {
       "state": "completed",
-      "started_at": "2026-09-03T16:30:57+00:00",
-      "updated_at": "2026-09-03T16:31:03+00:00",
+      "started_at": "2026-09-03T19:54:54+00:00",
+      "updated_at": "2026-09-03T19:55:09+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
-      "count": 107,
+      "count": 110,
       "errors": [],
       "current_query": null,
-      "raw_hits_sum": 5819,
+      "raw_hits_sum": 5846,
       "lookback_days": 180,
       "cache_minutes": 30,
       "message": "APIから最新候補を取得しました。元公示は各案件リンクで確認してください。"
@@ -24,9 +24,9 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 95,
-    "failed": 5,
-    "sourcesAdded": 339
+    "succeeded": 99,
+    "failed": 1,
+    "sourcesAdded": 357
   },
   "direct": {
     "processed": 50,
@@ -38,23 +38,23 @@
   "statusNormalized": 0,
   "coverage": {
     "municipalities": 1788,
-    "municipalitiesVisited": 1425,
-    "municipalityCoverageRate": 79.7,
-    "municipalitiesWithSources": 1069,
-    "sources": 5255,
-    "projects": 2397,
-    "projectsWithDeadline": 330
+    "municipalitiesVisited": 1525,
+    "municipalityCoverageRate": 85.3,
+    "municipalitiesWithSources": 1142,
+    "sources": 5612,
+    "projects": 2566,
+    "projectsWithDeadline": 360
   },
   "sourceStats": {
     "municipalities": 1788,
-    "municipalitiesVisited": 1425,
-    "municipalityCoverageRate": 79.7,
-    "municipalitiesWithSources": 1069,
-    "sources": 5255,
-    "projects": 2397,
-    "projectsWithDeadline": 330,
-    "officialDirectProjects": 2186,
-    "kkjPrimaryProjects": 211
+    "municipalitiesVisited": 1525,
+    "municipalityCoverageRate": 85.3,
+    "municipalitiesWithSources": 1142,
+    "sources": 5612,
+    "projects": 2566,
+    "projectsWithDeadline": 360,
+    "officialDirectProjects": 2330,
+    "kkjPrimaryProjects": 236
   },
   "errors": [],
   "message": "GitHub Actionsで全国自治体公式サイトと官公需APIを分割収集しています。"
