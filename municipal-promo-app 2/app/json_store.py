@@ -56,9 +56,13 @@ class JsonStore:
         self.municipalities_path = self.data_dir / "municipalities.json"
         self.sources_path = self.data_dir / "sources.json"
         self.projects_path = self.data_dir / "projects.json"
+        self.history_sources_path = self.data_dir / "history_sources.json"
+        self.history_awards_path = self.data_dir / "history_awards.json"
         self.municipalities = self._read(self.municipalities_path, [])
         self.sources = self._read(self.sources_path, [])
         self.projects = self._read(self.projects_path, [])
+        self.history_sources = self._read(self.history_sources_path, [])
+        self.history_awards = self._read(self.history_awards_path, [])
 
     @staticmethod
     def _read(path: Path, fallback: Any) -> Any:
@@ -79,6 +83,8 @@ class JsonStore:
         self._write(self.municipalities_path, self.municipalities)
         self._write(self.sources_path, self.sources)
         self._write(self.projects_path, self.projects)
+        self._write(self.history_sources_path, self.history_sources)
+        self._write(self.history_awards_path, self.history_awards)
 
     def upsert_municipality(self, row: dict[str, Any]) -> dict[str, Any]:
         code = str(row["code"])
@@ -124,6 +130,90 @@ class JsonStore:
         obj.setdefault("active", True)
         return {"id": obj["id"], "municipalityCode": code, "url": url,
                 "sourceType": obj.get("sourceType"), "priority": obj.get("priority")}
+
+
+    def upsert_history_source(self, row: dict[str, Any]) -> dict[str, Any]:
+        code = str(row["municipality_code"])
+        municipality = next((m for m in self.municipalities if str(m.get("code")) == code), None)
+        if municipality is None:
+            raise ValueError(f"Unknown municipality code: {code}")
+        url = str(row["url"])
+        obj = next((s for s in self.history_sources if s.get("url") == url), None)
+        if obj is None:
+            obj = {"id": _source_id("history|" + url), "municipalityCode": code, "url": url, "failureCount": 0,
+                   "lastSuccessAt": None, "lastFailureAt": None, "nextCrawlAt": None, "coveredYears": []}
+            self.history_sources.append(obj)
+        mapping = {
+            "source_type": "sourceType", "title": "title", "discovery_method": "discoveryMethod",
+            "priority": "priority", "active": "active", "next_crawl_at": "nextCrawlAt",
+        }
+        for key, target in mapping.items():
+            if key in row:
+                value = row[key]
+                obj[target] = _iso(value) if isinstance(value, datetime) else value
+        obj.setdefault("sourceType", "result")
+        obj.setdefault("priority", 3)
+        obj.setdefault("active", True)
+        return {"id": obj["id"], "municipalityCode": code, "url": url,
+                "sourceType": obj.get("sourceType"), "priority": obj.get("priority")}
+
+    def upsert_history_award(self, row: dict[str, Any]) -> dict[str, Any]:
+        row = dict(row)
+        base = "|".join([
+            str(row.get("municipalityCode") or row.get("municipality") or ""),
+            _norm_title(str(row.get("title") or "")),
+            str(row.get("vendor") or ""),
+            str(row.get("year") or row.get("awardDate") or ""),
+        ])
+        key = hashlib.sha256(base.encode("utf-8")).hexdigest()
+        obj = next((a for a in self.history_awards if a.get("dedupeKey") == key), None)
+        if obj is None:
+            obj = {"dedupeKey": key}
+            self.history_awards.append(obj)
+        for k, v in row.items():
+            if v is not None:
+                obj[k] = v
+        obj["lastChecked"] = row.get("lastChecked") or _iso(_now())
+        return {k: v for k, v in obj.items() if k != "dedupeKey"}
+
+    def due_history_sources(self, limit: int = 20) -> list[dict[str, Any]]:
+        now = _now()
+        mun = {str(m.get("code")): m for m in self.municipalities}
+        rows = []
+        for src in self.history_sources:
+            if not src.get("active", True):
+                continue
+            due = _parse(src.get("nextCrawlAt"))
+            if due and due > now:
+                continue
+            m = mun.get(str(src.get("municipalityCode")), {})
+            rows.append({**src, "municipality": m.get("name"), "region": m.get("prefecture"),
+                         "area": m.get("area"), "officialHost": m.get("officialHost")})
+        rows.sort(key=lambda x: (x.get("priority", 3), x.get("nextCrawlAt") or ""))
+        return rows[:limit]
+
+    def mark_history_source_success(self, source_id: str, *, etag: str | None = None,
+                                    last_modified: str | None = None, content_hash: str | None = None,
+                                    covered_years: list[int] | None = None, hours: int = 72) -> None:
+        src = next((s for s in self.history_sources if str(s.get("id")) == str(source_id)), None)
+        if not src:
+            return
+        now = _now()
+        years = {int(y) for y in (src.get("coveredYears") or []) if str(y).isdigit()}
+        years.update(int(y) for y in (covered_years or []) if str(y).isdigit())
+        src.update({"lastSuccessAt": _iso(now), "failureCount": 0, "etag": etag, "lastModified": last_modified,
+                    "contentHash": content_hash, "coveredYears": sorted(years),
+                    "nextCrawlAt": _iso(now + timedelta(hours=hours))})
+
+    def mark_history_source_failure(self, source_id: str, message: str = "") -> None:
+        src = next((s for s in self.history_sources if str(s.get("id")) == str(source_id)), None)
+        if not src:
+            return
+        now = _now()
+        failures = int(src.get("failureCount") or 0) + 1
+        hours = [12, 24, 72, 168][min(failures - 1, 3)]
+        src.update({"lastFailureAt": _iso(now), "failureCount": failures, "lastError": message[:500],
+                    "nextCrawlAt": _iso(now + timedelta(hours=hours))})
 
     def normalize_project_statuses(self) -> int:
         changed = 0
@@ -261,9 +351,14 @@ class JsonStore:
         total = len(self.municipalities)
         rate = round((visited / total * 100), 1) if total else 0.0
         projects_with_deadline = sum(1 for p in self.projects if p.get("deadline"))
+        history_sources = [s for s in self.history_sources if s.get("active", True)]
+        history_municipalities = {str(s.get("municipalityCode")) for s in history_sources if s.get("municipalityCode")}
+        history_linked = sum(1 for p in self.projects if p.get("historyStatus") in {"continuing", "new_explicit", "new_estimated"})
         return {"municipalities": total, "municipalitiesVisited": visited, "municipalityCoverageRate": rate,
                 "municipalitiesWithSources": len(with_sources), "sources": len(active_sources),
-                "projects": len(self.projects), "projectsWithDeadline": projects_with_deadline}
+                "projects": len(self.projects), "projectsWithDeadline": projects_with_deadline,
+                "historySources": len(history_sources), "historyMunicipalities": len(history_municipalities),
+                "historyAwards": len(self.history_awards), "historyLinkedProjects": history_linked}
 
     def source_stats(self) -> dict[str, Any]:
         direct = sum(1 for p in self.projects if p.get("sourceSystem") == "municipality_direct")

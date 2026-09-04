@@ -6,11 +6,13 @@ from typing import Protocol
 
 from app.direct.extract import extract_project, extract_project_links
 from app.direct.http import RobotsAwareClient
+from app.history.discovery import discover_history_links
 
 
 class CrawlStore(Protocol):
     def due_sources(self, limit: int = 20) -> list[dict]: ...
     def upsert_project(self, row: dict): ...
+    def upsert_history_source(self, row: dict): ...
     def mark_source_success(self, source_id, **kwargs) -> None: ...
     def mark_source_failure(self, source_id, message: str = "") -> None: ...
     def flush(self) -> None: ...
@@ -18,7 +20,7 @@ class CrawlStore(Protocol):
 
 def crawl_batch(repo: CrawlStore, client: RobotsAwareClient, limit: int = 20) -> dict:
     sources = repo.due_sources(limit=limit)
-    result = {"processed": 0, "succeeded": 0, "failed": 0, "projects": 0, "unchanged": 0}
+    result = {"processed": 0, "succeeded": 0, "failed": 0, "projects": 0, "unchanged": 0, "historySourcesAdded": 0}
     detail_limit = int(os.getenv("DIRECT_DETAIL_LIMIT", "8"))
     for source in sources:
         result["processed"] += 1
@@ -30,6 +32,16 @@ def crawl_batch(repo: CrawlStore, client: RobotsAwareClient, limit: int = 20) ->
                 result["succeeded"] += 1
                 continue
             links = extract_project_links(fetched.text, source["url"], limit=detail_limit)
+            for hist in discover_history_links(fetched.text, source["url"], limit=max(4, detail_limit)):
+                try:
+                    repo.upsert_history_source({
+                        "municipality_code": source["municipalityCode"], "source_type": hist["sourceType"],
+                        "url": hist["url"], "title": hist["title"], "discovery_method": "procurement_page",
+                        "priority": 1 if hist.get("score", 0) >= 12 else 3, "active": True,
+                    })
+                    result["historySourcesAdded"] += 1
+                except Exception:
+                    continue
             for link in links:
                 try:
                     page = client.fetch(link["url"])

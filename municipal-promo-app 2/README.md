@@ -1,11 +1,20 @@
-# 自治体プロモーション公示検索 v6 Free
+# 自治体プロモーション公示検索 v6.3 Free
 
 全国の都道府県・市区町村の公式サイトを分割巡回し、官公需情報ポータル検索APIも併用して、電通が携われる可能性のある公示を検索する無料運用版です。
+
+
+## v6.3 へのアップグレード手順（既存サイト用）
+
+1. `municipal-promo-national-free-v6.3-upgrade.zip` を展開し、GitHub の `municipal-promo-app 2` に中身を上書きします。このアップグレードZIPには `data/` を含めないため、現在の収集済み案件は消えません。
+2. リポジトリ直下の `.github/workflows/collect.yml` は、別添の `collect-v6.3.yml` の内容で置き換えます。
+3. GitHub Actions の `Collect municipal procurement data` を一度 `Run workflow` します。以降は1時間ごとに、現行案件と過去実績を分割収集します。
+4. Render Static Site は GitHub の更新を自動デプロイします。公開URLは既存の `municipal-promo-search-1.onrender.com` をそのまま利用できます。
 
 ## 無料版の構成
 
 - 収集: GitHub Actions
 - 保存: リポジトリ内の `data/*.json`
+- 過去実績: 自治体公式の落札結果・契約結果・選定結果・結果PDFを分割収集し、現行案件と過去3年度を照合
 - 検索画面: `index.html`
 - 公式サイト直接収集: 入札・契約・公募・プロポーザル・企画提案・業務委託ページを探索
 - 横断補完: 官公需情報ポータル検索API
@@ -25,8 +34,10 @@
 
 - `index.html`
 - `app/`
-- `data/`
 - `requirements.txt`
+- `VERSION`
+
+既存の `data/` はそのまま残します。アップグレードZIPから上書きしません。
 
 ### 1-B. GitHub Actions の workflow はリポジトリ直下へ
 
@@ -38,7 +49,7 @@ GitHub Actions が認識する workflow は、必ずリポジトリ直下の `.g
 .github/workflows/collect.yml
 ```
 
-この配布物の `.github/workflows/collect.yml` の内容を貼り付けて `Commit changes` します。workflow 内の `APP_DIR` は現在の GitHub フォルダ名 `municipal-promo-app 2` に設定済みです。
+別添の `collect-v6.3.yml` の内容を貼り付けて `Commit changes` します。workflow 内の `APP_DIR` は現在の GitHub フォルダ名 `municipal-promo-app 2` に設定済みです。
 
 ## 2. GitHub Actions の書き込みを許可
 
@@ -62,6 +73,8 @@ GitHub の `Actions` タブを開き、`Collect municipal procurement data` を�
 - 公式ソース巡回 50ページ/回
 - 1ソースあたり詳細 8案件まで
 - 官公需API 120件/回
+- 過去実績ソース巡回 30ページ/回
+- 過去実績PDFは1ファイル20ページまで解析
 
 全国すべてを一回で巡回せず、Actionsを回すたびにカバレッジを前進させます。
 
@@ -107,6 +120,8 @@ Render → `+ New` → `Static Site` → 同じ GitHub リポジトリを選択�
 - `data/status.json` — 収集状況
 - `data/municipalities.json` — 全国自治体マスター
 - `data/sources.json` — 発見済み自治体公式公示ページ
+- `data/history_sources.json` — 落札結果・契約結果・選定結果などの公式ページ
+- `data/history_awards.json` — 過去の受託・落札業者実績
 
 `data/status.json` の `coverage` で、自治体総数・公示ページ発見済み自治体数・直接ソース数・案件数を確認できます。
 
@@ -135,3 +150,27 @@ GitHub → `Actions` → `Collect municipal procurement data` の最新実行を
 ## v6.2 提出期限ポリシー
 
 通常の検索画面には提案・提出期限を取得できた案件だけを表示します。内部JSONには期限未取得案件も保持し、次回巡回で再取得します。
+
+
+## v6.3 過去3年の受託業者実績
+
+各現行案件について、同じ自治体の公式な落札結果・契約結果・プロポーザル選定結果を収集し、直近3年度の類似案件を照合します。
+
+検索カードの「過去3年の類似実績」には、次を表示します。
+
+- 年度
+- 類似案件名
+- 受託・落札業者
+- 契約・落札金額（公開されている場合）
+- 類似度
+- 公式結果ページへのリンク
+- 受託回数の集計
+
+案件区分は次の4つです。
+
+- `継続・類似実績あり` — 過去3年度に類似案件の公式結果を確認
+- `新規（明記）` — 現行公示が新規事業等と明記
+- `新規推定` — 過去3年度の結果公開範囲を確認したが類似案件なし
+- `未確認` — 過去結果ページの収集・照合がまだ不十分
+
+「見つからない＝新規」とは断定せず、公開範囲を3年度確認できない場合は `未確認` とします。

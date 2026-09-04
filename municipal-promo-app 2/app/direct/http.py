@@ -19,6 +19,18 @@ class FetchResult:
     not_modified: bool = False
 
 
+@dataclass
+class BinaryFetchResult:
+    url: str
+    status_code: int
+    content: bytes
+    etag: str | None
+    last_modified: str | None
+    content_hash: str
+    content_type: str | None
+    not_modified: bool = False
+
+
 class RobotsAwareClient:
     def __init__(self, timeout: int = 15, min_host_interval: float = 2.0, user_agent: str = "MunicipalPromotionSearch/6.0"):
         self.timeout = timeout
@@ -42,20 +54,39 @@ class RobotsAwareClient:
             self._robots[origin] = rp
         return self._robots[origin].can_fetch(self.user_agent, url)
 
-    def fetch(self, url: str, etag: str | None = None, last_modified: str | None = None) -> FetchResult:
+    def _request(self, url: str, etag: str | None = None, last_modified: str | None = None):
         if not self.allowed(url):
             raise PermissionError(f"robots.txt disallows {url}")
         host = urlparse(url).netloc.lower()
         wait = self.min_host_interval - (time.monotonic() - self._last.get(host, 0.0))
-        if wait > 0: time.sleep(wait)
+        if wait > 0:
+            time.sleep(wait)
         headers = {}
-        if etag: headers["If-None-Match"] = etag
-        if last_modified: headers["If-Modified-Since"] = last_modified
+        if etag:
+            headers["If-None-Match"] = etag
+        if last_modified:
+            headers["If-Modified-Since"] = last_modified
         response = self.session.get(url, timeout=self.timeout, headers=headers)
         self._last[host] = time.monotonic()
+        return response
+
+    def fetch(self, url: str, etag: str | None = None, last_modified: str | None = None) -> FetchResult:
+        response = self._request(url, etag=etag, last_modified=last_modified)
         if response.status_code == 304:
             return FetchResult(url, 304, "", etag, last_modified, "", True)
         response.raise_for_status()
         response.encoding = response.apparent_encoding or response.encoding
         text = response.text
         return FetchResult(url, response.status_code, text, response.headers.get("ETag"), response.headers.get("Last-Modified"), hashlib.sha256(text.encode("utf-8", "ignore")).hexdigest())
+
+    def fetch_binary(self, url: str, etag: str | None = None, last_modified: str | None = None) -> BinaryFetchResult:
+        response = self._request(url, etag=etag, last_modified=last_modified)
+        if response.status_code == 304:
+            return BinaryFetchResult(url, 304, b"", etag, last_modified, "", response.headers.get("Content-Type"), True)
+        response.raise_for_status()
+        content = response.content
+        return BinaryFetchResult(
+            url, response.status_code, content, response.headers.get("ETag"),
+            response.headers.get("Last-Modified"), hashlib.sha256(content).hexdigest(),
+            response.headers.get("Content-Type"), False,
+        )

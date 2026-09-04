@@ -6,11 +6,13 @@ from typing import Protocol
 from urllib.parse import urljoin
 
 from app.direct.discovery import discover_source_links, discover_sitemap_urls
+from app.history.discovery import discover_history_links, discover_history_sitemap_urls
 from app.direct.http import RobotsAwareClient
 
 
 class DiscoveryStore(Protocol):
     def upsert_source(self, row: dict): ...
+    def upsert_history_source(self, row: dict): ...
     def list_municipalities(self, *, without_sources: bool, limit: int, offset: int = 0) -> list[dict]: ...
     def mark_municipality_verified(self, code: str) -> None: ...
     def flush(self) -> None: ...
@@ -33,12 +35,15 @@ def discover_for_municipality(repo: DiscoveryStore, client: RobotsAwareClient, m
     max_candidates = int(os.getenv("SOURCE_DISCOVERY_LIMIT", "12"))
     fetched = client.fetch(url)
     homepage = discover_source_links(fetched.text, url, limit=max_candidates)
+    history_homepage = discover_history_links(fetched.text, url, limit=max_candidates)
     sitemap = []
+    history_sitemap = []
     for sitemap_url in (urljoin(url, "/sitemap.xml"), urljoin(url, "sitemap.xml")):
         try:
             sm = client.fetch(sitemap_url)
             sitemap = discover_sitemap_urls(sm.text, url, limit=max_candidates)
-            if sitemap:
+            history_sitemap = discover_history_sitemap_urls(sm.text, url, limit=max_candidates)
+            if sitemap or history_sitemap:
                 break
         except Exception:
             continue
@@ -51,8 +56,15 @@ def discover_for_municipality(repo: DiscoveryStore, client: RobotsAwareClient, m
             "priority": 1 if item.get("score", 0) >= 15 else 3, "active": True,
         })
         saved += 1
+    history_candidates = _merge_candidates(history_homepage, history_sitemap, limit=max_candidates)
+    for item in history_candidates:
+        repo.upsert_history_source({
+            "municipality_code": municipality["code"], "source_type": item["sourceType"], "url": item["url"],
+            "title": item["title"], "discovery_method": "sitemap" if item.get("title") == item.get("url") else "link_discovery",
+            "priority": 1 if item.get("score", 0) >= 12 else 3, "active": True,
+        })
     repo.mark_municipality_verified(municipality["code"])
-    return saved
+    return saved, len(history_candidates)
 
 
 def run_batch(repo: DiscoveryStore, client: RobotsAwareClient, limit: int = 20, offset: int = 0) -> dict:
@@ -61,8 +73,9 @@ def run_batch(repo: DiscoveryStore, client: RobotsAwareClient, limit: int = 20, 
     for municipality in rows:
         result["processed"] += 1
         try:
-            added = discover_for_municipality(repo, client, municipality)
+            added, history_added = discover_for_municipality(repo, client, municipality)
             result["sourcesAdded"] += added
+            result["historySourcesAdded"] = result.get("historySourcesAdded", 0) + history_added
             result["succeeded"] += 1
         except Exception:
             repo.mark_municipality_verified(municipality["code"])

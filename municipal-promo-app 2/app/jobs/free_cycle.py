@@ -11,6 +11,8 @@ from app.json_store import JsonStore
 from app.jobs.crawl_due_sources import crawl_batch
 from app.jobs.discover_sources import run_batch as discover_batch
 from app.jobs.seed_db import load_remote_rows, seed_known_sources, seed_rows
+from app.jobs.crawl_history_sources import crawl_history_batch
+from app.history.matcher import enrich_projects_with_history
 from app.kkj import get_projects, refresh_projects
 
 BASE_DIR = Path(__file__).resolve().parents[2]
@@ -35,8 +37,10 @@ def run_cycle(
     kkj_status: dict | None = None,
     discovery_runner: Callable = discover_batch,
     direct_runner: Callable = crawl_batch,
+    history_runner: Callable = crawl_history_batch,
     discovery_limit: int | None = None,
     direct_limit: int | None = None,
+    history_limit: int | None = None,
 ) -> dict:
     store = store or JsonStore(DATA_DIR)
     data_dir = store.data_dir
@@ -44,7 +48,7 @@ def run_cycle(
     started = datetime.now().astimezone().isoformat(timespec="seconds")
     output: dict = {
         "state": "running", "started_at": started, "updated_at": started,
-        "mode": "github-actions-json", "seed": None, "kkj": None, "discovery": None, "direct": None,
+        "mode": "github-actions-json", "seed": None, "kkj": None, "discovery": None, "direct": None, "history": None,
     }
     _write_json(status_file, output)
 
@@ -85,6 +89,7 @@ def run_cycle(
         )
     discovery_limit = discovery_limit if discovery_limit is not None else int(os.getenv("DISCOVERY_BATCH_SIZE", "25"))
     direct_limit = direct_limit if direct_limit is not None else int(os.getenv("DIRECT_CRAWL_BATCH_SIZE", "12"))
+    history_limit = history_limit if history_limit is not None else int(os.getenv("HISTORY_CRAWL_BATCH_SIZE", "30"))
 
     try:
         output["discovery"] = discovery_runner(store, client, limit=discovery_limit)
@@ -100,6 +105,15 @@ def run_cycle(
         errors.append({"phase": "direct", "error": str(exc)[:500]})
         output["direct"] = {"error": str(exc)[:500]}
 
+    try:
+        output["history"] = history_runner(store, client, limit=history_limit)
+        output["historyLinkedProjects"] = enrich_projects_with_history(store)
+        store.flush()
+    except Exception as exc:
+        errors.append({"phase": "history", "error": str(exc)[:500]})
+        output["history"] = {"error": str(exc)[:500]}
+        output["historyLinkedProjects"] = 0
+
     finished = datetime.now().astimezone().isoformat(timespec="seconds")
     output.update({
         "state": "completed" if not errors else "partial",
@@ -107,7 +121,7 @@ def run_cycle(
         "coverage": store.coverage_stats(),
         "sourceStats": store.source_stats(),
         "errors": errors,
-        "message": "GitHub Actionsで全国自治体公式サイトと官公需APIを分割収集しています。",
+        "message": "GitHub Actionsで全国自治体公式サイト・過去実績・官公需APIを分割収集しています。",
     })
     _write_json(status_file, output)
     store.flush()
