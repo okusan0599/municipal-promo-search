@@ -10270,7 +10270,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.yubari.lg.jp/site/nyusatsu/9759.html",
     "officialSourceUrl": "https://www.city.yubari.lg.jp/site/nyusatsu/9759.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -10508,7 +10508,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.yubari.lg.jp/form/detail.php?sec_sec1=2&inq=02&lif_id=2913",
     "officialSourceUrl": "https://www.city.yubari.lg.jp/form/detail.php?sec_sec1=2&inq=02&lif_id=2913",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -11821,9 +11821,13 @@
       {
         "sourceSystem": "municipality_direct",
         "url": "https://www.city.abashiri.hokkaido.jp/form/detail.php?sec_sec1=6&inq=02&lif_id=23759"
+      },
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.abashiri.hokkaido.jp/form/detail.php?sec_sec1=6&inq=02&lif_id=23997"
       }
     ],
-    "id": "direct-5d1184de9d1c419fb450ffcb",
+    "id": "direct-1505ffbc5c29e32ed7fecedd",
     "municipalityCode": "012114",
     "area": "北海道",
     "region": "北海道",
@@ -11833,9 +11837,9 @@
     "summary": "お問い合わせ ご意見・お問い合わせをお送りください。 なお、メールでの回答には時間を要する場合があります。 お急ぎの場合は、恐れ入りますが、担当部署へ電話でお問い合わせください。 ご入力いただいた内容は、送信後に確認ができませんので、送信後に確認されたい方は、送信前にコピーし、保存してください。 ※メールアドレスはお間違えのないように半角でお願い致します。 ※お問い合わせフォームは、ブラウザのクッキー(Cookie)を利用しています(Cookie対応のブラウザでないと動作しません)。お問い合わせフォームを開いてから60分を超えた場合、内容の送信ができなくなりますので、もし送信までに時間がかかる際には、事前にメモ帳やワードなどで文章を作成してから問合せフォームに貼り付けてください。 担当課 管財係 ページタイトル 令和9年度 網走市物品等競争入札参加資格審査申請(物品調達・役務提供等)について 氏名(必須) メールアドレス (必須) (いずれか必須) (確認用) 住所 (必須) (いずれか必須) 電話番号 (必須) (いずれか必須) 件名(必須) お問い合わせ内容(必須) ※1000文字以内 ※次の画面では送信はまだされません。",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
-    "sourceUrl": "https://www.city.abashiri.hokkaido.jp/form/detail.php?sec_sec1=6&inq=02&lif_id=23759",
-    "officialSourceUrl": "https://www.city.abashiri.hokkaido.jp/form/detail.php?sec_sec1=6&inq=02&lif_id=23759",
-    "lastChecked": "2026-09-05",
+    "sourceUrl": "https://www.city.abashiri.hokkaido.jp/form/detail.php?sec_sec1=6&inq=02&lif_id=23997",
+    "officialSourceUrl": "https://www.city.abashiri.hokkaido.jp/form/detail.php?sec_sec1=6&inq=02&lif_id=23997",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -11847,7 +11851,7 @@
     "dentsuSignals": [],
     "classificationVersion": 2,
     "attachments": [],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "pastAwards": [],
     "vendorHistory": [],
     "historyStatus": "unverified",
@@ -11878,7 +11882,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.abashiri.hokkaido.jp/soshiki/2.html",
     "officialSourceUrl": "https://www.city.abashiri.hokkaido.jp/soshiki/2.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -11918,12 +11922,12 @@
     "municipality": "網走市",
     "organization": "網走市",
     "title": "財政課",
-    "summary": "財政課 新着情報 2026年9月1日更新 令和9年度 網走市物品等競争入札参加資格審査申請(物品調達・役務提供等)について 2026年6月30日更新 新市町村振興宝くじ「サマージャンボ」発売のご案内 2026年6月25日更新 令和8・9年度網走市物品等競争入札参加資格者名簿 2026年3月4日更新 市有地随時売払物件 2026年3月3日更新 令和8・9年度 網走市物品等競争入札参加資格に係る変更申請について 新着情報の一覧 新着情報のRSS 予算・決算 2026年7月1日更新 予算執行状況 2026年4月1日更新 予算の状況 2026年4月1日更新 過去の決算書等について 2025年11月25日更新 決算の状況 財政状況 2026年6月1日更新 財務状況把握の結果概要 2026年3月23日更新 財政状況 2025年12月1日更新 予算編成方針と財政健全化への取り組み 2025年10月24日更新 地方公営企業の抜本的な改革等の取組状況 2025年9月26日更新 網走の財政健全化比率について 財政についてのお知らせ 2026年6月30日更新 新市町村振興宝くじ「サマージャンボ」発売のご案内 物品等競争入札参加資格審査 2026年9月1日更新 令和9年度 網走市物品等競争入札参加資格審査申請(物品調達・役務提供等)について 2026年6月25日更新 令和8・9年度網走市物品等競争入札参加資格者名簿 2026年3月3日更新 令和8・9年度 網走市物品等競争入札参加資格に係る変更申請について 市有地売払い(随時) 2026年3月4日更新 市有地随時売払物件",
+    "summary": "財政課 新着情報 2026年9月7日更新 令和9年度 網走市物品等競争入札参加資格審査申請(物品調達・役務提供等)について 2026年6月30日更新 新市町村振興宝くじ「サマージャンボ」発売のご案内 2026年6月25日更新 令和8・9年度網走市物品等競争入札参加資格者名簿 2026年3月4日更新 市有地随時売払物件 2026年3月3日更新 令和8・9年度 網走市物品等競争入札参加資格に係る変更申請について 新着情報の一覧 新着情報のRSS 予算・決算 2026年7月1日更新 予算執行状況 2026年4月1日更新 予算の状況 2026年4月1日更新 過去の決算書等について 2025年11月25日更新 決算の状況 財政状況 2026年6月1日更新 財務状況把握の結果概要 2026年3月23日更新 財政状況 2025年12月1日更新 予算編成方針と財政健全化への取り組み 2025年10月24日更新 地方公営企業の抜本的な改革等の取組状況 2025年9月26日更新 網走の財政健全化比率について 財政についてのお知らせ 2026年6月30日更新 新市町村振興宝くじ「サマージャンボ」発売のご案内 物品等競争入札参加資格審査 2026年9月7日更新 令和9年度 網走市物品等競争入札参加資格審査申請(物品調達・役務提供等)について 2026年6月25日更新 令和8・9年度網走市物品等競争入札参加資格者名簿 2026年3月3日更新 令和8・9年度 網走市物品等競争入札参加資格に係る変更申請について 市有地売払い(随時) 2026年3月4日更新 市有地随時売払物件",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.abashiri.hokkaido.jp/soshiki/6/",
     "officialSourceUrl": "https://www.city.abashiri.hokkaido.jp/soshiki/6/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63260,7 +63264,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/denshinyusatsu/index.html",
     "officialSourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/denshinyusatsu/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63303,7 +63307,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/nyusatsujoho/index.html",
     "officialSourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/nyusatsujoho/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63348,7 +63352,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/nyusatsukankeishoshiki/index.html",
     "officialSourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/nyusatsukankeishoshiki/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63391,7 +63395,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/nyusatsukekka_hatchumitooshi/index.html",
     "officialSourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/nyusatsukekka_hatchumitooshi/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63437,7 +63441,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/oshirase/index.html",
     "officialSourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/oshirase/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63482,7 +63486,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/saikenshatoroku_seikyushoyoshiki/index.html",
     "officialSourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/saikenshatoroku_seikyushoyoshiki/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63525,7 +63529,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/seidosetsumei/index.html",
     "officialSourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/seidosetsumei/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63568,7 +63572,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/shimeigyoshatoroku/index.html",
     "officialSourceUrl": "https://www.city.hanno.lg.jp/sangyo_jigyoshamuke/nyusatsu_keiyaku_saikenshatoroku/shimeigyoshatoroku/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63611,7 +63615,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/yuuryoukoukoku/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/jigyo/yuuryoukoukoku/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -63657,12 +63661,12 @@
     "municipality": "狭山市",
     "organization": "狭山市",
     "title": "9月イベントカレンダー",
-    "summary": "9月イベントカレンダー きてみて!今日 日のイベント 募集締め切り間近 現在、募集締め切り間近のイベントはありません イベントを絞り込んで検索 キッズ シルバー 教育・子育て 健康・福祉 スポーツ・レクリエーション 文化・教養 安全・安心 マルシェ 自然を楽しむ その他 すべてのイベントを表示 2026年9月 8月 10月 開催日 イベント 1日 火曜日 備えて安心~耐震展~ クルマ展(博物館) 2日 水曜日 備えて安心~耐震展~ 入間川にこにこテラス(ニコテラWednesdayなど) クルマ展(博物館) 3日 木曜日 備えて安心~耐震展~ クルマ展(博物館) 子育てプレイス新狭山イベント 4日 金曜日 クルマ展(博物館) 【事前申込】おはなし会(読み聞かせ会)入曽地域交流センター 5日 土曜日 【中央公民館】お菓子づくり講座 クルマ展(博物館) 【事前申込】柔道教室 6日 日曜日 【事前申込】楽しく学ぶ市民講座 クルマ展(博物館) 7日 月曜日 8日 火曜日 9日 水曜日 入間川にこにこテラス(ニコテラWednesdayなど) 【事前申込】柔道教室 10日 木曜日 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です パパママリフレッシュ講座(お菓子づくり) 子育て広場(あいあい、プチ・クレヨン)@柏原公民館 11日 金曜日 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です 親子講座はっぴー(会場:水富公民館) 12日 土曜日 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です 【事前申込】地域の女性応援講座 【事前申込】親子であそぼう 【事前申込】柔道教室 13日 日曜日 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です 14日 月曜日 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です 【事前申込】すこやか体操教室 【事前申込】乳幼児健康相談 15日 火曜日 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です 【事前申込】ヨガ教室 【事前申込】みんなが知れば怖くない(介護予防・認知症予防講座) 16日 水曜日 入間川にこにこテラス(ニコテラWednesdayなど) 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です ゲートキーパー研修 【事前申込】柔道教室 17日 木曜日 ゆるHIITで滝汗かこう! ユニバーサルスポーツを楽しもう!@富士見集会所 18日 金曜日 ことも食堂・地域食堂(LINK SAYAMA) 認知症カフェ(オレンジカフェ) 【事前申し込み】一般健康相談 19日 土曜日 【事前申込】柔道教室 20日 日曜日 挑戦のたねまき まちとつながる おしごと体験 21日 月曜日 敬老の日 22日 火曜日 国民の休日 23日 水曜日 秋分の日 24日 木曜日 子育て広場(あいあい、プチ・クレヨン)@柏原公民館 25日 金曜日 【事前申込】子育て支援者情報交流会 【事前申込】助産師による母乳相談 26日 土曜日 入間川にこにこテラス(ニコテラWednesdayなど) 27日 日曜日 28日 月曜日 【事前申込】すこやか体操教室 29日 火曜日 【事前申込】けん玉教室 【事前申込】ヨガ教室 30日 水曜日 【事前申込】歯ぴかぴか講座(わいわいルーム御狩場) 入間川にこにこテラス(ニコテラWednesdayなど) 【事前申込】いきいき百歳体操のサポーター養成講座",
+    "summary": "9月イベントカレンダー きてみて!今日 日のイベント 本日開催のイベントはありません。 募集締め切り間近 現在、募集締め切り間近のイベントはありません イベントを絞り込んで検索 キッズ シルバー 教育・子育て 健康・福祉 スポーツ・レクリエーション 文化・教養 安全・安心 マルシェ 自然を楽しむ その他 すべてのイベントを表示 2026年9月 8月 10月 開催日 イベント 1日 火曜日 備えて安心~耐震展~ 2日 水曜日 備えて安心~耐震展~ 入間川にこにこテラス(ニコテラWednesdayなど) 3日 木曜日 備えて安心~耐震展~ 子育てプレイス新狭山イベント 4日 金曜日 【事前申込】おはなし会(読み聞かせ会)入曽地域交流センター 5日 土曜日 【中央公民館】お菓子づくり講座 【事前申込】柔道教室 6日 日曜日 【事前申込】楽しく学ぶ市民講座 7日 月曜日 8日 火曜日 9日 水曜日 入間川にこにこテラス(ニコテラWednesdayなど) 【事前申込】柔道教室 10日 木曜日 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です パパママリフレッシュ講座(お菓子づくり) 子育て広場(あいあい、プチ・クレヨン)@柏原公民館 11日 金曜日 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です 親子講座はっぴー(会場:水富公民館) 12日 土曜日 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です 【事前申込】地域の女性応援講座 【事前申込】親子であそぼう 【事前申込】柔道教室 13日 日曜日 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です 14日 月曜日 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です 【事前申込】すこやか体操教室 【事前申込】乳幼児健康相談 15日 火曜日 【事前申込】みんなが知れば怖くない(介護予防・認知症予防講座) 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です 【事前申込】ヨガ教室 16日 水曜日 入間川にこにこテラス(ニコテラWednesdayなど) 3月は「自殺対策強化月間」、9月10日から16日は「自殺予防週間」です ゲートキーパー研修 【事前申込】柔道教室 17日 木曜日 ゆるHIITで滝汗かこう! ユニバーサルスポーツを楽しもう!@富士見集会所 18日 金曜日 ことも食堂・地域食堂(LINK SAYAMA) 認知症カフェ(オレンジカフェ) 【事前申し込み】一般健康相談 19日 土曜日 【事前申込】柔道教室 20日 日曜日 お仕事体験会「さやまおしごとタウン」 21日 月曜日 敬老の日 22日 火曜日 国民の休日 23日 水曜日 秋分の日 24日 木曜日 子育て広場(あいあい、プチ・クレヨン)@柏原公民館 25日 金曜日 【事前申込】子育て支援者情報交流会 【事前申込】助産師による母乳相談 26日 土曜日 入間川にこにこテラス(ニコテラWednesdayなど) 27日 日曜日 28日 月曜日 【事前申込】すこやか体操教室 29日 火曜日 【事前申込】けん玉教室 【事前申込】ヨガ教室 30日 水曜日 【事前申込】歯ぴかぴか講座(わいわいルーム御狩場) 入間川にこにこテラス(ニコテラWednesdayなど) 【事前申込】いきいき百歳体操のサポーター養成講座",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/kankou/event/calendar/list_calendar.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/kankou/event/calendar/list_calendar.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "イベント"
@@ -63706,12 +63710,12 @@
     "municipality": "狭山市",
     "organization": "狭山市",
     "title": "情報が見つからないときは",
-    "summary": "情報が見つからないときは 印刷 更新日:2020年3月23日 7つの分類から探す 狭山市のホームページは大きく7つの項目に分類にしています。知りたい情報の分類から探すことができます。 暮らし・手続き 子育て・教育 健康・福祉 文化・スポーツ 観光・産業 事業者向け情報 市政情報 よくある質問から探す ご利用者の方によくお問い合わせいただく項目と、その回答をご紹介しています。 よくある質問 サイトマップから探す 狭山市ホームページに掲載されている主な項目を一覧で表示しています。 サイトマップ よく調べられている項目からさがす オンラインサービスや人気のキーワードから知りたい情報を探すことができます。 よく調べられている項目からさがす 人生のライフイベントから探す 人生のライフイベントごとに関連する情報をまとめてご紹介しています。 人生のライフイベントから探す 施設案内から探す 市内公共施設ごとに関連する情報をまとめてご紹介しています。 市の施設 組織から探す 各部署をまとめてご紹介しています。 各課の案内 このページに関するお問い合わせは 企画財政部 広報課 狭山市入間川1丁目23番5号 電話:04-2953-1111 FAX:04-2954-6262 問い合わせフォームメール 組織詳細 このページを見ている人は、こんなページも見ています お問い合わせ 個人情報の取扱い 狭山市指定給水装置工事事業者 狭山市下水道台帳図の公開 狭山市下水道排水設備指定工事店 この情報は役に立ちましたか? お寄せいただいた評価はサイト運営の参考といたします。 質問:このページの情報は役に立ちましたか? 役に立った どちらともいえない 役に立たなかった 質問:このページの情報は見つけやすかったですか? 見つけやすかった どちらともいえない 見つけにくかった 施設案内 よくある質問 イベントカレンダー 情報が見つからないときは",
+    "summary": "情報が見つからないときは 印刷 更新日:2020年3月23日 7つの分類から探す 狭山市のホームページは大きく7つの項目に分類にしています。知りたい情報の分類から探すことができます。 暮らし・手続き 子育て・教育 健康・福祉 文化・スポーツ 観光・産業 事業者向け情報 市政情報 よくある質問から探す ご利用者の方によくお問い合わせいただく項目と、その回答をご紹介しています。 よくある質問 サイトマップから探す 狭山市ホームページに掲載されている主な項目を一覧で表示しています。 サイトマップ よく調べられている項目からさがす オンラインサービスや人気のキーワードから知りたい情報を探すことができます。 よく調べられている項目からさがす 人生のライフイベントから探す 人生のライフイベントごとに関連する情報をまとめてご紹介しています。 人生のライフイベントから探す 施設案内から探す 市内公共施設ごとに関連する情報をまとめてご紹介しています。 市の施設 組織から探す 各部署をまとめてご紹介しています。 各課の案内 このページに関するお問い合わせは 企画財政部 広報課 狭山市入間川1丁目23番5号 電話:04-2953-1111 FAX:04-2954-6262 問い合わせフォームメール 組織詳細 このページを見ている人は、こんなページも見ています お問い合わせ 個人情報の取扱い 狭山市下水道排水設備指定工事店 狭山市内水浸水実績箇所図(水害ハザードマップ) さやま議会だより(2026年) この情報は役に立ちましたか? お寄せいただいた評価はサイト運営の参考といたします。 質問:このページの情報は役に立ちましたか? 役に立った どちらともいえない 役に立たなかった 質問:このページの情報は見つけやすかったですか? 見つけやすかった どちらともいえない 見つけにくかった 施設案内 よくある質問 イベントカレンダー 情報が見つからないときは",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/about/infofound.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/about/infofound.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63753,12 +63757,12 @@
     "municipality": "狭山市",
     "organization": "狭山市",
     "title": "よくある質問",
-    "summary": "よくある質問 よくある質問ランキング 粗大ごみの出し方と料金を教えてください(処分方法) 子宮がん検診の頸部と体部では、何が違うのですか。 稲荷山環境センターに持ち込めるものは何ですか。 市のホームページで条例や規則(例規集)を調べたいのですが。 収入がいくら以上だと市民税・県民税が課税になりますか。 暮らし・手続き 届出・証明 住民票・住民登録・住所変更 戸籍謄本・各種届出 印鑑登録・印鑑証明 住基ネット・公的認証 税金 環境・ペット 健康保険・年金 暮らしの相談 ごみ・リサイクル 道路・交通 住まい 上下水道 就労 安全・安心 男女共同参画 人権 基地対策 子育て・教育 妊娠・出産 こどもの健康 乳幼児の子育て こどもの予防接種 学校・教育 助成・相談 生涯学習・社会教育 健康・福祉 地域福祉 生活支援・相談 健康づくり 保健予防・医療 障害者福祉 介護保険 高齢者福祉 新型コロナウイルス関連 文化・スポーツ スポーツ・レクリエーション 文化・芸術 伝統行事・文化財 観光・産業 イベント情報一覧 観光 事業者向け情報 入札・契約 市税・法人の設立等 環境保全・ごみ 開発・建築・都市景観 市政情報 国勢調査 市役所・市の紹介 市の施設 施策・計画・まちづくり 財政 行政経営・情報化 職員採用・人事 国際交流 広報 情報公開・個人情報保護 市政への参加・協働 選挙 監査 議会 本会議・委員会 市議会議員 請願・陳情 議長交際費・政務活動費 さやま議会だより・ホームページ 外国人の方 届出・手続き",
+    "summary": "よくある質問 よくある質問ランキング 狭山市内の広域避難場所はどこですか。 粗大ごみの出し方と料金を教えてください(処分方法) 子宮がん検診の頸部と体部では、何が違うのですか。 収入がいくら以上だと市民税・県民税が課税になりますか。 狭山市のごみの分別方法を教えてください。 暮らし・手続き 届出・証明 住民票・住民登録・住所変更 戸籍謄本・各種届出 印鑑登録・印鑑証明 住基ネット・公的認証 税金 環境・ペット 健康保険・年金 暮らしの相談 ごみ・リサイクル 道路・交通 住まい 上下水道 就労 安全・安心 男女共同参画 人権 基地対策 子育て・教育 妊娠・出産 こどもの健康 乳幼児の子育て こどもの予防接種 学校・教育 助成・相談 生涯学習・社会教育 健康・福祉 地域福祉 生活支援・相談 健康づくり 保健予防・医療 障害者福祉 介護保険 高齢者福祉 新型コロナウイルス関連 文化・スポーツ スポーツ・レクリエーション 文化・芸術 伝統行事・文化財 観光・産業 イベント情報一覧 観光 事業者向け情報 入札・契約 市税・法人の設立等 環境保全・ごみ 開発・建築・都市景観 市政情報 国勢調査 市役所・市の紹介 市の施設 施策・計画・まちづくり 財政 行政経営・情報化 職員採用・人事 国際交流 広報 情報公開・個人情報保護 市政への参加・協働 選挙 監査 議会 本会議・委員会 市議会議員 請願・陳情 議長交際費・政務活動費 さやま議会だより・ホームページ 外国人の方 届出・手続き",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/faq/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/faq/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63805,7 +63809,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/fukushi/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/jigyo/fukushi/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63850,7 +63854,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/kaihatsu/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/jigyo/kaihatsu/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63896,7 +63900,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/kankyouhozen/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/jigyo/kankyouhozen/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63942,7 +63946,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/kensa/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/jigyo/kensa/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -63987,7 +63991,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/koubo/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/jigyo/koubo/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64038,7 +64042,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/docs/2026052500013/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/docs/2026052500013/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64083,7 +64087,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/docs/2026031800028/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/docs/2026031800028/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64183,7 +64187,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/docs/2026071400042/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/docs/2026071400042/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64262,7 +64266,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/docs/2015010700077/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/docs/2015010700077/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64328,7 +64332,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/categories/bunya/kurashi/shogaigakushu_sports/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/categories/bunya/kurashi/shogaigakushu_sports/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64371,7 +64375,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/categories/bunya/shigikai/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/categories/bunya/shigikai/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64414,7 +64418,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/categories/bunya/shisei/koho/voice_koho/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/categories/bunya/shisei/koho/voice_koho/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -64463,7 +64467,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/categories/kubun/bosai/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/categories/kubun/bosai/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64731,7 +64735,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/form/detail.php?sec_sec1=18&lif_id=7100",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/form/detail.php?sec_sec1=18&lif_id=7100",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64769,12 +64773,12 @@
     "municipality": "鴻巣市",
     "organization": "鴻巣市",
     "title": "鴻巣市役所<span>（本庁舎・新館）</span>RSS（入札・契約・登録）",
-    "summary": "鴻巣市役所<span>(本庁舎・新館)</span>RSS(入札・契約・登録) 鴻巣市役所 (本庁舎・新館) からの情報をRSSで配信 2026-08-20 10:00:00+09:00 鴻巣市役所 (本庁舎・新館) © 2023 Konosu City daily 1 一般競争入札案件(事後審査型)の公告 https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/3457.html 2026-08-20T10:00:00+09:00 契約検査課 令和9・10年度物品等競争入札参加資格審査【新規・更新(定期)】の申請受付 https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/44168.html 2026-08-17T08:30:00+09:00 契約検査課 令和9・10年度 建設工事請負等競争入札参加資格審査申請受付(新規・更新) https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/3438.html 2026-08-17T08:30:00+09:00 契約検査課 建設工事の入札金額見積内訳書を変更します https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/40205.html 2026-03-19T13:00:00+09:00 契約検査課 令和7・8年度 建設工事請負等競争入札参加資格審査申請受付【業種入替第3回申請】 https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/22378.html 2026-03-02T00:00:00+09:00 契約検査課 鴻巣市発注工事における建設キャリアアップシステム活用モデル工事の試行について https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/35430.html 2026-01-15T00:00:00+09:00 契約検査課 ビジネス・産業 入札・契約・登録 入札・契約・登録 監理技術者等の直接的かつ恒常的雇用関係の確認方法 https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/38204.html 2025-12-26T00:00:00+09:00 契約検査課 鴻巣市発注工事における週休2日制モデル工事の試行について(令和8年1月1日改正) https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/29990.html 2025-12-11T00:00:00+09:00 契約検査課 ビジネス・産業 入札・契約・登録 入札・契約・登録 予定価格の事後公表の拡大について https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/18870.html 2025-05-14T00:00:00+09:00 契約検査課 入札・契約等に係る例規等の改正について https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/20448.html 2025-04-01T09:00:00+09:00 契約検査課 令和7・8年度物品等競争入札参加資格申請(業者登録)について https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/26050.html 2024-08-09T00:00:00+09:00 契約検査課 公共工事における前払金の支払限度額の廃止について https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/22524.html 2024-03-28T00:00:00+09:00 契約検査課 令和5・6年度物品売買等指名競争入札参加資格申請(業者登録)について https://www.city.kounosu",
+    "summary": "鴻巣市役所<span>(本庁舎・新館)</span>RSS(入札・契約・登録) 鴻巣市役所 (本庁舎・新館) からの情報をRSSで配信 2026-09-07 10:00:00+09:00 鴻巣市役所 (本庁舎・新館) © 2023 Konosu City daily 1 一般競争入札案件(事後審査型)の公告 https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/3457.html 2026-09-07T10:00:00+09:00 契約検査課 令和9・10年度物品等競争入札参加資格審査【新規・更新(定期)】の申請受付 https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/44168.html 2026-08-17T08:30:00+09:00 契約検査課 令和9・10年度 建設工事請負等競争入札参加資格審査申請受付(新規・更新) https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/3438.html 2026-08-17T08:30:00+09:00 契約検査課 建設工事の入札金額見積内訳書を変更します https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/40205.html 2026-03-19T13:00:00+09:00 契約検査課 令和7・8年度 建設工事請負等競争入札参加資格審査申請受付【業種入替第3回申請】 https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/22378.html 2026-03-02T00:00:00+09:00 契約検査課 鴻巣市発注工事における建設キャリアアップシステム活用モデル工事の試行について https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/35430.html 2026-01-15T00:00:00+09:00 契約検査課 ビジネス・産業 入札・契約・登録 入札・契約・登録 監理技術者等の直接的かつ恒常的雇用関係の確認方法 https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/38204.html 2025-12-26T00:00:00+09:00 契約検査課 鴻巣市発注工事における週休2日制モデル工事の試行について(令和8年1月1日改正) https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/29990.html 2025-12-11T00:00:00+09:00 契約検査課 ビジネス・産業 入札・契約・登録 入札・契約・登録 予定価格の事後公表の拡大について https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/18870.html 2025-05-14T00:00:00+09:00 契約検査課 入札・契約等に係る例規等の改正について https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/20448.html 2025-04-01T09:00:00+09:00 契約検査課 令和7・8年度物品等競争入札参加資格申請(業者登録)について https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/26050.html 2024-08-09T00:00:00+09:00 契約検査課 公共工事における前払金の支払限度額の廃止について https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/22524.html 2024-03-28T00:00:00+09:00 契約検査課 令和5・6年度物品売買等指名競争入札参加資格申請(業者登録)について https://www.city.kounosu",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/rss/10/site-57.xml",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/rss/10/site-57.xml",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64817,7 +64821,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/18870.html",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/18870.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64860,7 +64864,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/18876.html",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/18876.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64903,7 +64907,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/20448.html",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/20448.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64941,32 +64945,30 @@
     "municipality": "鴻巣市",
     "organization": "鴻巣市",
     "title": "一般競争入札案件（事後審査型）の公告",
-    "summary": "一般競争入札案件(事後審査型)の公告 ページID:0003457 更新日:2026年8月20日更新 印刷ページ表示 一般競争入札(事後審査型)公告 市が発注する入札案件の公告についての詳細は、埼玉県の入札情報公開システムに掲載しております。 下部のリンクよりアクセスをお願いします。 入札情報公開システム <外部リンク> ​ 令和8年8月20日現在 令和8年8月20日付一般競争入札の公告を入札情報公開システムへ掲載しました。 公告についての詳細は、 入札情報公開システム をご覧ください。 令和8年8月20日付公告一覧 (PDF:79KB) ​令和8年8月18日現在 令和8年7月30日付公告、令和8年9月2日開札の以下の案件について質問回答書を入札情報公開システムへ掲載しました。 元荒川第13処理分区汚水管渠及び元荒川上流第1排水区雨水管渠築造工事(R8-2) 元荒川第13処理分区汚水管渠及び元荒川上流第1排水区雨水管渠築造工事(R8-1) 質問回答書についての詳細は 入札情報公開システム をご覧ください。 ​ ​ ​ 令和8年7月30日現在 令和8年7月30日付一般競争入札の公告を入札情報公開システムへ掲載しました。 公告についての詳細は、 入札情報公開システム をご覧ください。 令和8年7月30日付公告一覧 (PDF:62KB) ​ ​​ 令和8年7月30日現在 令和8年7月16日付公告、令和8年8月18日開札の以下の案件について質問回答書を入札情報公開システムへ掲載しました。 ​一般下水道管路施設調査業務委託(R8) 質問回答書についての詳細は 入札情報公開システム をご覧ください。 ​ ​ ​ ​ ​ ​ 令和5年12月28日現在 令和6年1月以降の公告案件より、一般競争入札案件の質問受付方法を変更いたします。 設計図書等の質問については、事業課窓口受付から 電子入札システムの質問回答機能 による受付へ変更いたします。システムへの質問書の添付手順等については、埼玉県ホームページをご確認ください。 埼玉県ホームページ(システムの操作(模擬入札/操作マニュアル)ページ内【入札の操作・その他の操作・よくある質問等】質問、回答閲覧を参照) https://www.pref.saitama.lg.jp/a0212/densinyusatsu/manual.html <外部リンク> 注意: 質問書は入札情報公開システム上の発注図書掲載様式を使用し電子入札システムへ添付してください (質問書の拡張子は.docxとし、題名、説明要求内容等には特定の企業名や個人名を記入しないこと)。電子入札システム内の質問事項欄に直接質問内容を打ちこまないで下さい。 なお、質問の回答については従来通り入札情報公開システム上にて掲載を行います。 このページに関するお問い合わせ先 総務部 契約検査課 契約検査課 〒365-8601 埼玉県鴻巣市中央1-1(本庁舎4階) Tel:048-541-1321 Fax:048-541-9256 メールでのお問い合わせはこちら <外部リンク> PDF形式のファイルをご覧いただく場合には、Adobe社が提供するAdobe Readerが必要です。 Adobe Readerをお持ちでない方は、バナーのリンク先からダウンロードしてください。(無料) Tweet <外部リンク>",
+    "summary": "一般競争入札案件(事後審査型)の公告 ページID:0003457 更新日:2026年9月7日更新 印刷ページ表示 一般競争入札(事後審査型)公告 市が発注する入札案件の公告についての詳細は、埼玉県の入札情報公開システムに掲載しております。 下部のリンクよりアクセスをお願いします。 入札情報公開システム <外部リンク> ​ 令和8年9月7日現在 令和8年9月7日付一般競争入札の公告を入札情報公開システムへ掲載しました。 公告についての詳細は、 入札情報公開システム をご覧ください。 ​ 令和8年9月7日付公告一覧 (PDF:64KB) ​​ 令和8年9月7日現在 令和8年8月20日付公告、令和8年9月18日開札の以下の案件について質問回答書を入札情報公開システムへ掲載しました。 ​元荒川第13処理分区汚水管渠築造工事(R8) 質問回答書についての詳細は 入札情報公開システム をご覧ください。 令和8年8月20日現在 令和8年8月20日付一般競争入札の公告を入札情報公開システムへ掲載しました。 公告についての詳細は、 入札情報公開システム をご覧ください。 令和8年8月20日付公告一覧 (PDF:79KB) ​令和8年8月18日現在 令和8年7月30日付公告、令和8年9月2日開札の以下の案件について質問回答書を入札情報公開システムへ掲載しました。 元荒川第13処理分区汚水管渠及び元荒川上流第1排水区雨水管渠築造工事(R8-2) 元荒川第13処理分区汚水管渠及び元荒川上流第1排水区雨水管渠築造工事(R8-1) 質問回答書についての詳細は 入札情報公開システム をご覧ください。 ​ ​ ​ ​ ​ ​ ​ ​ ​ 令和5年12月28日現在 令和6年1月以降の公告案件より、一般競争入札案件の質問受付方法を変更いたします。 設計図書等の質問については、事業課窓口受付から 電子入札システムの質問回答機能 による受付へ変更いたします。システムへの質問書の添付手順等については、埼玉県ホームページをご確認ください。 埼玉県ホームページ(システムの操作(模擬入札/操作マニュアル)ページ内【入札の操作・その他の操作・よくある質問等】質問、回答閲覧を参照) https://www.pref.saitama.lg.jp/a0212/densinyusatsu/manual.html <外部リンク> 注意: 質問書は入札情報公開システム上の発注図書掲載様式を使用し電子入札システムへ添付してください (質問書の拡張子は.docxとし、題名、説明要求内容等には特定の企業名や個人名を記入しないこと)。電子入札システム内の質問事項欄に直接質問内容を打ちこまないで下さい。 なお、質問の回答については従来通り入札情報公開システム上にて掲載を行います。 このページに関するお問い合わせ先 総務部 契約検査課 契約検査課 〒365-8601 埼玉県鴻巣市中央1-1(本庁舎4階) Tel:048-541-1321 Fax:048-541-9256 メールでのお問い合わせはこちら <外部リンク> PDF形式のファイルをご覧いただく場合には、Adobe社が提供するAdobe Readerが必要です。 Adobe Readerをお持ちでない方は、バナーのリンク先からダウンロードしてください。(無料) Tweet <外部リンク>",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/3457.html",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/3457.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
     ],
-    "dentsuFitScore": 12,
+    "dentsuFitScore": 0,
     "dentsuFitLevel": "low",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "業務委託"
-    ],
+    "dentsuSignals": [],
     "classificationVersion": 2,
     "attachments": [
       {
-        "name": "令和8年8月20日付公告一覧 （PDF：79KB）",
-        "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27819.pdf"
+        "name": "令和8年9月7日付公告一覧 （PDF：64KB）",
+        "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/28159.pdf"
       },
       {
-        "name": "令和8年7月30日付公告一覧 （PDF：62KB）",
-        "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27598.pdf"
+        "name": "令和8年8月20日付公告一覧 （PDF：79KB）",
+        "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/27819.pdf"
       }
     ],
     "sourceCount": 1,
@@ -65000,7 +65002,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/38204.html",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/38204.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65038,12 +65040,12 @@
     "municipality": "鴻巣市",
     "organization": "鴻巣市",
     "title": "契約検査課",
-    "summary": "契約検査課 新着情報 2026年8月20日更新 一般競争入札案件(事後審査型)の公告 2025年5月14日更新 予定価格の事後公表の拡大について 2025年4月1日更新 格付および発注標準額 2024年6月1日更新 鴻巣市建設工事設計変更ガイドラインについて 2023年10月18日更新 見積りにより決定した単価及び歩掛等の公表について 新着情報のRSS 入札・契約・登録 2026年8月17日更新 令和9・10年度物品等競争入札参加資格審査【新規・更新(定期)】の申請受付 2026年8月17日更新 令和9・10年度 建設工事請負等競争入札参加資格審査申請受付(新規・更新) 2026年3月19日更新 建設工事の入札金額見積内訳書を変更します 2026年1月15日更新 鴻巣市発注工事における建設キャリアアップシステム活用モデル工事の試行について 2025年12月26日更新 監理技術者等の直接的かつ恒常的雇用関係の確認方法 2025年12月11日更新 鴻巣市発注工事における週休2日制モデル工事の試行について(令和8年1月1日改正) 2025年5月14日更新 予定価格の事後公表の拡大について 2025年4月1日更新 入札・契約等に係る例規等の改正について 2024年10月8日更新 鴻巣市発注工事における週休2日制モデル工事の試行について(令和6年10月1日改正) 2024年10月4日更新 鴻巣市発注工事における週休2日制モデル工事の試行について(令和6年1月1日~令和6年9月30日) 2024年8月9日更新 令和7・8年度物品等競争入札参加資格申請(業者登録)について 2024年6月1日更新 鴻巣市建設工事設計変更ガイドラインについて 2024年1月9日更新 令和5・6年度物品売買等指名競争入札参加資格申請(業者登録)について 2023年10月18日更新 見積りにより決定した単価及び歩掛等の公表について 2023年2月28日更新 入札・契約・登録",
+    "summary": "契約検査課 新着情報 2026年9月7日更新 一般競争入札案件(事後審査型)の公告 2025年5月14日更新 予定価格の事後公表の拡大について 2025年4月1日更新 格付および発注標準額 2024年6月1日更新 鴻巣市建設工事設計変更ガイドラインについて 2023年10月18日更新 見積りにより決定した単価及び歩掛等の公表について 新着情報のRSS 入札・契約・登録 2026年8月17日更新 令和9・10年度物品等競争入札参加資格審査【新規・更新(定期)】の申請受付 2026年8月17日更新 令和9・10年度 建設工事請負等競争入札参加資格審査申請受付(新規・更新) 2026年3月19日更新 建設工事の入札金額見積内訳書を変更します 2026年1月15日更新 鴻巣市発注工事における建設キャリアアップシステム活用モデル工事の試行について 2025年12月26日更新 監理技術者等の直接的かつ恒常的雇用関係の確認方法 2025年12月11日更新 鴻巣市発注工事における週休2日制モデル工事の試行について(令和8年1月1日改正) 2025年5月14日更新 予定価格の事後公表の拡大について 2025年4月1日更新 入札・契約等に係る例規等の改正について 2024年10月8日更新 鴻巣市発注工事における週休2日制モデル工事の試行について(令和6年10月1日改正) 2024年10月4日更新 鴻巣市発注工事における週休2日制モデル工事の試行について(令和6年1月1日~令和6年9月30日) 2024年8月9日更新 令和7・8年度物品等競争入札参加資格申請(業者登録)について 2024年6月1日更新 鴻巣市建設工事設計変更ガイドラインについて 2024年1月9日更新 令和5・6年度物品売買等指名競争入札参加資格申請(業者登録)について 2023年10月18日更新 見積りにより決定した単価及び歩掛等の公表について 2023年2月28日更新 入札・契約・登録",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/soshiki/18/",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/soshiki/18/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65471,7 +65473,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.toda.saitama.jp/form/detail.php?sec_sec1=173&lif_id=182048",
     "officialSourceUrl": "https://www.city.toda.saitama.jp/form/detail.php?sec_sec1=173&lif_id=182048",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65511,12 +65513,12 @@
     "municipality": "戸田市",
     "organization": "戸田市",
     "title": "管財入札課",
-    "summary": "管財入札課 ページID:[[open_page_id]] 新着情報 2026年8月21日更新 2027・2028年度物品購入等競争入札参加資格審査(新規・更新)に係る申請 2026年8月1日更新 2027・2028年度建設工事請負等競争入札参加資格審査に係る申請 2026年7月22日更新 令和8年度 戸田市優秀工事施工業者表彰式 2026年7月15日更新 物品購入等に係る電子入札の導入について 2026年7月9日更新 本庁舎の時間外の電話対応について 新着情報の一覧 新着情報のRSS 発注情報 2026年9月3日更新 【質疑回答】一般競争入札 2026年9月14日開札(修繕) 2026年9月2日更新 【開札日を2026年10月1日に変更】一般競争入札 2026年9月24日開札(業務委託) 2026年9月2日更新 一般競争入札 2026年9月24日開札(賃貸) 2026年8月28日更新 一般競争入札2026年9月16日開札(工事) 2026年8月27日更新 一般競争入札 2026年9月15日開札(修繕) 2026年8月27日更新 随意契約(オープンカウンタ)2026年9月15日開札(業務委託) 2026年8月21日更新 一般競争入札2026年9月9日開札(工事) 2026年8月20日更新 一般競争入札 2026年9月8日開札(修繕) 2026年8月20日更新 一般競争入札2026年9月8日開札(設計・調査・測量) 2026年8月18日更新 一般競争入札2026年9月4日開札(設計・調査・測量) 2026年8月17日更新 一般競争入札 2026年9月3日開札(修繕) 2026年8月17日更新 一般競争入札 2026年9月3日開札(合冊入札) 2026年8月17日更新 一般競争入札2026年9月3日開札(工事) 2026年8月10日更新 【質疑回答】一般競争入札2026年8月26日開札(工事) 2026年7月31日更新 建設工事発注見通し及び随意契約結果の公表 2026年7月23日更新 一般競争入札2026年8月17日開札(工事) 2026年7月21日更新 一般競争入札 2026年8月7日開札(土木施設維持管理) 2026年7月16日更新 一般競争入札2026年8月5日開札(設計・調査・測量) 2026年7月16日更新 随意契約(オープンカウンタ)2026年8月5日開札(建物管理) 2026年4月1日更新 随意契約の発注見通し 2026年3月16日更新 【お知らせ】建設工事の入札金額に係る内訳書の提出について 入札結果(物品・業務委託) 2026年7月1日更新 入札結果(物品・業務委託等) 2025年2月12日更新 2024年度総合評価落札方式結果 2022年3月31日更新 2021年度総合評価落札方式結果 2019年3月8日更新 2018年度総合評価落札方式結果 入札参加資格 2026年9月2日更新 2025・2026年度入札参加資格者(設計・調査・測量(土木施設維持管理含む)) 2026年9月2日更新 2025・2026年度入札参加資格者(建設工事) 2026年8月21日更新 2027・2028年度物品購入等競争入札参加資格審査(新規・更新)に係る申請 2026年8月10日更新 2025・2026年度入札参加資格者(物品購入等) 2026年8月1日更新 2027・2028年度建設工事請負等競争入札参加資格審査に係る申請 2026年7月27日更新 入札参加停止業者一覧 2026年6月8日更新 2025・2026年度(令和7・8年度)小規模修繕事業者登録申請及び登録者名簿(市内業者限定) 2025年4月7日更新 2025・2026年度物品等競争入札参加資格審査(新規(随時))に係る申請 2024年11月26日更新 【受付終了】2025・2026年度建設工事請負等競争入札参加資格審査(新規・更新)に係る申請 2022年10月14日更新 入札参加資格者実態調査 入札制度 2026年7月22日更新 令和8年度 戸田市優秀工事施工業者表彰式 2026年7月15日更新 物品購入等に係る電子入札の導入について 2026年6月29日更新 戸田市入札・契約関係規程集 2026年4月1日更新 最低制限価格等制度について【建設工事・設計・調査・測量・土木施設維",
+    "summary": "管財入札課 ページID:[[open_page_id]] 新着情報 2026年8月21日更新 2027・2028年度物品購入等競争入札参加資格審査(新規・更新)に係る申請 2026年8月1日更新 2027・2028年度建設工事請負等競争入札参加資格審査に係る申請 2026年7月22日更新 令和8年度 戸田市優秀工事施工業者表彰式 2026年7月15日更新 物品購入等に係る電子入札の導入について 2026年7月9日更新 本庁舎の時間外の電話対応について 新着情報の一覧 新着情報のRSS 発注情報 2026年9月8日更新 一般競争入札 2026年9月30日開札(修繕) 2026年9月8日更新 一般競争入札2026年9月30日開札(工事) 2026年9月3日更新 【質疑回答】一般競争入札 2026年9月14日開札(修繕) 2026年9月2日更新 【開札日を2026年10月1日に変更】一般競争入札 2026年9月24日開札(業務委託) 2026年9月2日更新 一般競争入札 2026年9月24日開札(賃貸) 2026年8月28日更新 一般競争入札2026年9月16日開札(工事) 2026年8月27日更新 一般競争入札 2026年9月15日開札(修繕) 2026年8月27日更新 随意契約(オープンカウンタ)2026年9月15日開札(業務委託) 2026年8月21日更新 一般競争入札2026年9月9日開札(工事) 2026年8月20日更新 一般競争入札 2026年9月8日開札(修繕) 2026年8月20日更新 一般競争入札2026年9月8日開札(設計・調査・測量) 2026年8月18日更新 一般競争入札2026年9月4日開札(設計・調査・測量) 2026年8月17日更新 一般競争入札 2026年9月3日開札(修繕) 2026年8月17日更新 一般競争入札 2026年9月3日開札(合冊入札) 2026年8月17日更新 一般競争入札2026年9月3日開札(工事) 2026年8月10日更新 【質疑回答】一般競争入札2026年8月26日開札(工事) 2026年7月31日更新 建設工事発注見通し及び随意契約結果の公表 2026年7月23日更新 一般競争入札2026年8月17日開札(工事) 2026年4月1日更新 随意契約の発注見通し 2026年3月16日更新 【お知らせ】建設工事の入札金額に係る内訳書の提出について 入札結果(物品・業務委託) 2026年7月1日更新 入札結果(物品・業務委託等) 2025年2月12日更新 2024年度総合評価落札方式結果 2022年3月31日更新 2021年度総合評価落札方式結果 2019年3月8日更新 2018年度総合評価落札方式結果 入札参加資格 2026年9月7日更新 2025・2026年度入札参加資格者(物品購入等) 2026年9月2日更新 2025・2026年度入札参加資格者(設計・調査・測量(土木施設維持管理含む)) 2026年9月2日更新 2025・2026年度入札参加資格者(建設工事) 2026年8月21日更新 2027・2028年度物品購入等競争入札参加資格審査(新規・更新)に係る申請 2026年8月1日更新 2027・2028年度建設工事請負等競争入札参加資格審査に係る申請 2026年7月27日更新 入札参加停止業者一覧 2026年6月8日更新 2025・2026年度(令和7・8年度)小規模修繕事業者登録申請及び登録者名簿(市内業者限定) 2025年4月7日更新 2025・2026年度物品等競争入札参加資格審査(新規(随時))に係る申請 2024年11月26日更新 【受付終了】2025・2026年度建設工事請負等競争入札参加資格審査(新規・更新)に係る申請 2022年10月14日更新 入札参加資格者実態調査 入札制度 2026年7月22日更新 令和8年度 戸田市優秀工事施工業者表彰式 2026年7月15日更新 物品購入等に係る電子入札の導入について 2026年6月29日更新 戸田市入札・契約関係規程集 2026年4月1日更新 最低制限価格等制度について【建設工事・設計・調査・測量・土木施設維持管理】 2026年3月3日更新 2026年3月1日の労務単価改定に伴うインフレスライド条項及び特例措置の適用につい",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.toda.saitama.jp/soshiki/173/",
     "officialSourceUrl": "https://www.city.toda.saitama.jp/soshiki/173/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65562,7 +65564,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.toda.saitama.jp/soshiki/173/access-todacity.html",
     "officialSourceUrl": "https://www.city.toda.saitama.jp/soshiki/173/access-todacity.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65605,7 +65607,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.toda.saitama.jp/soshiki/173/nyusatsu-keiyaku-kiteisyuu.html",
     "officialSourceUrl": "https://www.city.toda.saitama.jp/soshiki/173/nyusatsu-keiyaku-kiteisyuu.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65796,7 +65798,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24016.docx",
     "officialSourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24016.docx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65841,7 +65843,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24021.docx",
     "officialSourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24021.docx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65886,7 +65888,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24022.xlsx",
     "officialSourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24022.xlsx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65931,7 +65933,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24081.pdf",
     "officialSourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24081.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65976,7 +65978,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24088.xlsx",
     "officialSourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24088.xlsx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66021,7 +66023,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/014/044/propo00.pdf",
     "officialSourceUrl": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/014/044/propo00.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66064,7 +66066,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/014/044/propo02.docx",
     "officialSourceUrl": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/014/044/propo02.docx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66107,7 +66109,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/014/044/propo03.doc",
     "officialSourceUrl": "https://www.city.wako.lg.jp/_res/projects/default_project/_page_/001/014/044/propo03.doc",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66154,7 +66156,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/12768.html",
     "officialSourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/12768.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66226,7 +66228,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/12760.html",
     "officialSourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/12760.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66294,7 +66296,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/14181.html",
     "officialSourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/14181.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66362,7 +66364,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/14492.html",
     "officialSourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/14492.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66454,7 +66456,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/14941.html",
     "officialSourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/14941.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66522,7 +66524,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/14169.html",
     "officialSourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/14169.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66591,7 +66593,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/15367.html",
     "officialSourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/15367.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -66670,7 +66672,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/12252.html",
     "officialSourceUrl": "https://www.city.okegawa.lg.jp/jigyosha/nyusatsu/koubo/12252.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66804,7 +66806,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/013/169/r8_siyousyo.pdf",
     "officialSourceUrl": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/013/169/r8_siyousyo.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66853,7 +66855,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/013/169/r8_chousyo.doc",
     "officialSourceUrl": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/013/169/r8_chousyo.doc",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66902,7 +66904,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/013/169/r8_kikakuteian_kagami.doc",
     "officialSourceUrl": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/013/169/r8_kikakuteian_kagami.doc",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66951,7 +66953,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/013/169/r8_jitaitodoke.doc",
     "officialSourceUrl": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/013/169/r8_jitaitodoke.doc",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66998,7 +67000,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/013/169/r8_kaisyagaiyou.doc",
     "officialSourceUrl": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/013/169/r8_kaisyagaiyou.doc",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -67045,7 +67047,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kuki.lg.jp/shisei/jigyo/nyusatsu_keiyaku/1002295/1007057/index.html",
     "officialSourceUrl": "https://www.city.kuki.lg.jp/shisei/jigyo/nyusatsu_keiyaku/1002295/1007057/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -67094,7 +67096,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kuki.lg.jp/shisei/jigyo/nyusatsu_keiyaku/1002295/1007058/index.html",
     "officialSourceUrl": "https://www.city.kuki.lg.jp/shisei/jigyo/nyusatsu_keiyaku/1002295/1007058/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -67149,7 +67151,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kuki.lg.jp/shisei/jigyo/nyusatsu_keiyaku/1002296/1005780.html",
     "officialSourceUrl": "https://www.city.kuki.lg.jp/shisei/jigyo/nyusatsu_keiyaku/1002296/1005780.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -67838,7 +67840,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/nyusatsu-keiyaku/61257",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/nyusatsu-keiyaku/61257",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -67925,7 +67927,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/nyusatsu-keiyaku/63391",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/nyusatsu-keiyaku/63391",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -67998,7 +68000,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/sogyo-jigyoshien/62927",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/sogyo-jigyoshien/62927",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -68051,7 +68053,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -68100,7 +68102,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/nyusatsu-keiyaku/116",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/nyusatsu-keiyaku/116",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -68175,7 +68177,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/nyusatsu-keiyaku/357",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/nyusatsu-keiyaku/357",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -68557,7 +68559,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/nyusatsu-keiyaku/54857",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/nyusatsu-keiyaku/54857",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -68623,7 +68625,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/nyusatsu-keiyaku/56169",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/jigyosha/nyusatsu-keiyaku/56169",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -68676,7 +68678,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2020/11/03-横瀬町電子入札運用基準.pdf",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2020/11/03-横瀬町電子入札運用基準.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -68723,7 +68725,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2021/02/横瀬町郵便入札運用基準.pdf",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2021/02/横瀬町郵便入札運用基準.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -68770,7 +68772,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/05/完成版地方自治法施行令第167条の2第1項第3号に基づく契約公表一覧表.pdf",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/05/完成版地方自治法施行令第167条の2第1項第3号に基づく契約公表一覧表.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -68819,7 +68821,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/shisetu-bunka/shisetsu-oshirase/63214",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/shisetu-bunka/shisetsu-oshirase/63214",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -68877,7 +68879,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/07/【様式第8号】指定管理者指定申請書.rtf",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/07/【様式第8号】指定管理者指定申請書.rtf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -68924,7 +68926,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/07/募集要項.pdf",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/07/募集要項.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -68977,7 +68979,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/07/条例.pdf",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/07/条例.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -69030,7 +69032,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/07/横瀬町省エネルギー型暮らし体験住宅条例施行規則.pdf",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/07/横瀬町省エネルギー型暮らし体験住宅条例施行規則.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -69083,7 +69085,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/08/仕様書.pdf",
     "officialSourceUrl": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2026/08/仕様書.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -69136,7 +69138,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/05/202606youkou.pdf",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/05/202606youkou.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -69174,12 +69176,12 @@
     "municipality": "長瀞町",
     "organization": "長瀞町",
     "title": "お知らせ | 長瀞町役場",
-    "summary": "新着・お知らせ 2026年9月2日 9月議会定例会のお知らせ 新着・お知らせ 2026年9月1日 広報ながとろ9月号を掲載しました 新着・お知らせ 2026年9月1日 手話に関する展示コーナーを設置しました 新着・お知らせ 2026年9月1日 農地利用状況調査を実施します。 新着・お知らせ 2026年8月27日 令和8年10月1日採用長瀞町職員採用試験 第2次試験の結果について 新着・お知らせ 2026年8月26日 副町長の就任について(令和8年8月13日) 新着・お知らせ 2026年8月15日 【お知らせ】令和8年度(2026年度)長瀞船玉まつりについて 新着・お知らせ 2026年8月14日 ホームページ一時停止のお知らせ(8月18日) 新着・お知らせ 2026年8月14日 自主避難所の閉鎖について 新着・お知らせ 2026年8月13日 自主避難所の開設について 新着・お知らせ 2026年8月7日 令和8年熊本地震による災害義援金の募集 新着・お知らせ 2026年8月4日 とろにゃん3D・AIアバターがスマートフォン等からご利用いただけるようになりました ページ指定: 1 2 3 4 ... 27 次のページ",
+    "summary": "新着・お知らせ 2026年9月2日 9月議会定例会のお知らせ 新着・お知らせ 2026年9月1日 佐川急便株式会社と3つの協定を締結しました 新着・お知らせ 2026年9月1日 広報ながとろ9月号を掲載しました 新着・お知らせ 2026年9月1日 手話に関する展示コーナーを設置しました 新着・お知らせ 2026年9月1日 農地利用状況調査を実施します。 新着・お知らせ 2026年8月27日 令和8年10月1日採用長瀞町職員採用試験 第2次試験の結果について 新着・お知らせ 2026年8月26日 副町長の就任について(令和8年8月13日) 新着・お知らせ 2026年8月15日 【お知らせ】令和8年度(2026年度)長瀞船玉まつりについて 新着・お知らせ 2026年8月14日 ホームページ一時停止のお知らせ(8月18日) 新着・お知らせ 2026年8月14日 自主避難所の閉鎖について 新着・お知らせ 2026年8月13日 自主避難所の開設について 新着・お知らせ 2026年8月7日 令和8年熊本地震による災害義援金の募集 ページ指定: 1 2 3 4 ... 27 次のページ",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/news/",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/news/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -69224,7 +69226,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/news/77238/",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/news/77238/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -69277,7 +69279,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/news/77949/",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/news/77949/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -69330,7 +69332,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/05/202606sankahyoumei.docx",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/05/202606sankahyoumei.docx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -69373,7 +69375,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/05/202606situmonsyo.docx",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/05/202606situmonsyo.docx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -69416,7 +69418,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/05/202606siyousyo.pdf",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/05/202606siyousyo.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -69459,7 +69461,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/05/202606zitai.docx",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/05/202606zitai.docx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -69503,7 +69505,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/%e4%bb%a4%e5%92%8c7%e3%83%bb8%e5%b9%b4%e5%ba%a6%e9%95%b7%e7%80%9e%e7%94%ba%e5%b0%8f%e8%a6%8f%e6%a8%a1%e5%a5%91%e7%b4%84%e5%b8%8c%e6%9c%9b%e8%80%85%e7%99%bb%e9%8c%b2%e7%94%b3%e8%ab%8b%e3%81%ae%e6%a1%88/",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/%e4%bb%a4%e5%92%8c7%e3%83%bb8%e5%b9%b4%e5%ba%a6%e9%95%b7%e7%80%9e%e7%94%ba%e5%b0%8f%e8%a6%8f%e6%a8%a1%e5%a5%91%e7%b4%84%e5%b8%8c%e6%9c%9b%e8%80%85%e7%99%bb%e9%8c%b2%e7%94%b3%e8%ab%8b%e3%81%ae%e6%a1%88/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -69612,7 +69614,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/%e5%85%a5%e6%9c%ad%e4%ba%88%e5%ae%9a/",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/%e5%85%a5%e6%9c%ad%e4%ba%88%e5%ae%9a/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -69750,7 +69752,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/2177-2-11/",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/2177-2-11/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -69799,7 +69801,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/2177-2-2/",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/2177-2-2/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -69948,7 +69950,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/2177-2-3/",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/2177-2-3/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -70006,7 +70008,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/2177-2-4/",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/2177-2-4/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -70072,7 +70074,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/2177-2-8/",
     "officialSourceUrl": "https://www.town.nagatoro.saitama.jp/jigyosha/2177-2-8/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -70121,7 +70123,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9469_55996_misc.pdf",
     "officialSourceUrl": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9469_55996_misc.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -70166,7 +70168,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9469_55988_misc.docx",
     "officialSourceUrl": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9469_55988_misc.docx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -70211,7 +70213,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9469_55990_misc.docx",
     "officialSourceUrl": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9469_55990_misc.docx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -70256,7 +70258,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9469_56000_misc.pdf",
     "officialSourceUrl": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9469_56000_misc.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -70301,7 +70303,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9469_55993_misc.xlsx",
     "officialSourceUrl": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9469_55993_misc.xlsx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -70344,7 +70346,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.vill.higashichichibu.saitama.jp/form/detail.php?sec_sec1=2&inq=02&lif_id=9469",
     "officialSourceUrl": "https://www.vill.higashichichibu.saitama.jp/form/detail.php?sec_sec1=2&inq=02&lif_id=9469",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -70390,7 +70392,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.vill.higashichichibu.saitama.jp/soshiki/01/",
     "officialSourceUrl": "https://www.vill.higashichichibu.saitama.jp/soshiki/01/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -70437,7 +70439,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9469_55989_misc.docx",
     "officialSourceUrl": "https://www.vill.higashichichibu.saitama.jp/uploaded/life/9469_55989_misc.docx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -70480,7 +70482,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.kamisato.saitama.jp/7995.htm",
     "officialSourceUrl": "https://www.town.kamisato.saitama.jp/7995.htm",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -70588,7 +70590,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.kamisato.saitama.jp/7996.htm",
     "officialSourceUrl": "https://www.town.kamisato.saitama.jp/7996.htm",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -70692,7 +70694,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.kamisato.saitama.jp/6676.htm",
     "officialSourceUrl": "https://www.town.kamisato.saitama.jp/6676.htm",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -70739,7 +70741,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.kamisato.saitama.jp/secure/15841/jisshiyouryou.pdf",
     "officialSourceUrl": "https://www.town.kamisato.saitama.jp/secure/15841/jisshiyouryou.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -70786,7 +70788,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.kamisato.saitama.jp/secure/15842/kikakuteiansho.docx",
     "officialSourceUrl": "https://www.town.kamisato.saitama.jp/secure/15842/kikakuteiansho.docx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -70831,7 +70833,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.kamisato.saitama.jp/1001.htm",
     "officialSourceUrl": "https://www.town.kamisato.saitama.jp/1001.htm",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "観光PR"
@@ -70881,7 +70883,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.kamisato.saitama.jp/kankou/",
     "officialSourceUrl": "https://www.town.kamisato.saitama.jp/kankou/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "観光PR"
@@ -70972,7 +70974,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.kamisato.saitama.jp/koho/",
     "officialSourceUrl": "https://www.town.kamisato.saitama.jp/koho/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -71044,7 +71046,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.kamisato.saitama.jp/secure/15842/jissiyouryou.pdf",
     "officialSourceUrl": "https://www.town.kamisato.saitama.jp/secure/15842/jissiyouryou.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -71089,7 +71091,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chiba.jp/keizainosei/keizai/promotion/r8websns_inboundjouhouhasshin.html",
     "officialSourceUrl": "https://www.city.chiba.jp/keizainosei/keizai/promotion/r8websns_inboundjouhouhasshin.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "観光PR",
@@ -71169,7 +71171,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chiba.jp/hokenfukushi/koreishogai/kaigohokenkanri/jinzai/tyukenkensyu2026.html",
     "officialSourceUrl": "https://www.city.chiba.jp/hokenfukushi/koreishogai/kaigohokenkanri/jinzai/tyukenkensyu2026.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -71265,7 +71267,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chiba.jp/hokenfukushi/koreishogai/jiritsu/hattatsu/rikaisokusin/itakugyoumur7_2.html",
     "officialSourceUrl": "https://www.city.chiba.jp/hokenfukushi/koreishogai/jiritsu/hattatsu/rikaisokusin/itakugyoumur7_2.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -71375,7 +71377,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chiba.jp/kankyo/junkan/haikibutsu/gomibunbetsu_school/08nyusatsu.html",
     "officialSourceUrl": "https://www.city.chiba.jp/kankyo/junkan/haikibutsu/gomibunbetsu_school/08nyusatsu.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -71467,7 +71469,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chiba.jp/keizainosei/keizai/koyosuishin/gijyutu_ginou2026.html",
     "officialSourceUrl": "https://www.city.chiba.jp/keizainosei/keizai/koyosuishin/gijyutu_ginou2026.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -71552,7 +71554,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chiba.jp/keizainosei/nosei/nosei/r8sen_loyalcustomer.html",
     "officialSourceUrl": "https://www.city.chiba.jp/keizainosei/nosei/nosei/r8sen_loyalcustomer.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -71630,7 +71632,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chiba.jp/keizainosei/nosei/nosei/r8sen_loyalcustomer02.html",
     "officialSourceUrl": "https://www.city.chiba.jp/keizainosei/nosei/nosei/r8sen_loyalcustomer02.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -71712,7 +71714,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chiba.jp/keizainosei/nosei/nosei/r8sendigital.html",
     "officialSourceUrl": "https://www.city.chiba.jp/keizainosei/nosei/nosei/r8sendigital.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -72040,7 +72042,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kanshi_iinkai/index.html",
     "officialSourceUrl": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kanshi_iinkai/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -72174,7 +72176,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.futtsu.lg.jp/0000008578.html",
     "officialSourceUrl": "https://www.city.futtsu.lg.jp/0000008578.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -72228,7 +72230,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.futtsu.lg.jp/0000008599.html",
     "officialSourceUrl": "https://www.city.futtsu.lg.jp/0000008599.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -72319,7 +72321,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.futtsu.lg.jp/0000006016.html",
     "officialSourceUrl": "https://www.city.futtsu.lg.jp/0000006016.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -72425,7 +72427,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.futtsu.lg.jp/0000008486.html",
     "officialSourceUrl": "https://www.city.futtsu.lg.jp/0000008486.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -72529,7 +72531,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.futtsu.lg.jp/event2/1curr_1.html",
     "officialSourceUrl": "https://www.city.futtsu.lg.jp/event2/1curr_1.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "観光PR",
@@ -72582,7 +72584,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.futtsu.lg.jp/0000008166.html",
     "officialSourceUrl": "https://www.city.futtsu.lg.jp/0000008166.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -72641,7 +72643,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.futtsu.lg.jp/category/3-1-8-0-0-0-0-0-0-0.html",
     "officialSourceUrl": "https://www.city.futtsu.lg.jp/category/3-1-8-0-0-0-0-0-0-0.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -72744,7 +72746,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.futtsu.lg.jp/cmsfiles/contents/0000008/8599/youryou.pdf",
     "officialSourceUrl": "https://www.city.futtsu.lg.jp/cmsfiles/contents/0000008/8599/youryou.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -72797,7 +72799,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.futtsu.lg.jp/cmsfiles/contents/0000008/8599/siyousyo.pdf",
     "officialSourceUrl": "https://www.city.futtsu.lg.jp/cmsfiles/contents/0000008/8599/siyousyo.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -72850,7 +72852,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/049/011/1r8kikansoudan_bosyuuyoukou.pdf",
     "officialSourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/049/011/1r8kikansoudan_bosyuuyoukou.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -72895,7 +72897,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/049/011/3r8kikan_oubosyousikisyuu_pdf.pdf",
     "officialSourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/049/011/3r8kikan_oubosyousikisyuu_pdf.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -72941,7 +72943,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/049/011/3r8kikan_oubosyousikisyuu_word.doc",
     "officialSourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/049/011/3r8kikan_oubosyousikisyuu_word.doc",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -72986,7 +72988,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/049/011/2r8.kikansoudan_siyousyo.pdf",
     "officialSourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/049/011/2r8.kikansoudan_siyousyo.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -73031,7 +73033,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/049/011/r8situmonnokaitou.pdf",
     "officialSourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/049/011/r8situmonnokaitou.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -73074,7 +73076,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/030/179/20260827kaito.pdf",
     "officialSourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/030/179/20260827kaito.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -73119,7 +73121,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/030/179/20260827reiauto.pdf",
     "officialSourceUrl": "https://www.city.urayasu.lg.jp/_res/projects/default_project/_page_/001/030/179/20260827reiauto.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -73164,7 +73166,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sodegaura.lg.jp/soshiki/tokei/kouuutukeikkakuproporesult.html",
     "officialSourceUrl": "https://www.city.sodegaura.lg.jp/soshiki/tokei/kouuutukeikkakuproporesult.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -73214,7 +73216,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sodegaura.lg.jp/life/17/150/1270/",
     "officialSourceUrl": "https://www.city.sodegaura.lg.jp/life/17/150/1270/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -73264,7 +73266,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sodegaura.lg.jp/soshiki/somu/bunsyosisutemupupopo.html",
     "officialSourceUrl": "https://www.city.sodegaura.lg.jp/soshiki/somu/bunsyosisutemupupopo.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -73378,7 +73380,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sodegaura.lg.jp/soshiki/kanzai/ippannnyuusatukoukoku.html",
     "officialSourceUrl": "https://www.city.sodegaura.lg.jp/soshiki/kanzai/ippannnyuusatukoukoku.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -73428,7 +73430,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sodegaura.lg.jp/soshiki/kanzai/nyuusatusankasikakuzuiji.html",
     "officialSourceUrl": "https://www.city.sodegaura.lg.jp/soshiki/kanzai/nyuusatusankasikakuzuiji.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -73479,7 +73481,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.katori.lg.jp/government/keiyaku/proposal/index.html",
     "officialSourceUrl": "https://www.city.katori.lg.jp/government/keiyaku/proposal/index.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "移住・関係人口"
@@ -73536,7 +73538,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.katori.lg.jp/government/keiyaku/hyojito.html",
     "officialSourceUrl": "https://www.city.katori.lg.jp/government/keiyaku/hyojito.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -73587,7 +73589,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sammu.lg.jp/kurashi/jyumin-inkan/koseki/page008685.html",
     "officialSourceUrl": "https://www.city.sammu.lg.jp/kurashi/jyumin-inkan/koseki/page008685.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -73721,7 +73723,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sammu.lg.jp/data/doc/1786518913_doc_37_0.pdf",
     "officialSourceUrl": "https://www.city.sammu.lg.jp/data/doc/1786518913_doc_37_0.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -73764,7 +73766,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sammu.lg.jp/data/doc/1786518937_doc_37_0.doc",
     "officialSourceUrl": "https://www.city.sammu.lg.jp/data/doc/1786518937_doc_37_0.doc",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -73809,7 +73811,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sammu.lg.jp/inq.php?mode=detail&code=7&code2=66",
     "officialSourceUrl": "https://www.city.sammu.lg.jp/inq.php?mode=detail&code=7&code2=66",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -74218,7 +74220,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shisui.chiba.jp/docs/2025042400012/",
     "officialSourceUrl": "https://www.town.shisui.chiba.jp/docs/2025042400012/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -74351,7 +74353,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shisui.chiba.jp/docs/2025050900023/",
     "officialSourceUrl": "https://www.town.shisui.chiba.jp/docs/2025050900023/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -74447,7 +74449,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shisui.chiba.jp/docs/2026071600039/",
     "officialSourceUrl": "https://www.town.shisui.chiba.jp/docs/2026071600039/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -74561,12 +74563,12 @@
     "municipality": "酒々井町",
     "organization": "酒々井町",
     "title": "酒々井町ホームページ",
-    "summary": "緊急情報 【令和8年8月千葉豪雨】義援金を受け付けています 【令和8年8月千葉豪雨】千葉県弁護士会による豪雨被害に関する無料電話相談について 【令和8年8月千葉豪雨】酒々井リサイクル文化センターへの持ち込みについてご協力をお願いします 【令和8年熊本地震災害】義援金を受け付けています 分野から探す 組織から探す アクセス お問い合わせ 酒々井町の紹介 町長室 総人口 男 女 世帯数 詳しくはこちら ようこそ酒々井町へ ギャラリー マスコットキャラクター 生活道路における自動車の法定速度の引き下げについて ( 2026年09月04日 くらし安全協働課危機管理室 ) 国史跡本佐倉城跡案内所からのお知らせ ( 2026年09月04日 生涯学習課文化財班 ) 令和8・9年度入札参加資格者名簿 ( 2026年09月04日 企画財政課管財班 ) 【復旧】上岩橋(上郷)地区設置の防災行政無線の故障について ( 2026年09月03日 くらし安全協働課危機管理室 ) 町へ防災用土のうを寄贈 ( 2026年09月03日 くらし安全協働課危機管理室 ) 「令和8年8月千葉豪雨災害義援金」を受け付けています ( 2026年09月02日 健康福祉課福祉班 ) 令和8年度学校給食の予定献立表とアレルギー表示 ( 2026年09月02日 学校教育課 ) 令和8年度 キャッシュレス決済端末導入支援補助金のご案内 ( 2026年09月02日 経済環境課商工振興班 ) 上下水道料金の支払いについて ( 2026年09月02日 上下水道課業務班 ) 令和9年酒々井町成人式について ( 2026年09月01日 生涯学習課社会教育班 ) 国史跡本佐倉城跡案内所からのお知らせ ( 2026年09月04日 生涯学習課文化財班 ) 令和9年酒々井町成人式について ( 2026年09月01日 生涯学習課社会教育班 ) 令和8年度生涯学習情報まなびしすい(令和8年10月~12月) ( 2026年09月01日 生涯学習課社会教育班 ) 第48回酒々井町ふるさとまつりへの協賛金を募集します! ( 2026年09月01日 経済環境課農政振興班 ) 酒々井町ゴルフ大会の開催について ( 2026年09月01日 生涯学習課スポーツ振興班 ) 令和8年度順天堂大学公開講座参加者募集 ( 2026年09月01日 生涯学習課スポーツ振興班 ) 第9回しすいリッチハートコンサート申込終了のお知らせ ( 2026年08月04日 プリミエール酒々井管理班 ) 令和8年度生涯学習情報まなびしすい(令和8年7月~9月) ( 2026年06月05日 生涯学習課社会教育班 ) 小学校入学前のお子さんを持つ保護者のための家庭教育学級(ローズマリー学級)を開設します。 ( 2026年05月21日 生涯学習課社会教育班 ) 公共施設の今後のあり方を考える住民参加型ワークショップ開催します ( 2026年05月01日 企画財政課施設総合管理室 ) 岩橋保育園保育士の募集について(令和8年度会計年度任用職員) ( 2026年08月20日 こども課岩橋保育園 ) 消費生活相談員の募集について(令和8年度会計年度任用職員)第7回募集 ( 2026年08月11日 経済環境課商工振興班 ) 等級及び職制上の段階ごとの職員数を公表します。(過去分) ( 2026年05月29日 総務課総務班 ) 等級及び職制上の段階ごとの職員数を公表します。 ( 2026年05月29日 総務課総務班 ) 一斉防災訓練(シェイクアウト訓練)参加者募集 ( 2026年04月20日 くらし安全協働課危機管理室 ) 農業委員・農地利用最適化推進委員の推薦・応募状況(最終公表) ( 2026年03月19日 農業委員会事務局 ) 農業委員・農地利用最適化推進委員の推薦・応募状況(中間公表) ( 2026年03月06日 農業委員会事務局 ) 酒々井町学校施設のあり方検討会議の議事概要をお知らせします ( 2025年04月03日 こども課庶務班 ) 農業委員の欠員募集に係る推薦・応募状況(最終公表) ( 2025年02月17日 農業委員会事務局 ) 農業委員の欠員募集に係る推薦・応募状況(中間公表) ( 2025年01月22日 農業委員会事務局 ) 令和8・9年度入",
+    "summary": "緊急情報 【令和8年9月大雨】大雨による通行止め(エコトピア酒々井付近) 【令和8年9月大雨】自主避難所を閉鎖しました(9/7 17:00) 【令和8年9月大雨】以下の施設は9月7日まで臨時休館となります 酒々井コミュニティプラザ 【令和8年8月千葉豪雨】義援金を受け付けています 【令和8年8月千葉豪雨】千葉県弁護士会による豪雨被害に関する無料電話相談について 【令和8年熊本地震災害】義援金を受け付けています 分野から探す 組織から探す アクセス お問い合わせ 酒々井町の紹介 町長室 総人口 男 女 世帯数 詳しくはこちら ようこそ酒々井町へ ギャラリー マスコットキャラクター 大雨に伴う自主避難所の閉鎖について ( 2026年09月07日 くらし安全協働課危機管理室 ) 【令和8年9月大雨】大雨による通行止めについて ( 2026年09月06日 まちづくり課計画整備班 ) 生活道路における自動車の法定速度の引き下げについて ( 2026年09月04日 くらし安全協働課危機管理室 ) 国史跡本佐倉城跡案内所からのお知らせ ( 2026年09月04日 生涯学習課文化財班 ) 令和8・9年度入札参加資格者名簿 ( 2026年09月04日 企画財政課管財班 ) 【復旧】上岩橋(上郷)地区設置の防災行政無線の故障について ( 2026年09月03日 くらし安全協働課危機管理室 ) 町へ防災用土のうを寄贈 ( 2026年09月03日 くらし安全協働課危機管理室 ) 「令和8年8月千葉豪雨災害義援金」を受け付けています ( 2026年09月02日 健康福祉課福祉班 ) 令和8年度学校給食の予定献立表とアレルギー表示 ( 2026年09月02日 学校教育課 ) 令和8年度 キャッシュレス決済端末導入支援補助金のご案内 ( 2026年09月02日 経済環境課商工振興班 ) 国史跡本佐倉城跡案内所からのお知らせ ( 2026年09月04日 生涯学習課文化財班 ) 令和9年酒々井町成人式について ( 2026年09月01日 生涯学習課社会教育班 ) 令和8年度生涯学習情報まなびしすい(令和8年10月~12月) ( 2026年09月01日 生涯学習課社会教育班 ) 第48回酒々井町ふるさとまつりへの協賛金を募集します! ( 2026年09月01日 経済環境課農政振興班 ) 酒々井町ゴルフ大会の開催について ( 2026年09月01日 生涯学習課スポーツ振興班 ) 令和8年度順天堂大学公開講座参加者募集 ( 2026年09月01日 生涯学習課スポーツ振興班 ) 第9回しすいリッチハートコンサート申込終了のお知らせ ( 2026年08月04日 プリミエール酒々井管理班 ) 令和8年度生涯学習情報まなびしすい(令和8年7月~9月) ( 2026年06月05日 生涯学習課社会教育班 ) 小学校入学前のお子さんを持つ保護者のための家庭教育学級(ローズマリー学級)を開設します。 ( 2026年05月21日 生涯学習課社会教育班 ) 公共施設の今後のあり方を考える住民参加型ワークショップ開催します ( 2026年05月01日 企画財政課施設総合管理室 ) 岩橋保育園保育士の募集について(令和8年度会計年度任用職員) ( 2026年08月20日 こども課岩橋保育園 ) 消費生活相談員の募集について(令和8年度会計年度任用職員)第7回募集 ( 2026年08月11日 経済環境課商工振興班 ) 等級及び職制上の段階ごとの職員数を公表します。(過去分) ( 2026年05月29日 総務課総務班 ) 等級及び職制上の段階ごとの職員数を公表します。 ( 2026年05月29日 総務課総務班 ) 一斉防災訓練(シェイクアウト訓練)参加者募集 ( 2026年04月20日 くらし安全協働課危機管理室 ) 農業委員・農地利用最適化推進委員の推薦・応募状況(最終公表) ( 2026年03月19日 農業委員会事務局 ) 農業委員・農地利用最適化推進委員の推薦・応募状況(中間公表) ( 2026年03月06日 農業委員会事務局 ) 酒々井町学校施設のあり方検討会議の議事概要をお知らせします ( 2025年04月03日 こども課庶務班 ) 農業委員の欠員募集に係る推薦・応募状況(最終公表) ( 2",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shisui.chiba.jp/",
     "officialSourceUrl": "https://www.town.shisui.chiba.jp/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -74621,7 +74623,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shisui.chiba.jp/docs/2015030400018/",
     "officialSourceUrl": "https://www.town.shisui.chiba.jp/docs/2015030400018/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -74700,7 +74702,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shisui.chiba.jp/event/",
     "officialSourceUrl": "https://www.town.shisui.chiba.jp/event/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "イベント"
@@ -74749,7 +74751,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shisui.chiba.jp/static/chunk0001/kanko/",
     "officialSourceUrl": "https://www.town.shisui.chiba.jp/static/chunk0001/kanko/",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -74796,7 +74798,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/business/nyuusatsu-keiyaku/page008272.html",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/business/nyuusatsu-keiyaku/page008272.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "観光PR"
@@ -74916,7 +74918,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/business/nyuusatsu-keiyaku/page008197.html",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/business/nyuusatsu-keiyaku/page008197.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -75004,7 +75006,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1778556232_doc_71_0.pdf",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1778556232_doc_71_0.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -75051,7 +75053,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/business/nyuusatsu-keiyaku/page008378.html",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/business/nyuusatsu-keiyaku/page008378.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -75200,7 +75202,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/business/nyuusatsu-keiyaku/page006345.html",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/business/nyuusatsu-keiyaku/page006345.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -75260,7 +75262,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1778542693_doc_71_0.docx",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1778542693_doc_71_0.docx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -75305,7 +75307,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/inq.php?mode=detail&code=10&code2=97",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/inq.php?mode=detail&code=10&code2=97",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -75350,7 +75352,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1781498323_doc_81_0.pdf",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1781498323_doc_81_0.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "観光PR"
@@ -75402,7 +75404,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1782457895_doc_81_0.pdf",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1782457895_doc_81_0.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -75447,7 +75449,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1781498335_doc_81_0.docx",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1781498335_doc_81_0.docx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -75492,7 +75494,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/inq.php?mode=detail&code=11&code2=27",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/inq.php?mode=detail&code=11&code2=27",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "観光PR"
@@ -75542,7 +75544,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1785737074_doc_52_0.pdf",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1785737074_doc_52_0.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -75587,7 +75589,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1787905219_doc_52_0.pdf",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1787905219_doc_52_0.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -75632,7 +75634,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1785736567_doc_52_0.docx",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1785736567_doc_52_0.docx",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -75677,7 +75679,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1785737078_doc_52_0.pdf",
     "officialSourceUrl": "https://www.town.sakae.chiba.jp/data/doc/1785737078_doc_52_0.pdf",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -96732,7 +96734,7 @@
     "sourceUrl": "https://www.city.tomioka.lg.jp/www/contents/1787199556059/simple/26400457k.pdf",
     "sourceName": "群馬県富岡市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "（PDF／400KB）",
@@ -96792,7 +96794,7 @@
     "sourceUrl": "https://www.city.tomioka.lg.jp/www/contents/1787199556059/simple/26400460k.pdf",
     "sourceName": "群馬県富岡市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "（PDF／243KB）",
@@ -96847,7 +96849,7 @@
     "sourceUrl": "https://www.city.tomioka.lg.jp/www/contents/1787199556059/simple/26400458k.pdf",
     "sourceName": "群馬県富岡市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "（PDF／1MB）",
@@ -96906,7 +96908,7 @@
     "sourceUrl": "https://www.city.tomioka.lg.jp/www/contents/1787199556059/simple/26100125k.pdf",
     "sourceName": "群馬県富岡市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "（PDF／1MB）",
@@ -96961,7 +96963,7 @@
     "sourceUrl": "https://www.city.murayama.lg.jp/jigyosha/nyuusatsu/zyoukentuki-koukoku.files/08-0901-2-4-2.pdf",
     "sourceName": "山形県村山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -97011,7 +97013,7 @@
     "sourceUrl": "https://www.city.murayama.lg.jp/jigyosha/nyuusatsu/zyoukentuki-koukoku.files/08-0901-2-3-2.pdf",
     "sourceName": "山形県村山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -97063,7 +97065,7 @@
     "sourceUrl": "https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/879/4koukokubunn.pdf",
     "sourceName": "静岡県磐田市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "仕様書 （PDF 105.1KB）",
@@ -97127,7 +97129,7 @@
     "sourceUrl": "https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/875/3koukokubunn.pdf",
     "sourceName": "静岡県磐田市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "仕様書 （PDF 73.9KB）",
@@ -97198,7 +97200,7 @@
     "sourceUrl": "https://www.police.pref.fukuoka.jp/data/open/cnt/3/23721/1/20260902koukokubun.pdf",
     "sourceName": "国家公安委員会（警察庁）福岡県警察",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "・部内通訳人育成研修業務委託に係る入札について（入札説明書） （2,164kbyte）",
@@ -97253,7 +97255,7 @@
     "sourceUrl": "https://www.city.kariya.lg.jp/_res/projects/default_project/_page_/001/006/236/r8-1782.pdf",
     "sourceName": "愛知県刈谷市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -97302,7 +97304,7 @@
     "sourceUrl": "https://www.city.omihachiman.lg.jp/material/files/group/199/k202609023.pdf",
     "sourceName": "滋賀県近江八幡市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "説明書等(圧縮ファイル:3.7MB)",
@@ -97356,7 +97358,7 @@
     "sourceUrl": "https://www.city.omihachiman.lg.jp/material/files/group/199/k202609024.pdf",
     "sourceName": "滋賀県近江八幡市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "説明書等(圧縮ファイル:4.9MB)",
@@ -97412,7 +97414,7 @@
     "sourceUrl": "https://www.city.sendai.jp/buppin/jigyosha/keyaku/kekka/r8itaku/documents/03-01_daiichiminamigamoukannsennkannkyoseisou_0902.pdf",
     "sourceName": "宮城県仙台市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -97461,7 +97463,7 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e048.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -97512,7 +97514,7 @@
     "sourceUrl": "https://www.city.sendai.jp/buppin/jigyosha/keyaku/kekka/r8itaku/documents/03-02_daiichiminamigamoukannsennkannkyoseisou_0902.pdf",
     "sourceName": "宮城県仙台市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -97563,7 +97565,7 @@
     "sourceUrl": "https://99ev2jtm.user.webaccel.jp/wp-content/uploads/2026/08/3a28f3471e584e612ce7651f513cf7cb.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "仕様書（ＰＤＦ）",
@@ -97622,7 +97624,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00372651/3_72651_516180_up_qvk1xib1.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "02_基本仕様書（PDF：216.9キロバイト）",
@@ -97696,7 +97698,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00372055/3_72055_516220_up_4pl3ddhx.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "01_基本仕様書（PDF：178.4キロバイト）",
@@ -97755,7 +97757,7 @@
     "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/life/515015_2962433_misc.pdf",
     "sourceName": "岐阜県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -97804,7 +97806,7 @@
     "sourceUrl": "https://www.pref.akita.lg.jp/uploads/public/archive_0000029253_00/R8%E5%9C%B0%E4%B8%8B%E3%82%BF%E3%83%B3%E3%82%AF/01_%E5%85%AC%E5%91%8A%E6%96%87.pdf",
     "sourceName": "秋田県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "02特記仕様書.pdf [49KB]",
@@ -97864,7 +97866,7 @@
     "sourceUrl": "https://www.hkd.mlit.go.jp/rm/keiyaku/f6h4sv0000000i3g-att/vm69hn0000001a4l.pdf",
     "sourceName": "国土交通省北海道開発局留萌開発建設部",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -97911,7 +97913,7 @@
     "sourceUrl": "https://www.hkd.mlit.go.jp/rm/keiyaku/f6h4sv0000000i3g-att/vm69hn0000001a47.pdf",
     "sourceName": "国土交通省北海道開発局留萌開発建設部",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -138458,7 +138460,7 @@
     "sourceUrl": "https://www.union.hiroshima-water.lg.jp/file/business/itakuekimu/hiroshima/r80903_koukoku.pdf",
     "sourceName": "広島水道事務所広島県広島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "機密データの保存等に関する申出書[Word/31KB]",
@@ -138518,7 +138520,7 @@
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/MotNNt4Jbl20260902_12.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -138568,7 +138570,7 @@
     "sourceUrl": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/672/8-300345koukoku.pdf",
     "sourceName": "埼玉県川越市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "仕様書（川越市上下水道局公告財務第102号） （PDF 221.8KB）",
@@ -138623,7 +138625,7 @@
     "sourceUrl": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/672/8-300375koukoku.pdf",
     "sourceName": "埼玉県川越市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "仕様書（川越市上下水道局公告財務第101号） （PDF 4.1MB）",
@@ -138675,7 +138677,7 @@
     "sourceUrl": "https://www.city.kochi.kochi.jp/uploaded/attachment/183312.pdf",
     "sourceName": "高知県高知市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -138722,7 +138724,7 @@
     "sourceUrl": "https://www.city.kochi.kochi.jp/uploaded/attachment/183336.pdf",
     "sourceName": "高知県高知市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -138771,7 +138773,7 @@
     "sourceUrl": "http://www.pref.fukushima.lg.jp/uploaded/attachment/762301.pdf",
     "sourceName": "福島県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "入札説明書 [PDFファイル／237KB]",
@@ -138830,7 +138832,7 @@
     "sourceUrl": "https://www.city.yamaguchi.lg.jp/uploaded/attachment/125876.pdf",
     "sourceName": "山口県山口市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "仕様書等 [その他のファイル／4.11MB]",
@@ -138893,7 +138895,7 @@
     "sourceUrl": "https://www.city.kasumigaura.lg.jp/data/doc/1788226570_doc_14_0.pdf",
     "sourceName": "茨城県かすみがうら市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -138942,7 +138944,7 @@
     "sourceUrl": "https://www.city.kasumigaura.lg.jp/data/doc/1788226310_doc_14_0.pdf",
     "sourceName": "茨城県かすみがうら市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "平面図",
@@ -139000,7 +139002,7 @@
     "sourceUrl": "https://www.city.kasumigaura.lg.jp/data/doc/1788225880_doc_14_0.pdf",
     "sourceName": "茨城県かすみがうら市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "平面図",
@@ -139058,7 +139060,7 @@
     "sourceUrl": "https://www.city.kasumigaura.lg.jp/data/doc/1788225353_doc_14_0.pdf",
     "sourceName": "茨城県かすみがうら市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "平面図",
@@ -139116,7 +139118,7 @@
     "sourceUrl": "https://www.city.kasumigaura.lg.jp/data/doc/1788224886_doc_14_0.pdf",
     "sourceName": "茨城県かすみがうら市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "平面図",
@@ -139172,7 +139174,7 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e050.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -139219,7 +139221,7 @@
     "sourceUrl": "https://www.pref.hiroshima.lg.jp/uploaded/life/1145266_9801015_misc.pdf",
     "sourceName": "広島県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "入札説明書 (その他のファイル)(1.55MB)",
@@ -139275,7 +139277,7 @@
     "sourceUrl": "https://www.town.kannami.shizuoka.jp/material/files/group/4/080924137d.pdf",
     "sourceName": "静岡県函南町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -139369,7 +139371,7 @@
     "sourceUrl": "https://www.customs.go.jp/kyotsu/chotatsu/nyusatsu/n_tokyo/haneda-refound.pdf",
     "sourceName": "財務省東京税関",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -139418,7 +139420,7 @@
     "sourceUrl": "https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/070/k3kokoku.pdf",
     "sourceName": "静岡県熱海市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "仕様書 （PDF 146.7KB）",
@@ -139480,7 +139482,7 @@
     "sourceUrl": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/743/289k.pdf",
     "sourceName": "埼玉県川越市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "仕様書(川越市公告契約第289号) （PDF 481.5KB）",
@@ -139535,7 +139537,7 @@
     "sourceUrl": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/743/288k.pdf",
     "sourceName": "埼玉県川越市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "仕様書(川越市公告契約第288号) （PDF 1.3MB）",
@@ -139588,7 +139590,7 @@
     "sourceUrl": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/022/743/287k.pdf",
     "sourceName": "埼玉県川越市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "仕様書(川越市公告契約第287号) （PDF 302.2KB）",
@@ -139642,7 +139644,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00372698/3_72698_up_82jqxt51.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：134.8キロバイト）",
@@ -139693,7 +139695,7 @@
     "sourceUrl": "https://www.chugokuh.johas.go.jp/wp/wp-content/uploads/%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%EF%BC%88%E5%86%85%E8%A6%96%E9%8F%A1%E6%89%8B%E8%A1%93%E7%94%A8%E6%94%AF%E6%8F%B4%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0hinotori%EF%BC%B4%EF%BC%AD%E4%BF%9D%E5%AE%88%E6%A5%AD%E5%8B%99%EF%BC%89.pdf",
     "sourceName": "独立行政法人労働者健康安全機構中国労災病院",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -139742,7 +139744,7 @@
     "sourceUrl": "https://www.pref.akita.lg.jp/uploads/public/archive_0000098975_00/B4%E5%85%AC%E5%91%8A%E6%96%87.pdf",
     "sourceName": "秋田県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "02_08-DA-B4_設計図書（2／4）仕様書.pdf [150KB]",
@@ -187219,7 +187221,7 @@
     "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/440472.htm",
     "sourceName": "京都府京都市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -187284,7 +187286,7 @@
     "sourceUrl": "https://www.pref.kagawa.lg.jp/documents/63223/01_notice.pdf",
     "sourceName": "香川県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：522KB）",
@@ -187342,7 +187344,7 @@
     "sourceUrl": "https://www.town.sasaguri.fukuoka.jp/material/files/group/7/kokokuC013.pdf",
     "sourceName": "福岡県篠栗町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -187392,7 +187394,7 @@
     "sourceUrl": "https://www.town.sasaguri.fukuoka.jp/material/files/group/7/kokokuC012.pdf",
     "sourceName": "福岡県篠栗町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -187441,7 +187443,7 @@
     "sourceUrl": "https://www.town.sasaguri.fukuoka.jp/material/files/group/7/kokokuC010.pdf",
     "sourceName": "福岡県篠栗町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -187495,7 +187497,7 @@
     "sourceUrl": "https://www.pref.saga.lg.jp/kiji003120579/3_120579_up_snoyeppq.pdf",
     "sourceName": "佐賀県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -187549,7 +187551,7 @@
     "sourceUrl": "https://www.pref.saga.lg.jp/kiji003120934/3_120934_400212_up_12o8k2kg.pdf",
     "sourceName": "佐賀県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "04_佐賀県公共ネットワーク監視サーバ共通基盤移行・構築業務仕様書",
@@ -187608,7 +187610,7 @@
     "sourceUrl": "https://www.city.shiroishi.miyagi.jp/uploaded/attachment/30754.pdf",
     "sourceName": "宮城県白石市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "【仕様書】令和８年度 大坂夏の陣再現イベント会場設営業務委託 [PDFファイル／408KB]",
@@ -187680,7 +187682,7 @@
     "sourceUrl": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/066/083/2609021.pdf",
     "sourceName": "東京都板橋区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "05.仕様書 （PDF 794.8KB）",
@@ -187741,7 +187743,7 @@
     "sourceUrl": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/050/018/09021.pdf",
     "sourceName": "東京都板橋区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "05.仕様書 （PDF 1.1MB）",
@@ -187795,7 +187797,7 @@
     "sourceUrl": "https://www.city.kagoshima.lg.jp/soumu/soumu/ict/documents/01_koukokubun.pdf",
     "sourceName": "鹿児島県鹿児島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：1,227KB）",
@@ -187869,7 +187871,7 @@
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/1303zx7e0c20260828_3.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -187919,7 +187921,7 @@
     "sourceUrl": "https://town.kotake.lg.jp/common/UploadFileOutput.ashx?c_id=3&id=4176&sub_id=1&flid=11923",
     "sourceName": "福岡県小竹町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "3 業務実績書（エクセル：28キロバイト）",
@@ -187998,7 +188000,7 @@
     "sourceUrl": "https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/26/36200.html",
     "sourceName": "埼玉県春日部市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "積算仕様書(PDFファイル:269.1KB)",
@@ -188057,7 +188059,7 @@
     "sourceUrl": "https://www.city.yamaguchi.lg.jp/uploaded/attachment/125958.pdf",
     "sourceName": "山口県山口市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "入札条件 [PDFファイル／106KB]",
@@ -188121,7 +188123,7 @@
     "sourceUrl": "https://www.city.yashio.lg.jp/kurashi/sports_rec/kanren/2_suisinkeikaku.files/youryou.pdf",
     "sourceName": "埼玉県八潮市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -188171,7 +188173,7 @@
     "sourceUrl": "https://www.ncvc.go.jp/procurement/tender/procurement_54224/",
     "sourceName": "国立研究開発法人国立循環器病研究センター",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "こちら",
@@ -188223,7 +188225,7 @@
     "sourceUrl": "https://keiyaku.jaea.go.jp/compe/02/pdf/0802C03425.pdf",
     "sourceName": "国立研究開発法人日本原子力研究開発機構本部",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -188274,7 +188276,7 @@
     "sourceUrl": "https://www.pref.fukui.lg.jp/doc/rousei/wellbeing_proposal_d/fil/01_koukoku.pdf",
     "sourceName": "福井県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "実施要領",
@@ -188350,7 +188352,7 @@
     "sourceUrl": "https://www.city.kitakyushu.lg.jp/files/001228543.pdf",
     "sourceName": "福岡県北九州市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF形式：286KB）",
@@ -188405,7 +188407,7 @@
     "sourceUrl": "https://www.pref.chiba.lg.jp/suidou/keiri/nyuu-kei/buppin-itaku/r8-costestimationsystem.html",
     "sourceName": "千葉県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [
       {
         "name": "入札公告（PDF：98.8KB）",
@@ -188584,7 +188586,7 @@
     "sourceUrl": "https://www.city.tamura.lg.jp/soshiki/3/assets/260930%E6%9D%A1%E4%BB%B6%E4%BB%98%E3%81%8D%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%E7%AC%AC331%E5%8F%B7%283-615%29.pdf",
     "sourceName": "福島県田村市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -188633,7 +188635,7 @@
     "sourceUrl": "https://www.city.tamura.lg.jp/soshiki/3/assets/260930%E6%9D%A1%E4%BB%B6%E4%BB%98%E3%81%8D%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%E7%AC%AC330%E5%8F%B7%283-721%29.pdf",
     "sourceName": "福島県田村市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -188681,7 +188683,7 @@
     "sourceUrl": "https://www.city.tamura.lg.jp/soshiki/3/assets/260930%E6%9D%A1%E4%BB%B6%E4%BB%98%E3%81%8D%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%E7%AC%AC329%E5%8F%B7%282-19%29.pdf",
     "sourceName": "福島県田村市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -188737,7 +188739,7 @@
     "sourceUrl": "https://www.city.tamura.lg.jp/soshiki/3/assets/260930%E6%9D%A1%E4%BB%B6%E4%BB%98%E3%81%8D%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%E7%AC%AC328%E5%8F%B7%282-18%29.pdf",
     "sourceName": "福島県田村市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -188785,7 +188787,7 @@
     "sourceUrl": "https://www.pref.yamagata.jp/documents/53749/01_koukoku.pdf",
     "sourceName": "山形県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "入札説明書（PDF：272KB）",
@@ -188843,7 +188845,7 @@
     "sourceUrl": "https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/49/38287.html",
     "sourceName": "埼玉県春日部市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "仕様書(PDFファイル:1.5MB)",
@@ -188897,7 +188899,7 @@
     "sourceUrl": "https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/49/38294.html",
     "sourceName": "埼玉県春日部市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "仕様書(PDFファイル:1.3MB)",
@@ -188951,7 +188953,7 @@
     "sourceUrl": "https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/49/38321.html",
     "sourceName": "埼玉県春日部市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "仕様書(PDFファイル:1.9MB)",
@@ -189005,7 +189007,7 @@
     "sourceUrl": "https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/49/38322.html",
     "sourceName": "埼玉県春日部市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "仕様書(PDFファイル:3.3MB)",
@@ -189059,7 +189061,7 @@
     "sourceUrl": "https://www.city.uonuma.lg.jp/nyusatu/260917/003230/00323001.pdf",
     "sourceName": "新潟県魚沼市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "02_特記仕様書_8森委第4号",
@@ -189117,7 +189119,7 @@
     "sourceUrl": "https://www.city.uonuma.lg.jp/nyusatu/260917/003229/00322901.pdf",
     "sourceName": "新潟県魚沼市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "02_特記仕様書_8森委第3号",
@@ -189176,7 +189178,7 @@
     "sourceUrl": "https://files.microcms-assets.io/assets/39013182cea147068c187e6b9ebe5419/740922a324f54c8caee0de46c2113b04/01_%E4%B8%80%E8%88%AC%E7%AB%B6%E4%BA%89%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A.pdf",
     "sourceName": "岩手県盛岡市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "03_特記仕様書、設計書.pdf",
@@ -189229,7 +189231,7 @@
     "sourceUrl": "https://www.city.morioka.iwate.jp/_res/projects/default_project/_page_/001/058/463/koukoku.pdf",
     "sourceName": "岩手県盛岡市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "02 特記仕様書及び特記仕様書補足資料 （PDF 634.7 KB）",
@@ -189292,7 +189294,7 @@
     "sourceUrl": "https://www.pref.hokkaido.lg.jp/ss/kkk/267374.html",
     "sourceName": "北海道",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "北海道告示第11332号 (PDF 79.2KB)",
@@ -189359,7 +189361,7 @@
     "sourceUrl": "https://www.jsps.go.jp/file/storage/j-choutatsu/procurement/R8-58_nyusatsu.pdf",
     "sourceName": "独立行政法人日本学術振興会",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -189408,7 +189410,7 @@
     "sourceUrl": "https://www.city.sakata.lg.jp/shisei/nyusatsu/nyusatsukoukoku/569koukoku.files/569koukoku.pdf",
     "sourceName": "山形県酒田市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -191470,7 +191472,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.futtsu.lg.jp/category/2-6-0-0-0-0-0-0-0-0.html",
     "officialSourceUrl": "https://www.city.futtsu.lg.jp/category/2-6-0-0-0-0-0-0-0-0.html",
-    "lastChecked": "2026-09-05",
+    "lastChecked": "2026-09-07",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -192424,7 +192426,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/46_2026_109.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -194990,7 +194992,7 @@
     "sourceUrl": "https://www.city.kurume.fukuoka.jp/1090sangyou/2010nyuusatsu/3030koukoku/4010nyuusatsu/files/20260917-6.pdf",
     "sourceName": "福岡県久留米市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -195044,7 +195046,7 @@
     "sourceUrl": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
     "sourceName": "厚生労働省",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:37+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -195095,7 +195097,7 @@
     "sourceUrl": "https://www.city.mihara.hiroshima.jp/uploaded/attachment/166297.pdf",
     "sourceName": "広島県三原市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "仕様書等",
@@ -195164,7 +195166,7 @@
     "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/life/516416_2970143_misc.pdf",
     "sourceName": "岐阜県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -195213,7 +195215,7 @@
     "sourceUrl": "https://www.city.kochi.kochi.jp/uploaded/attachment/183485.pdf",
     "sourceName": "高知県高知市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -195260,7 +195262,7 @@
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/zz67NsiVGG20260902_2.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -195307,7 +195309,7 @@
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/7tSMuNBZFp20260907_1.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -195356,7 +195358,7 @@
     "sourceUrl": "https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/kamikawahokubu/attach/pdf/260907-1.pdf",
     "sourceName": "林野庁北海道森林管理局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "仕様書等1(PDF : 1,142KB)",
@@ -195416,7 +195418,7 @@
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/AlzaSXcxxd20260901_3.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -195471,7 +195473,7 @@
     "sourceUrl": "https://www.city.yashio.lg.jp/kurashi/sports_rec/kanren/2_suisinkeikaku.files/youryou9.pdf",
     "sourceName": "埼玉県八潮市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "第2次八潮市スポーツ推進計画策定支援業務委託仕様書（PDF：218KB）",
@@ -195523,7 +195525,7 @@
     "sourceUrl": "https://www.kaiho.mlit.go.jp/06kanku/keirihokyuu/keiho_hp/02_nyuusatu/19_kouji-08/20260907-F58.pdf",
     "sourceName": "海上保安庁第六管区海上保安本部",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -195570,7 +195572,7 @@
     "sourceUrl": "https://www.kaiho.mlit.go.jp/06kanku/keirihokyuu/keiho_hp/02_nyuusatu/19_kouji-08/20260907-F57.pdf",
     "sourceName": "海上保安庁第六管区海上保安本部",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -195620,7 +195622,7 @@
     "sourceUrl": "https://www.city.koto.lg.jp/380200/documents/20260902144409.pdf",
     "sourceName": "東京都江東区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：1,837KB）（別ウィンドウで開きます）",
@@ -195676,7 +195678,7 @@
     "sourceUrl": "https://www.city.uto.lg.jp/d?q=887b6ffca2ad818eb679b7bdca097261.docx",
     "sourceName": "熊本県宇土市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "宇土市子ども第三の居場所事業運営業務委託仕様書(WORD 約37KB)",
@@ -195729,7 +195731,7 @@
     "sourceUrl": "https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/079/t20kokoku.pdf",
     "sourceName": "静岡県熱海市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "入札説明書 （PDF 111.3KB）",
@@ -195794,7 +195796,7 @@
     "sourceUrl": "https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/078/t19k.pdf",
     "sourceName": "静岡県熱海市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "入札説明書 （PDF 110.6KB）",
@@ -195859,7 +195861,7 @@
     "sourceUrl": "https://www.city.aioi.lg.jp/uploaded/attachment/25611.pdf",
     "sourceName": "兵庫県相生市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -195908,7 +195910,7 @@
     "sourceUrl": "https://www.city.aioi.lg.jp/uploaded/attachment/25610.pdf",
     "sourceName": "兵庫県相生市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -195956,7 +195958,7 @@
     "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/life/516251_2969067_misc.pdf",
     "sourceName": "岐阜県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -196013,7 +196015,7 @@
     "sourceUrl": "https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/ootemachi.files/shiyousyo.pdf",
     "sourceName": "愛媛県松山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [
       {
         "name": "参考図（PDF：388KB）",
@@ -196072,7 +196074,7 @@
     "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/life/516189_2968417_misc.pdf",
     "sourceName": "岐阜県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -196122,7 +196124,7 @@
     "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/life/516191_2968474_misc.pdf",
     "sourceName": "岐阜県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -196171,7 +196173,7 @@
     "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/life/516257_2969184_misc.pdf",
     "sourceName": "岐阜県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -196220,7 +196222,7 @@
     "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/life/516398_2970050_misc.pdf",
     "sourceName": "岐阜県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-09-07T20:37:51+00:00",
+    "lastChecked": "2026-09-07T23:33:36+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
