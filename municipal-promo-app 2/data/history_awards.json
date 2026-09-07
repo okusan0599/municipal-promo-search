@@ -17072,5 +17072,65 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-09-07T05:01:50+00:00"
+  },
+  {
+    "dedupeKey": "e469242448f46255dc2656702575a9155b7b4e3b23664254c843bbe82adde8e6",
+    "id": "award-0ab0d374a31c2fb85e0853c9",
+    "municipalityCode": "182087",
+    "area": "北陸",
+    "region": "福井県",
+    "municipality": "あわら市",
+    "organization": "あわら市",
+    "title": "【審査結果】新郷小学校利活用基本計画策定業務 公募型プロポーザルの実施について",
+    "vendor": "有限会社設計工房顕塾 参加事業者数 1者",
+    "awardDate": "2023-07-14",
+    "year": 2023,
+    "sourceUrl": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0106/p013481.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [
+      "consulting_strategy"
+    ],
+    "dentsuCategoryLabels": [
+      "コンサル・戦略策定"
+    ],
+    "lastChecked": "2026-09-07T10:34:10+00:00"
+  },
+  {
+    "dedupeKey": "beae4d3a988f76913383802e32ab04b1210bd80acee3c863f176fbbeda1d5572",
+    "id": "award-aba5f46308f43b14123c263f",
+    "municipalityCode": "192104",
+    "area": "甲信越",
+    "region": "山梨県",
+    "municipality": "甲斐市",
+    "organization": "甲斐市",
+    "title": "称",
+    "vendor": "点数 参加者数 赤坂台総合公園等周辺エリア活性化基本計画作成支援業務委託 公募型プロポーザル",
+    "awardDate": "2026-08-24",
+    "year": 2026,
+    "sourceUrl": "https://www.city.kai.yamanashi.jp/uploaded/attachment/9706.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-09-07T10:34:12+00:00"
+  },
+  {
+    "dedupeKey": "e02d767790f5ec4cbc0e6a5cfceafccb2fec8d0ec2d1e0855d88e78bc1c340e2",
+    "id": "award-ff1bd9b58faf405a54c091ee",
+    "municipalityCode": "203076",
+    "area": "甲信越",
+    "region": "長野県",
+    "municipality": "北相木村",
+    "organization": "北相木村",
+    "title": "入札結果のお知らせ【総務企画課関係】 - 北相木村",
+    "vendor": "柳沢電設工業 株式会社 落札決定額:4,104,000円 設置場所:地区公民館9ヵ所・北相木村保育所",
+    "year": 2014,
+    "sourceUrl": "http://vill.kitaaiki.nagano.jp/docs/340.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-09-07T10:34:29+00:00"
   }
 ]
