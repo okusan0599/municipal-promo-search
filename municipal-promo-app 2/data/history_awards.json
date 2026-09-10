@@ -20194,5 +20194,43 @@
       "コンサル・戦略策定"
     ],
     "lastChecked": "2026-09-10T16:36:30+00:00"
+  },
+  {
+    "dedupeKey": "b4c7d1fdddb278369c6f32d3e71815010a06d374fe6878af0af24473dee06ccb",
+    "id": "award-19491a24fcbd9774d2612586",
+    "municipalityCode": "012131",
+    "area": "北海道",
+    "region": "北海道",
+    "municipality": "苫小牧市",
+    "organization": "苫小牧市",
+    "title": "公募型プロポーザルの結果",
+    "vendor": "日本工営株式会社 株式会社建設技術研究所 デロイトトーマツコンサルティング合同会社 日本工営株式会社 パシフィックコンサルタンツ株式会社 (3)",
+    "awardDate": "2025-05-02",
+    "year": 2025,
+    "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/files/00067000/00067041/20250703180148.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-09-10T19:57:33+00:00"
+  },
+  {
+    "dedupeKey": "2a09f30cbe4a790bb32a17706f58b71f77600e038d22dda7c45896773639e25d",
+    "id": "award-39c7280bda2fe2cb9d407376",
+    "municipalityCode": "012131",
+    "area": "北海道",
+    "region": "北海道",
+    "municipality": "苫小牧市",
+    "organization": "苫小牧市",
+    "title": "公募型プロポーザルの結果",
+    "vendor": "株式会社cicac (2)提案事業者 AGHトヨタ札幌株式会社 (五十音順) 株式会社cicac 富士通Japan株式会社 MONET Technologies株式会社 (3)",
+    "awardDate": "2025-05-02",
+    "year": 2025,
+    "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/files/00067000/00067039/20250703180232.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-09-10T19:57:34+00:00"
   }
 ]
