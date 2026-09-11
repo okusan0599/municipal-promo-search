@@ -15933,7 +15933,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -29328,7 +29328,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札・契約結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -29348,7 +29348,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（物品購入・業務委託）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"6a87ff94-d4bc\"",
@@ -29473,7 +29473,7 @@
     ],
     "sourceType": "result",
     "title": "令和8年度　入札結果（建設工事等）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"8702-65ad6cfb39bc7\"",
@@ -29491,7 +29491,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -29508,7 +29508,7 @@
     ],
     "sourceType": "result",
     "title": "令和5年度",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true,
     "etag": "\"8840-65b2a9fba6f0b\"",
@@ -29528,7 +29528,7 @@
     ],
     "sourceType": "result",
     "title": "令和5年度",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true,
     "etag": "\"8aa4-65b2a9fc622e5\"",
@@ -29548,7 +29548,7 @@
     ],
     "sourceType": "result",
     "title": "令和6年度",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true,
     "etag": "\"86dc-65b2aa012419e\"",
@@ -29567,9 +29567,9 @@
       2024
     ],
     "sourceType": "result",
-    "title": "令和6年度　入札結果（建設工事等）",
-    "discoveryMethod": "result_archive_link",
-    "priority": 1,
+    "title": "令和6年度",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
     "active": true,
     "etag": "\"8aec-65b2aa02d1c11\"",
     "lastModified": "Fri, 11 Sep 2026 01:01:34 GMT",
@@ -29587,9 +29587,9 @@
       2025
     ],
     "sourceType": "result",
-    "title": "令和7年度　入札結果（物品入札）",
-    "discoveryMethod": "result_archive_link",
-    "priority": 1,
+    "title": "令和7年度",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
     "active": true,
     "etag": "\"88c0-65b2aa09fd4ce\"",
     "lastModified": "Fri, 11 Sep 2026 01:01:41 GMT",
@@ -57735,420 +57735,561 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R6-0418-kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:10+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result_pdf",
     "title": "令和6年4月18日入札結果 (PDFファイル: 31.9KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"666bffd4-7f40\"",
+    "lastModified": "Fri, 14 Jun 2024 08:31:16 GMT",
+    "contentHash": "be05ae9926e32f861800af56778ac7272708bec871e1a971d321b011434a63cb"
   },
   {
     "id": "b0ffd5f33ed28baf",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R6-0424-kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:11+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result_pdf",
     "title": "令和6年4月24日入札結果 (PDFファイル: 119.2KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"666c0245-1dc8e\"",
+    "lastModified": "Fri, 14 Jun 2024 08:41:41 GMT",
+    "contentHash": "f55f960588bdab17f16cd82ae0998b673f23d12a5d918444e709b3fe5c506a10"
   },
   {
     "id": "f93d375dbcebf668",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R6-0515-kekka1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:14+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result_pdf",
     "title": "令和6年5月15日入札結果 (PDFファイル: 436.6KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"666fa955-6d22a\"",
+    "lastModified": "Mon, 17 Jun 2024 03:11:17 GMT",
+    "contentHash": "0883ece6908641689fb3d795b70bba49254e3fec594cd6c28c4bc8686a853c5b"
   },
   {
     "id": "47676eac6c6599ca",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R6_kekka0530.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:17+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result_pdf",
     "title": "令和6年5月30日入札結果 (PDFファイル: 902.8KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"669d9f4c-e1b0a\"",
+    "lastModified": "Sun, 21 Jul 2024 23:52:44 GMT",
+    "contentHash": "53ec09a30640924c0f4f49c7ec84445f778296e1a5cf0568dc29692a3e7fb951"
   },
   {
     "id": "8250aee11870ca70",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R6_kekka1527.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:19+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年3月27日入札結果 (PDFファイル: 202.9KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"67ecfa6c-32b4f\"",
+    "lastModified": "Wed, 02 Apr 2025 08:50:52 GMT",
+    "contentHash": "3f8d6ba0d1700b914f3589844e972b96b5470b59753c9785add81a23e48c7b07"
   },
   {
     "id": "6018496443c2b46a",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R6_kekka1526.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:22+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年3月26日入札結果 (PDFファイル: 610.9KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"67ecfcbb-98b96\"",
+    "lastModified": "Wed, 02 Apr 2025 09:00:43 GMT",
+    "contentHash": "c295ac303f04041a92daf15bb11805b3a08921cd6aba496c95670d8dbdb90341"
   },
   {
     "id": "667d14beebdbf5f7",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R6_kekka1519.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:23+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年3月19日入札結果 (PDFファイル: 427.4KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"67ecf9e8-6ad50\"",
+    "lastModified": "Wed, 02 Apr 2025 08:48:40 GMT",
+    "contentHash": "1056d6e0ef66809953a4042b48025f71aca7e261e84af03d2cbab098a5f9d4f4"
   },
   {
     "id": "0a4eda55315caf41",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R6_kekka1518.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:24+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年3月18日入札結果 (PDFファイル: 28.6KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"67ecf9b2-721e\"",
+    "lastModified": "Wed, 02 Apr 2025 08:47:46 GMT",
+    "contentHash": "d1702130f19d5ff33d7f24e4e0fc67b71987644758f100e6f4891620bcace56c"
   },
   {
     "id": "2a1979aafb62f712",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R6_kekka1517.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:26+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年3月17日入札結果 (PDFファイル: 425.6KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"67ecf4b5-6a602\"",
+    "lastModified": "Wed, 02 Apr 2025 08:26:29 GMT",
+    "contentHash": "6119f72cb9b122277a3272a1d4dd1a0bd1658e62c646abeac96cf918678ca86a"
   },
   {
     "id": "6bed5edfa71b4288",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R07_kekka0303_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:28+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年3月3日入札結果 (PDFファイル: 369.8KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"69d898e4-5c719\"",
+    "lastModified": "Fri, 10 Apr 2026 06:29:56 GMT",
+    "contentHash": "418d2af3fa69622112c7a9b8d8bff4b05a9c3f36c0a753f4f4436b0146b618f5"
   },
   {
     "id": "cd42692b9379a029",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R07_kekka0409_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:30+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年4月9日入札結果 (PDFファイル: 37.1KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6825cd02-9428\"",
+    "lastModified": "Thu, 15 May 2025 11:16:18 GMT",
+    "contentHash": "f9a0cd4dbbdef8e7a98324443f5293760806123f3c8cc1b2c216810a4d5c214b"
   },
   {
     "id": "d433558e6290744a",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R07_kekka0423_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:32+00:00",
+    "coveredYears": [
+      2024,
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年4月23日入札結果 (PDFファイル: 230.2KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"68425a14-398a4\"",
+    "lastModified": "Fri, 06 Jun 2025 03:01:40 GMT",
+    "contentHash": "84f725523df68d37f3db837eb56498e2f62cfaa602bcb516ec874377f9aee7a1"
   },
   {
     "id": "2b8260eef2a6123f",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R07_kekka0514_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:34+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年5月14日入札結果 (PDFファイル: 590.0KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"685ceb80-937b3\"",
+    "lastModified": "Thu, 26 Jun 2025 06:41:04 GMT",
+    "contentHash": "4e5c8db7a4d6b9fcc780ba18cb4d3ba1e2a96e6f5ceb77b185e2888b7d0e0b3e"
   },
   {
     "id": "eebeb09092ad578a",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R07_kekka0528_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:37+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年5月28日入札結果 (PDFファイル: 937.9KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"685ceba8-ea770\"",
+    "lastModified": "Thu, 26 Jun 2025 06:41:44 GMT",
+    "contentHash": "b870219b2fefa39d7c6fe437ba596562dfe06013092ad10cd978de72db1f22ca"
   },
   {
     "id": "341f6450dbfb0907",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0325.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:39+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年3月25日入札結果 (PDFファイル: 648.6KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"69eeb4d2-a2233\"",
+    "lastModified": "Mon, 27 Apr 2026 00:58:58 GMT",
+    "contentHash": "cac62a83995d3fd0469fcec777cef43559ccffbb2f6c977a50f9534eeebfd623"
   },
   {
     "id": "90e332af6bf8a63a",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0311_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:40+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年3月11日入札結果 (PDFファイル: 454.3KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"69d89a5d-7192e\"",
+    "lastModified": "Fri, 10 Apr 2026 06:36:13 GMT",
+    "contentHash": "32cc73c05117f259d89c353867c4eb513b93d5dd63628752844a506dc84e1364"
   },
   {
     "id": "4d43a727a8435219",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0306_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:42+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年3月6日入札結果 (PDFファイル: 541.7KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"69d899fb-876c0\"",
+    "lastModified": "Fri, 10 Apr 2026 06:34:35 GMT",
+    "contentHash": "d5b4cf8d973f8feb103a22ef7710fb0a0470d04dd901042d17bc49f0d8326778"
   },
   {
     "id": "a3e5d5859490dc5c",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0304_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:44+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年3月4日入札結果 (PDFファイル: 440.3KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"69d89953-6e0eb\"",
+    "lastModified": "Fri, 10 Apr 2026 06:31:47 GMT",
+    "contentHash": "2d929a3498b472a9b968c242151c81cc0261331843636497614f34ca1b2bc9f6"
   },
   {
     "id": "9a899e862458a6b3",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0350.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:45+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年4月22日入札結果 (PDFファイル: 69.1KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6a1e57e3-11445\"",
+    "lastModified": "Tue, 02 Jun 2026 04:11:15 GMT",
+    "contentHash": "4ccb2f012513db762b1773d21386f7c00d210f2a9b861a6e09158b2a4e127772"
   },
   {
     "id": "f866ffaa2a6ba35b",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0408_4.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:48+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年4月8日入札結果 (PDFファイル: 974.2KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6a1e92e1-f38be\"",
+    "lastModified": "Tue, 02 Jun 2026 08:22:57 GMT",
+    "contentHash": "06026d5975485e53394bc76958152a2af3b2a467e280d24dee7902d0ed628e85"
   },
   {
     "id": "dc29ea5e5bf104c9",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0415.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:48+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年4月15日入札結果 (PDFファイル: 107.2KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6a1e410f-1ac6b\"",
+    "lastModified": "Tue, 02 Jun 2026 02:33:51 GMT",
+    "contentHash": "c54433f9241bf38d18d8cfbab434813511b19f3bdb94b51dcdf240907405c7b5"
   },
   {
     "id": "d097ba984e7a3676",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0513_2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:50+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年5月13日入札結果 (PDFファイル: 440.8KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6a1e9b86-6e306\"",
+    "lastModified": "Tue, 02 Jun 2026 08:59:50 GMT",
+    "contentHash": "47047cf76ff446cca79e5313b04db94d4ac422d930bbd9ba16598fa0f83a8daa"
   },
   {
     "id": "23adeb1c99ba6b18",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0527.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:51+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年5月27日入札結果 (PDFファイル: 126.6KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6a50809c-1fa4e\"",
+    "lastModified": "Fri, 10 Jul 2026 05:18:20 GMT",
+    "contentHash": "7c87bdc8896af407432bce04174d0e7bf41e7baae1d044df914134baac52d226"
   },
   {
     "id": "ed702d02bc3d6634",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0805.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:54+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年8月5日入札結果 (PDFファイル: 509.9KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6a8fbdff-7f771\"",
+    "lastModified": "Thu, 27 Aug 2026 04:33:03 GMT",
+    "contentHash": "188cc1afea59d53e133a3c0d6a6b7abeb9deb7d3d23ab9136ee34c09168532fd"
   },
   {
     "id": "b26ddbeba030294f",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0722.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:57+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年7月22日入札結果 (PDFファイル: 608.2KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6a8fbda8-9807a\"",
+    "lastModified": "Thu, 27 Aug 2026 04:31:36 GMT",
+    "contentHash": "fc733a7e00b7cee8afa1011fd2dbf6c3df24a0f57465a829f98b2a4b32aaae1a"
   },
   {
     "id": "09d546137033614f",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0708.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:39:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:39:58+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年7月8日入札結果 (PDFファイル: 644.7KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6a8fbd70-a127d\"",
+    "lastModified": "Thu, 27 Aug 2026 04:30:40 GMT",
+    "contentHash": "8b9abba8d12e9e6908cf48050cceb63f318050c07ab9500a6a80f38e93a1850c"
   },
   {
     "id": "f54aeadd4c9438fc",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0624.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:40:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:40:01+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年6月24日入札結果 (PDFファイル: 588.1KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6a5ebdd1-93002\"",
+    "lastModified": "Tue, 21 Jul 2026 00:31:13 GMT",
+    "contentHash": "a7037223a7a4986d38eb8d7a18e499f6e16cbce9356b845badf9e0e57c447574"
   },
   {
     "id": "949b1dbaa9773603",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0610_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:40:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:40:03+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年6月10日入札結果 (PDFファイル: 361.6KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6a59deaf-5a61a\"",
+    "lastModified": "Fri, 17 Jul 2026 07:50:07 GMT",
+    "contentHash": "79e2c19b77e0935c379fece659a400d05a7e32c602c0661da277b05d35a59dd7"
   },
   {
     "id": "83d91c6b6cba8349",
@@ -58335,30 +58476,40 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/42/nyusatsukekka040513.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:40:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:40:05+00:00",
+    "coveredYears": [
+      2022
+    ],
     "sourceType": "result_pdf",
     "title": "令和4年5月13日入札結果 (PDFファイル: 168.8KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"628c6d7e-2a2dd\"",
+    "lastModified": "Tue, 24 May 2022 05:30:38 GMT",
+    "contentHash": "a78e05b544b6dd08b7bf5d0d81c5e3311f1c99211e0bd06d1af4bc7d9e91f823"
   },
   {
     "id": "aa97b66304ed32c8",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/42/nyuusatsukekka040526.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-11T11:40:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-14T11:40:07+00:00",
+    "coveredYears": [
+      2022
+    ],
     "sourceType": "result_pdf",
     "title": "令和4年5月26日入札結果 (PDFファイル: 159.5KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"62aaabb6-27df4\"",
+    "lastModified": "Thu, 16 Jun 2022 04:04:06 GMT",
+    "contentHash": "0b2feb090e04d4c2791b9551e2e845fba0c85b3f9b7cc1d75cb574cecab03e0e"
   },
   {
     "id": "5e8a11e5e9894660",
@@ -76912,6 +77063,51 @@
     "sourceType": "result_pdf",
     "title": "仕様書",
     "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "314819ce77079e3d",
+    "municipalityCode": "151009",
+    "url": "https://www.city.niigata.lg.jp/business/keiyaku/nyusatsu/anken/nyusatsufucho/sonotanokekka.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "その他の入札結果一覧（委公建第17号）を更新しました",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "5e2ea44258685fb2",
+    "municipalityCode": "172057",
+    "url": "https://www.city.suzu.lg.jp/site/nyusatsu-keiyaku/21584.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "令和7年度入札結果",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "fde24f290003c95c",
+    "municipalityCode": "173843",
+    "url": "https://www.town.shika.lg.jp/uploaded/attachment/7164.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "回答書(9月8日受付終了時) [PDFファイル／526KB]",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   }
