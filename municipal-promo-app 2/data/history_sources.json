@@ -13408,7 +13408,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "復興の動き",
+    "title": "еҫ©иҲҲгҒ®еӢ•гҒҚ",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -37507,7 +37507,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果・契約結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"80ef-65af0cd5615ab\"",
@@ -65318,90 +65318,120 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/00125.html",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:23+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result",
     "title": "令和５年度入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"126de-657157312525a-gzip\"",
+    "lastModified": "Tue, 21 Jul 2026 02:04:56 GMT",
+    "contentHash": "0196197e53e5f0ba4255aa6ca18d7049e4097b0380814b641bc0bb9c932924cc"
   },
   {
     "id": "7f77dd6a228f3f1a",
     "municipalityCode": "232050",
     "url": "https://www.city.handa.lg.jp/jigyosha/nyusatsu/1003677/1005210/1003678.html",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:25+00:00",
+    "coveredYears": [
+      2022
+    ],
     "sourceType": "result",
     "title": "令和4年度入札結果（物品等）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"8a42-65b570fd0c38d\"",
+    "lastModified": "Sun, 13 Sep 2026 06:02:25 GMT",
+    "contentHash": "8e27c05229d5aa9838f056aca25ce764d727fa4d3ba5721e21da4702ee8acea6"
   },
   {
     "id": "bf26eb7a3e2b1680",
     "municipalityCode": "232050",
     "url": "https://www.city.handa.lg.jp/jigyosha/nyusatsu/1003677/1005210/1003679.html",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:26+00:00",
+    "coveredYears": [
+      2021
+    ],
     "sourceType": "result",
     "title": "令和3年度入札結果（物品等）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"8a09-65b570fd1291d\"",
+    "lastModified": "Sun, 13 Sep 2026 06:02:25 GMT",
+    "contentHash": "16790fef45bb37811d25b0c2b6ddd1062103735b8a57459169de48fef9cc7e38"
   },
   {
     "id": "6bb445b4c4e643db",
     "municipalityCode": "232050",
     "url": "https://www.city.handa.lg.jp/jigyosha/nyusatsu/1003677/1005210/1007896.html",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:27+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result",
     "title": "令和5年度入札結果（物品等）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"8a44-65b570fd05dfd\"",
+    "lastModified": "Sun, 13 Sep 2026 06:02:25 GMT",
+    "contentHash": "61392a2e338f6e7e9d656eb43de3431dd0b0698eeda044b51d2f18cfbb93c661"
   },
   {
     "id": "00dd080bd59a8a28",
     "municipalityCode": "232050",
     "url": "https://www.city.handa.lg.jp/jigyosha/nyusatsu/1003677/1005210/1009874.html",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:28+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result",
     "title": "令和6年度入札結果（物品等）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"8a5c-65b570fcff86d\"",
+    "lastModified": "Sun, 13 Sep 2026 06:02:25 GMT",
+    "contentHash": "738d8f6278740fc5562d1b7bb1f8521b62045588c9caf45d2176b48d2559b650"
   },
   {
     "id": "5a65817e7e753bf6",
     "municipalityCode": "232050",
     "url": "https://www.city.handa.lg.jp/jigyosha/nyusatsu/1003677/1005210/1012141.html",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:30+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result",
     "title": "令和7年度入札結果（物品等）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"7bbd-65b570fcf92dd\"",
+    "lastModified": "Sun, 13 Sep 2026 06:02:25 GMT",
+    "contentHash": "6260c3bb234b54ec810a44c381a7b350e5019eea33990452abea73cc5311eb33"
   },
   {
     "id": "70c2ad47e6d7881f",
@@ -65528,75 +65558,100 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/042/011zuii_buppin202504-202506.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:32+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result",
     "title": "令和7年度 随意契約結果(物品・印刷)（4月から6月分） (Excel)(20.4KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"516c-64b28ff2fc631\"",
+    "lastModified": "Thu, 19 Feb 2026 08:21:52 GMT",
+    "contentHash": "8261b42928e22d4e7f47e3d0c11bc0a74cdb2e6e0395593ff2f64383729e81a5"
   },
   {
     "id": "5a266345f4f4ab1e",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/042/01zuii_buppin202507-202509-2.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:32+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result",
     "title": "令和7年度 随意契約結果(物品・印刷)（7月から9月分） (Excel)(14.7KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"3ab8-64b28ef7fbd4c\"",
+    "lastModified": "Thu, 19 Feb 2026 08:17:29 GMT",
+    "contentHash": "154c195eded2ae8c45954b35735c2ba9d6b63bf4c5eebf5438865ef809e397fd"
   },
   {
     "id": "b2cfba6a8b087719",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/042/uii_buppin202401_202403.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:33+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result",
     "title": "令和5年度 随意契約結果(物品・印刷)（1月から3月分） (Excel)(18.3KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"494d-6198c3f30a0ab\"",
+    "lastModified": "Tue, 28 May 2024 23:46:46 GMT",
+    "contentHash": "ccf359dd6eddee3747616a2349c59055b35f6cf769adb2c1b61b1a6b00520f15"
   },
   {
     "id": "59e6e9dadfdc4829",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/042/zuii_buppin202304_202306_.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:33+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result",
     "title": "令和5年度 随意契約結果(物品・印刷)（4月から6月分） (Excel)(17.8KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"4706-609ade02339a6\"",
+    "lastModified": "Thu, 09 Nov 2023 01:10:54 GMT",
+    "contentHash": "5e112593341239999221606b420b494087574b3d4d245e75ccee0edfdf586cd0"
   },
   {
     "id": "bc77e06a8376c2ac",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/042/zuii_buppin202307_202309.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:34+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result",
     "title": "令和5年度 随意契約結果(物品・印刷)（7月から9月分） (Excel)(15.7KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"3e9d-609add6497143\"",
+    "lastModified": "Thu, 09 Nov 2023 01:08:09 GMT",
+    "contentHash": "d734c772c8149fbf83c5001de9dd2041164a0166c1824509b6a481fa8b0e8dc2"
   },
   {
     "id": "7d0a0d4c01f9d5aa",
@@ -65708,15 +65763,18 @@
     "municipalityCode": "062065",
     "url": "https://www.city.sagae.yamagata.jp/jigyou/nyusatsu/koukoku/bosaimusen-result.html",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-09-16T06:25:36+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "寒河江市防災行政無線更新工事公募型プロポーザル審査結果",
     "discoveryMethod": "procurement_page",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"8a05-65b36571ce324\"",
+    "lastModified": "Fri, 11 Sep 2026 15:00:08 GMT",
+    "contentHash": "bb798568a4398673a7f14d6c212d5597a0c3454a5c5f71a49458dd3742442181"
   },
   {
     "id": "5cff2ebad9fcd5f7",
@@ -65768,270 +65826,360 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/051/2.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:36+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result",
     "title": "令和6年度 随意契約結果(建設工事・測量コンサル)（4月から6月分） (Excel)(15.0KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"3bec-626eefd6abc57\"",
+    "lastModified": "Fri, 15 Nov 2024 08:02:35 GMT",
+    "contentHash": "d684869536480e821e66822cdb088c33925d87c3281817b167e5a32e9434ae37"
   },
   {
     "id": "597cd6e0a969f547",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/051/zuii_koji202304_202306.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:37+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result",
     "title": "令和5年度 随意契約結果(建設工事・測量コンサル)（4月から6月分） (Excel)(15.9KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"3f77-6024f3eb162bc\"",
+    "lastModified": "Mon, 07 Aug 2023 06:20:37 GMT",
+    "contentHash": "cc400456633a1fa107e321827e5fe5a0130dbb97c3826907605d9be762da3f36"
   },
   {
     "id": "cfa480c5c697a952",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/051/zuii_koji202307_202309.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:37+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result",
     "title": "令和5年度 随意契約結果(建設工事・測量コンサル)（7月から9月分） (Excel)(14.8KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"3b05-609b40dd09201\"",
+    "lastModified": "Thu, 09 Nov 2023 08:33:10 GMT",
+    "contentHash": "97d1a92a9169060ddd3aa6b3bbce91f6cf653daea3df5ee31bb27973a90905c5"
   },
   {
     "id": "1bd03533a4951ec0",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/051/zuii_koji202310_202312.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:38+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result",
     "title": "令和5年度 随意契約結果(建設工事・測量コンサル)（10月から12月分） (Excel)(13.9KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"37a6-610e9304e65cb\"",
+    "lastModified": "Fri, 09 Feb 2024 01:53:04 GMT",
+    "contentHash": "5eab3a257ccf00bcc9534eb78bea601b4b5243bbb3fd5644de9f00f7ec1fa08f"
   },
   {
     "id": "120569b3b864da67",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/051/zuii_koji202407_202409.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:38+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result",
     "title": "令和6年度 随意契約結果(建設工事・測量コンサル)（7月から9月分） (Excel)(14.7KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"3ad2-626eefea51793\"",
+    "lastModified": "Fri, 15 Nov 2024 08:02:56 GMT",
+    "contentHash": "f1daa3e60d2b3047f16e03726797d312e859a6a27b36e6a343f29cf41541e9d9"
   },
   {
     "id": "5989680a9163e1a8",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/052/01zuii_ekimu202504-202506.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:40+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result",
     "title": "令和7年度随意契約結果（4月から6月分） (Excel)(79.8KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"13f02-643d59045b952\"",
+    "lastModified": "Tue, 18 Nov 2025 02:53:07 GMT",
+    "contentHash": "357dea5418a9ff253ca8b374cb99f9eea37824901c720c3e30aa4e95ff67be51"
   },
   {
     "id": "07b214515801c25c",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/052/zuii_ekimu202304_2023062.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:41+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result",
     "title": "令和5年度随意契約結果（4月から6月分） (Excel)(56.5KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"e217-609c83f3ad250\"",
+    "lastModified": "Fri, 10 Nov 2023 08:38:39 GMT",
+    "contentHash": "8a7dbce0359dc48c26fda1eec49c4aaaced6e72922bddd2eca742ddd934143b4"
   },
   {
     "id": "45a09c41f68f738b",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/052/zuii_ekimu202307_2023092.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:42+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result",
     "title": "令和5年度随意契約結果（7月から9月分） (Excel)(27.3KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6d66-610d6bb493d83\"",
+    "lastModified": "Thu, 08 Feb 2024 03:51:51 GMT",
+    "contentHash": "96ae2dc3e15d591b7476db3e2840746485197c1d08be867eb8a63d08fc61544e"
   },
   {
     "id": "dfb1e827ddfb6960",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/052/zuii_ekimu202310_2023122.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:42+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result",
     "title": "令和5年度随意契約結果（10月から12月分） (Excel)(25.4KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6593-61a0ea36ba887\"",
+    "lastModified": "Tue, 04 Jun 2024 11:20:33 GMT",
+    "contentHash": "84d598a43d9e6ae85d7002fe3c489b819eba854924b6488ec52d2b57e506e1f7"
   },
   {
     "id": "2a181dcb664707ab",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/052/zuii_ekimu202401_202403.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:43+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result",
     "title": "令和5年度随意契約結果（1月から3月分） (Excel)(39.0KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"9bf3-61a0ea1f38821\"",
+    "lastModified": "Tue, 04 Jun 2024 11:20:09 GMT",
+    "contentHash": "47145c650741ad0f39329a868a39c50c7ac465833e3b7353ba9a29708c39a897"
   },
   {
     "id": "ef0d396fcac59ab0",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202604.files/20260430.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:46+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年4月30日執行分(PDF:561KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 30 Apr 2026 05:38:04 GMT",
+    "contentHash": "c47a042a60046f9376bd3549d5443d1be4e0c1c7c6ac3a2f917336c4ba33844d"
   },
   {
     "id": "0133d0125dae0b58",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202604.files/20260428.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:46+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年4月28日執行分(PDF:594KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 30 Apr 2026 05:38:21 GMT",
+    "contentHash": "9feb2f2aba270b505af3557d06626d5b5c2a5363bfc7e2bd7e6d2654723aefa4"
   },
   {
     "id": "c9d971f642aa4951",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202604.files/20260424.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:47+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年4月24日執行分(PDF:442KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Fri, 08 May 2026 03:03:00 GMT",
+    "contentHash": "e4788a4a2cff158e7bae40a2edf4670a855d495eb27cd7bd20faaff77839a6ef"
   },
   {
     "id": "7a69a424375618b1",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202604.files/20260421.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:48+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年4月21日執行分(PDF:600KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Tue, 21 Apr 2026 07:51:22 GMT",
+    "contentHash": "02c83bfbfe0a9585b42007f19719a9b27bfc713884a8dbd56e18273e73a4021b"
   },
   {
     "id": "42113f3fd4be23ec",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202604.files/20260417.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:49+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年4月17日執行分(PDF:371KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Fri, 17 Apr 2026 02:20:19 GMT",
+    "contentHash": "140163feabc7de73fb2e748210886bc037e7d5a65d87f4697f3941987426e4b1"
   },
   {
     "id": "95e186eef7c4bab7",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202605.files/20260529.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:50+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年5月29日執行分(PDF:615KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Fri, 29 May 2026 06:58:40 GMT",
+    "contentHash": "9ef73e7fc3d23430bc07d919210b48244e4c70ce42feb48d8bc72b7885f784cc"
   },
   {
     "id": "74f2708d8cdd206f",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202605.files/20260528.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:50+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年5月28日執行分(PDF:754KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 28 May 2026 04:08:42 GMT",
+    "contentHash": "f8304bbb7dec2a81658eb0955d45ea15ae7bac3a69f09d5d07aac7f0c4d50141"
   },
   {
     "id": "266028006212de9e",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202605.files/20260527yet2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-13T06:25:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-16T06:25:51+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年5月27日執行分（不落を含む）(PDF:469KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Wed, 27 May 2026 07:35:55 GMT",
+    "contentHash": "bb73b62daa962faddfc6aa817e2df7ba6d31e9849e8afcf8efbcbaf20b680b9f"
   },
   {
     "id": "bd54b9364263d11c",
@@ -82154,6 +82302,96 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "令和8年5月石油製品単価契約（PDF/140KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "e56f5398bbdf2783",
+    "municipalityCode": "030007",
+    "url": "https://www.pref.iwate.jp/kensei/nyuusatsu/compe/kekka/1101902.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "「令和8年度水素利活用促進支援業務」受託候補者選定委員会の審査結果について",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "f6f8fda976b7570d",
+    "municipalityCode": "232041",
+    "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/itakuR5-7-68.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "水道汚泥収集運搬業務委託（単価契約）（PDF/111KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "2a281705a6e5263b",
+    "municipalityCode": "232041",
+    "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/itakuR5-7-56.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "水道汚泥リサイクル処理業務委託（単価契約）（PDF/111KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "71d75af2cf9e5a28",
+    "municipalityCode": "232041",
+    "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/itakuR5-4-5.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和5年度量水器取替業務委託(単価契約）（PDF/116KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "c3e66e5aad3d51e3",
+    "municipalityCode": "232041",
+    "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/chintaishakuR5-4-1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和5年度瀬戸市大型バス賃貸借（単価契約）（PDF/87KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "b711d3cd59c7326a",
+    "municipalityCode": "232041",
+    "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/koujiR5-4-1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和5年度馬ヶ城浄水場ろ過池砂揚工事（単価契約）（PDF/136KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true
