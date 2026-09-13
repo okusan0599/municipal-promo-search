@@ -1,15 +1,15 @@
 {
   "state": "completed",
-  "started_at": "2026-09-13T19:31:07+00:00",
-  "updated_at": "2026-09-13T19:38:39+00:00",
+  "started_at": "2026-09-13T22:27:41+00:00",
+  "updated_at": "2026-09-13T22:37:25+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 112,
     "status": {
       "state": "completed",
-      "started_at": "2026-09-13T19:31:07+00:00",
-      "updated_at": "2026-09-13T19:31:34+00:00",
+      "started_at": "2026-09-13T22:27:41+00:00",
+      "updated_at": "2026-09-13T22:28:05+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
@@ -24,29 +24,29 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 82,
-    "failed": 18,
+    "succeeded": 81,
+    "failed": 19,
     "sourcesAdded": 0,
-    "historySourcesAdded": 21
+    "historySourcesAdded": 52
   },
   "direct": {
     "processed": 50,
-    "succeeded": 50,
-    "failed": 0,
-    "projects": 194,
-    "unchanged": 12,
-    "historySourcesAdded": 133
+    "succeeded": 49,
+    "failed": 1,
+    "projects": 181,
+    "unchanged": 13,
+    "historySourcesAdded": 128
   },
   "history": {
     "processed": 30,
     "succeeded": 30,
     "failed": 0,
-    "awards": 25,
-    "documents": 49,
+    "awards": 0,
+    "documents": 42,
     "unchanged": 0
   },
   "statusNormalized": 0,
-  "historyLinkedProjects": 13,
+  "historyLinkedProjects": 14,
   "coverage": {
     "municipalities": 1788,
     "municipalitiesVisited": 1787,
@@ -55,10 +55,10 @@
     "sources": 6801,
     "projects": 3589,
     "projectsWithDeadline": 641,
-    "historySources": 5047,
+    "historySources": 5058,
     "historyMunicipalities": 465,
     "historyAwards": 1221,
-    "historyLinkedProjects": 281
+    "historyLinkedProjects": 289
   },
   "sourceStats": {
     "municipalities": 1788,
@@ -68,10 +68,10 @@
     "sources": 6801,
     "projects": 3589,
     "projectsWithDeadline": 641,
-    "historySources": 5047,
+    "historySources": 5058,
     "historyMunicipalities": 465,
     "historyAwards": 1221,
-    "historyLinkedProjects": 281,
+    "historyLinkedProjects": 289,
     "officialDirectProjects": 3199,
     "kkjPrimaryProjects": 390
   },
