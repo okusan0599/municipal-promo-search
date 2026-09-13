@@ -1,68 +1,63 @@
 {
   "state": "completed",
-  "started_at": "2026-09-13T16:24:54+00:00",
-  "updated_at": "2026-09-13T16:35:47+00:00",
+  "started_at": "2026-09-13T19:31:07+00:00",
+  "updated_at": "2026-09-13T19:38:39+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 112,
     "status": {
-      "state": "error",
-      "started_at": "2026-09-13T16:24:54+00:00",
-      "updated_at": "2026-09-13T16:24:55+00:00",
+      "state": "completed",
+      "started_at": "2026-09-13T19:31:07+00:00",
+      "updated_at": "2026-09-13T19:31:34+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
       "count": 112,
-      "errors": [
-        {
-          "query": "プロモーション OR シティプロモーション OR 広報 OR 広告 OR ブランディング OR 観光 OR 誘客 OR 移住 OR 関係人口 OR 魅力発信 OR SNS OR 動画 OR 映像 OR Web OR ホームページ OR イベント OR キャンペーン OR デザイン OR クリエイティブ OR パンフレット OR ポスター OR ロゴ OR コンサルティング OR 戦略策定 OR 基本構想 OR 事業戦略 OR マーケティング OR 市場調査 OR アンケート OR 調査分析 OR AI OR 生成AI OR 人工知能 OR データ分析 OR データ活用 OR DX OR デジタル活用 OR コミュニケーション OR 広報戦略 OR パブリシティ",
-          "error": "HTTPSConnectionPool(host='www.kkj.go.jp', port=443): Max retries exceeded with url: /api/?Query=%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+OR+%E3%82%B7%E3%83%86%E3%82%A3%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+OR+%E5%BA%83%E5%A0%B1+OR+%E5%BA%83%E5%91%8A+OR+%E3%83%96%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0+OR+%E8%A6%B3%E5%85%89+OR+%E8%AA%98%E5%AE%A2+OR+%E7%A7%BB%E4%BD%8F+OR+%E9%96%A2%E4%BF%82%E4%BA%BA%E5%8F%A3+OR+%E9%AD%85%E5%8A%9B%E7%99%B"
-        }
-      ],
+      "errors": [],
       "current_query": null,
-      "raw_hits_sum": 0,
+      "raw_hits_sum": 5713,
       "lookback_days": 180,
       "cache_minutes": 30,
-      "message": "APIから新規データを取得できませんでした。キャッシュがあれば継続表示します。"
+      "message": "APIから最新候補を取得しました。元公示は各案件リンクで確認してください。"
     }
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 94,
-    "failed": 6,
+    "succeeded": 82,
+    "failed": 18,
     "sourcesAdded": 0,
-    "historySourcesAdded": 44
+    "historySourcesAdded": 21
   },
   "direct": {
     "processed": 50,
     "succeeded": 50,
     "failed": 0,
-    "projects": 258,
-    "unchanged": 4,
-    "historySourcesAdded": 178
+    "projects": 194,
+    "unchanged": 12,
+    "historySourcesAdded": 133
   },
   "history": {
     "processed": 30,
-    "succeeded": 29,
-    "failed": 1,
-    "awards": 1,
-    "documents": 14,
+    "succeeded": 30,
+    "failed": 0,
+    "awards": 25,
+    "documents": 49,
     "unchanged": 0
   },
   "statusNormalized": 0,
-  "historyLinkedProjects": 3,
+  "historyLinkedProjects": 13,
   "coverage": {
     "municipalities": 1788,
     "municipalitiesVisited": 1787,
     "municipalityCoverageRate": 99.9,
     "municipalitiesWithSources": 1401,
     "sources": 6801,
-    "projects": 3584,
-    "projectsWithDeadline": 640,
-    "historySources": 5009,
-    "historyMunicipalities": 464,
-    "historyAwards": 1215,
+    "projects": 3589,
+    "projectsWithDeadline": 641,
+    "historySources": 5047,
+    "historyMunicipalities": 465,
+    "historyAwards": 1221,
     "historyLinkedProjects": 281
   },
   "sourceStats": {
@@ -71,13 +66,13 @@
     "municipalityCoverageRate": 99.9,
     "municipalitiesWithSources": 1401,
     "sources": 6801,
-    "projects": 3584,
-    "projectsWithDeadline": 640,
-    "historySources": 5009,
-    "historyMunicipalities": 464,
-    "historyAwards": 1215,
+    "projects": 3589,
+    "projectsWithDeadline": 641,
+    "historySources": 5047,
+    "historyMunicipalities": 465,
+    "historyAwards": 1221,
     "historyLinkedProjects": 281,
-    "officialDirectProjects": 3194,
+    "officialDirectProjects": 3199,
     "kkjPrimaryProjects": 390
   },
   "errors": [],
