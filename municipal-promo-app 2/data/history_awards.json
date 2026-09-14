@@ -17675,7 +17675,7 @@
   },
   {
     "dedupeKey": "4ac02a41ea1d8fa56bf66779f11ba1858b0931dc339b50eca1b773b2736c7586",
-    "id": "award-06b0bcea09499d182d9e24cd",
+    "id": "award-9b2ab92542dae618f0d15845",
     "municipalityCode": "322091",
     "area": "中国",
     "region": "島根県",
@@ -17685,12 +17685,12 @@
     "vendor": "の決定) 2026年6月23日 雲南市建設工事および測量・設計等業務入札結果一覧【令和7年度】 2026年1月30日 雲南市キャリアアドバイザー業務委託に関する公募型プロポーザル",
     "awardDate": "2026-07-21",
     "year": 2025,
-    "sourceUrl": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/index.html",
+    "sourceUrl": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/",
     "sourceSystem": "municipality_result",
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-09T19:58:45+00:00"
+    "lastChecked": "2026-09-14T19:35:13+00:00"
   },
   {
     "dedupeKey": "b7804a316c8949cbba9ca6926965a90ff98b748fc7af41b5600e879d504e7abf",
@@ -22592,5 +22592,43 @@
       "調査・マーケティング"
     ],
     "lastChecked": "2026-09-14T14:17:38+00:00"
+  },
+  {
+    "dedupeKey": "2f841ac5642c7ce42e25d02dfd1221936fbd5e5db9392ca016de4209a893aab4",
+    "id": "award-fff84960acce730945d5faa8",
+    "municipalityCode": "400009",
+    "area": "九州",
+    "region": "福岡県",
+    "municipality": "福岡県",
+    "organization": "福岡県",
+    "title": "福岡障害者職業能力開発校男子・女子寮空調機更新工事 2 契約に関する事務を担当する部局の名称及び",
+    "vendor": "の公示について(福岡障害者職業能力開発校男子・女子寮空調機更新工事) ページID:0841798 更新日:2026年9月9日更新 印刷ページ表示 公示 落札者等について、次のとおり公示します。 令和8年9月8日 福岡障害者職業能力開発校長 深見 幸代 1",
+    "awardDate": "2026-08-27",
+    "year": 2026,
+    "sourceUrl": "https://www.pref.fukuoka.lg.jp/bid-info/kuutyouki-shougaisyakou-kekka.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-09-14T19:35:11+00:00"
+  },
+  {
+    "dedupeKey": "bdde80e2c69e494364941983766015e0e0eb92f3410c49b3290b740c9eb20c12",
+    "id": "award-84de830bc81d94c32228e95c",
+    "municipalityCode": "322091",
+    "area": "中国",
+    "region": "島根県",
+    "municipality": "雲南市",
+    "organization": "雲南市",
+    "title": "雲南市公共施設照明LED 化事業",
+    "vendor": "株式会社NEXYZ.",
+    "awardDate": "2026-06-19",
+    "year": 2026,
+    "sourceUrl": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/gakkou_led_kekka2606.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-09-14T19:35:12+00:00"
   }
 ]
