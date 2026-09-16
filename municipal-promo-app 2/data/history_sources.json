@@ -19590,7 +19590,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果の公表",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"6a9c88f8-3dcd\"",
@@ -19608,7 +19608,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果等の公表",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"6a9c8910-764d\"",
@@ -20289,9 +20289,9 @@
       2026
     ],
     "sourceType": "result_pdf",
-    "title": "令和7年度の入札結果(pdf 41 KB)",
+    "title": "https://www.city.ashikaga.tochigi.jp/manage/contents/upload/68afc1b766963.pdf",
     "discoveryMethod": "procurement_page",
-    "priority": 1,
+    "priority": 3,
     "active": true,
     "etag": "\"a24f-63d63d5a104c2\"",
     "lastModified": "Thu, 28 Aug 2025 02:40:55 GMT",
@@ -82607,450 +82607,600 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_12_22.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:06+00:00",
+    "coveredYears": [
+      2022
+    ],
     "sourceType": "result_pdf",
     "title": "令和4年12月22日入札結果（PDF形式 95キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"5e3791e11246dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "contentHash": "f327f98805ba5cbd5430f39a6de036f8117078da3dbbcec7b83ecbdb71e520ca"
   },
   {
     "id": "68f9f70f34680192",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_4_14.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:07+00:00",
+    "coveredYears": [
+      2022
+    ],
     "sourceType": "result_pdf",
     "title": "令和4年4月14日入札結果（PDF形式 177キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"949993e11246dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "contentHash": "106bebdca7ba8726ae76bf2b1ce6995804c13049dd36601c36280ed0e6aafb1a"
   },
   {
     "id": "04cb73cdbc0dde25",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_4_28.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:08+00:00",
+    "coveredYears": [
+      2022
+    ],
     "sourceType": "result_pdf",
     "title": "令和4年4月28日入札結果（PDF形式 369キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"14fc95e11246dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "contentHash": "e0b72995385bf2ca0f54e16dc932c3ae531a564ba9bfd3c08f32e4574bdbbe89"
   },
   {
     "id": "8b86886a9228552b",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_5_12.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:09+00:00",
+    "coveredYears": [
+      2022
+    ],
     "sourceType": "result_pdf",
     "title": "令和4年5月12日入札結果（PDF形式 179キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"4a5e98e11246dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "contentHash": "0493525732ff72f047241f1e736a7fd2e57e1e5704e00ee75211c8e2416f1e21"
   },
   {
     "id": "07ec353b79f86e18",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_5_26.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:10+00:00",
+    "coveredYears": [
+      2022
+    ],
     "sourceType": "result_pdf",
     "title": "令和4年5月26日入札結果（PDF形式 335キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"13c19ae11246dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "contentHash": "ac70ec7f77dbad4431d791b6c20b2be75177a835b5bc1d072db7cc654b6409a9"
   },
   {
     "id": "91b1f4d9ea8ec674",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_6_8.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:11+00:00",
+    "coveredYears": [
+      2022
+    ],
     "sourceType": "result_pdf",
     "title": "令和4年6月8日入札結果（PDF形式 115キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"89859fe11246dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "contentHash": "9b7c5917e6159dd6a2685e042584ddf35b48838436921ef471ed6ad990153f78"
   },
   {
     "id": "1a79cd302e333d4c",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319_d/fil/r5_10_12.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:11+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result_pdf",
     "title": "令和5年10月12日入札結果（PDF形式 140キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"8f96f9341646dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:01:48 GMT",
+    "contentHash": "5f256510fb60ee2b46c8e7f62d0c3b269e90f82fb1ff342589e90220e450488b"
   },
   {
     "id": "def92a054f6d90f2",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319_d/fil/r5_10_26.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:12+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result_pdf",
     "title": "令和5年10月26日入札結果（PDF形式 143キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"8f96f9341646dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:01:48 GMT",
+    "contentHash": "4662e7afaaabf3529d17db72655e3067c2236a381eebe1900c5b2c03be715fcc"
   },
   {
     "id": "0d92db4b842d1069",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319_d/fil/r5_12_22.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:13+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result_pdf",
     "title": "令和5年12月22日入札結果（PDF形式 140キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"caf8fb341646dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:01:48 GMT",
+    "contentHash": "4c83c6aea9918f3abe7474d4458f02f131a796a3bfa72a5ce6b271582b3352a7"
   },
   {
     "id": "e9da45f92e9d2476",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319_d/fil/r5_12_7.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:14+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result_pdf",
     "title": "令和5年12月7日入札結果（PDF形式 73キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"315bfe341646dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:01:48 GMT",
+    "contentHash": "54719df9fa47b683486b2aae57f96eb3caa45c609a2b22425fcd795fbf7ac825"
   },
   {
     "id": "08746f8bf268e2f6",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319_d/fil/r5_4_13.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:14+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result_pdf",
     "title": "令和5年4月13日入札結果（PDF形式 206キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"93bd0351646dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:01:48 GMT",
+    "contentHash": "6a922c9954ecaca5897c90d64f9b0f27983945acade91325a09fcb4990774da1"
   },
   {
     "id": "c83d44c32489f0c4",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319_d/fil/r5_4_27.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:15+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result_pdf",
     "title": "令和5年4月27日入札結果（PDF形式 365キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"f51f3351646dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:01:48 GMT",
+    "contentHash": "bc21dd4f38c7977c9fde489341b9f069acb132d34d1f5fcf57c21a248dea2577"
   },
   {
     "id": "5483a143d95c1a27",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319_d/fil/r5_5_18.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:17+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result_pdf",
     "title": "令和5年5月18日入札結果（PDF形式 351キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"4e825351646dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:01:48 GMT",
+    "contentHash": "afc905505bab36d5c6afd8ed360a2ee6cb6d28ce4f1937f9df9b972a871534cf"
   },
   {
     "id": "42d6d51cf5247c9a",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319_d/fil/r5_5_25.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:19+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result_pdf",
     "title": "令和5年5月25日入札結果（PDF形式 258キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"abe47351646dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:01:48 GMT",
+    "contentHash": "428baa0d33ef9005adbc5aa489e4193107f955eb44b0980476ce567db9f3c27e"
   },
   {
     "id": "00d4e98cbed7fbe8",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319_d/fil/r5_6_8.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:20+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result_pdf",
     "title": "令和5年6月8日入札結果（PDF形式 231キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"5ca9c351646dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:01:48 GMT",
+    "contentHash": "1abe0152ece32c7479fc775d2f148490716a52e1b99596c3eccfb5aa33c76cb9"
   },
   {
     "id": "d9bf6646757b1eae",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p014161_d/fil/R6_10_24.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:21+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result_pdf",
     "title": "令和6年10月24日入札結果（PDF形式 70キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"5d83a4991a46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:33:15 GMT",
+    "contentHash": "8babfbe505150860197a5b1c3c975bdc2e78d551e23151e333f41f6dacef7782"
   },
   {
     "id": "c1e543a81c45c72b",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p014161_d/fil/R6_11_28.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:21+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result_pdf",
     "title": "令和6年11月28日入札結果（PDF形式 70キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"5d83a4991a46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:33:15 GMT",
+    "contentHash": "dedeaa2ca36c710a208c2ae30cb65517d03f3fe0ee107c45b7f6f78f98698518"
   },
   {
     "id": "205918bc9dc047c3",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p014161_d/fil/R6_12_19.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:22+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result_pdf",
     "title": "令和6年12月19日入札結果（PDF形式 137キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"98e5a6991a46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:33:15 GMT",
+    "contentHash": "5627b0a61fa209a179c423e588c87e2286c14435c4d3f9d3580abdb0fc8443cd"
   },
   {
     "id": "97c0f8087a0d1640",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p014161_d/fil/R6_4_11.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:23+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result_pdf",
     "title": "令和6年4月11日入札結果（PDF形式 270キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"e48a9991a46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:33:15 GMT",
+    "contentHash": "e0938be170108c741f2143f7dc8f66d8bb57f78dbfac6b9c1cd68301eb19373a"
   },
   {
     "id": "dc2d83445c57889d",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p014161_d/fil/R6_4_25.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:24+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result_pdf",
     "title": "令和6年4月25日入札結果（PDF形式 409キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"7faaab991a46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:33:15 GMT",
+    "contentHash": "c101b5340c2eb6034cef5fe7b1edeaaabafd6ecaea8b34db147855304d12b01c"
   },
   {
     "id": "8330f6dbcaada203",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p014161_d/fil/R6_5_16.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:25+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result_pdf",
     "title": "令和6年5月16日入札結果（PDF形式 137キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"c4cae991a46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:33:15 GMT",
+    "contentHash": "a3c06f517d7e5d7a07d49e6ad7eca15383500416b9db9827f92f4bde18c08ca6"
   },
   {
     "id": "68fadf7388ce09f1",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p014161_d/fil/R6_5_30.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:26+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result_pdf",
     "title": "令和6年5月30日入札結果（PDF形式 592キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"74d1b2991a46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:33:15 GMT",
+    "contentHash": "46359ea4d0a60e30a64a3b46f94a52489b3f3996e5a7e068b7a78e3152c44bfe"
   },
   {
     "id": "0d1972a236e9c4c1",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p014161_d/fil/R6_6_6.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:27+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result_pdf",
     "title": "令和6年6月6日入札結果（PDF形式 74キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"aa33b5991a46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 20:33:15 GMT",
+    "contentHash": "9797263b2b158593556348979c87bac00a848d777b749874c56e2d94a3ff6bd9"
   },
   {
     "id": "d3c2dfff8f983639",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p015022_d/fil/R71106.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:28+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年11月6日入札結果（PDF形式 69キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"b21752f31e46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 21:04:23 GMT",
+    "contentHash": "7aa7335645752d9e58e3ac0371a2820c4f0863d38c7184bd640cec6d3b782653"
   },
   {
     "id": "888e88cbf50a5878",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p015022_d/fil/R71127.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:28+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年11月27日入札結果（PDF形式 71キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"b21752f31e46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 21:04:23 GMT",
+    "contentHash": "33a639131ca9d770d166d74b26dd47044cc466c4377a5455de8d33fa3c63a998"
   },
   {
     "id": "efeca4ac167c4f9a",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p015022_d/fil/R71218.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:29+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年12月18日入札結果（PDF形式 70キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"f27954f31e46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 21:04:23 GMT",
+    "contentHash": "c9dc4cf863ffd70ce8862c911cdf4efd842a1265d2cc5f14ec3f87f9410f77bc"
   },
   {
     "id": "9347f4ff5f2febbb",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p015022_d/fil/R7410.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:30+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年4月10日入札結果（PDF形式 206キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6ddc56f31e46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 21:04:23 GMT",
+    "contentHash": "ed5b92ed683f6c60de76b938e80596cb238e6ead4f7158f974c7452b522b5db2"
   },
   {
     "id": "b667775e9c55f652",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p015022_d/fil/R7424.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:31+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年4月24日入札結果（PDF形式 414キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"cf3e59f31e46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 21:04:23 GMT",
+    "contentHash": "cc30710b06c844f33bf7daf2e7084d4a98853af7a41023468e67f0f5249d349e"
   },
   {
     "id": "170bf8a81a36fc74",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p015022_d/fil/R7515.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:32+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年5月15日入札結果（PDF形式 543キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"662a65f31e46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 21:04:23 GMT",
+    "contentHash": "05c6e8bc8e3305497622940b803780c1905fbcc18c00d8bcb61a5fd691c4aa1e"
   },
   {
     "id": "0da4c012e54909c5",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p015022_d/fil/R7522.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-16T23:11:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-19T23:11:33+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "令和7年5月22日入札結果（PDF形式 141キロバイト）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"662a65f31e46dd1:0\"",
+    "lastModified": "Wed, 16 Sep 2026 21:04:23 GMT",
+    "contentHash": "a35bf003e61f1617f9fc64eb9b2b196003635e118ddce9793cf944bd4159c22e"
   },
   {
     "id": "be6d76089ba0f0ab",
@@ -93460,6 +93610,66 @@
     "title": "西山公園園路更新工事（PDF：56KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
+    "active": true
+  },
+  {
+    "id": "2445f921a8ac3e4c",
+    "municipalityCode": "336637",
+    "url": "https://www.town.kumenan.lg.jp/news/administration/documents/hyoukakijyunhyou.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "評価基準表（PDF：405KB）",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "b63904e989d49e6d",
+    "municipalityCode": "336637",
+    "url": "https://www.town.kumenan.lg.jp/news/administration/documents/shitumonkaitou.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "質問への回答（PDF：192KB）",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "047213efe35dc2e3",
+    "municipalityCode": "092029",
+    "url": "https://www.city.ashikaga.tochigi.jp/manage/contents/upload/6aa0acfd8023f.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年度の入札結果(pdf 150 KB)",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "6bbf12c38bd98b07",
+    "municipalityCode": "100005",
+    "url": "https://www.pref.gunma.jp/site/nyuusatsu/775129.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "公募型プロポーザルの結果公表「群馬県の伝統野菜等を使用した群馬県PR動画コンテンツ制作業務」",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
     "active": true
   }
 ]
