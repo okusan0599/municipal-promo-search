@@ -22386,7 +22386,7 @@
   },
   {
     "dedupeKey": "409bec34ebba55f0f57395e3ea5c51d5dc4a5102d6411f6648e4ee410eec635b",
-    "id": "award-5a6f9821de69ab21b6dfd454",
+    "id": "award-ed016bf21ec0fc94b37093bf",
     "municipalityCode": "083020",
     "area": "北関東",
     "region": "茨城県",
@@ -22394,14 +22394,14 @@
     "organization": "茨城町",
     "title": "工事等場所",
     "vendor": "予定価格 (税抜・事前公表)",
-    "awardDate": "2015-01-07",
+    "awardDate": "2016-01-06",
     "year": 2015,
-    "sourceUrl": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd45570d4dba.pdf",
+    "sourceUrl": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd45577b0812.pdf",
     "sourceSystem": "municipality_result",
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-13T19:38:35+00:00"
+    "lastChecked": "2026-09-17T13:40:23+00:00"
   },
   {
     "dedupeKey": "0af5e552f64359aaa827f9bee94a8820a5209f15033b057fc1ad29bcbd3ff75b",
@@ -26849,5 +26849,24 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-09-17T07:54:43+00:00"
+  },
+  {
+    "dedupeKey": "9037c89d3904fb215838ab783d3ebab1b51dae686f37f78eaca44ff2da2c6a37",
+    "id": "award-19e88dd6c3ed3603dabc14f8",
+    "municipalityCode": "083020",
+    "area": "北関東",
+    "region": "茨城県",
+    "municipality": "茨城町",
+    "organization": "茨城町",
+    "title": "工事等場所",
+    "vendor": "予定価格 (税抜・事前公表)",
+    "awardDate": "2016-01-18",
+    "year": 2016,
+    "sourceUrl": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd455778a81a.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-09-17T13:40:22+00:00"
   }
 ]
