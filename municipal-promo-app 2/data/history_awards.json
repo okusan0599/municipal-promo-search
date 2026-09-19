@@ -27444,5 +27444,43 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-09-19T18:15:19+00:00"
+  },
+  {
+    "dedupeKey": "0ecf1a769615f97ca8edd8bf5adf3aa8119c6f2507aa84a415ec905c611fff27",
+    "id": "award-97adbc31a28ddfd9ded14e14",
+    "municipalityCode": "092029",
+    "area": "北関東",
+    "region": "栃木県",
+    "municipality": "足利市",
+    "organization": "足利市",
+    "title": "令和8年度の入札結果(pdf 150 KB)",
+    "vendor": "落札価格(消費税等含む) 備考 株式会社両毛ビジネスサポート ¥11,880,000",
+    "awardDate": "2027-03-31",
+    "year": 2027,
+    "sourceUrl": "https://www.city.ashikaga.tochigi.jp/manage/contents/upload/6aa0acfd8023f.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-09-19T20:57:56+00:00"
+  },
+  {
+    "dedupeKey": "461d1f098d0a9cdc8ac44bd2fb0fda2fb1510338a1af3ba95f2d9d76cccc64d5",
+    "id": "award-e71505de061b13847705e77a",
+    "municipalityCode": "012041",
+    "area": "北海道",
+    "region": "北海道",
+    "municipality": "旭川市",
+    "organization": "旭川市",
+    "title": "旭川市役所来庁者駐車場貸付事業 2",
+    "vendor": "タイムズ24株式会社 (2)",
+    "awardDate": "2026-08-10",
+    "year": 2026,
+    "sourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/shinsakekka.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-09-19T20:57:58+00:00"
   }
 ]
