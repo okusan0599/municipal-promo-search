@@ -2580,7 +2580,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "ほろかないplus第12版",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
   },
@@ -2595,7 +2595,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "ほろかないplus第７版【繁体字】",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
   },
@@ -2610,7 +2610,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "レシピvol.6",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
   },
@@ -2625,7 +2625,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "幌加内町スマホアプリ「ほろみんナビ」",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
   },
@@ -3631,7 +3631,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"472a-65c16ce30c4fc\"",
@@ -4515,40 +4515,40 @@
     "municipalityCode": "462012",
     "url": "https://www.city.kagoshima.lg.jp/shimin/taniyama/soumu/daikibosennteikekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:37:38+00:00",
+    "lastSuccessAt": "2026-09-22T22:25:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:37:38+00:00",
+    "nextCrawlAt": "2026-09-25T22:25:46+00:00",
     "coveredYears": [
       2008
     ],
     "sourceType": "result",
     "title": "鹿児島市谷山支所庁舎大規模改修基本・実施設計業務委託に係る企画提案競技（選定結果について）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"846c-65a9dcc876aeb\"",
-    "lastModified": "Fri, 04 Sep 2026 01:00:48 GMT",
-    "contentHash": "ec2cc78d5c0a6e7f33ab0777f05135ffa361e4137ea6cfddde537c640cbd3aca"
+    "etag": "\"82a8-65bbe21ace2b9\"",
+    "lastModified": "Fri, 18 Sep 2026 09:00:27 GMT",
+    "contentHash": "d8a7fa7dbe6584216fbe4dce70f75c91b32cef2f0862bed4d15f102c106af202"
   },
   {
     "id": "495fe74901cb722a",
     "municipalityCode": "462012",
     "url": "https://www.city.kagoshima.lg.jp/kodomoshien/jisoujyuki/kokuji.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:37:39+00:00",
+    "lastSuccessAt": "2026-09-22T22:25:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:37:39+00:00",
+    "nextCrawlAt": "2026-09-25T22:25:47+00:00",
     "coveredYears": [
       2008
     ],
     "sourceType": "result",
     "title": "鹿児島市児童相談所（仮称）什器等整備支援業務委託契約に係る企画提案競技（選定結果）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"7bf1-65a9dcc96014f\"",
-    "lastModified": "Fri, 04 Sep 2026 01:00:49 GMT",
-    "contentHash": "41f648fea6f5c62719d288278a2b2d2655d918de0d12c3601ba591fc4c7be6c9"
+    "etag": "\"7a2d-65bbe21bf4d95\"",
+    "lastModified": "Fri, 18 Sep 2026 09:00:28 GMT",
+    "contentHash": "f29111a514e2f736022bc17a4c180c443178e7f8e38cd842dbc65f6e971a45b0"
   },
   {
     "id": "c84ce741cd337e20",
@@ -4930,9 +4930,9 @@
     "municipalityCode": "473014",
     "url": "https://www.vill.kunigami.okinawa.jp/kunigami-village/wp-content/uploads/2026/07/24cef5c80bc7754d7f08d5e574c5b131.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:37:40+00:00",
+    "lastSuccessAt": "2026-09-22T22:25:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:37:40+00:00",
+    "nextCrawlAt": "2026-09-25T22:25:49+00:00",
     "coveredYears": [
       2026
     ],
@@ -4943,7 +4943,7 @@
     "active": true,
     "etag": "\"93e9-65830aaa580e7\"",
     "lastModified": "Tue, 04 Aug 2026 03:58:24 GMT",
-    "contentHash": "bf374f32f68c59d16bd5fbfa3bf2d44fb89019765bdb8f9164977e58f8928581"
+    "contentHash": null
   },
   {
     "id": "2e55624b5905909f",
@@ -4965,9 +4965,9 @@
     "municipalityCode": "473014",
     "url": "https://www.vill.kunigami.okinawa.jp/kunigami-village/wp-content/uploads/2026/08/f53886e73f7cceea3cd67670d628b6c4.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:37:42+00:00",
+    "lastSuccessAt": "2026-09-22T22:25:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:37:42+00:00",
+    "nextCrawlAt": "2026-09-25T22:25:50+00:00",
     "coveredYears": [
       2026
     ],
@@ -4978,7 +4978,7 @@
     "active": true,
     "etag": "\"7449-6598a465d8c1c\"",
     "lastModified": "Fri, 21 Aug 2026 08:18:01 GMT",
-    "contentHash": "60259242aa08b44a5d620be303c361533e654dd1d8ee3dad24a31e5ef14dc3ed"
+    "contentHash": null
   },
   {
     "id": "f87142e7b086db45",
@@ -5120,9 +5120,9 @@
     "municipalityCode": "473278",
     "url": "https://www.vill.kitanakagusuku.lg.jp/material/files/group/2/R7gyomushimohanki.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:37:43+00:00",
+    "lastSuccessAt": "2026-09-22T22:25:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:37:43+00:00",
+    "nextCrawlAt": "2026-09-25T22:25:52+00:00",
     "coveredYears": [
       2025
     ],
@@ -5133,16 +5133,16 @@
     "active": true,
     "etag": "\"69dd9027-16b55\"",
     "lastModified": "Tue, 14 Apr 2026 00:53:59 GMT",
-    "contentHash": "f4eda57cad57a47b7811275cf349dd234e4b2a17c8c5f3228aa31eea5cfd5689"
+    "contentHash": null
   },
   {
     "id": "cb1a427fbf90e54a",
     "municipalityCode": "473278",
     "url": "https://www.vill.kitanakagusuku.lg.jp/material/files/group/2/R7koujishimohanki.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:37:43+00:00",
+    "lastSuccessAt": "2026-09-22T22:25:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:37:43+00:00",
+    "nextCrawlAt": "2026-09-25T22:25:53+00:00",
     "coveredYears": [
       2025
     ],
@@ -5153,7 +5153,7 @@
     "active": true,
     "etag": "\"69dd8fe6-f921\"",
     "lastModified": "Tue, 14 Apr 2026 00:52:54 GMT",
-    "contentHash": "abdb8e3d31418fe09826dddd427b7367dd6630bb6a3406f646f72387a7674c90"
+    "contentHash": null
   },
   {
     "id": "4be00bf511fab98b",
@@ -5340,9 +5340,9 @@
     "municipalityCode": "014729",
     "url": "https://www.town.horokanai.hokkaido.jp/wp-content/uploads/2026/07/5fbbb1b4e04dd2a0e941fbafb54bdc29.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:37:47+00:00",
+    "lastSuccessAt": "2026-09-22T22:25:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:37:47+00:00",
+    "nextCrawlAt": "2026-09-25T22:25:57+00:00",
     "coveredYears": [
       2026
     ],
@@ -5360,9 +5360,9 @@
     "municipalityCode": "014729",
     "url": "https://www.town.horokanai.hokkaido.jp/wp-content/uploads/2025/12/7d46919991ec55ebdeb75516d810adcf-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:37:50+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:37:50+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:00+00:00",
     "coveredYears": [
       2025
     ],
@@ -5380,9 +5380,9 @@
     "municipalityCode": "014729",
     "url": "https://www.town.horokanai.hokkaido.jp/wp-content/uploads/2025/12/6e818b0ce028a2f1eeb44662d0d02c9d.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:37:53+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:37:53+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:03+00:00",
     "coveredYears": [
       2024,
       2025
@@ -5401,9 +5401,9 @@
     "municipalityCode": "014729",
     "url": "https://www.town.horokanai.hokkaido.jp/wp-content/uploads/2025/12/3c014f0d42e452aa314555119fda586a.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:37:56+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:37:56+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:05+00:00",
     "coveredYears": [
       2022,
       2025
@@ -5422,9 +5422,9 @@
     "municipalityCode": "432032",
     "url": "https://www.city.hitoyoshi.lg.jp/resource.php?e=d928acc203869e254990fb3d1320114a08a60b8df8a73f22b4a1c6f0b35f6e5316f4d4da07caf200013ec02e8d3556b6",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:37:58+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:37:58+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:06+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "人吉市マタニティ応援プロジェクト運営業務委託条件付一般競争入札結果 (PDF 81KB)",
@@ -5440,9 +5440,9 @@
     "municipalityCode": "432032",
     "url": "https://www.city.hitoyoshi.lg.jp/resource.php?e=c59aa54c215fd241b6c3291b75e097415d2f2a6bb6b12437cc8ac78f146714021398e4409280f32ac6cdd541b3599786",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:37:59+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:37:59+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:08+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "人吉市図書館管理運営システムリプレース業務公募型プロポーザル選定結果について (PDF 468KB)",
@@ -5488,9 +5488,9 @@
     "municipalityCode": "432083",
     "url": "https://www.city.yamaga.kumamoto.jp/kiji0032996/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:38:01+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:38:01+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:10+00:00",
     "coveredYears": [
       2011,
       2026
@@ -5502,16 +5502,16 @@
     "active": true,
     "etag": "\"514cac82252fdd1:0\"",
     "lastModified": "Tue, 18 Aug 2026 15:23:24 GMT",
-    "contentHash": "821694208743ea59820cd9eb8e616af8927e8b18af7dc559c94fcc412cf79e9d"
+    "contentHash": null
   },
   {
     "id": "e91b51a8cfefe7cc",
     "municipalityCode": "432083",
     "url": "https://www.city.yamaga.kumamoto.jp/kiji0032999/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:38:02+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:38:02+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:11+00:00",
     "coveredYears": [
       2011,
       2026
@@ -5523,16 +5523,16 @@
     "active": true,
     "etag": "\"c74bcb82252fdd1:0\"",
     "lastModified": "Tue, 18 Aug 2026 15:23:24 GMT",
-    "contentHash": "0d09d72f0eb1a65aa2e167562f1b006bea25ccc51f91603180805a3ca9a820bd"
+    "contentHash": null
   },
   {
     "id": "1f065caf898c682e",
     "municipalityCode": "432083",
     "url": "https://www.city.yamaga.kumamoto.jp/kiji003590/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:38:03+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:38:03+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:12+00:00",
     "coveredYears": [
       2011
     ],
@@ -5543,7 +5543,7 @@
     "active": true,
     "etag": "\"eb9d8092252fdd1:0\"",
     "lastModified": "Tue, 18 Aug 2026 15:23:50 GMT",
-    "contentHash": "ab40be375a9e51b110725bf92ec80ae7923099f14ded8d876858fd9383a6a316"
+    "contentHash": null
   },
   {
     "id": "7301307bfb3695c5",
@@ -5655,9 +5655,9 @@
     "municipalityCode": "434256",
     "url": "http://www.ubuyama-v.jp/material/files/group/1/nyuusatukekka202309.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:38:05+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:38:05+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:15+00:00",
     "coveredYears": [
       2023
     ],
@@ -5668,7 +5668,7 @@
     "active": true,
     "etag": "\"65273442-f275\"",
     "lastModified": "Wed, 11 Oct 2023 23:48:18 GMT",
-    "contentHash": "74126571c670814362e97ceb4411403639749404c61e44918b41875fa44d25c6"
+    "contentHash": null
   },
   {
     "id": "6bd5a1c65e76fdba",
@@ -5735,9 +5735,9 @@
     "municipalityCode": "434256",
     "url": "http://www.ubuyama-v.jp/material/files/group/1/nyuusatukekka202502.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:38:06+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:38:06+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:15+00:00",
     "coveredYears": [
       2024
     ],
@@ -5748,7 +5748,7 @@
     "active": true,
     "etag": "\"67c930d4-cde9\"",
     "lastModified": "Thu, 06 Mar 2025 05:21:24 GMT",
-    "contentHash": "3c1ceb4d9c68bf4f976bd562646991cb8a6cc01cb0b89515883857aee91ab4d2"
+    "contentHash": null
   },
   {
     "id": "7c70dd6a552bca59",
@@ -5861,9 +5861,9 @@
     "municipalityCode": "440001",
     "url": "https://www.pref.oita.jp/site/nyusatu-koubo/hpkoukoku2026kekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:38:09+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:38:09+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:17+00:00",
     "coveredYears": [
       2026
     ],
@@ -5872,9 +5872,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"5a5c-65a99c3dbad76\"",
-    "lastModified": "Thu, 03 Sep 2026 20:12:02 GMT",
-    "contentHash": "777162d07ab9100fad41708a1aefa0f431a2ac11db7c5e3f165dfe122f8e7842"
+    "etag": "\"5a5c-65c17f84af383\"",
+    "lastModified": "Tue, 22 Sep 2026 20:11:19 GMT",
+    "contentHash": "2370fe0399061394a7d9eb0934e44a23be3a336d2febaf0f5ffab812f3170fcd"
   },
   {
     "id": "d15c0d6b274c6559",
@@ -5896,9 +5896,9 @@
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/10113.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T11:38:10+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T11:38:10+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:18+00:00",
     "coveredYears": [
       2020
     ],
@@ -5909,16 +5909,16 @@
     "active": true,
     "etag": "\"1c746-5bd3c398ba358\"",
     "lastModified": "Thu, 11 Mar 2021 05:40:44 GMT",
-    "contentHash": "d5e2cd28cbc964f40ec89360628ead18ebaf7af91ca8e7ac13a385185660a67f"
+    "contentHash": null
   },
   {
     "id": "248f6f2f79c2b6cd",
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/10498.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T16:34:36+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T16:34:36+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:18+00:00",
     "coveredYears": [
       2021
     ],
@@ -5929,16 +5929,16 @@
     "active": true,
     "etag": "\"19748-5bd3c399eae80\"",
     "lastModified": "Thu, 11 Mar 2021 05:40:45 GMT",
-    "contentHash": "04a93233f5d887486c0d61b3012444278c7a4bc9927911ebe4604a14de790676"
+    "contentHash": null
   },
   {
     "id": "417aae2822bc2ea1",
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/10553.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T16:34:36+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T16:34:36+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:19+00:00",
     "coveredYears": [
       2021
     ],
@@ -5949,16 +5949,16 @@
     "active": true,
     "etag": "\"1a7cc-5bd3c39abf50c\"",
     "lastModified": "Thu, 11 Mar 2021 05:40:46 GMT",
-    "contentHash": "5544fdf7c889be21acb67a645382cfab5ae48d2fd17df57c843d8b298fa5fe83"
+    "contentHash": null
   },
   {
     "id": "3e37cedb3e7d032a",
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/10703.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T16:34:37+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T16:34:37+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:20+00:00",
     "coveredYears": [
       2021
     ],
@@ -5969,16 +5969,16 @@
     "active": true,
     "etag": "\"1d04d-5bd3c39c26753\"",
     "lastModified": "Thu, 11 Mar 2021 05:40:48 GMT",
-    "contentHash": "32141f1bdd30fe7d7a6f50e6e6b8608fb9fdb0e7c7c3b18e1a70ccaf8d0de040"
+    "contentHash": null
   },
   {
     "id": "b6a0a2a6d85a4f18",
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/10817.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T16:34:38+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T16:34:38+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:20+00:00",
     "coveredYears": [
       2021
     ],
@@ -5989,16 +5989,16 @@
     "active": true,
     "etag": "\"21677-5bee3c7ea5708\"",
     "lastModified": "Thu, 01 Apr 2021 07:00:04 GMT",
-    "contentHash": "ecb24db1d827dd715c5aa6be84e9f969a517542b88974bcb202969f0ecd6dd5b"
+    "contentHash": null
   },
   {
     "id": "3913217a30dd42e8",
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/17517.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T16:34:39+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T16:34:39+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:21+00:00",
     "coveredYears": [
       2026
     ],
@@ -6009,16 +6009,16 @@
     "active": true,
     "etag": "\"42df9-64b0075b4c795\"",
     "lastModified": "Tue, 17 Feb 2026 08:00:07 GMT",
-    "contentHash": "0a7832b5c7701b1812b564b0539aff75cb077bb378af60901404264915dfaccb"
+    "contentHash": null
   },
   {
     "id": "ebf032f1cb9c31dc",
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/17223.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T16:34:39+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T16:34:39+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:21+00:00",
     "coveredYears": [
       2025
     ],
@@ -6029,16 +6029,16 @@
     "active": true,
     "etag": "\"43961-6412de3a74f20\"",
     "lastModified": "Wed, 15 Oct 2025 08:00:08 GMT",
-    "contentHash": "552d36f87eb923a1618a61a9b94d493f0473241efa8e88716b27bcf9e498c0d0"
+    "contentHash": null
   },
   {
     "id": "b145e2efa01dff3f",
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/16269.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T16:34:40+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T16:34:40+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:22+00:00",
     "coveredYears": [
       2025
     ],
@@ -6049,16 +6049,16 @@
     "active": true,
     "etag": "\"19b85-62cd3b2c37db4\"",
     "lastModified": "Wed, 29 Jan 2025 08:00:09 GMT",
-    "contentHash": "7d2759003fc329ce69d5e22cb75ad017c66ae16960e03a9640ba0245b2af0ec4"
+    "contentHash": null
   },
   {
     "id": "c1dd1912d773a0e5",
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/15999.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T16:34:40+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T16:34:40+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:22+00:00",
     "coveredYears": [
       2024
     ],
@@ -6069,16 +6069,16 @@
     "active": true,
     "etag": "\"1bbac-62598f965411f\"",
     "lastModified": "Tue, 29 Oct 2024 08:00:09 GMT",
-    "contentHash": "08b54b4752139c6840fd960219a61a9b162574dc45ba0396f0ea7fa3d03c5d61"
+    "contentHash": null
   },
   {
     "id": "ac91169f8a60a941",
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/15826.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T16:34:41+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T16:34:41+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:23+00:00",
     "coveredYears": [
       2024
     ],
@@ -6089,7 +6089,7 @@
     "active": true,
     "etag": "\"19108-621e77ed65402\"",
     "lastModified": "Thu, 12 Sep 2024 08:00:09 GMT",
-    "contentHash": "1a1cd80adc20fedf2f645ace292261d9b437dd557b90086d1e60e4a1d0185b04"
+    "contentHash": null
   },
   {
     "id": "39687c56b14e6939",
@@ -6216,9 +6216,9 @@
     "municipalityCode": "042030",
     "url": "https://www.city.shiogama.miyagi.jp/soshiki/49/56415.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-04T16:34:42+00:00",
+    "lastSuccessAt": "2026-09-22T22:26:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-07T16:34:42+00:00",
+    "nextCrawlAt": "2026-09-25T22:26:25+00:00",
     "coveredYears": [
       2026
     ],
@@ -6227,9 +6227,9 @@
     "discoveryMethod": "link_discovery",
     "priority": 1,
     "active": true,
-    "etag": "\"5863-65aaa634554bd\"",
-    "lastModified": "Fri, 04 Sep 2026 16:01:56 GMT",
-    "contentHash": "05fc8f8646a7d2916b42c9cb47e3923d85a268e497776b00001c0f3fe8afc9f1"
+    "etag": "\"5b18-65c19827cd121\"",
+    "lastModified": "Tue, 22 Sep 2026 22:01:33 GMT",
+    "contentHash": "b09f88a8956681f25cf923539104c8aeeaa3d404ddaf4765ce81e2e51af3f813"
   },
   {
     "id": "b215d5f02f0e5732",
@@ -94890,7 +94890,7 @@
     ],
     "sourceType": "result",
     "title": "国分寺市旧庁舎用地利活用事業事業者選定公募型プロポーザルの審査結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"ec20-65bd760538b94\"",
@@ -94908,7 +94908,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "国分寺市市民課窓口業務等支援業務委託に係る公募型プロポーザルの審査結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"a462-65bd76054338c\"",
@@ -107885,14 +107885,17 @@
     "municipalityCode": "432105",
     "url": "https://www.city.kikuchi.lg.jp/article/list/1332.html",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-22T22:25:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-09-25T22:25:45+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": null,
+    "contentHash": "f98388f87d904094548f1ec113253f5e5a6178364d4e221d9755a6696b7b32a9"
   }
 ]
