@@ -11662,9 +11662,9 @@
     "municipalityCode": "470007",
     "url": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/016/066/kekka_ippan_20231031.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:08+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:08+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:10+00:00",
     "coveredYears": [
       2023
     ],
@@ -11675,16 +11675,16 @@
     "active": true,
     "etag": "\"79f6-60c5b34f08880\"",
     "lastModified": "Wed, 13 Dec 2023 02:48:50 GMT",
-    "contentHash": "93b54ff87e1d33b92260e04095437713ef13af6868e406f64b4f27904d96630d"
+    "contentHash": null
   },
   {
     "id": "d1e417671ea696ed",
     "municipalityCode": "470007",
     "url": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/016/066/kekka_ippan_20231205.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:09+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:09+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:11+00:00",
     "coveredYears": [
       2023
     ],
@@ -11695,16 +11695,16 @@
     "active": true,
     "etag": "\"890f-61038bf98ada4\"",
     "lastModified": "Wed, 31 Jan 2024 07:22:58 GMT",
-    "contentHash": "fb06a87c4ffc82c06234502b2cb50dd3ca715d359d5270ab3a9f8c402b4b7df8"
+    "contentHash": null
   },
   {
     "id": "61d260a69b8c689c",
     "municipalityCode": "470007",
     "url": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/016/066/kekka_ippan_syoumouhin_20260406.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:10+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:10+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:12+00:00",
     "coveredYears": [
       2026
     ],
@@ -11715,16 +11715,16 @@
     "active": true,
     "etag": "\"1527d-64ed51fbf6622\"",
     "lastModified": "Tue, 07 Apr 2026 01:58:47 GMT",
-    "contentHash": "3fc875b57d997f2971a006a8420f9747ff9f86b0ec7d86a709accf8db477be27"
+    "contentHash": null
   },
   {
     "id": "34c209eb8c50ac42",
     "municipalityCode": "470007",
     "url": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/016/066/kekka_ippan_syaryounenryou_2026.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:10+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:10+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:12+00:00",
     "coveredYears": [
       2026
     ],
@@ -11735,16 +11735,16 @@
     "active": true,
     "etag": "\"c1e3-64e394d72fd17\"",
     "lastModified": "Mon, 30 Mar 2026 08:04:39 GMT",
-    "contentHash": "68ceebf4ed315e2c1fd757a8575626e10441ea08ea6311f2b2cc2d7f5e0b69db"
+    "contentHash": null
   },
   {
     "id": "5d502757c54f5f6b",
     "municipalityCode": "470007",
     "url": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/016/066/kekka_ippan_fukugouki_20260409.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:11+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:11+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:13+00:00",
     "coveredYears": [
       2026
     ],
@@ -11755,16 +11755,16 @@
     "active": true,
     "etag": "\"dc37-64f15ad7bfafc\"",
     "lastModified": "Fri, 10 Apr 2026 06:59:43 GMT",
-    "contentHash": "de50e87a5148911da4804a599470660d883089423aa99a477b123bb7d9a8c9da"
+    "contentHash": null
   },
   {
     "id": "e7ac53438b10ee8c",
     "municipalityCode": "470007",
     "url": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/016/066/kekka_ippan_bihin_20260716.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:12+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:12+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:14+00:00",
     "coveredYears": [
       2026
     ],
@@ -11775,16 +11775,16 @@
     "active": true,
     "etag": "\"d67f-656b54d76edab\"",
     "lastModified": "Thu, 16 Jul 2026 07:22:28 GMT",
-    "contentHash": "6366900dba0f6da0b523923a4d2cd0de75dbdf5c89c2390ea1c65cb70357208d"
+    "contentHash": null
   },
   {
     "id": "c802717a1952abe0",
     "municipalityCode": "470007",
     "url": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/016/066/kekka_ippan_syoumouhin_20250528.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:12+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:12+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:14+00:00",
     "coveredYears": [
       2025
     ],
@@ -11795,7 +11795,7 @@
     "active": true,
     "etag": "\"18b59-6368bd25ecbd5\"",
     "lastModified": "Mon, 02 Jun 2025 00:26:58 GMT",
-    "contentHash": "9533a0729ef43f4301a82550d017ec178380c41b8018b75f1aa66e5b3a7b6435"
+    "contentHash": null
   },
   {
     "id": "0bbde925dbb6d7ed",
@@ -11937,9 +11937,9 @@
     "municipalityCode": "252069",
     "url": "https://www.city.kusatsu.shiga.jp/kurashi/sangyobusiness/nyusatsu/proposal/kekka/school_lunch_sentei.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:14+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:14+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:16+00:00",
     "coveredYears": [
       2018
     ],
@@ -11949,8 +11949,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 10:12:45 GMT",
-    "contentHash": "425134c2adb9daaf04512bbc563cc38d2cef3f4a08fc7775eed6b10087517268"
+    "lastModified": "Wed, 23 Sep 2026 15:01:36 GMT",
+    "contentHash": "c9bd12481bb09f051f79be6cd64c389a9c37a6a703e8ffd6bf0a2b245b4fb76b"
   },
   {
     "id": "b4008d8be90ba91b",
@@ -12692,129 +12692,129 @@
     "municipalityCode": "252069",
     "url": "https://www.city.kusatsu.shiga.jp/kurashi/sangyobusiness/nyusatsu/proposal/kekka/anshinikiiki_result.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:14+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:14+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:17+00:00",
     "coveredYears": [
       2018
     ],
     "sourceType": "result",
     "title": "草津あんしんいきいきプラン第10期計画策定支援業務に係る公募型プロポーザル選定結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 15:01:36 GMT",
-    "contentHash": "820a1e009cb60752ee9a2893ed219527da3b281e55679229ad7bf572b4599693"
+    "lastModified": "Wed, 23 Sep 2026 15:01:36 GMT",
+    "contentHash": "2d2c6e9b91e2c34efec264555cb288ba2a573b17568b26ae9ff8f3466e59a371"
   },
   {
     "id": "9b9ad6884a43058a",
     "municipalityCode": "252069",
     "url": "https://www.city.kusatsu.shiga.jp/kurashi/sangyobusiness/nyusatsu/proposal/kekka/tokutei_result.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:15+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:15+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:18+00:00",
     "coveredYears": [
       2018
     ],
     "sourceType": "result",
     "title": "草津市特定健診受診率向上業務に係る公募型プロポーザル選定結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 15:01:37 GMT",
-    "contentHash": "62a8e154490d6057f731eb8a0a19b5cd8b2ce01a32d6250d84f94dc0d4321dac"
+    "lastModified": "Wed, 23 Sep 2026 15:01:36 GMT",
+    "contentHash": "31bcdd3d2d35e429b17973fd360f731377f77b444ed498db60ef5484ec49ed2c"
   },
   {
     "id": "96c4cbda82623258",
     "municipalityCode": "252069",
     "url": "https://www.city.kusatsu.shiga.jp/kurashi/sangyobusiness/nyusatsu/proposal/kekka/byoujikoubo.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:16+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:16+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:18+00:00",
     "coveredYears": [
       2018
     ],
     "sourceType": "result",
     "title": "草津市病児・病後児保育事業委託業務に係る公募型プロポーザルの選定結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 15:01:36 GMT",
-    "contentHash": "7281987d5399cea76fb8c033171f53f3065ede437e8b56283250786a13dbc0a4"
+    "lastModified": "Tue, 22 Sep 2026 15:01:37 GMT",
+    "contentHash": "cef6536bffaeab98bfeb60532c0b8c817cee84b09f214789f903613cc7d49501"
   },
   {
     "id": "3da19cfc9c3d74fe",
     "municipalityCode": "252069",
     "url": "https://www.city.kusatsu.shiga.jp/kurashi/sangyobusiness/nyusatsu/proposal/kekka/choju20260527.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:16+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:16+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:19+00:00",
     "coveredYears": [
       2018
     ],
     "sourceType": "result",
     "title": "AIを活用したフレイル予防運動教室委託業務に係る公募型プロポーザルの選定結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 15:01:36 GMT",
-    "contentHash": "34b6e746745a9ae7045515e30051bb5533fe5b39932ee85029258888345a48f7"
+    "lastModified": "Tue, 22 Sep 2026 15:01:38 GMT",
+    "contentHash": "3b49ce610118c93694fbcb1b4ce653645c3b4b047693a1daf8a611a6295ce2fd"
   },
   {
     "id": "dbaf1e232076169b",
     "municipalityCode": "252069",
     "url": "https://www.city.kusatsu.shiga.jp/kurashi/sangyobusiness/nyusatsu/proposal/kekka/gako_seisaku1202409.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:17+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:17+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:19+00:00",
     "coveredYears": [
       2018
     ],
     "sourceType": "result",
     "title": "草津市立小中学校教育DX推進業務（AI型ドリル）に係る公募型プロポーザルの選定結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 15:01:37 GMT",
-    "contentHash": "5cecd58c49e32e95f8d9c716d019c49639484896b6191227c4455ee0fee8adfe"
+    "lastModified": "Wed, 23 Sep 2026 15:01:36 GMT",
+    "contentHash": "9f0a10fcaf4d4bfa41b156dd83b3e8327617b3457f2e2dcba75ce56c2b4a14e4"
   },
   {
     "id": "9cec8323f5b51180",
     "municipalityCode": "252069",
     "url": "https://www.city.kusatsu.shiga.jp/kurashi/sangyobusiness/nyusatsu/proposal/kekka/gako_seisaku12025013.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:18+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:18+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:20+00:00",
     "coveredYears": [
       2018
     ],
     "sourceType": "result",
     "title": "草津市教育ネットワークシステム更新業務に係る公募型プロポーザルの選定結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 15:01:36 GMT",
-    "contentHash": "213e1fc89e17790c413a1268f1364a63f0edf98d5a3e1427c1e5a53785cbf4bc"
+    "lastModified": "Wed, 23 Sep 2026 15:01:35 GMT",
+    "contentHash": "89f405cabcbbc02fd30fc66c812d07219122f07c3bde2b939a4e7a79e4b7a175"
   },
   {
     "id": "80cd844f863066c6",
     "municipalityCode": "252069",
     "url": "https://www.city.kusatsu.shiga.jp/kurashi/sangyobusiness/nyusatsu/proposal/kekka/gako_seisaku20231221.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:18+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:18+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:21+00:00",
     "coveredYears": [
       2018
     ],
@@ -12824,17 +12824,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 15:01:36 GMT",
-    "contentHash": "dd68fb7548d40991b95f629fae00d75eb317b93db67b017ae3e9e2440e271bf5"
+    "lastModified": "Wed, 23 Sep 2026 15:01:35 GMT",
+    "contentHash": "2e3ab8beb29964b402bd12d182d8ae2d4cae3e9c8b81eeff411351ad1dfe52ed"
   },
   {
     "id": "bf1f9b7a6af4c0a4",
     "municipalityCode": "252069",
     "url": "https://www.city.kusatsu.shiga.jp/kurashi/sangyobusiness/nyusatsu/proposal/kekka/kenkopuropo2022.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:19+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:19+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:21+00:00",
     "coveredYears": [
       2018
     ],
@@ -12844,55 +12844,55 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 15:01:37 GMT",
-    "contentHash": "d9f85686f45c7ea4948abb588b2227f2dd2b3327e4208588d8d19ca9520b7baa"
+    "lastModified": "Wed, 23 Sep 2026 15:01:36 GMT",
+    "contentHash": "7c8b1e5324c03d033befa25ab314e669f325945e10b88462c209ac42800fd51c"
   },
   {
     "id": "e45960ca0b1801bc",
     "municipalityCode": "294268",
     "url": "https://www.town.koryo.nara.jp/0000007488.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:21+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:21+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:23+00:00",
     "coveredYears": [
       2025
     ],
     "sourceType": "result",
     "title": "広陵町立広陵西幼稚園跡地活用に係る公募型プロポーザル審査結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 15:01:00 GMT",
-    "contentHash": "1841735abbc41d6ec12ffa919edba878dd23182c9118fc4c9d59bed5169d2ad9"
+    "lastModified": "Wed, 23 Sep 2026 15:00:59 GMT",
+    "contentHash": "c6f3deae7381fe678f59411cff040f28001d00aaccfabd2a0f9ee57db7a4f618"
   },
   {
     "id": "5a06261c16e95c3a",
     "municipalityCode": "294268",
     "url": "https://www.town.koryo.nara.jp/0000007505.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:22+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:22+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:24+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "第5次広陵町総合計画更新（中期基本計画策定）委託業務に係る公募型プロポーザル審査結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 15:01:04 GMT",
-    "contentHash": "df79f39e45b68f519571af8a8affd1a07c5f3ad89eef55f73fd652fc9682af00"
+    "lastModified": "Wed, 23 Sep 2026 15:01:03 GMT",
+    "contentHash": "c8d9ed748814292c752f0593f9f0bb91d1fd42c377b2f026f58c7e68e1f5c76a"
   },
   {
     "id": "4c152d4a0914c6d7",
     "municipalityCode": "294268",
     "url": "https://www.town.koryo.nara.jp/0000007562.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T01:12:22+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T01:12:22+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:25+00:00",
     "coveredYears": [
       2026,
       2028
@@ -12903,28 +12903,28 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 15:00:39 GMT",
-    "contentHash": "46daee4dcae518d722aabd8c01e61946a6e4f0bea7a270ae94a8e9b58d645f10"
+    "lastModified": "Wed, 23 Sep 2026 15:00:39 GMT",
+    "contentHash": "963dc24320daf0fbbe9a9bf21a8901b6055aad5c68f02958493574bf79cef126"
   },
   {
     "id": "bf3c24f1cae08d72",
     "municipalityCode": "294268",
     "url": "https://www.town.koryo.nara.jp/0000007763.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T05:58:41+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T05:58:41+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:25+00:00",
     "coveredYears": [
       2026
     ],
     "sourceType": "result",
     "title": "広陵町空家等実態調査及び空家等対策計画策定業務委託公募型プロポーザルの審査結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 15:00:40 GMT",
-    "contentHash": "a8c7ec5ede49a79c14282004ac1fbad890d9f4cfbeaee49d693f0674458e3d1f"
+    "lastModified": "Wed, 23 Sep 2026 15:00:39 GMT",
+    "contentHash": "6de6d97056b977b5a472ce68ba7dd92705b0980276f7cd919f0196692cfd5cc3"
   },
   {
     "id": "21eb311e31a4ca03",
@@ -12991,9 +12991,9 @@
     "municipalityCode": "022101",
     "url": "https://www.city.hirakawa.lg.jp/shigoto/keiyaku/kekka/nyuusatsu_kekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T05:58:43+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T05:58:43+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:26+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
@@ -13002,7 +13002,7 @@
     "active": true,
     "etag": "\"36bc-64fecf0050180\"",
     "lastModified": "Mon, 20 Apr 2026 23:48:38 GMT",
-    "contentHash": "c748eda076c8b5e5bfe0e955db566499b52888c3986c0ec98356f023203a7209"
+    "contentHash": null
   },
   {
     "id": "4c0fa8098deb6698",
@@ -13114,27 +13114,27 @@
     "municipalityCode": "023213",
     "url": "https://www.town.ajigasawa.lg.jp/sangyo_jigyo/nyusatsu/nyusatujoho/mitoosikekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T05:58:44+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T05:58:44+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:27+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "発注見通し・入札結果",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"66fd-65a65a11f78d8\"",
-    "lastModified": "Tue, 01 Sep 2026 06:00:01 GMT",
-    "contentHash": "9a967c5e3cab75f7f149bcd278ab7a7cce42e4c60ff84eb52fb5f872424d9e8d"
+    "etag": "\"6978-65bb9a7ca0928\"",
+    "lastModified": "Fri, 18 Sep 2026 03:40:02 GMT",
+    "contentHash": "fa2cf6c53d11e18dd9007fe243d67b73783c270b610ea23c1a4c2db4683bc12d"
   },
   {
     "id": "899591da6dddbdfc",
     "municipalityCode": "023230",
     "url": "https://www.town.fukaura.lg.jp/doc/2024100700019/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T05:58:47+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T05:58:47+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:28+00:00",
     "coveredYears": [
       2024
     ],
@@ -13145,16 +13145,16 @@
     "active": true,
     "etag": "\"6a96844c-8fba\"",
     "lastModified": "Tue, 01 Sep 2026 07:52:44 GMT",
-    "contentHash": "441835dff287ab663ce0d5b0b1d388755aca2542a8cd342dad6e423aee55053d"
+    "contentHash": null
   },
   {
     "id": "4687498d471e8869",
     "municipalityCode": "023230",
     "url": "https://www.town.fukaura.lg.jp/doc/2025061700018/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T05:58:48+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T05:58:48+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:29+00:00",
     "coveredYears": [
       2025
     ],
@@ -13165,16 +13165,16 @@
     "active": true,
     "etag": "\"6a96845b-b4ca\"",
     "lastModified": "Tue, 01 Sep 2026 07:52:59 GMT",
-    "contentHash": "d58470885aa37ae2c91926a71bfc7d92c2133f7e335dab2b2b988621f0f11ed7"
+    "contentHash": null
   },
   {
     "id": "5144ce4e71a93efa",
     "municipalityCode": "023230",
     "url": "https://www.town.fukaura.lg.jp/doc/2026051300010/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T05:58:49+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T05:58:49+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:30+00:00",
     "coveredYears": [
       2026
     ],
@@ -13183,9 +13183,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6a968466-76ab\"",
-    "lastModified": "Tue, 01 Sep 2026 07:53:10 GMT",
-    "contentHash": "7100b714173d6c7f9249d293cb4c8c3c3cdb80eacacf92844d065a788d53c6c9"
+    "etag": "\"6aaa169a-8042\"",
+    "lastModified": "Wed, 16 Sep 2026 04:10:02 GMT",
+    "contentHash": "1081df3c068cef599688d097a8e269aa3dfac5da3ab0b6d650ea5760fe716307"
   },
   {
     "id": "da69291814e0bb24",
@@ -13312,36 +13312,36 @@
     "municipalityCode": "030007",
     "url": "https://www.pref.iwate.jp/kensei/nyuusatsu/1010807/1056468.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T05:58:51+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T05:58:51+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:31+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "陸前高田オートキャンプ場施設整備事業指定管理予定者・設計・施工者選定プロポーザルの審査結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"f5b6-65ab597eb7d47\"",
-    "lastModified": "Sat, 05 Sep 2026 05:24:04 GMT",
-    "contentHash": "02b60f93ffdfd72f672622c7e2a09380a98e76cfd4e5abe2fad0ec91d919019a"
+    "etag": "W/\"f422-65c280bf02b79\"",
+    "lastModified": "Wed, 23 Sep 2026 15:22:09 GMT",
+    "contentHash": "42a15b2be2714ae17fa0fcbc50b24fa3766529d985eef9e8a51cddd3f08bd908"
   },
   {
     "id": "9d230c8ee578f701",
     "municipalityCode": "030007",
     "url": "https://www.pref.iwate.jp/kensei/nyuusatsu/1010807/1073687.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T05:58:52+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T05:58:52+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:31+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "障害者就業・生活支援センター（両磐圏域）指定候補者募集に係る選定結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"f24f-65ab597d8e389\"",
-    "lastModified": "Sat, 05 Sep 2026 05:24:03 GMT",
-    "contentHash": "b1a3b1b78a757963951bf674c73e1ee2da66df3a0a15472ba753933ab4b8b8f1"
+    "etag": "W/\"f0bb-65c280be2353d\"",
+    "lastModified": "Wed, 23 Sep 2026 15:22:08 GMT",
+    "contentHash": "46944e3a16b02fffcd5abeb30e8b46aca532c1b80fbc362c0a54689384ecf5fa"
   },
   {
     "id": "adf2de7e30613792",
@@ -13354,7 +13354,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "安全の確保",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -13369,7 +13369,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "未来のための伝承・発信",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -13384,7 +13384,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "復興委員会",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -13543,9 +13543,9 @@
     "municipalityCode": "030007",
     "url": "https://www.pref.iwate.jp/kensei/nyuusatsu/compe/kekka/1080279.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T05:58:53+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T05:58:53+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:32+00:00",
     "coveredYears": [
       2026
     ],
@@ -13554,9 +13554,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "W/\"226e4-65ab5947d9223\"",
-    "lastModified": "Sat, 05 Sep 2026 05:23:07 GMT",
-    "contentHash": "3ee3b2f94ca19846e58030a7fa9e8b6aae38881ce6c203ab2fe131c9838b55e8"
+    "etag": "W/\"22b7d-65c2808c0957c\"",
+    "lastModified": "Wed, 23 Sep 2026 15:21:15 GMT",
+    "contentHash": "20c5537b361c50952d87d47b272805db30434560552281d86dddbdff929ce657"
   },
   {
     "id": "f7382260bb9d375f",
@@ -13593,15 +13593,15 @@
     "municipalityCode": "032034",
     "url": "https://www.city.ofunato.iwate.jp/genre/category/business/nyusatsu/designdocuments",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T05:58:55+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T05:58:55+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:34+00:00",
     "coveredYears": [
       2026
     ],
     "sourceType": "result",
     "title": "設計図書・入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -13613,9 +13613,9 @@
     "municipalityCode": "032034",
     "url": "https://www.city.ofunato.iwate.jp/archive/contents-29229",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T05:58:57+00:00",
+    "lastSuccessAt": "2026-09-23T17:17:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T05:58:57+00:00",
+    "nextCrawlAt": "2026-09-26T17:17:35+00:00",
     "coveredYears": [
       2026
     ],
@@ -107900,5 +107900,35 @@
     "etag": null,
     "lastModified": null,
     "contentHash": "f98388f87d904094548f1ec113253f5e5a6178364d4e221d9755a6696b7b32a9"
+  },
+  {
+    "id": "fbd7347b32cde272",
+    "municipalityCode": "023213",
+    "url": "https://www.town.ajigasawa.lg.jp/sangyo_jigyo/nyusatsu/nyusatujoho/mitoosikekka.files/R8.9_henkou.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年見通し変更一覧(R8.9公表分)（PDF：83KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "6fc50c5e9445d56d",
+    "municipalityCode": "023213",
+    "url": "https://www.town.ajigasawa.lg.jp/sangyo_jigyo/nyusatsu/nyusatujoho/mitoosikekka.files/R8.9_tuika.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年見通し追加一覧(R8.9公表分）（PDF：50KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
   }
 ]
