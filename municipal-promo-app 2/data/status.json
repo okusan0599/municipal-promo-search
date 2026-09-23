@@ -1,15 +1,15 @@
 {
   "state": "completed",
-  "started_at": "2026-09-23T06:03:29+00:00",
-  "updated_at": "2026-09-23T06:11:38+00:00",
+  "started_at": "2026-09-23T11:46:50+00:00",
+  "updated_at": "2026-09-23T11:54:31+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 106,
     "status": {
       "state": "completed",
-      "started_at": "2026-09-23T06:03:29+00:00",
-      "updated_at": "2026-09-23T06:03:35+00:00",
+      "started_at": "2026-09-23T11:46:50+00:00",
+      "updated_at": "2026-09-23T11:46:56+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
@@ -24,26 +24,26 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 80,
-    "failed": 20,
+    "succeeded": 92,
+    "failed": 8,
     "sourcesAdded": 0,
-    "historySourcesAdded": 39
+    "historySourcesAdded": 50
   },
   "direct": {
     "processed": 50,
-    "succeeded": 46,
-    "failed": 4,
-    "projects": 180,
-    "unchanged": 11,
-    "historySourcesAdded": 99
+    "succeeded": 47,
+    "failed": 3,
+    "projects": 174,
+    "unchanged": 5,
+    "historySourcesAdded": 132
   },
   "history": {
     "processed": 30,
-    "succeeded": 27,
-    "failed": 3,
-    "awards": 2,
-    "documents": 40,
-    "unchanged": 11
+    "succeeded": 30,
+    "failed": 0,
+    "awards": 6,
+    "documents": 78,
+    "unchanged": 3
   },
   "statusNormalized": 0,
   "historyLinkedProjects": 0,
