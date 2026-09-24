@@ -10607,7 +10607,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -16090,9 +16090,9 @@
     "municipalityCode": "052027",
     "url": "https://www.city.noshiro.lg.jp/city/nyusatsu/buppin-baikyaku-kekka/10901",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:22+00:00",
+    "lastSuccessAt": "2026-09-24T10:14:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:22+00:00",
+    "nextCrawlAt": "2026-09-27T10:14:52+00:00",
     "coveredYears": [
       2016
     ],
@@ -16101,8 +16101,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"862b-65aad05998235;6573e0c36db78",
-    "lastModified": "Fri, 04 Sep 2026 19:10:30 GMT",
+    "etag": "\"862b-65bc6b923b8cc;6573e0c36db78",
+    "lastModified": "Fri, 18 Sep 2026 19:15:28 GMT",
     "contentHash": "d81e633c364564077f5e19d01c1c28c4f7782344e15390e7cf6d13393c67280b"
   },
   {
@@ -16110,9 +16110,9 @@
     "municipalityCode": "052027",
     "url": "https://www.city.noshiro.lg.jp/city/nyusatsu/buppin-baikyaku-kekka/11408",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:23+00:00",
+    "lastSuccessAt": "2026-09-24T10:14:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:23+00:00",
+    "nextCrawlAt": "2026-09-27T10:14:53+00:00",
     "coveredYears": [
       2016
     ],
@@ -16121,8 +16121,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"7adf-65aad0abd962b;6573e0c36db78",
-    "lastModified": "Fri, 04 Sep 2026 19:11:56 GMT",
+    "etag": "\"7adf-65bc6dc4db474;6573e0c36db78",
+    "lastModified": "Fri, 18 Sep 2026 19:25:17 GMT",
     "contentHash": "3e59980d2f43bfecd44dfa529b90f0cd9e4ffd262a8f061b32a3e540fb80dfe1"
   },
   {
@@ -16130,9 +16130,9 @@
     "municipalityCode": "052027",
     "url": "https://www.city.noshiro.lg.jp/city/nyusatsu/buppin-baikyaku-kekka/11435",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:24+00:00",
+    "lastSuccessAt": "2026-09-24T10:14:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:24+00:00",
+    "nextCrawlAt": "2026-09-27T10:14:54+00:00",
     "coveredYears": [
       2016
     ],
@@ -16141,8 +16141,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"76b0-65aad0ac44333;6573e0c36db78",
-    "lastModified": "Fri, 04 Sep 2026 19:11:56 GMT",
+    "etag": "\"76b0-65bc6dc54245e;6573e0c36db78",
+    "lastModified": "Fri, 18 Sep 2026 19:25:18 GMT",
     "contentHash": "561afaaaf71e76ebd7b36e27834d80d4ebe814a5dcc1e88728fa968660eaf814"
   },
   {
@@ -16150,9 +16150,9 @@
     "municipalityCode": "052027",
     "url": "https://www.city.noshiro.lg.jp/city/nyusatsu/buppin-baikyaku-kekka/11880",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:25+00:00",
+    "lastSuccessAt": "2026-09-24T10:14:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:25+00:00",
+    "nextCrawlAt": "2026-09-27T10:14:55+00:00",
     "coveredYears": [
       2016
     ],
@@ -16161,8 +16161,8 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"7ab4-65aad0c89bcb2;6573e0c36db78",
-    "lastModified": "Fri, 04 Sep 2026 19:12:26 GMT",
+    "etag": "\"7ab4-65bc6de585347;6573e0c36db78",
+    "lastModified": "Fri, 18 Sep 2026 19:25:52 GMT",
     "contentHash": "4c03c5d96dd682e859306aa59e0edc4b7b88863012d4056b2baf86cc393f4fec"
   },
   {
@@ -16170,9 +16170,9 @@
     "municipalityCode": "052027",
     "url": "https://www.city.noshiro.lg.jp/city/nyusatsu/buppin-baikyaku-kekka/13168",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:23+00:00",
+    "lastSuccessAt": "2026-09-24T10:14:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:23+00:00",
+    "nextCrawlAt": "2026-09-27T10:14:57+00:00",
     "coveredYears": [
       2017
     ],
@@ -16181,8 +16181,8 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"7745-65aad13400d01;6573e0c36db78",
-    "lastModified": "Fri, 04 Sep 2026 19:14:19 GMT",
+    "etag": "\"7745-65bc6e5f8f5de;6573e0c36db78",
+    "lastModified": "Fri, 18 Sep 2026 19:28:00 GMT",
     "contentHash": "be50a4eb2a60652f8abc0ccad41078cdbcdbbb0106ad49fe80f3ea2cc37abae4"
   },
   {
@@ -16190,9 +16190,9 @@
     "municipalityCode": "052027",
     "url": "https://www.city.noshiro.lg.jp/city/nyusatsu/buppin-baikyaku-kekka/13580",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:24+00:00",
+    "lastSuccessAt": "2026-09-24T10:14:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:24+00:00",
+    "nextCrawlAt": "2026-09-27T10:14:58+00:00",
     "coveredYears": [
       2017
     ],
@@ -16201,8 +16201,8 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"7744-65aad159087ee;6573e0c36db78",
-    "lastModified": "Fri, 04 Sep 2026 19:14:57 GMT",
+    "etag": "\"7744-65bc6e89f2cb0;6573e0c36db78",
+    "lastModified": "Fri, 18 Sep 2026 19:28:44 GMT",
     "contentHash": "3881fb054b27b7c63ede27fc98bd8b52b6347717c8b35930c8a44f2b194a0b48"
   },
   {
@@ -16390,18 +16390,18 @@
     "municipalityCode": "062065",
     "url": "https://www.city.sagae.yamagata.jp/jigyou/nyusatsu/nyusatsukekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:25+00:00",
+    "lastSuccessAt": "2026-09-24T10:14:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:25+00:00",
+    "nextCrawlAt": "2026-09-27T10:14:59+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果の公表",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"8692-65a6d2ca77012\"",
-    "lastModified": "Tue, 01 Sep 2026 15:00:07 GMT",
-    "contentHash": "dcd71eb29c34dcbd3deca8ef30913899cfeb7fae251d3ce9efb5b5a3edecd405"
+    "etag": "\"8692-65ae5dfb3b728\"",
+    "lastModified": "Mon, 07 Sep 2026 15:00:07 GMT",
+    "contentHash": "70dd1e38db5678b267cf654360b028b2e80ac7fb37bfb36ef4c74c701f788192"
   },
   {
     "id": "9d8fb1f6417d007c",
@@ -16534,7 +16534,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "シルバー人材センター等に関する随意契約の公表",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -16633,36 +16633,36 @@
     "municipalityCode": "072036",
     "url": "https://www.city.koriyama.lg.jp/site/keiyakuportal/list115.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:27+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:27+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:01+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果公表（各課契約分）",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"d85c-65abe9402dc19\"",
-    "lastModified": "Sat, 05 Sep 2026 16:07:13 GMT",
-    "contentHash": "b733281c7e57140c0c4ebfb1b7934926896d1a1454cc98f5ab44025cec106286"
+    "etag": "\"d85c-65c36ec3c4a64\"",
+    "lastModified": "Thu, 24 Sep 2026 09:07:01 GMT",
+    "contentHash": "87b90cd9fb9382f65617a162b513b49d428cd8ccff21b1101b21f3e407a1ab00"
   },
   {
     "id": "00153bae3c984204",
     "municipalityCode": "072036",
     "url": "https://www.city.koriyama.lg.jp/site/keiyakuportal/list88.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:28+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:28+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:02+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果公表（契約検査課契約分）",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"cfbd-65abe940247a8\"",
-    "lastModified": "Sat, 05 Sep 2026 16:07:13 GMT",
-    "contentHash": "60cc1520912338a71fce0b1df2cda7391a48649aba3f1a00a9984befc7be0ae1"
+    "etag": "\"cfbd-65c36ec3bae24\"",
+    "lastModified": "Thu, 24 Sep 2026 09:07:01 GMT",
+    "contentHash": "e77d764d300f6c98a1ebe14fb627d1ced6f19a760bfa6c532db57b98904db589"
   },
   {
     "id": "f61c28910f7d681a",
@@ -16834,9 +16834,9 @@
     "municipalityCode": "072109",
     "url": "https://www.city.nihonmatsu.lg.jp/shigoto_sangyo/nyu_keiyaku/nyu_kekka/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:29+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:29+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:04+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
@@ -16845,16 +16845,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "560922bc50b51d8e403819d2cf2e9485af763a8c54635ad30bd957a032d8e1c0"
+    "contentHash": "b53782b93306285f406b709a2409ef7b7e154563b0c1f20eab91bb9c6630347f"
   },
   {
     "id": "db648cb38c799a63",
     "municipalityCode": "073016",
     "url": "https://www.town.koori.fukushima.jp/uploaded/attachment/7020.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:30+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:30+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:05+00:00",
     "coveredYears": [
       2026
     ],
@@ -16865,16 +16865,16 @@
     "active": true,
     "etag": "\"50a93-6593a2fd93774\"",
     "lastModified": "Mon, 17 Aug 2026 08:45:06 GMT",
-    "contentHash": "2848c219a97babbb0ccb9b0b5f038b4eae895222a2aabde4f86dfa5de1af0d0d"
+    "contentHash": null
   },
   {
     "id": "719fcf136ce71cef",
     "municipalityCode": "073016",
     "url": "https://www.town.koori.fukushima.jp/uploaded/attachment/7028.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:31+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:31+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:06+00:00",
     "coveredYears": [
       2026
     ],
@@ -16885,16 +16885,16 @@
     "active": true,
     "etag": "\"56b0f-6594799083c8f\"",
     "lastModified": "Tue, 18 Aug 2026 00:45:05 GMT",
-    "contentHash": "41ec634ee545cabddaa40f8340a100103cdc0a07400111d42956613d459eabe8"
+    "contentHash": null
   },
   {
     "id": "ce326508fc9d833a",
     "municipalityCode": "073229",
     "url": "https://www.vill.otama.fukushima.jp/shigoto_sangyou/nyuusatu_keiyaku/koukoku_kekka/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:32+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:32+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:08+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "公告書・入札結果一覧",
@@ -17150,9 +17150,9 @@
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/gyosei/nyusatsu-keiyaku/nyusatsukekka/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:33+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:33+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:10+00:00",
     "coveredYears": [
       2084
     ],
@@ -17215,27 +17215,27 @@
     "municipalityCode": "074811",
     "url": "https://www.town.tanagura.fukushima.jp/data/doc/1781656275_doc_21_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:35+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:35+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:11+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "審査結果はコチラ",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"e4b7-659bf668fc099\"",
     "lastModified": "Sun, 23 Aug 2026 23:40:54 GMT",
-    "contentHash": "6df3e5d1d75da222e26174eda65bee1bf62be8e006401dc36fe9f7ae89690375"
+    "contentHash": null
   },
   {
     "id": "19926f2b258e5a2c",
     "municipalityCode": "074811",
     "url": "https://www.town.tanagura.fukushima.jp/chosei/gakkou-tougou/page003156.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:36+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:36+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:12+00:00",
     "coveredYears": [
       2026
     ],
@@ -17246,7 +17246,7 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "b971e987cff2d6b6c702c491b549a300bfda473873207917761d9990090769e6"
+    "contentHash": "4be9d7bfafc2da38a85c1531e2d141220243c5951ab9cbe4bb292af2ff542ded"
   },
   {
     "id": "06173c1b27fd10bf",
@@ -17259,7 +17259,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "01　実施要領 [PDF形式／201.25KB]",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -17274,7 +17274,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "02　仕様書 [PDF形式／172.89KB]",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -17289,7 +17289,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "質問書への回答一覧（8.5.27現在） [PDF形式／106.2KB]",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -17298,9 +17298,9 @@
     "municipalityCode": "074845",
     "url": "https://www.vill.samegawa.fukushima.jp/page/page003059.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:37+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:37+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:13+00:00",
     "coveredYears": [
       2026
     ],
@@ -17311,7 +17311,7 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "6b3cdb9cf1fb4f9c6d7bc002a861ed2ea0df9674374a1140db8b9e75d1c90ce7"
+    "contentHash": "84b5a982646fabb7c8fef588ea7e72f05ad50230d7a47fc359a87da58fc53e47"
   },
   {
     "id": "a95a075e6509a490",
@@ -17633,9 +17633,9 @@
     "municipalityCode": "016349",
     "url": "https://www.town.shikaoi.lg.jp/work/nyusatsu/nyusatsu_kekka/nyuusatsukekka/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:39+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:39+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:16+00:00",
     "coveredYears": [
       2026
     ],
@@ -17698,9 +17698,9 @@
     "municipalityCode": "016349",
     "url": "https://www.town.shikaoi.lg.jp/file/contents/3334/33727/5080521_kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:41+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:41+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:18+00:00",
     "coveredYears": [
       2026
     ],
@@ -17718,9 +17718,9 @@
     "municipalityCode": "016349",
     "url": "https://www.town.shikaoi.lg.jp/file/contents/3334/33728/5080604_kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:42+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:42+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:19+00:00",
     "coveredYears": [
       2026
     ],
@@ -17828,9 +17828,9 @@
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r4/10080.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:43+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:43+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:21+00:00",
     "coveredYears": [
       2023
     ],
@@ -17841,16 +17841,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 27 Aug 2026 03:48:49 GMT",
-    "contentHash": "def743e642762ddb1ee0547ce8bdfad30d6acaaf21d40a4f3f42fd0c92880523"
+    "contentHash": "9dc9ae9ebc5a921935a59b90840122e385c4aacd1e999fe4a063bf8001da03e7"
   },
   {
     "id": "4157bb8fc9e5edcd",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r4/9240.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:44+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:44+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:22+00:00",
     "coveredYears": [
       2022
     ],
@@ -17861,16 +17861,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 27 Aug 2026 03:49:29 GMT",
-    "contentHash": "ba81558ec6a6b7b12875ffcb03a43ef03c8e476c3009de186116c82aa702229a"
+    "contentHash": "d1350c947113648429dd8a095f1fd5dc403c26e88069a2333cb9ead7138b630c"
   },
   {
     "id": "583b81e1d880feb4",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r4/9277.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:44+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:44+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:23+00:00",
     "coveredYears": [
       2022
     ],
@@ -17881,16 +17881,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 27 Aug 2026 03:48:48 GMT",
-    "contentHash": "8d6c9c399a0987259ec93d2bd23a3c8d28d1e65d06478206aeb85861da58a329"
+    "contentHash": "dc1af466708b2c4edf8ab430bbfecaf81fd8b1a9d12e2228b5c836b77c760483"
   },
   {
     "id": "7843efa833ac52ec",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r4/9278.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:45+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:45+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:23+00:00",
     "coveredYears": [
       2022
     ],
@@ -17901,16 +17901,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 27 Aug 2026 03:48:48 GMT",
-    "contentHash": "b8b5aa26fb6c79614df86664fc7d912701aa3e8b29d786dca6bc76d366b7d640"
+    "contentHash": "659425c1f510d7d44bcc059c7367adf0e1ca68fa083f0b0f7023ebafffd94246"
   },
   {
     "id": "fd863f5c01af6421",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r4/9288.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:46+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:46+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:24+00:00",
     "coveredYears": [
       2022
     ],
@@ -17921,16 +17921,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 27 Aug 2026 03:49:21 GMT",
-    "contentHash": "f9170443ae3a1a0e38d53af70f4df0f6be8b651d91f04c4fce207c97df0e5dd9"
+    "contentHash": "313297ee110d588e1fd1ad7028e8307b907554f87e1d99cc48e2b21955000ee9"
   },
   {
     "id": "62d25a355e8e9fce",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r5/10212.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:47+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:47+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:25+00:00",
     "coveredYears": [
       2023
     ],
@@ -17941,16 +17941,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 27 Aug 2026 03:49:29 GMT",
-    "contentHash": "4e32b1f24b9eb40e723a5a6343176e11e0999e63efef2b8c028d2865e2a41c77"
+    "contentHash": "768b2fe746f402a946ae184326f2b9d507541c51f8288a544f2eacc9844c94d5"
   },
   {
     "id": "55dfaf190fff6ac4",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r5/10228.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:48+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:48+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:26+00:00",
     "coveredYears": [
       2023
     ],
@@ -17961,16 +17961,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 27 Aug 2026 03:49:27 GMT",
-    "contentHash": "c7f941fa311558f1b083463979411262d106c35cc222c1a99b44aceee10748f9"
+    "contentHash": "c1056a511f130ddbcee8ed0f6f73fb1ffcf97f361600550fc9246e8e2f7aecf1"
   },
   {
     "id": "8269ddde293239df",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r5/10229.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:48+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:48+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:27+00:00",
     "coveredYears": [
       2023
     ],
@@ -17981,16 +17981,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 27 Aug 2026 03:49:28 GMT",
-    "contentHash": "e86ba1edb34897717929cd33f570cdb20747aad507a0ff4d48c4b81512d15f08"
+    "contentHash": "92e32c7097732b62416e091ed502b88db246046e74facbd2f951bd8e81cb1ffe"
   },
   {
     "id": "1b6f766fc966e725",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r5/10230.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T16:59:50+00:00",
+    "lastSuccessAt": "2026-09-24T10:15:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T16:59:50+00:00",
+    "nextCrawlAt": "2026-09-27T10:15:27+00:00",
     "coveredYears": [
       2023
     ],
@@ -18001,7 +18001,7 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 27 Aug 2026 03:49:28 GMT",
-    "contentHash": "b91ae3af760552781f7c56add7a4444f8c0de64d265ff15ae487a45b445a2889"
+    "contentHash": "b1582a4a02989395a65740809642726017152fe05bec6d10bb7ff00e1b06aeb3"
   },
   {
     "id": "d5c9e1a5c37553bd",
@@ -108254,12 +108254,90 @@
     "municipalityCode": "404471",
     "url": "https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/20250404114248.html",
     "failureCount": 0,
+    "lastSuccessAt": "2026-09-24T10:14:50+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-09-27T10:14:50+00:00",
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "4月3日入札結果公表",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true,
+    "etag": null,
+    "lastModified": "Fri, 18 Sep 2026 15:09:24 GMT",
+    "contentHash": "5fda96abe19220dee70a21ea3e31dae173c41791a2cbf7f4a13ad4f6ddd1c27a"
+  },
+  {
+    "id": "2e8aff242a3f3912",
+    "municipalityCode": "404471",
+    "url": "https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/01_kusabagawa_sakuranamiki.pdf",
+    "failureCount": 0,
     "lastSuccessAt": null,
     "lastFailureAt": null,
     "nextCrawlAt": null,
     "coveredYears": [],
-    "sourceType": "result",
-    "title": "4月3日入札結果公表",
+    "sourceType": "result_pdf",
+    "title": "01_草場川桜並木管理業務（PDF：87KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "6c346d6e6f996168",
+    "municipalityCode": "404471",
+    "url": "https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/02_kokudo386_ryokuti.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "02_国道３８６号線側道緑地公園・大國様公園管理業務（PDF：89KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "b9c834a47c33bd19",
+    "municipalityCode": "404471",
+    "url": "https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/03_sangayama_zyumoku.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "03_三箇山道路公園樹木・草刈管理業務（PDF：83KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "13aaf04a4d95dc5f",
+    "municipalityCode": "404471",
+    "url": "https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/04_tosikouen_zyumoku_no1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "04_都市公園樹木管理業務その１（PDF：82KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "0643929264bc846d",
+    "municipalityCode": "404471",
+    "url": "https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/05_tosikouen_zyumoku_no2.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "05_都市公園樹木管理業務その２（PDF：85KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true
