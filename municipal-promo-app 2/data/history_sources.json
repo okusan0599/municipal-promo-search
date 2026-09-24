@@ -15070,9 +15070,9 @@
     "municipalityCode": "132195",
     "url": "https://www.city.komae.tokyo.jp/index.cfm/49,145713,c,html/145713/20260817-154921.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:02:54+00:00",
+    "lastSuccessAt": "2026-09-24T05:08:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:02:54+00:00",
+    "nextCrawlAt": "2026-09-27T05:08:59+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "議案、陳情等審査結果一覧",
@@ -15088,9 +15088,9 @@
     "municipalityCode": "473821",
     "url": "https://www.town.yonaguni.okinawa.jp/docs/2026052700017/file_contents/file_20265273994_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:02:57+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:02:57+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:00+00:00",
     "coveredYears": [
       2026
     ],
@@ -15101,7 +15101,7 @@
     "active": true,
     "etag": "\"6a163c81-959ff\"",
     "lastModified": "Wed, 27 May 2026 00:36:17 GMT",
-    "contentHash": "181295121ffceb23ec7a615ce37654a56c86c5586c8935940ee4723d217ae91a"
+    "contentHash": null
   },
   {
     "id": "d964c043481f82c7",
@@ -15138,17 +15138,17 @@
     "municipalityCode": "382078",
     "url": "https://www.city.ozu.ehime.jp/soshiki/zaisei/74967.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:02:59+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:02:59+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:02+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "大洲市民文化会館新築工事に係る入札結果の公表について",
     "discoveryMethod": "link_discovery",
     "priority": 1,
     "active": true,
-    "etag": "\"4325-65abbfa207d63\"",
-    "lastModified": "Sat, 05 Sep 2026 13:01:02 GMT",
+    "etag": "\"4325-65c32a6005d8e\"",
+    "lastModified": "Thu, 24 Sep 2026 04:01:03 GMT",
     "contentHash": "f373a280f5b5dbb8da391fe60594cd1650eb793e15590018659cef84638ce60b"
   },
   {
@@ -15441,9 +15441,9 @@
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/86247.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:01+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:01+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:04+00:00",
     "coveredYears": [
       2026
     ],
@@ -15453,8 +15453,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 05 Sep 2026 13:04:10 GMT",
-    "contentHash": "25036e7d02cd3424ef07cd859a397dfede0b8d0d4e254ebe01c08de72c9d4e3c"
+    "lastModified": "Thu, 24 Sep 2026 05:04:23 GMT",
+    "contentHash": "076576ec02cefc4733737712709150b182adc1a2ce014dcc0818b37e86bee1b7"
   },
   {
     "id": "cbc00b5c52409249",
@@ -15466,7 +15466,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result_pdf",
-    "title": "еәҒиҲҺжЎҲеҶ…еӣі",
+    "title": "庁舎案内図",
     "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
@@ -15476,9 +15476,9 @@
     "municipalityCode": "034827",
     "url": "https://www.town.yamada.iwate.jp/jigyousya/nyusatsu/kekka/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:03+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:03+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:06+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "公表（入札結果など）",
@@ -15486,8 +15486,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 05 Sep 2026 13:46:36 GMT",
-    "contentHash": "305758127a999eba89f9fdf34afda3a1de170deca765dd8ce7c8b9e638739b9e"
+    "lastModified": "Thu, 24 Sep 2026 05:01:48 GMT",
+    "contentHash": "4a21807599dfb336453744a1fab804c1344a11999c42b3e977bc2591f2f0d0a2"
   },
   {
     "id": "f2f1485ac27c8fdd",
@@ -15509,27 +15509,27 @@
     "municipalityCode": "034835",
     "url": "https://www.town.iwaizumi.lg.jp/category/attribute/business/nyusatu-keiyaku/nyu-sokuho/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:05+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:05+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:08+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果速報",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6a3b2cd8-5a5b\"",
-    "lastModified": "Wed, 24 Jun 2026 01:03:20 GMT",
-    "contentHash": "db5693bc32002a1a3d8573fc2f82e84f29b90b32dcdc7b7e90d6329984c3b9ac"
+    "etag": "\"6a9fba73-5a45\"",
+    "lastModified": "Tue, 08 Sep 2026 07:34:11 GMT",
+    "contentHash": "a6041a08bc851549da62a5ec6bc33bd4f66691cc0b52429a61f10e6e8fe5b1cc"
   },
   {
     "id": "5d86b3cd2f3b2743",
     "municipalityCode": "034835",
     "url": "https://www.town.iwaizumi.lg.jp/docs/2025061900029/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:06+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:06+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:08+00:00",
     "coveredYears": [
       2025
     ],
@@ -15538,9 +15538,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6a3b2dc0-66db\"",
-    "lastModified": "Wed, 24 Jun 2026 01:07:12 GMT",
-    "contentHash": "1fb9c441c323ca8e8a150f4dc8f2b26f9b20c4a76605ba0ac78966fa748a8e61"
+    "etag": "\"6a9fbb0f-66c5\"",
+    "lastModified": "Tue, 08 Sep 2026 07:36:47 GMT",
+    "contentHash": "1fd915ca27680ee6847c44408214e868078bbcf54f59726d0051ec5af3d624b7"
   },
   {
     "id": "e038708e5666d8fe",
@@ -15832,9 +15832,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/10681.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:08+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:08+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:10+00:00",
     "coveredYears": [
       2022
     ],
@@ -15843,8 +15843,8 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6a95a0e8-a6cd\"",
-    "lastModified": "Mon, 31 Aug 2026 15:42:32 GMT",
+    "etag": "\"6aa9071a-a6cd\"",
+    "lastModified": "Tue, 15 Sep 2026 08:51:38 GMT",
     "contentHash": "bac1aecdc9dc440456e41436d34e10cf302c3bc752f0e3de50a3c368d147f17a"
   },
   {
@@ -15852,9 +15852,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/2/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:08+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:08+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:11+00:00",
     "coveredYears": [
       2020
     ],
@@ -15863,8 +15863,8 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6a959ddc-9fbe\"",
-    "lastModified": "Mon, 31 Aug 2026 15:29:32 GMT",
+    "etag": "\"6aaa5cd2-9fbe\"",
+    "lastModified": "Wed, 16 Sep 2026 09:09:38 GMT",
     "contentHash": "a9c4e4bcfc0fe20f0eb7e0e19b5c11080d03a255e6145e123f97a8805e7e5ba4"
   },
   {
@@ -15872,9 +15872,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/4/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:10+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:10+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:13+00:00",
     "coveredYears": [
       2020
     ],
@@ -15883,8 +15883,8 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6a9a0a48-a045\"",
-    "lastModified": "Fri, 04 Sep 2026 00:01:12 GMT",
+    "etag": "\"6aa90410-a045\"",
+    "lastModified": "Tue, 15 Sep 2026 08:38:40 GMT",
     "contentHash": "e6379cb5b51b6fe44a0f8eea2b1be8fc3fe5d26a017c154e4cda8e66a5bd8e7c"
   },
   {
@@ -15892,9 +15892,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/5/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:11+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:11+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:14+00:00",
     "coveredYears": [
       2020
     ],
@@ -15903,8 +15903,8 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6a959ddd-a542\"",
-    "lastModified": "Mon, 31 Aug 2026 15:29:33 GMT",
+    "etag": "\"6aaa5c87-a542\"",
+    "lastModified": "Wed, 16 Sep 2026 09:08:23 GMT",
     "contentHash": "4100d9dddef9386ecb46d7832d159a68d36e406ea7760788640df15d205d777a"
   },
   {
@@ -15912,9 +15912,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/8/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:12+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:12+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:15+00:00",
     "coveredYears": [
       2021
     ],
@@ -15923,8 +15923,8 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6a959df2-9e74\"",
-    "lastModified": "Mon, 31 Aug 2026 15:29:54 GMT",
+    "etag": "\"6aa90423-9e74\"",
+    "lastModified": "Tue, 15 Sep 2026 08:38:59 GMT",
     "contentHash": "166823ce9c54ca231848d62cdfc75e04fefe6f53e6b157b1a0068735ec33ea7f"
   },
   {
@@ -15932,27 +15932,27 @@
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/sangyou/nyusatsu/kekka/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:14+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:14+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:16+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 09:10:09 GMT",
-    "contentHash": "a89525df7c49c5557f1c699762415f9edea8ecfeef0c2efb44c94cfaad294c73"
+    "lastModified": "Fri, 18 Sep 2026 06:12:36 GMT",
+    "contentHash": "66b654d1c6d9af1dcf31ba7c8984e3ee6900265584af793ac6bfc6ea5be008bf"
   },
   {
     "id": "493ba5ca34c573f1",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/information/2026/04/9557951ee01292f157581f8b56fab9a9d2553214.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:15+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:15+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:17+00:00",
     "coveredYears": [
       2026
     ],
@@ -15962,17 +15962,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 08:45:16 GMT",
-    "contentHash": "092de3eb123d32b090ef8fc9979771f237a65b109390ab6674f4d43ac1dc224a"
+    "lastModified": "Fri, 18 Sep 2026 05:46:38 GMT",
+    "contentHash": "31be2b90e3ba1961c53de53b9e8787632db49b306c4f6e701c7e52fe0a7b9bfe"
   },
   {
     "id": "6fbea7d36a796114",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/information/2026/05/be21b8b17667afeacdf646261ecd48f30d69039f.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:15+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:15+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:17+00:00",
     "coveredYears": [
       2026
     ],
@@ -15982,17 +15982,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 08:44:44 GMT",
-    "contentHash": "7a84b06a55934bfcb79caacc1350862d77b65ce0598e5ccca74ffb97c6733a82"
+    "lastModified": "Fri, 18 Sep 2026 05:45:57 GMT",
+    "contentHash": "405fa0046fc20696e80abd7612515ce4b4f5145c42da120c6d76b325e1e62e08"
   },
   {
     "id": "2819f372239bf5be",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/information/2026/08/1f25d949a7cd11fb29ffee665acd79025d83addc.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:16+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:16+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:18+00:00",
     "coveredYears": [
       2026
     ],
@@ -16002,17 +16002,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 08:42:07 GMT",
-    "contentHash": "01d01c409167406f0d31350cc06e51205672438ca595fb9136a3a03e668985c5"
+    "lastModified": "Fri, 18 Sep 2026 05:43:21 GMT",
+    "contentHash": "a381f0c7fbba74f54db70d991ff7b9d1d1aaf78ffa4caf7b5916315d43db50d3"
   },
   {
     "id": "70e3ec7d212c1b81",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/information/2026/08/f54d6bd9e29deb9dc00f065cd9a8ae9866cf9cec.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:17+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:17+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:19+00:00",
     "coveredYears": [
       2026
     ],
@@ -16022,17 +16022,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 08:42:16 GMT",
-    "contentHash": "440eff3ed675282f3daee3eb2da75518b2d452d9f6db40ce19ed04e1d11881ee"
+    "lastModified": "Fri, 18 Sep 2026 05:43:33 GMT",
+    "contentHash": "9148c1acd31434b1a5ce7e6893ec399ec50506cc40f6d13cd0b8163968f82cb7"
   },
   {
     "id": "3a884da9ff105b18",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/sangyou/nyusatsu/d807ad5b753525860129ddd51088f0c79386e48d.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:18+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:18+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:19+00:00",
     "coveredYears": [
       2026
     ],
@@ -16042,27 +16042,27 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 04 Sep 2026 09:01:59 GMT",
-    "contentHash": "e01672a8e8430db7ba07d0f42bf4f67401e1b12b50d9b6be32f2f5f3b3274c9c"
+    "lastModified": "Fri, 18 Sep 2026 06:04:20 GMT",
+    "contentHash": "9d2a65bedc8d5781db7314508377691a6dc1ea61923224823e03f72b0466d3f7"
   },
   {
     "id": "1fa2effc17975a35",
     "municipalityCode": "052027",
     "url": "https://www.city.noshiro.lg.jp/city/nyusatsu/buppin-baikyaku-kekka/10358",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:20+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:20+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:22+00:00",
     "coveredYears": [
       2015
     ],
     "sourceType": "result",
     "title": "平成２７年９月　トラクター ・ 除雪ドーザ    入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"7a94-65aad02f50f09;6573e0c36db78",
-    "lastModified": "Fri, 04 Sep 2026 19:09:45 GMT",
+    "etag": "\"7a94-65bc6b606240c;6573e0c36db78",
+    "lastModified": "Fri, 18 Sep 2026 19:14:35 GMT",
     "contentHash": "bbb982c5d32eeea4c7c17fdb4428bf9492f352d3b4a695cd2c0ad51612b87478"
   },
   {
@@ -16070,19 +16070,19 @@
     "municipalityCode": "052027",
     "url": "https://www.city.noshiro.lg.jp/city/nyusatsu/buppin-baikyaku-kekka/10461",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-05T14:03:21+00:00",
+    "lastSuccessAt": "2026-09-24T05:09:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-08T14:03:21+00:00",
+    "nextCrawlAt": "2026-09-27T05:09:25+00:00",
     "coveredYears": [
       2015
     ],
     "sourceType": "result",
     "title": "平成２７年　１０月　能代終末処理場再構築工事に伴う発生材　入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"76d5-65aad035247e6;6573e0c36db78",
-    "lastModified": "Fri, 04 Sep 2026 19:09:51 GMT",
+    "etag": "\"76d5-65bc6b6748771;6573e0c36db78",
+    "lastModified": "Fri, 18 Sep 2026 19:14:43 GMT",
     "contentHash": "683fc059761982b5e98cf656abed46568dc0c5c3b2a04f4ae2fe32153bbc303d"
   },
   {
@@ -16098,7 +16098,7 @@
     ],
     "sourceType": "result",
     "title": "平成２８年２月　凍結防止剤散布車   入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"862b-65aad05998235;6573e0c36db78",
@@ -16118,7 +16118,7 @@
     ],
     "sourceType": "result",
     "title": "平成２８年６月　マイクロバス ・ マイクロ幼児バス　入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"7adf-65aad0abd962b;6573e0c36db78",
@@ -16138,7 +16138,7 @@
     ],
     "sourceType": "result",
     "title": "平成２８年６月　能代終末処理場再構築工事に伴う発生材　入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"76b0-65aad0ac44333;6573e0c36db78",
@@ -30724,9 +30724,9 @@
       2026
     ],
     "sourceType": "result",
-    "title": "令和８年度入札結果の公表",
+    "title": "д»Өе’Ңпјҳе№ҙеәҰе…ҘжңӯзөҗжһңгҒ®е…¬иЎЁ",
     "discoveryMethod": "result_archive_link",
-    "priority": 1,
+    "priority": 3,
     "active": true,
     "etag": null,
     "lastModified": "Mon, 07 Sep 2026 01:49:48 GMT",
@@ -108064,147 +108064,202 @@
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018110200041/file_contents/2018110200041_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_11_02_227.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-24T05:08:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-09-27T05:08:50+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "釜石鵜住居復興スタジアム諸室消防設備工事設計業務委託(105 KB pdfファイル)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"67b3779f-1a0de\"",
+    "lastModified": "Mon, 17 Feb 2025 17:53:35 GMT",
+    "contentHash": "d302a530d435678f0aa8fca0007bd399004b3527da40d7aa4958097d6717ae44"
   },
   {
     "id": "b594df3004022975",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018110200041/file_contents/2018110200041_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_11_02_226.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-24T05:08:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-09-27T05:08:51+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "鵜住居地区マンホールポンプ設置工事（その２）(116 KB pdfファイル)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"67b3779f-1ccbd\"",
+    "lastModified": "Mon, 17 Feb 2025 17:53:35 GMT",
+    "contentHash": "22b1e2442fd442eab968e5b0ef3bf42b24d4ef5de6be58f4f16f326276e04884"
   },
   {
     "id": "0d9707836703cbc5",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018110200041/file_contents/2018110200041_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_11_02_224.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-24T05:08:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-09-27T05:08:52+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "市街地関連小規模設備街路照明整備工事（その２）(105 KB pdfファイル)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"67b3779f-1a064\"",
+    "lastModified": "Mon, 17 Feb 2025 17:53:35 GMT",
+    "contentHash": "dd472d54295db5c27c01cfaf0064cb726a3d14fdd23c6eb967f2f7fb63e8c90d"
   },
   {
     "id": "7a685f76ed16cbe7",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018110200041/file_contents/2018110200041_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_11_02_223.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-24T05:08:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-09-27T05:08:53+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "市街地関連小規模設備街路照明整備工事（その１）(107 KB pdfファイル)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"67b3779f-1abfb\"",
+    "lastModified": "Mon, 17 Feb 2025 17:53:35 GMT",
+    "contentHash": "ea81ba43903bfed9516ba238111200972f6d79b00af2312c2f8397e7aee22f4b"
   },
   {
     "id": "b6a65296fc38affb",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018110200041/file_contents/2018110200041_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_11_02_222.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-24T05:08:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-09-27T05:08:55+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "尾崎白浜地区・本郷地区・小白浜（東）地区・荒川地区周辺整備工事(99 KB pdfファイル)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"67b3779f-18b24\"",
+    "lastModified": "Mon, 17 Feb 2025 17:53:35 GMT",
+    "contentHash": "c0711c352a49ddc3bbb8bc1cdd4b53900e57b2acd14a355431b0df1fbc806e5d"
   },
   {
     "id": "9dd029048771de8d",
     "municipalityCode": "404471",
     "url": "https://www.town.chikuzen.fukuoka.jp/li/070/010/020/007/20240405184346.html",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-24T05:08:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-27T05:08:56+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result",
     "title": "令和7年度　入札結果公表",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Fri, 18 Sep 2026 15:20:49 GMT",
+    "contentHash": "df92afc5071695f8d8a4f0882c4f45bca2311d61a51d930062f6659e70ed726c"
   },
   {
     "id": "3f7f6a13cc84c11d",
     "municipalityCode": "404471",
     "url": "https://www.town.chikuzen.fukuoka.jp/li/070/010/020/010/index.html",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-24T05:08:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-27T05:08:56+00:00",
+    "coveredYears": [
+      2018
+    ],
     "sourceType": "result",
     "title": "平成30年度　入札結果公表",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Fri, 18 Sep 2026 15:10:57 GMT",
+    "contentHash": "6d6f5560ba9e6207173954ac9b74c7c51e966813a1bdb34cbe884bc21ee895e6"
   },
   {
     "id": "1a044a59f849e4ab",
     "municipalityCode": "404471",
     "url": "https://www.town.chikuzen.fukuoka.jp/li/070/010/020/020/index.html",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-24T05:08:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-27T05:08:57+00:00",
+    "coveredYears": [
+      2017
+    ],
     "sourceType": "result",
     "title": "平成29年度　入札結果公表",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Fri, 18 Sep 2026 15:19:48 GMT",
+    "contentHash": "b5b4a97025c46933dc28e0e2007096a64a68200c3894679acd992a51a956d656"
   },
   {
     "id": "f1e81c3bc9516cac",
     "municipalityCode": "404471",
     "url": "https://www.town.chikuzen.fukuoka.jp/li/070/010/020/030/index.html",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-09-24T05:08:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-09-27T05:08:58+00:00",
+    "coveredYears": [
+      2016
+    ],
     "sourceType": "result",
     "title": "平成28年度　入札結果公表",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Fri, 18 Sep 2026 15:09:55 GMT",
+    "contentHash": "9c6106ce74baa55cfb683534b9add0576286d3aea0f407e3dfea983937a726d3"
   },
   {
     "id": "bb07b56735e0c0a0",
     "municipalityCode": "404471",
     "url": "https://www.town.chikuzen.fukuoka.jp/li/070/010/020/040/index.html",
     "failureCount": 0,
+    "lastSuccessAt": "2026-09-24T05:08:58+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-09-27T05:08:58+00:00",
+    "coveredYears": [
+      2015
+    ],
+    "sourceType": "result",
+    "title": "平成27年度　入札結果公表",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true,
+    "etag": null,
+    "lastModified": "Fri, 18 Sep 2026 15:16:44 GMT",
+    "contentHash": "5ebd830130b24b079f1d252b5d0dedd17fdd00c252af44643c92761b0b195886"
+  },
+  {
+    "id": "5b01a2d7c77857db",
+    "municipalityCode": "404471",
+    "url": "https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/20250404114248.html",
+    "failureCount": 0,
     "lastSuccessAt": null,
     "lastFailureAt": null,
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "平成27年度　入札結果公表",
+    "title": "4月3日入札結果公表",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true
