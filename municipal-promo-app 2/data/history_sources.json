@@ -10607,7 +10607,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -10628,7 +10628,7 @@
     ],
     "sourceType": "result",
     "title": "競争入札一覧表、入札結果について（令和6年度）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -10647,8 +10647,8 @@
       2025
     ],
     "sourceType": "result",
-    "title": "競争入札一覧表、入札結果について（令和7年度）",
-    "discoveryMethod": "result_archive_link",
+    "title": "競争入札一覧表・入札結果について（令和7年度）",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -10667,8 +10667,8 @@
       2026
     ],
     "sourceType": "result",
-    "title": "競争入札一覧表、入札結果について（令和8年度）",
-    "discoveryMethod": "result_archive_link",
+    "title": "競争入札一覧表・入札結果について（令和8年度）",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -10688,7 +10688,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（令和4年度）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -10708,7 +10708,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（令和5年度）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -10728,7 +10728,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（令和6年度）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -10748,7 +10748,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（令和7年度）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -10768,7 +10768,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（令和8年度）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -10925,7 +10925,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "2016年10月3日 入札 平成28年度建設工事等発注予定表を更新",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -10940,7 +10940,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "2017年11月7日 入札 平成29年度建設工事等発注予定表を更新",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -11107,7 +11107,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"3739280e\"",
@@ -12700,7 +12700,7 @@
     ],
     "sourceType": "result",
     "title": "草津あんしんいきいきプラン第10期計画策定支援業務に係る公募型プロポーザル選定結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -12720,7 +12720,7 @@
     ],
     "sourceType": "result",
     "title": "草津市特定健診受診率向上業務に係る公募型プロポーザル選定結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -12740,7 +12740,7 @@
     ],
     "sourceType": "result",
     "title": "草津市病児・病後児保育事業委託業務に係る公募型プロポーザルの選定結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -12760,7 +12760,7 @@
     ],
     "sourceType": "result",
     "title": "AIを活用したフレイル予防運動教室委託業務に係る公募型プロポーザルの選定結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -12780,7 +12780,7 @@
     ],
     "sourceType": "result",
     "title": "草津市立小中学校教育DX推進業務（AI型ドリル）に係る公募型プロポーザルの選定結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -12800,7 +12800,7 @@
     ],
     "sourceType": "result",
     "title": "草津市教育ネットワークシステム更新業務に係る公募型プロポーザルの選定結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -12860,7 +12860,7 @@
     ],
     "sourceType": "result",
     "title": "広陵町立広陵西幼稚園跡地活用に係る公募型プロポーザル審査結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -12878,7 +12878,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "第5次広陵町総合計画更新（中期基本計画策定）委託業務に係る公募型プロポーザル審査結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -12919,7 +12919,7 @@
     ],
     "sourceType": "result",
     "title": "広陵町空家等実態調査及び空家等対策計画策定業務委託公募型プロポーザルの審査結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -13318,7 +13318,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "陸前高田オートキャンプ場施設整備事業指定管理予定者・設計・施工者選定プロポーザルの審査結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"f422-65c280bf02b79\"",
@@ -13336,7 +13336,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "障害者就業・生活支援センター（両磐圏域）指定候補者募集に係る選定結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"f0bb-65c280be2353d\"",
@@ -13354,7 +13354,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "安全の確保",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -13369,7 +13369,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "未来のための伝承・発信",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -13384,7 +13384,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "復興委員会",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -13601,7 +13601,7 @@
     ],
     "sourceType": "result",
     "title": "設計図書・入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -24515,9 +24515,9 @@
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001491_00/入札結果/070926入札結果（下水道）.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:03+00:00",
+    "lastSuccessAt": "2026-09-26T01:46:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:03+00:00",
+    "nextCrawlAt": "2026-09-29T01:46:58+00:00",
     "coveredYears": [
       2025
     ],
@@ -24526,8 +24526,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a7d695f-16c91\"",
-    "lastModified": "Thu, 13 Aug 2026 06:51:11 GMT",
+    "etag": "\"6aa7363b-16c91\"",
+    "lastModified": "Sun, 13 Sep 2026 23:48:11 GMT",
     "contentHash": "a2ef4a6718cc5e317424e2b4e4b3d57f52c6faff0455fb734f6acaf70c4554ab"
   },
   {
@@ -24535,9 +24535,9 @@
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001491_00/入札結果/071009入札結果（下水道）.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:03+00:00",
+    "lastSuccessAt": "2026-09-26T01:46:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:03+00:00",
+    "nextCrawlAt": "2026-09-29T01:46:58+00:00",
     "coveredYears": [
       2025
     ],
@@ -24546,8 +24546,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a7d695f-118fa\"",
-    "lastModified": "Thu, 13 Aug 2026 06:51:11 GMT",
+    "etag": "\"6aa7363b-118fa\"",
+    "lastModified": "Sun, 13 Sep 2026 23:48:11 GMT",
     "contentHash": "7124482b1f52fcd4164961656e90830e43b4c5e71077985da4320ea497b3a94f"
   },
   {
@@ -24555,9 +24555,9 @@
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001491_00/入札結果/071107入札結果（下水道）.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:04+00:00",
+    "lastSuccessAt": "2026-09-26T01:46:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:04+00:00",
+    "nextCrawlAt": "2026-09-29T01:46:59+00:00",
     "coveredYears": [
       2025
     ],
@@ -24566,8 +24566,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a7d695f-11c7a\"",
-    "lastModified": "Thu, 13 Aug 2026 06:51:11 GMT",
+    "etag": "\"6aa7363b-11c7a\"",
+    "lastModified": "Sun, 13 Sep 2026 23:48:11 GMT",
     "contentHash": "2dfd80b0e6ae263b264017e27e143c1c8ee9a698f90fc5beeb1348099b12cc47"
   },
   {
@@ -24575,9 +24575,9 @@
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001491_00/入札結果/0716入札結果（下水道事業）.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:06+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:06+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:00+00:00",
     "coveredYears": [
       2025
     ],
@@ -24586,8 +24586,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a7d695f-11cae\"",
-    "lastModified": "Thu, 13 Aug 2026 06:51:11 GMT",
+    "etag": "\"6aa7363b-11cae\"",
+    "lastModified": "Sun, 13 Sep 2026 23:48:11 GMT",
     "contentHash": "80d1fa4aa87139b9934ffdd774f976ebc05960e7bcb246cb1f7a585d0ae1937b"
   },
   {
@@ -24595,9 +24595,9 @@
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001491_00/入札結果/滝沢市上下水道事業建設改良工事等に係る入札及び契約に関する事項の公表規程.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:06+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:06+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:00+00:00",
     "coveredYears": [
       2015
     ],
@@ -24606,8 +24606,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a7d695f-17934\"",
-    "lastModified": "Thu, 13 Aug 2026 06:51:11 GMT",
+    "etag": "\"6aa7363b-17934\"",
+    "lastModified": "Sun, 13 Sep 2026 23:48:11 GMT",
     "contentHash": "53d6c3e6d7862300899dd88237ac48494fb54ec986d04321d432056e0f5c9edd"
   },
   {
@@ -24615,9 +24615,9 @@
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001491_00/入札結果/080806入札結果（下水道）.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:07+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:07+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:01+00:00",
     "coveredYears": [
       2026
     ],
@@ -24626,8 +24626,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a7d69d6-11c64\"",
-    "lastModified": "Thu, 13 Aug 2026 06:53:10 GMT",
+    "etag": "\"6aa7363b-11c64\"",
+    "lastModified": "Sun, 13 Sep 2026 23:48:11 GMT",
     "contentHash": "770afe0ec35d90e08bb33482a480b77eda05bee9f60bea80b2ba4c68668aea7c"
   },
   {
@@ -24635,9 +24635,9 @@
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001491_00/入札結果/080723入札結果（下水道）.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:08+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:08+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:02+00:00",
     "coveredYears": [
       2026
     ],
@@ -24646,8 +24646,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a7d695f-11f2a\"",
-    "lastModified": "Thu, 13 Aug 2026 06:51:11 GMT",
+    "etag": "\"6aa7363b-11f2a\"",
+    "lastModified": "Sun, 13 Sep 2026 23:48:11 GMT",
     "contentHash": "0e8f16859d5529ed4a97a9af9e468392ac723a0ade47ea9cd0cb7075b4d57069"
   },
   {
@@ -24655,9 +24655,9 @@
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001491_00/入札結果/080529入札結果（下水道）.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:09+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:09+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:03+00:00",
     "coveredYears": [
       2026
     ],
@@ -24666,8 +24666,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a7d695f-11faa\"",
-    "lastModified": "Thu, 13 Aug 2026 06:51:11 GMT",
+    "etag": "\"6aa7363b-11faa\"",
+    "lastModified": "Sun, 13 Sep 2026 23:48:11 GMT",
     "contentHash": "71684d3ec9dce0de188bcb33ac09e0c30ca4f1411b022f718c2fe068581184e2"
   },
   {
@@ -24675,9 +24675,9 @@
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001491_00/入札結果/080323入札結果（下水道事業）.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:10+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:10+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:04+00:00",
     "coveredYears": [
       2026
     ],
@@ -24686,8 +24686,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a7d695f-147ad\"",
-    "lastModified": "Thu, 13 Aug 2026 06:51:11 GMT",
+    "etag": "\"6aa7363b-147ad\"",
+    "lastModified": "Sun, 13 Sep 2026 23:48:11 GMT",
     "contentHash": "f6b15d995b0edc35c7a8f6396c7cb10258c85dab35a5c9e95765d458dc72e745"
   },
   {
@@ -24695,9 +24695,9 @@
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001300_00/R8.7.23　入札結果（水道）.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:11+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:11+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:04+00:00",
     "coveredYears": [
       2026
     ],
@@ -24708,16 +24708,16 @@
     "active": true,
     "etag": "\"6a6be5fa-105cd\"",
     "lastModified": "Fri, 31 Jul 2026 00:02:02 GMT",
-    "contentHash": "7b4a82dca27a016580bd26a2db8a070080d02e0fa6ab238a9d27bef4c3e45452"
+    "contentHash": null
   },
   {
     "id": "8bf997b2e469079c",
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001300_00/令和8年7月3日入札結果.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:12+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:12+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:05+00:00",
     "coveredYears": [
       2026
     ],
@@ -24728,16 +24728,16 @@
     "active": true,
     "etag": "\"6a6be5a2-195d0\"",
     "lastModified": "Fri, 31 Jul 2026 00:00:34 GMT",
-    "contentHash": "a49661473217bcaefb49dc627f43c93aac7c7be19b7c6bda1e8f51a705d1f942"
+    "contentHash": null
   },
   {
     "id": "68029f4a29d4c68a",
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001300_00/入札結果/0716入札結果.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:13+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:13+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:05+00:00",
     "coveredYears": [
       2025
     ],
@@ -24748,16 +24748,16 @@
     "active": true,
     "etag": "\"6a6be5a2-1a094\"",
     "lastModified": "Fri, 31 Jul 2026 00:00:34 GMT",
-    "contentHash": "1bf7ffbcde123db38e1ac8b1088c6833f1dc0907373dfd85529893b6350de52e"
+    "contentHash": null
   },
   {
     "id": "e9385ed16ea18ee2",
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001300_00/入札結果/0724入札結果.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:14+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:14+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:06+00:00",
     "coveredYears": [
       2025
     ],
@@ -24768,16 +24768,16 @@
     "active": true,
     "etag": "\"6a6be5a2-179ee\"",
     "lastModified": "Fri, 31 Jul 2026 00:00:34 GMT",
-    "contentHash": "1c9a5b171d842832be3288fd724c52e330fedd8d4ee9ced6c968e26db87fb03c"
+    "contentHash": null
   },
   {
     "id": "5dca63b14601bf54",
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001300_00/滝沢市上下水道事業建設改良工事等に係る入札及び契約に関する事項の公表規程.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:14+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:14+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:06+00:00",
     "coveredYears": [
       2015
     ],
@@ -24788,16 +24788,16 @@
     "active": true,
     "etag": "\"6a6be5a2-17934\"",
     "lastModified": "Fri, 31 Jul 2026 00:00:34 GMT",
-    "contentHash": "53d6c3e6d7862300899dd88237ac48494fb54ec986d04321d432056e0f5c9edd"
+    "contentHash": null
   },
   {
     "id": "dcd36c97d883ca2b",
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001300_00/入札結果（R8）/R8.5.14入札結果_水道.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:16+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:16+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:07+00:00",
     "coveredYears": [
       2026
     ],
@@ -24808,16 +24808,16 @@
     "active": true,
     "etag": "\"6a6be5a2-37616\"",
     "lastModified": "Fri, 31 Jul 2026 00:00:34 GMT",
-    "contentHash": "c1c0813da763b4e0befe9f09ac713bd740ffe03c0faa93e75a20f2cb39a9186e"
+    "contentHash": null
   },
   {
     "id": "d77cc6b8688349f1",
     "municipalityCode": "032166",
     "url": "https://www.city.takizawa.iwate.jp/uploads/public/pages_0000001300_00/入札結果（R8）/R8.4.23入札結果_水道.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:16+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:16+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:07+00:00",
     "coveredYears": [
       2026
     ],
@@ -24828,7 +24828,7 @@
     "active": true,
     "etag": "\"6a6be5a2-10f6a\"",
     "lastModified": "Fri, 31 Jul 2026 00:00:34 GMT",
-    "contentHash": "2e65cee8e2f342ca16ac10894dd2239ce7813d958fd54036feb388dd2865e010"
+    "contentHash": null
   },
   {
     "id": "c6e8226f94850b14",
@@ -24955,9 +24955,9 @@
     "municipalityCode": "121002",
     "url": "https://www.city.chiba.jp/business/hatchu/nyusatsujoho/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:18+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:18+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:08+00:00",
     "coveredYears": [
       2008
     ],
@@ -24968,7 +24968,7 @@
     "active": true,
     "etag": "W/\"49d1-65197ad3f6042\"",
     "lastModified": "Tue, 12 May 2026 04:55:48 GMT",
-    "contentHash": "5886bcbc63b40254a2e0016989083e8a1771a11546987f865ef1bf4e82e9a6d2"
+    "contentHash": null
   },
   {
     "id": "56d4ec14b9273a13",
@@ -25170,40 +25170,40 @@
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:19+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:19+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:09+00:00",
     "coveredYears": [
       2019
     ],
     "sourceType": "result",
     "title": "入札結果（契約課による発注案件）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 06 Sep 2026 12:00:13 GMT",
-    "contentHash": "c11a293c6cec7c8bb680fa724e388ca3a2252f9aa79464c390f66e0ef7860f2c"
+    "lastModified": "Sat, 26 Sep 2026 01:00:08 GMT",
+    "contentHash": "560f1c33cdddb0abd526cc2147bcc588acde148b8f16480a43e772d517aaa120"
   },
   {
     "id": "e56ef9df51e542b6",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka_tantou/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:19+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:19+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:10+00:00",
     "coveredYears": [
       2019
     ],
     "sourceType": "result",
     "title": "入札結果（事業担当課による発注案件）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 06 Sep 2026 12:00:13 GMT",
-    "contentHash": "86c7f1b6b52294f78843f2451c86bb520c79b52713968c69e47e112ddf469851"
+    "lastModified": "Sat, 26 Sep 2026 01:00:08 GMT",
+    "contentHash": "d32f232c73f0e0712424fd92a03f3954695a66c9b5d3b21f80a92b5612ab50ce"
   },
   {
     "id": "4e648728ad70d216",
@@ -25231,7 +25231,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -25255,18 +25255,18 @@
     "municipalityCode": "122262",
     "url": "https://www.city.futtsu.lg.jp/0000008166.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:20+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:20+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:11+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "富津市外国人英語指導助手活用事業に係る指名型プロポーザル方式の審査結果",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"ad0b-65abda52c970d\"",
-    "lastModified": "Sat, 05 Sep 2026 15:00:26 GMT",
-    "contentHash": "0b55e7e4b972fb2c25a1b898dcd6658315915dfef9210fc11bb8cf462b580146"
+    "etag": "\"ad05-65c4ffa04fa7a\"",
+    "lastModified": "Fri, 25 Sep 2026 15:00:27 GMT",
+    "contentHash": "7dc028a0eeda18cf911bf9eb896384ef13713fe381225d529fcddf81645a42f4"
   },
   {
     "id": "c1deae0ce8f02b51",
@@ -25423,9 +25423,9 @@
     "municipalityCode": "122297",
     "url": "https://www.city.sodegaura.lg.jp/life/17/150/1269/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:21+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:21+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:12+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
@@ -25433,8 +25433,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 06 Sep 2026 13:46:03 GMT",
-    "contentHash": "bde1362a3d7d6dfcee6badb95e35bf206fd6aceb90cadc59f3117314b159584a"
+    "lastModified": "Sat, 26 Sep 2026 01:31:12 GMT",
+    "contentHash": "36b377c5bdc0aa67e096c1f0dc10d425b2d2a423a44dde2b46f5950d57367ec0"
   },
   {
     "id": "8ebd1aa5fb451344",
@@ -25456,9 +25456,9 @@
     "municipalityCode": "122360",
     "url": "https://www.city.katori.lg.jp/government/keiyaku/kekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:22+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:22+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:13+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
@@ -25466,8 +25466,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Tue, 25 Aug 2026 15:00:24 GMT",
-    "contentHash": "6e866eaaa5f8d4525b51a34e315d24846f0fbf20d7b10a4feaab76c6821470ea"
+    "lastModified": "Mon, 14 Sep 2026 06:44:46 GMT",
+    "contentHash": "655224c3ec6466c4a25599b3dafc2052d0f534377dc262a8b12b2196c72f28ac"
   },
   {
     "id": "df6d72b9a1865427",
@@ -25480,7 +25480,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "シルバー人材センター等との随意契約の公表について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -25564,40 +25564,40 @@
     "municipalityCode": "123293",
     "url": "https://www.town.sakae.chiba.jp/business/nyuusatsu-keiyaku/page008197.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:23+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:23+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:13+00:00",
     "coveredYears": [
       2026
     ],
     "sourceType": "result",
     "title": "【審査結果公表】栄町地域公共交通計画策定支援業務委託に係る公募型プロポーザルについて",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "f10a2006c0a8a969185b6f3ccabdbb5f7dd8e01b212faff6927fe78172f92012"
+    "contentHash": "99ef6319db8c112203a1e91811b7d0bb01c7c1867d7379bee2c9c9c6bad501ae"
   },
   {
     "id": "3f5735b99742dc33",
     "municipalityCode": "123293",
     "url": "https://www.town.sakae.chiba.jp/business/nyuusatsu-keiyaku/page008272.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:24+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:24+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:14+00:00",
     "coveredYears": [
       2026
     ],
     "sourceType": "result",
     "title": "【審査結果公表】栄町観光基本計画基礎調査委託に係る公募型プロポーザルについて",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "76da0d7246b060e3dcfaf0f837a8542aa54d33e3208fa2e1880ad7f6587f3a64"
+    "contentHash": "0fdea602b721a0d3c67c5d5ad3153f506d8ba1447875b047ead6182788b0e572"
   },
   {
     "id": "f91906403d726fc6",
@@ -25610,7 +25610,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "仕様書のとおり",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -25625,7 +25625,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "1.公募型プロポーザル実施要領",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -25640,7 +25640,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "回答書",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -25655,7 +25655,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "仕様書 [PDF形式／189.3KB]",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -25670,7 +25670,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "プロポーザル実施要領 [PDF形式／346.9KB]",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -25724,9 +25724,9 @@
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2018042500059/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:25+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:25+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:15+00:00",
     "coveredYears": [
       2018,
       2019
@@ -25738,16 +25738,16 @@
     "active": true,
     "etag": "W/\"699ee002-13b67\"",
     "lastModified": "Wed, 25 Feb 2026 11:41:54 GMT",
-    "contentHash": "272b6dff075b87301b4ad601fb29e959ccae154dbe508080d907a030e10a64f0"
+    "contentHash": null
   },
   {
     "id": "50efaa39d0738623",
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2019042300014/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:26+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:26+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:15+00:00",
     "coveredYears": [
       2019,
       2020
@@ -25759,16 +25759,16 @@
     "active": true,
     "etag": "W/\"699ee009-13ab6\"",
     "lastModified": "Wed, 25 Feb 2026 11:42:01 GMT",
-    "contentHash": "90c334df0a32bd876993c87507eea4d717aa53ce25ca61180c0204e19c2f104b"
+    "contentHash": null
   },
   {
     "id": "cfdbfd0a6aeed246",
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2020041900013/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:26+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:26+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:16+00:00",
     "coveredYears": [
       2020,
       2021
@@ -25780,16 +25780,16 @@
     "active": true,
     "etag": "W/\"699edf4f-11b5f\"",
     "lastModified": "Wed, 25 Feb 2026 11:38:55 GMT",
-    "contentHash": "fa54394e64800fb3b1f251a332f684b5f171f625b3a1f41195f19d49b3070919"
+    "contentHash": null
   },
   {
     "id": "e0217963889cae12",
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2021040900011/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:27+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:27+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:17+00:00",
     "coveredYears": [
       2021,
       2022
@@ -25801,16 +25801,16 @@
     "active": true,
     "etag": "W/\"699edf4b-1001f\"",
     "lastModified": "Wed, 25 Feb 2026 11:38:51 GMT",
-    "contentHash": "a0854717a7dc05322f0e221ba729808d7af9ba413abb653b6663a26ddc2d58b2"
+    "contentHash": null
   },
   {
     "id": "3a624f24446e0c37",
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2022041200018/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:27+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:27+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:17+00:00",
     "coveredYears": [
       2022,
       2023
@@ -25822,16 +25822,16 @@
     "active": true,
     "etag": "W/\"699edf86-fbc5\"",
     "lastModified": "Wed, 25 Feb 2026 11:39:50 GMT",
-    "contentHash": "941729abbfcb97b07bab1c97b5547e913d9b5c8c48cf6ec127c3be7b2f1c7419"
+    "contentHash": null
   },
   {
     "id": "571eb933c714765c",
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2023042600043/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-06T13:50:28+00:00",
+    "lastSuccessAt": "2026-09-26T01:47:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-09T13:50:28+00:00",
+    "nextCrawlAt": "2026-09-29T01:47:18+00:00",
     "coveredYears": [
       2023,
       2024
@@ -25843,7 +25843,7 @@
     "active": true,
     "etag": "W/\"699ede65-136a6\"",
     "lastModified": "Wed, 25 Feb 2026 11:35:01 GMT",
-    "contentHash": "b4906d873b4c218810f33cd47ab490750a2ff50912b53ac844b7e849044d541d"
+    "contentHash": null
   },
   {
     "id": "d79c1c82998294ae",
@@ -85283,7 +85283,7 @@
     ],
     "sourceType": "result",
     "title": "「令和8年度水素利活用促進支援業務」受託候補者選定委員会の審査結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"2284b-65ba89144f78d\"",
@@ -110403,6 +110403,21 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "募集要項",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "4fbc4ede0b2b49b9",
+    "municipalityCode": "030007",
+    "url": "https://www.pref.iwate.jp/kensei/nyuusatsu/kouji/koujishinsa/1010518.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "（お知らせ）令和9・10年度県営建設工事競争入札参加資格審査基準について",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
