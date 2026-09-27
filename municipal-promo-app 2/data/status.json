@@ -1,83 +1,78 @@
 {
   "state": "completed",
-  "started_at": "2026-09-27T19:00:59+00:00",
-  "updated_at": "2026-09-27T19:09:12+00:00",
+  "started_at": "2026-09-27T22:17:20+00:00",
+  "updated_at": "2026-09-27T22:26:56+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 109,
     "status": {
-      "state": "error",
-      "started_at": "2026-09-27T19:00:59+00:00",
-      "updated_at": "2026-09-27T19:01:25+00:00",
+      "state": "completed",
+      "started_at": "2026-09-27T22:17:20+00:00",
+      "updated_at": "2026-09-27T22:17:28+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
       "count": 109,
-      "errors": [
-        {
-          "query": "プロモーション OR シティプロモーション OR 広報 OR 広告 OR ブランディング OR 観光 OR 誘客 OR 移住 OR 関係人口 OR 魅力発信 OR SNS OR 動画 OR 映像 OR Web OR ホームページ OR イベント OR キャンペーン OR デザイン OR クリエイティブ OR パンフレット OR ポスター OR ロゴ OR コンサルティング OR 戦略策定 OR 基本構想 OR 事業戦略 OR マーケティング OR 市場調査 OR アンケート OR 調査分析 OR AI OR 生成AI OR 人工知能 OR データ分析 OR データ活用 OR DX OR デジタル活用 OR コミュニケーション OR 広報戦略 OR パブリシティ",
-          "error": "HTTPSConnectionPool(host='www.kkj.go.jp', port=443): Read timed out."
-        }
-      ],
+      "errors": [],
       "current_query": null,
-      "raw_hits_sum": 0,
+      "raw_hits_sum": 5467,
       "lookback_days": 180,
       "cache_minutes": 30,
-      "message": "APIから新規データを取得できませんでした。キャッシュがあれば継続表示します。"
+      "message": "APIから最新候補を取得しました。元公示は各案件リンクで確認してください。"
     }
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 82,
-    "failed": 18,
+    "succeeded": 81,
+    "failed": 19,
     "sourcesAdded": 1,
-    "historySourcesAdded": 17
+    "historySourcesAdded": 32
   },
   "direct": {
     "processed": 50,
-    "succeeded": 45,
-    "failed": 5,
-    "projects": 101,
-    "unchanged": 24,
-    "historySourcesAdded": 65
+    "succeeded": 46,
+    "failed": 4,
+    "projects": 125,
+    "unchanged": 15,
+    "historySourcesAdded": 92
   },
   "history": {
     "processed": 30,
-    "succeeded": 29,
-    "failed": 1,
+    "succeeded": 30,
+    "failed": 0,
     "awards": 1,
-    "documents": 39,
-    "unchanged": 1
+    "documents": 6,
+    "unchanged": 0
   },
   "statusNormalized": 0,
-  "historyLinkedProjects": 9,
+  "historyLinkedProjects": 4,
   "coverage": {
     "municipalities": 1788,
     "municipalitiesVisited": 1787,
     "municipalityCoverageRate": 99.9,
-    "municipalitiesWithSources": 1435,
-    "sources": 6838,
-    "projects": 3946,
-    "projectsWithDeadline": 813,
-    "historySources": 6466,
-    "historyMunicipalities": 488,
-    "historyAwards": 1509,
+    "municipalitiesWithSources": 1436,
+    "sources": 6839,
+    "projects": 3950,
+    "projectsWithDeadline": 814,
+    "historySources": 6479,
+    "historyMunicipalities": 489,
+    "historyAwards": 1510,
     "historyLinkedProjects": 437
   },
   "sourceStats": {
     "municipalities": 1788,
     "municipalitiesVisited": 1787,
     "municipalityCoverageRate": 99.9,
-    "municipalitiesWithSources": 1435,
-    "sources": 6838,
-    "projects": 3946,
-    "projectsWithDeadline": 813,
-    "historySources": 6466,
-    "historyMunicipalities": 488,
-    "historyAwards": 1509,
+    "municipalitiesWithSources": 1436,
+    "sources": 6839,
+    "projects": 3950,
+    "projectsWithDeadline": 814,
+    "historySources": 6479,
+    "historyMunicipalities": 489,
+    "historyAwards": 1510,
     "historyLinkedProjects": 437,
-    "officialDirectProjects": 3399,
+    "officialDirectProjects": 3403,
     "kkjPrimaryProjects": 547
   },
   "errors": [],
