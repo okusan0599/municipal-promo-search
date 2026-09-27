@@ -1,22 +1,22 @@
 {
   "state": "completed",
-  "started_at": "2026-09-26T22:56:51+00:00",
-  "updated_at": "2026-09-26T23:07:01+00:00",
+  "started_at": "2026-09-27T01:32:22+00:00",
+  "updated_at": "2026-09-27T01:40:30+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 109,
     "status": {
       "state": "completed",
-      "started_at": "2026-09-26T22:56:52+00:00",
-      "updated_at": "2026-09-26T22:57:00+00:00",
+      "started_at": "2026-09-27T01:32:22+00:00",
+      "updated_at": "2026-09-27T01:32:33+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
       "count": 109,
       "errors": [],
       "current_query": null,
-      "raw_hits_sum": 5515,
+      "raw_hits_sum": 5467,
       "lookback_days": 180,
       "cache_minutes": 30,
       "message": "APIから最新候補を取得しました。元公示は各案件リンクで確認してください。"
@@ -24,41 +24,41 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 88,
-    "failed": 12,
+    "succeeded": 83,
+    "failed": 17,
     "sourcesAdded": 0,
-    "historySourcesAdded": 7
+    "historySourcesAdded": 17
   },
   "direct": {
     "processed": 50,
-    "succeeded": 45,
-    "failed": 5,
-    "projects": 213,
-    "unchanged": 5,
-    "historySourcesAdded": 195
+    "succeeded": 48,
+    "failed": 2,
+    "projects": 182,
+    "unchanged": 1,
+    "historySourcesAdded": 162
   },
   "history": {
     "processed": 30,
-    "succeeded": 30,
-    "failed": 0,
-    "awards": 3,
-    "documents": 77,
-    "unchanged": 5
+    "succeeded": 29,
+    "failed": 1,
+    "awards": 2,
+    "documents": 86,
+    "unchanged": 4
   },
   "statusNormalized": 0,
-  "historyLinkedProjects": 0,
+  "historyLinkedProjects": 1,
   "coverage": {
     "municipalities": 1788,
     "municipalitiesVisited": 1787,
     "municipalityCoverageRate": 99.9,
     "municipalitiesWithSources": 1434,
     "sources": 6837,
-    "projects": 3923,
-    "projectsWithDeadline": 809,
-    "historySources": 6427,
+    "projects": 3924,
+    "projectsWithDeadline": 810,
+    "historySources": 6432,
     "historyMunicipalities": 486,
     "historyAwards": 1507,
-    "historyLinkedProjects": 434
+    "historyLinkedProjects": 435
   },
   "sourceStats": {
     "municipalities": 1788,
@@ -66,13 +66,13 @@
     "municipalityCoverageRate": 99.9,
     "municipalitiesWithSources": 1434,
     "sources": 6837,
-    "projects": 3923,
-    "projectsWithDeadline": 809,
-    "historySources": 6427,
+    "projects": 3924,
+    "projectsWithDeadline": 810,
+    "historySources": 6432,
     "historyMunicipalities": 486,
     "historyAwards": 1507,
-    "historyLinkedProjects": 434,
-    "officialDirectProjects": 3376,
+    "historyLinkedProjects": 435,
+    "officialDirectProjects": 3377,
     "kkjPrimaryProjects": 547
   },
   "errors": [],
