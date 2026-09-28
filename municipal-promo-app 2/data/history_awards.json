@@ -28005,5 +28005,43 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-09-27T22:26:01+00:00"
+  },
+  {
+    "dedupeKey": "37b68ad5fe929c2246e94d15371002832cc4470d7f10e58821cec6a8421a2b40",
+    "id": "award-60534c3c14c9b888533a1260",
+    "municipalityCode": "406058",
+    "area": "九州",
+    "region": "福岡県",
+    "municipality": "川崎町",
+    "organization": "川崎町",
+    "title": "落 札 金 額 円 商号又は名称",
+    "vendor": "の商号又は",
+    "awardDate": "2018-06-20",
+    "year": 2018,
+    "sourceUrl": "https://www.town-kawasaki.com/wp-content/uploads/2018/06/入札結果（H30・6月執行分）.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-09-28T17:49:21+00:00"
+  },
+  {
+    "dedupeKey": "44f95cb3bdddb1a5b86c2f969fc56bac3ee04cd311d596eb4c614d2cdec34868",
+    "id": "award-1e4f11edf1c2769eb6cac4ee",
+    "municipalityCode": "406058",
+    "area": "九州",
+    "region": "福岡県",
+    "municipality": "川崎町",
+    "organization": "川崎町",
+    "title": "落 札 金 額 円 商号又は名称",
+    "vendor": "の商号又は",
+    "awardDate": "2023-10-02",
+    "year": 2023,
+    "sourceUrl": "https://www.town-kawasaki.com/wp-content/uploads/2023/11/10月入札結果.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-09-28T17:49:28+00:00"
   }
 ]
