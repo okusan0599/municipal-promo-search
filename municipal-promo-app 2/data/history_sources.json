@@ -10607,7 +10607,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -10708,7 +10708,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（令和5年度）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -10728,7 +10728,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（令和6年度）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -10748,7 +10748,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（令和7年度）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -10768,7 +10768,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（令和8年度）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -11107,7 +11107,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"3739280e\"",
@@ -13398,7 +13398,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "еҫ©иҲҲиЁҲз”»зӯү",
+    "title": "復興計画等",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -13413,7 +13413,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "еҫ©иҲҲгҒ®еӢ•гҒҚ",
+    "title": "復興の動き",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -13428,7 +13428,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "еҫ©иҲҲзү№еҢә",
+    "title": "復興特区",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -13458,7 +13458,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "йңҮзҒҪеҫ©иҲҲ гғҲгғғгғ—",
+    "title": "震災復興 トップ",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -43034,9 +43034,9 @@
     "municipalityCode": "293440",
     "url": "https://www.town.ikaruga.nara.jp/0000001296.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:12+00:00",
+    "lastSuccessAt": "2026-09-29T18:50:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:12+00:00",
+    "nextCrawlAt": "2026-10-02T18:50:58+00:00",
     "coveredYears": [
       2018
     ],
@@ -43046,17 +43046,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Tue, 08 Sep 2026 15:00:53 GMT",
-    "contentHash": "20ab6401ed7fa05572dfc8fbb88ab9fcdbbaaae78c1d4e3ad3199a1beb7fe3eb"
+    "lastModified": "Tue, 29 Sep 2026 15:02:19 GMT",
+    "contentHash": "8955d735c0158b3ce5739e168a55df285b149ec3154adccb45c4d6796a547e96"
   },
   {
     "id": "01db0ff46f024fc8",
     "municipalityCode": "293440",
     "url": "https://www.town.ikaruga.nara.jp/0000002259.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:12+00:00",
+    "lastSuccessAt": "2026-09-29T18:50:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:12+00:00",
+    "nextCrawlAt": "2026-10-02T18:50:59+00:00",
     "coveredYears": [
       2022
     ],
@@ -43066,8 +43066,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Tue, 08 Sep 2026 15:00:44 GMT",
-    "contentHash": "7d7f0d994e986de8bbc646bd3452358657e5e0f2b2726b1e40190b0f81cefc10"
+    "lastModified": "Tue, 29 Sep 2026 15:02:10 GMT",
+    "contentHash": "ee7eb82487ace47e60d5e76f7b60272d9512cc6b0f7cb461acac62edbb7776c3"
   },
   {
     "id": "de5ca9576dceaa0d",
@@ -43656,9 +43656,9 @@
     "municipalityCode": "112178",
     "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/21358.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:18+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:18+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:00+00:00",
     "coveredYears": [
       2024
     ],
@@ -43669,16 +43669,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Wed, 08 Apr 2026 08:30:13 GMT",
-    "contentHash": "11ce59c530ed0cc2e99cc6352c7078c96d872342960668b0aa384e6dba63fc14"
+    "contentHash": null
   },
   {
     "id": "0278c9b8cd245dec",
     "municipalityCode": "112178",
     "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/16690.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:18+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:18+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:01+00:00",
     "coveredYears": [
       2022,
       2023
@@ -43690,16 +43690,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Wed, 08 Apr 2026 08:30:12 GMT",
-    "contentHash": "e80ab120e4655cbffa62e8f0e03374ec719f448f7901aad59bfeb8b17d2aadbb"
+    "contentHash": null
   },
   {
     "id": "49515596e6d5ffab",
     "municipalityCode": "112178",
     "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/11970.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:19+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:19+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:02+00:00",
     "coveredYears": [
       2022
     ],
@@ -43710,16 +43710,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Wed, 08 Apr 2026 08:30:12 GMT",
-    "contentHash": "01579cceac730bf5ef8fcd18f1174d9f389cdaeda3d0dfc257b857d771229860"
+    "contentHash": null
   },
   {
     "id": "677b17b8219d099b",
     "municipalityCode": "112178",
     "url": "https://www.city.kounosu.saitama.jp/uploaded/attachment/8324.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:19+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:19+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:02+00:00",
     "coveredYears": [
       2021
     ],
@@ -43730,7 +43730,7 @@
     "active": true,
     "etag": null,
     "lastModified": "Wed, 08 Apr 2026 08:30:16 GMT",
-    "contentHash": "176a30001dece2b6fbd7657ec3a376bcbc2bb54006ba2147635c1624b5ce6c35"
+    "contentHash": null
   },
   {
     "id": "ad405cf7fc921ea2",
@@ -43767,9 +43767,9 @@
     "municipalityCode": "112224",
     "url": "https://www.city.koshigaya.saitama.jp/kurashi_shisei/jigyosha/nyusatukeiyaku/kohyosiryo/nyusatukekka/kekka_nyusatu/koujizuiikeiyaku.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:21+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:21+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:04+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約結果",
@@ -43778,16 +43778,16 @@
     "active": true,
     "etag": "\"9e01-65a6609900253-gzip\"",
     "lastModified": "Tue, 01 Sep 2026 06:29:13 GMT",
-    "contentHash": "7aacecc0f22732aa7e09ca893f03e2cdf3b088993af867bc7b65e3ca9b8d3fba"
+    "contentHash": null
   },
   {
     "id": "79aeb03d18570ed0",
     "municipalityCode": "112224",
     "url": "https://www.city.koshigaya.saitama.jp/kurashi_shisei/jigyosha/nyusatukeiyaku/kohyosiryo/nyusatukekka/kekka_nohin/22nendokekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:21+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:21+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:05+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "物品購入等に係る入札結果等の公表（令和元年度）",
@@ -43796,16 +43796,16 @@
     "active": true,
     "etag": "\"a6b8-65a6609879dde-gzip\"",
     "lastModified": "Tue, 01 Sep 2026 06:29:13 GMT",
-    "contentHash": "ac74ad6314f3c90229cb541e6d45b97adcc3d3ed12e4433c1969cbb02e1665ec"
+    "contentHash": null
   },
   {
     "id": "0e5f0b428426d607",
     "municipalityCode": "112224",
     "url": "https://www.city.koshigaya.saitama.jp/kurashi_shisei/jigyosha/nyusatukeiyaku/kohyosiryo/nyusatukekka/kekka_nohin/koshigaya_contents_201604.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:22+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:22+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:05+00:00",
     "coveredYears": [
       2016
     ],
@@ -43816,16 +43816,16 @@
     "active": true,
     "etag": "\"a62f-65a660984427c-gzip\"",
     "lastModified": "Tue, 01 Sep 2026 06:29:13 GMT",
-    "contentHash": "381d63b980d26679623cb965b06d753ffe294fdefa74c74eb921f49c217c86b8"
+    "contentHash": null
   },
   {
     "id": "37b45f10331029b5",
     "municipalityCode": "112224",
     "url": "https://www.city.koshigaya.saitama.jp/kurashi_shisei/jigyosha/nyusatukeiyaku/kohyosiryo/nyusatukekka/kekka_nohin/koshigaya_contents_2018.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:22+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:22+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:06+00:00",
     "coveredYears": [
       2018
     ],
@@ -43836,16 +43836,16 @@
     "active": true,
     "etag": "\"a4df-65a66b052d5ef-gzip\"",
     "lastModified": "Tue, 01 Sep 2026 07:15:51 GMT",
-    "contentHash": "dae4f7a6eb1e80384e1be3bf674c030bf1071e635b744152268f808214d0d25e"
+    "contentHash": null
   },
   {
     "id": "f4cea1a3177dd887",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/795/202404zuikei_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:23+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:23+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:07+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "4月随意契約結果 （PDF 1.5MB）",
@@ -43854,16 +43854,16 @@
     "active": true,
     "etag": "\"17375a-6342248928d8d\"",
     "lastModified": "Fri, 02 May 2025 07:41:51 GMT",
-    "contentHash": "9b8f7dcf623a5c1e9549bed7564e01b6421f223d3fa2ac7332ad1c4aa78aeea3"
+    "contentHash": null
   },
   {
     "id": "d915447b3b234f12",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/795/202405zuikei_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:24+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:24+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:08+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "5月随意契約結果 （PDF 713.4KB）",
@@ -43872,16 +43872,16 @@
     "active": true,
     "etag": "\"b2668-6342248a43921\"",
     "lastModified": "Fri, 02 May 2025 07:41:52 GMT",
-    "contentHash": "5a9eeac11805508c7ba86feacd9a127ed298f78eea43c587c5e92dfb7afe6d8f"
+    "contentHash": null
   },
   {
     "id": "adb135a0596c87a8",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/795/202406zuikei.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:25+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:25+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:09+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "6月随意契約結果 （PDF 695.2KB）",
@@ -43890,16 +43890,16 @@
     "active": true,
     "etag": "\"adda1-6342235e04d2e\"",
     "lastModified": "Fri, 02 May 2025 07:36:37 GMT",
-    "contentHash": "8cd1c4aa6de8ab5a87b158a94996131be4b7ed71797de78b30b55957ceac018a"
+    "contentHash": null
   },
   {
     "id": "74b321d967d43869",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/795/202407zuikei.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:26+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:26+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:10+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "7月随意契約結果 （PDF 708.8KB）",
@@ -43908,16 +43908,16 @@
     "active": true,
     "etag": "\"b13ef-6342235f21bea\"",
     "lastModified": "Fri, 02 May 2025 07:36:38 GMT",
-    "contentHash": "b48e4be69df7701fec624013da2b28b1b64cfce071216d004cce84b73968f947"
+    "contentHash": null
   },
   {
     "id": "96292b952d070c1f",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/795/202408zuikei.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:27+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:27+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:11+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "8月随意契約結果 （PDF 563.8KB）",
@@ -43926,16 +43926,16 @@
     "active": true,
     "etag": "\"8d00d-63422363109ca\"",
     "lastModified": "Fri, 02 May 2025 07:36:42 GMT",
-    "contentHash": "7f14ba088ba4987893605db39032c032afe99f9a0a6bf9003087f39b2710632e"
+    "contentHash": null
   },
   {
     "id": "0a5e3036433a2ca4",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/795/202503zuikei.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:28+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:28+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:12+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "3月随意契約結果 （PDF 652.0KB）",
@@ -43944,16 +43944,16 @@
     "active": true,
     "etag": "\"a30e3-634223627b317\"",
     "lastModified": "Fri, 02 May 2025 07:36:42 GMT",
-    "contentHash": "95f6afffe4c2b6787663135ea8102569b711fa29698b3411581e4d67254385bb"
+    "contentHash": null
   },
   {
     "id": "4f88f559bd2914aa",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/795/202502zuikei.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:29+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:29+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:13+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "2月随意契約結果 （PDF 738.7KB）",
@@ -43962,16 +43962,16 @@
     "active": true,
     "etag": "\"b8b89-634223627034e\"",
     "lastModified": "Fri, 02 May 2025 07:36:42 GMT",
-    "contentHash": "1a8780662bd211be3af81613df9e46d7e06f93ddb675b48acf339a2a657a98cf"
+    "contentHash": null
   },
   {
     "id": "d5b271949f57c555",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/795/202501zuikei.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:30+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:30+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:14+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "1月随意契約結果 （PDF 758.0KB）",
@@ -43980,16 +43980,16 @@
     "active": true,
     "etag": "\"bd911-634223603fe2e\"",
     "lastModified": "Fri, 02 May 2025 07:36:40 GMT",
-    "contentHash": "c710a092aaf2365447718315cd543a2e63b28b3434ea737e1ee5dbf7b9c9e75b"
+    "contentHash": null
   },
   {
     "id": "c31b45d9093e6779",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/795/202412zuikei_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:31+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:31+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:15+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "12月随意契約結果 （PDF 741.9KB）",
@@ -43998,16 +43998,16 @@
     "active": true,
     "etag": "\"b9849-6342248bd3f94\"",
     "lastModified": "Fri, 02 May 2025 07:41:54 GMT",
-    "contentHash": "7dd08dae1c2357150b2c9bee781b37d08f3ac07220a7a59a5f116868724074a3"
+    "contentHash": null
   },
   {
     "id": "8cc91de925ec4855",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/795/202411zuikei_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:31+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:31+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:16+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "11月随意契約結果 （PDF 776.2KB）",
@@ -44016,16 +44016,16 @@
     "active": true,
     "etag": "\"c21d2-6342248bd6e75\"",
     "lastModified": "Fri, 02 May 2025 07:41:54 GMT",
-    "contentHash": "86ec09ea20772b0a672c79ab8a2ad988d1ce4fce4963d6a7e85b52009f2bfa54"
+    "contentHash": null
   },
   {
     "id": "391c259f31b67820",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/796/1005796_001.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:32+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:32+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:17+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "2月随意契約結果 （PDF 292.8KB）",
@@ -44034,16 +44034,16 @@
     "active": true,
     "etag": "\"49333-62bb90039dc40\"",
     "lastModified": "Wed, 15 Jan 2025 06:43:53 GMT",
-    "contentHash": "c774e0c3788d2b36cdfbe3e2ed874a7161d765f5d934c09340ea115785286561"
+    "contentHash": null
   },
   {
     "id": "8a1ecc4182d44bea",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/796/1005796_002.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:33+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:33+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:18+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "1月随意契約結果 （PDF 260.1KB）",
@@ -44052,16 +44052,16 @@
     "active": true,
     "etag": "\"4103c-62bb90039dc40\"",
     "lastModified": "Wed, 15 Jan 2025 06:43:53 GMT",
-    "contentHash": "8e5d95dd3d8b6501392da012c813458932f64110c3a19fe7c751090faacdc5f0"
+    "contentHash": null
   },
   {
     "id": "b0d02b7b03150fcc",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/796/1005796_003.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:34+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:34+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:19+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "12月随意契約結果 （PDF 317.0KB）",
@@ -44070,16 +44070,16 @@
     "active": true,
     "etag": "\"4f3dc-62bb90039dc40\"",
     "lastModified": "Wed, 15 Jan 2025 06:43:53 GMT",
-    "contentHash": "e51f003ee9058fe94d2114a77ba6a1b639fc96080140dd32f1cdb5d49b60ce24"
+    "contentHash": null
   },
   {
     "id": "4d39f232849283ed",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/796/1005796_004.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:35+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:35+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:20+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "11月随意契約結果 （PDF 304.1KB）",
@@ -44088,16 +44088,16 @@
     "active": true,
     "etag": "\"4c098-62bb90039dc40\"",
     "lastModified": "Wed, 15 Jan 2025 06:43:53 GMT",
-    "contentHash": "52a0225ba078f3152a76568c4a5ab620962bc97613fdcb55b21f81f8f49dfe16"
+    "contentHash": null
   },
   {
     "id": "9ca17973982b45a3",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/796/1005796_005.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:36+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:36+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:21+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "10月随意契約結果 （PDF 337.4KB）",
@@ -44106,16 +44106,16 @@
     "active": true,
     "etag": "\"545bf-62bb90039dc40\"",
     "lastModified": "Wed, 15 Jan 2025 06:43:53 GMT",
-    "contentHash": "88a9cfde440373ac0415f29e6cf78f915b818e54de566bb8537160b211ed6639"
+    "contentHash": null
   },
   {
     "id": "38635e5238e152a7",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/005/796/1005796_012.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:36+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:36+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:21+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "3月随意契約結果 （PDF 305.3KB）",
@@ -44124,16 +44124,16 @@
     "active": true,
     "etag": "\"4c52d-62d861ff0b440\"",
     "lastModified": "Fri, 07 Feb 2025 04:52:25 GMT",
-    "contentHash": "60506b16cb2ab300501a6f9cd22852fbf5a740254a48014740a5a1845e8a2c34"
+    "contentHash": null
   },
   {
     "id": "554f54d0b91d8c13",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/010/840/202504zuikei_3.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:37+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:37+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:22+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "4月随意契約結果 （PDF 1.3MB）",
@@ -44142,16 +44142,16 @@
     "active": true,
     "etag": "\"15438d-643e82269e098\"",
     "lastModified": "Wed, 19 Nov 2025 01:02:29 GMT",
-    "contentHash": "4be2861b5098dbbe2bf18574e35e0540bd36ff97cd043ed2b10d142c8bbcda44"
+    "contentHash": null
   },
   {
     "id": "adc850019a114f5d",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/010/840/202505zuikei_3.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T00:27:38+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T00:27:38+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:23+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "5月随意契約結果 （PDF 842.3KB）",
@@ -44160,16 +44160,16 @@
     "active": true,
     "etag": "\"d2a27-650bc36147dc2\"",
     "lastModified": "Fri, 01 May 2026 07:05:51 GMT",
-    "contentHash": "4274099505b4e925f3c7c4aa6c079e0520af1c1a9bd124dfafc609deacf3a223"
+    "contentHash": null
   },
   {
     "id": "34f2c80de32fbaa2",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/010/840/202506zuikei_3.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:12:56+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:12:56+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:24+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "6月随意契約結果 （PDF 984.0KB）",
@@ -44178,16 +44178,16 @@
     "active": true,
     "etag": "\"f60b6-650bc32d86e7a\"",
     "lastModified": "Fri, 01 May 2026 07:04:57 GMT",
-    "contentHash": "aee1dff2db79243f37f27ced446fb5b1034df2a24d392c1d5e30efdb92505000"
+    "contentHash": null
   },
   {
     "id": "fe453c7dbacd133d",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/010/840/202507zuikei_2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:12:57+00:00",
+    "lastSuccessAt": "2026-09-29T18:51:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:12:57+00:00",
+    "nextCrawlAt": "2026-10-02T18:51:25+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "7月随意契約結果 （PDF 699.0KB）",
@@ -44196,7 +44196,7 @@
     "active": true,
     "etag": "\"aecb3-643e822e40336\"",
     "lastModified": "Wed, 19 Nov 2025 01:02:37 GMT",
-    "contentHash": "27e280ea12670edc76e88437aef283448cb691a7bc002af466fe61224d96fdc2"
+    "contentHash": null
   },
   {
     "id": "981e1dfdd2db3f1c",
