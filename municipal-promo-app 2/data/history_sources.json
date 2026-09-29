@@ -13413,7 +13413,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "復興の動き",
+    "title": "еҫ©иҲҲгҒ®еӢ•гҒҚ",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -13428,7 +13428,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "復興特区",
+    "title": "еҫ©иҲҲзү№еҢә",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -13458,7 +13458,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "震災復興 トップ",
+    "title": "йңҮзҒҪеҫ©иҲҲ гғҲгғғгғ—",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -15482,7 +15482,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "公表（入札結果など）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -15500,7 +15500,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "東日本大震災に関する情報",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -15880,7 +15880,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（教育委員会）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"6aa90410-a045\"",
@@ -15920,7 +15920,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（農業委員会事務局）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"6aa90423-9e74\"",
@@ -44203,9 +44203,9 @@
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/010/840/202508zuikei.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:12:58+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:12:58+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:35+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "8月随意契約結果 （PDF 452.1KB）",
@@ -44214,16 +44214,16 @@
     "active": true,
     "etag": "\"71155-643e822f9352b\"",
     "lastModified": "Wed, 19 Nov 2025 01:02:38 GMT",
-    "contentHash": "7201eca377a66a977abf7e690f124b42837068c42338be611a6e552c9e0776b3"
+    "contentHash": null
   },
   {
     "id": "8426c89998543b25",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/013/511/202604zuikei.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:12:59+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:12:59+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:36+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "4月随意契約結果 （PDF 1.3MB）",
@@ -44232,16 +44232,16 @@
     "active": true,
     "etag": "\"149d1c-65a508f29ce5c\"",
     "lastModified": "Mon, 31 Aug 2026 04:51:46 GMT",
-    "contentHash": "cd18478df9a3bbe22e34e97965801d37cb68d94d7e76a5d759aa13de3ca0dad2"
+    "contentHash": null
   },
   {
     "id": "48160638c958528d",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/013/511/202605zuikei.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:00+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:00+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:37+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "5月随意契約結果 （PDF 619.3KB）",
@@ -44250,16 +44250,16 @@
     "active": true,
     "etag": "\"9ae03-65a50902a2d58\"",
     "lastModified": "Mon, 31 Aug 2026 04:52:02 GMT",
-    "contentHash": "0e1582b107c1b999c68af09ff81219d62732a0b26266b2730a76cd60e52ec7f6"
+    "contentHash": null
   },
   {
     "id": "6b1a8cf3ff2d39f3",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/_res/projects/default_project/_page_/001/013/511/202606zuikei.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:01+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:01+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:38+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "6月随意契約結果 （PDF 751.3KB）",
@@ -44268,16 +44268,16 @@
     "active": true,
     "etag": "\"bbe24-65a50916de32a\"",
     "lastModified": "Mon, 31 Aug 2026 04:52:24 GMT",
-    "contentHash": "9dd568121230c4e20d8ec55e938260d63f95a9d51b036b5fa414f01fcbb351f1"
+    "contentHash": null
   },
   {
     "id": "398936878a880d2a",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/shisei/jigyo/nyusatsu_keiyaku/1002295/1007058/1005782.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:01+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:01+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:39+00:00",
     "coveredYears": [
       2025
     ],
@@ -44286,18 +44286,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8a76-65b069d77a84e\"",
-    "lastModified": "Wed, 09 Sep 2026 06:03:50 GMT",
-    "contentHash": "ef5e2687f0f7d14338cc463b84ccfdcf644388e3147328861710e569fff210a0"
+    "etag": "\"8b36-65ca7321deb13\"",
+    "lastModified": "Tue, 29 Sep 2026 23:03:50 GMT",
+    "contentHash": "9a1aeb4e653325a4784dc06929d2d29c3a1ef3c3c10f4b612844da179e6d2e56"
   },
   {
     "id": "44346618d93d0828",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/shisei/jigyo/nyusatsu_keiyaku/1002295/1007058/1005784.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:02+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:02+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:40+00:00",
     "coveredYears": [
       2024,
       2025
@@ -44307,18 +44307,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8866-65b069d785047\"",
-    "lastModified": "Wed, 09 Sep 2026 06:03:50 GMT",
-    "contentHash": "28e8ce7ad7834e5d9a8b67f0b411fbd8894a4f75fe859806c9393419517bcd0e"
+    "etag": "\"8926-65ca7321e7b9c\"",
+    "lastModified": "Tue, 29 Sep 2026 23:03:50 GMT",
+    "contentHash": "c0a96d2f38a73697788b6ab7a3c937dc423144e72a16343932201e199be5fdc1"
   },
   {
     "id": "c8ac1217e73f599b",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/shisei/jigyo/nyusatsu_keiyaku/1002295/1007058/1005785.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:02+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:02+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:41+00:00",
     "coveredYears": [
       2025
     ],
@@ -44327,18 +44327,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8762-65b069d78a250\"",
-    "lastModified": "Wed, 09 Sep 2026 06:03:50 GMT",
-    "contentHash": "f04c97060b9f29077709377479c6a0b30dc8e1b5646bf6725d891d62628c1c23"
+    "etag": "\"8822-65ca7321ec5d5\"",
+    "lastModified": "Tue, 29 Sep 2026 23:03:50 GMT",
+    "contentHash": "c64e77ef99edcb63aabfffcad3598fb920e0dce0965e7acba94b1b30efecdf85"
   },
   {
     "id": "5bb8afca5feb4b0b",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/shisei/jigyo/nyusatsu_keiyaku/1002295/1007058/1005786.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:03+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:03+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:41+00:00",
     "coveredYears": [
       2024,
       2025
@@ -44348,18 +44348,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"89b6-65b069d78f459\"",
-    "lastModified": "Wed, 09 Sep 2026 06:03:50 GMT",
-    "contentHash": "8af7f87e4ba032fc1f33017e327fd71e451537473e503d3742ae137cd82b1ffe"
+    "etag": "\"8a76-65ca7321f0c25\"",
+    "lastModified": "Tue, 29 Sep 2026 23:03:50 GMT",
+    "contentHash": "e55cfe949b7490af8da258623e5c60974bdaa8769ac9c73cba0aa7ee7b435f51"
   },
   {
     "id": "b3c86f0f5f7ac430",
     "municipalityCode": "112321",
     "url": "https://www.city.kuki.lg.jp/shisei/jigyo/nyusatsu_keiyaku/1002295/1007058/1005788.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:04+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:04+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:42+00:00",
     "coveredYears": [
       2025
     ],
@@ -44368,18 +44368,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"88f1-65b069d79ee5b\"",
-    "lastModified": "Wed, 09 Sep 2026 06:03:50 GMT",
-    "contentHash": "985365de99daee86a6ee313393c94f30f23868e36f9ce99b86d40ec04b995ae0"
+    "etag": "\"89b1-65ca7321feeb7\"",
+    "lastModified": "Tue, 29 Sep 2026 23:03:50 GMT",
+    "contentHash": "08d338df186650d8696923471350daceac1b49e4a9d02a0e6e283974a2284911"
   },
   {
     "id": "1914173a2405b034",
     "municipalityCode": "113611",
     "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2022/04/入札結果R4.4.22.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-09T06:13:05+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:05+00:00",
+    "lastFailureAt": "2026-09-29T23:07:42+00:00",
+    "nextCrawlAt": "2026-09-30T11:07:42+00:00",
     "coveredYears": [
       2022
     ],
@@ -44390,16 +44390,17 @@
     "active": true,
     "etag": "\"6655df45-273ec\"",
     "lastModified": "Tue, 28 May 2024 13:42:29 GMT",
-    "contentHash": "0a945a0ac763cfc3a17f431ed7bf90332499eb1b673c49ba93c21a7a7a18e37f"
+    "contentHash": "0a945a0ac763cfc3a17f431ed7bf90332499eb1b673c49ba93c21a7a7a18e37f",
+    "lastError": "403 Client Error: Forbidden for url: https://www.town.yokoze.saitama.jp/wp-content/uploads/2022/04/%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9CR4.4.22.pdf"
   },
   {
     "id": "556482b6d69948c8",
     "municipalityCode": "113611",
     "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2022/05/入札結果R4.5.13.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-09T06:13:06+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:06+00:00",
+    "lastFailureAt": "2026-09-29T23:07:43+00:00",
+    "nextCrawlAt": "2026-09-30T11:07:43+00:00",
     "coveredYears": [
       2022
     ],
@@ -44410,16 +44411,17 @@
     "active": true,
     "etag": "\"6655df49-12848\"",
     "lastModified": "Tue, 28 May 2024 13:42:33 GMT",
-    "contentHash": "4f365badb87f451ab6b6d75b2567909bba221b899f880a8fa500861161d325c9"
+    "contentHash": "4f365badb87f451ab6b6d75b2567909bba221b899f880a8fa500861161d325c9",
+    "lastError": "403 Client Error: Forbidden for url: https://www.town.yokoze.saitama.jp/wp-content/uploads/2022/05/%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9CR4.5.13.pdf"
   },
   {
     "id": "68b3193eecbb95a2",
     "municipalityCode": "113611",
     "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2022/05/入札結果R4.5.19.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-09T06:13:06+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:06+00:00",
+    "lastFailureAt": "2026-09-29T23:07:43+00:00",
+    "nextCrawlAt": "2026-09-30T11:07:43+00:00",
     "coveredYears": [
       2022
     ],
@@ -44430,16 +44432,17 @@
     "active": true,
     "etag": "\"6655df49-13e77\"",
     "lastModified": "Tue, 28 May 2024 13:42:33 GMT",
-    "contentHash": "f58d20a0df169245e1ddf2360695445df9089b37c4969c72a0714e8572ab2335"
+    "contentHash": "f58d20a0df169245e1ddf2360695445df9089b37c4969c72a0714e8572ab2335",
+    "lastError": "403 Client Error: Forbidden for url: https://www.town.yokoze.saitama.jp/wp-content/uploads/2022/05/%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9CR4.5.19.pdf"
   },
   {
     "id": "a4afa5bf2ab1a1a6",
     "municipalityCode": "113611",
     "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2022/05/入札結果R4.5.25.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-09T06:13:07+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:07+00:00",
+    "lastFailureAt": "2026-09-29T23:07:44+00:00",
+    "nextCrawlAt": "2026-09-30T11:07:44+00:00",
     "coveredYears": [
       2022
     ],
@@ -44450,16 +44453,17 @@
     "active": true,
     "etag": "\"6655df49-133f2\"",
     "lastModified": "Tue, 28 May 2024 13:42:33 GMT",
-    "contentHash": "64c1c891b9babc9912900a33b57876b1a59f2621f7305bd90bbf3dddbabe0117"
+    "contentHash": "64c1c891b9babc9912900a33b57876b1a59f2621f7305bd90bbf3dddbabe0117",
+    "lastError": "403 Client Error: Forbidden for url: https://www.town.yokoze.saitama.jp/wp-content/uploads/2022/05/%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9CR4.5.25.pdf"
   },
   {
     "id": "2d35cecb98478f24",
     "municipalityCode": "113611",
     "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2022/06/入札結果R4.6.24.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-09T06:13:08+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:08+00:00",
+    "lastFailureAt": "2026-09-29T23:07:44+00:00",
+    "nextCrawlAt": "2026-09-30T11:07:44+00:00",
     "coveredYears": [
       2022
     ],
@@ -44470,16 +44474,17 @@
     "active": true,
     "etag": "\"6655df49-4a52a\"",
     "lastModified": "Tue, 28 May 2024 13:42:33 GMT",
-    "contentHash": "a4fda1affc377913de56870c2a268cd636a4d8c2399f224667343dfed4acc97f"
+    "contentHash": "a4fda1affc377913de56870c2a268cd636a4d8c2399f224667343dfed4acc97f",
+    "lastError": "403 Client Error: Forbidden for url: https://www.town.yokoze.saitama.jp/wp-content/uploads/2022/06/%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9CR4.6.24.pdf"
   },
   {
     "id": "9e393cf66c9a1b31",
     "municipalityCode": "113611",
     "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2025/04/070421入札結果表.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-09T06:13:08+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:08+00:00",
+    "lastFailureAt": "2026-09-29T23:07:45+00:00",
+    "nextCrawlAt": "2026-09-30T11:07:45+00:00",
     "coveredYears": [
       2025
     ],
@@ -44490,16 +44495,17 @@
     "active": true,
     "etag": "\"6805f797-16a6d\"",
     "lastModified": "Mon, 21 Apr 2025 07:45:27 GMT",
-    "contentHash": "c98f71f14c2461f690a0addac15f61813369bd97a686c6a6c952173cebfe9c2b"
+    "contentHash": "c98f71f14c2461f690a0addac15f61813369bd97a686c6a6c952173cebfe9c2b",
+    "lastError": "403 Client Error: Forbidden for url: https://www.town.yokoze.saitama.jp/wp-content/uploads/2025/04/070421%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8.pdf"
   },
   {
     "id": "15c6a9ebdea8fb65",
     "municipalityCode": "113611",
     "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2025/04/070430入札結果表.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-09T06:13:09+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:09+00:00",
+    "lastFailureAt": "2026-09-29T23:07:46+00:00",
+    "nextCrawlAt": "2026-09-30T11:07:46+00:00",
     "coveredYears": [
       2025
     ],
@@ -44510,16 +44516,17 @@
     "active": true,
     "etag": "\"6811f02a-aad4\"",
     "lastModified": "Wed, 30 Apr 2025 09:40:58 GMT",
-    "contentHash": "3d2ec8e34c03834dfe7110b53cbe522a109a78fda0531170012201887356de2a"
+    "contentHash": "3d2ec8e34c03834dfe7110b53cbe522a109a78fda0531170012201887356de2a",
+    "lastError": "403 Client Error: Forbidden for url: https://www.town.yokoze.saitama.jp/wp-content/uploads/2025/04/070430%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8.pdf"
   },
   {
     "id": "938638a71bf8fa3a",
     "municipalityCode": "113611",
     "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2025/05/070523入札結果表-.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-09T06:13:09+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:09+00:00",
+    "lastFailureAt": "2026-09-29T23:07:46+00:00",
+    "nextCrawlAt": "2026-09-30T11:07:46+00:00",
     "coveredYears": [
       2025
     ],
@@ -44530,16 +44537,17 @@
     "active": true,
     "etag": "\"68301d7d-a847\"",
     "lastModified": "Fri, 23 May 2025 07:02:21 GMT",
-    "contentHash": "513583394adf629f08b8e8f5c8cd1fb1bca2860a6e3dcd1d70eec6d9c89561c9"
+    "contentHash": "513583394adf629f08b8e8f5c8cd1fb1bca2860a6e3dcd1d70eec6d9c89561c9",
+    "lastError": "403 Client Error: Forbidden for url: https://www.town.yokoze.saitama.jp/wp-content/uploads/2025/05/070523%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8-.pdf"
   },
   {
     "id": "9c27a70fc5d22d82",
     "municipalityCode": "113611",
     "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2025/06/070611入札結果表.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-09T06:13:10+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:10+00:00",
+    "lastFailureAt": "2026-09-29T23:07:47+00:00",
+    "nextCrawlAt": "2026-09-30T11:07:47+00:00",
     "coveredYears": [
       2025
     ],
@@ -44550,16 +44558,17 @@
     "active": true,
     "etag": "\"68490b50-afe3\"",
     "lastModified": "Wed, 11 Jun 2025 04:51:28 GMT",
-    "contentHash": "d47d8d450bf806bee9156cbfff787cbfeac9a64f74a9e77b76075176f5ef604e"
+    "contentHash": "d47d8d450bf806bee9156cbfff787cbfeac9a64f74a9e77b76075176f5ef604e",
+    "lastError": "403 Client Error: Forbidden for url: https://www.town.yokoze.saitama.jp/wp-content/uploads/2025/06/070611%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8.pdf"
   },
   {
     "id": "ae981d4c5e7844df",
     "municipalityCode": "113611",
     "url": "https://www.town.yokoze.saitama.jp/wp-content/uploads/2025/10/071030入札結果表.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-09T06:13:11+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:11+00:00",
+    "lastFailureAt": "2026-09-29T23:07:47+00:00",
+    "nextCrawlAt": "2026-09-30T11:07:47+00:00",
     "coveredYears": [
       2025
     ],
@@ -44570,16 +44579,17 @@
     "active": true,
     "etag": "\"6902fcde-aa99\"",
     "lastModified": "Thu, 30 Oct 2025 05:51:26 GMT",
-    "contentHash": "8f7fd8b5c4005c1a982c67020db2cf7dae84c517b6fcf9a5cb8af17daf4850fd"
+    "contentHash": "8f7fd8b5c4005c1a982c67020db2cf7dae84c517b6fcf9a5cb8af17daf4850fd",
+    "lastError": "403 Client Error: Forbidden for url: https://www.town.yokoze.saitama.jp/wp-content/uploads/2025/10/071030%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8.pdf"
   },
   {
     "id": "d71bf7eb76a686b5",
     "municipalityCode": "113638",
     "url": "https://www.town.nagatoro.saitama.jp/jigyosha/nyusatsu-kekka31/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:12+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:12+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:49+00:00",
     "coveredYears": [
       2019,
       2020
@@ -44591,16 +44601,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "d720a057a1549745b44840d34ffe66045510157e423d35238715af16b16e7892"
+    "contentHash": "01e5b64eb25d9f58e3e2f5ed728667f1910e26aabbde6bab374e1174a76d4042"
   },
   {
     "id": "b5e524820fdac802",
     "municipalityCode": "113638",
     "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/kekka-chousha2ndLED.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:14+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:14+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:50+00:00",
     "coveredYears": [
       2026
     ],
@@ -44611,16 +44621,16 @@
     "active": true,
     "etag": "\"3fa5c-64fd9afa6eeb6\"",
     "lastModified": "Mon, 20 Apr 2026 00:50:33 GMT",
-    "contentHash": "ca66b418a27ba29cb2f02598af5431a994ed52f8f2d858a7060da1495198b734"
+    "contentHash": null
   },
   {
     "id": "0c5ea8a29f4046a8",
     "municipalityCode": "113638",
     "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/04/kekka-hokencenterLED.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:14+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:14+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:51+00:00",
     "coveredYears": [
       2026
     ],
@@ -44631,16 +44641,16 @@
     "active": true,
     "etag": "\"3f47c-64fd9a764f994\"",
     "lastModified": "Mon, 20 Apr 2026 00:48:15 GMT",
-    "contentHash": "f7dd336eec79d40ede3d2ce38a97219fc1bcf19496aaa62873b886690b1a7e99"
+    "contentHash": null
   },
   {
     "id": "dec3dc95ab21366a",
     "municipalityCode": "113638",
     "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/05/kekka-R8maintoilet.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:16+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:16+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:51+00:00",
     "coveredYears": [
       2026
     ],
@@ -44651,16 +44661,16 @@
     "active": true,
     "etag": "\"430fc-652998e7b9435\"",
     "lastModified": "Mon, 25 May 2026 00:35:34 GMT",
-    "contentHash": "f01c5d4e98e3a35066ae99b7c46666cdd18e408f998b2e27d89fc19272bd4348"
+    "contentHash": null
   },
   {
     "id": "c76036ddaa606417",
     "municipalityCode": "113638",
     "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/05/kekka-houkatsusystem.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:17+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:17+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:52+00:00",
     "coveredYears": [
       2026
     ],
@@ -44671,16 +44681,16 @@
     "active": true,
     "etag": "\"3db9c-650bcd021225a\"",
     "lastModified": "Fri, 01 May 2026 07:48:56 GMT",
-    "contentHash": "2682feab434c152b9b890da46b2cc07fdf601c836ebc17c3d4ae1c86183363e9"
+    "contentHash": null
   },
   {
     "id": "f3543aa8437d5231",
     "municipalityCode": "113638",
     "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/07/kekka-seikatsukanrendouro.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:19+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:19+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:53+00:00",
     "coveredYears": [
       2026
     ],
@@ -44691,16 +44701,16 @@
     "active": true,
     "etag": "\"4039c-657cd36bff24c\"",
     "lastModified": "Thu, 30 Jul 2026 05:19:18 GMT",
-    "contentHash": "3c752e58004fe163ba5621464954e8794f3869f95af462717dfba03a6b72cd50"
+    "contentHash": null
   },
   {
     "id": "aa871f2c1b24b516",
     "municipalityCode": "113638",
     "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/07/kekka-chiseki-yanase2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:20+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:20+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:54+00:00",
     "coveredYears": [
       2026
     ],
@@ -44711,16 +44721,16 @@
     "active": true,
     "etag": "\"42c7c-657141ebfa051\"",
     "lastModified": "Tue, 21 Jul 2026 00:29:47 GMT",
-    "contentHash": "0365e3c5b39e537c7202514614aa4b15dda277f6196f3f10978e36fceab88d2d"
+    "contentHash": null
   },
   {
     "id": "831efabb0d1db75f",
     "municipalityCode": "113638",
     "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/07/kekka-R8kokudokyoujinka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:21+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:21+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:54+00:00",
     "coveredYears": [
       2026
     ],
@@ -44731,16 +44741,16 @@
     "active": true,
     "etag": "\"40abc-65587d8a9482e\"",
     "lastModified": "Wed, 01 Jul 2026 07:43:24 GMT",
-    "contentHash": "10700d10f0353a4f8b2d564ccb8f0b3621529961f662d0702364ace51aef58c4"
+    "contentHash": null
   },
   {
     "id": "01592cbc03910ea6",
     "municipalityCode": "113638",
     "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/07/kekka-R8kyouryou.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T06:13:23+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T06:13:23+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:55+00:00",
     "coveredYears": [
       2026
     ],
@@ -44751,16 +44761,16 @@
     "active": true,
     "etag": "\"40a5c-65587d3198257\"",
     "lastModified": "Wed, 01 Jul 2026 07:41:50 GMT",
-    "contentHash": "8893006e3b2c457f42922196c38032b971ff8804d6bb6dff3ef1afe1333568c6"
+    "contentHash": null
   },
   {
     "id": "8bce2ae0b12e0652",
     "municipalityCode": "113638",
     "url": "https://www.town.nagatoro.saitama.jp/wp-content/uploads/2026/06/kekka-kansen6koutsuuanzen.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T11:38:16+00:00",
+    "lastSuccessAt": "2026-09-29T23:07:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T11:38:16+00:00",
+    "nextCrawlAt": "2026-10-02T23:07:56+00:00",
     "coveredYears": [
       2026
     ],
@@ -44771,7 +44781,7 @@
     "active": true,
     "etag": "\"3ee9c-653df3866aec8\"",
     "lastModified": "Wed, 10 Jun 2026 05:07:29 GMT",
-    "contentHash": "e82f09e26ec9e7251ed228b775fb6743dd312a1499a5ecd5d9c09eb79d803ec7"
+    "contentHash": null
   },
   {
     "id": "dc2e2ca847d2582c",
@@ -112442,5 +112452,23 @@
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
+  },
+  {
+    "id": "7089314dd4b6698f",
+    "municipalityCode": "072036",
+    "url": "https://www.city.koriyama.lg.jp/uploaded/attachment/131049.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-09-29T23:07:34+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-02T23:07:34+00:00",
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "審査結果 [PDFファイル／91KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "\"16988-65c9810fb31d2\"",
+    "lastModified": "Tue, 29 Sep 2026 05:00:49 GMT",
+    "contentHash": "2d29e84d29d7ac3890c0908c36fa17c33368f645df893385a8d79ee9a9d1c133"
   }
 ]
