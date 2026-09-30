@@ -19958,7 +19958,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -45380,9 +45380,9 @@
     "municipalityCode": "022101",
     "url": "https://www.city.hirakawa.lg.jp/shigoto/keiyaku/kekka/files/R6nyuusatukekka20250227_ippan.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:09+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:09+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:03+00:00",
     "coveredYears": [
       2025
     ],
@@ -45393,16 +45393,16 @@
     "active": true,
     "etag": "\"20c71-62f7a816a3200\"",
     "lastModified": "Tue, 04 Mar 2025 01:51:04 GMT",
-    "contentHash": "7c52a921adb6763d7b6b089439102160dbc2cba2e7d692c2bbd4d63526043640"
+    "contentHash": null
   },
   {
     "id": "117f76b0403c8c25",
     "municipalityCode": "022101",
     "url": "https://www.city.hirakawa.lg.jp/shigoto/keiyaku/kekka/files/R6nyuusatukekka20250227_shimei.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:11+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:11+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:04+00:00",
     "coveredYears": [
       2025
     ],
@@ -45413,16 +45413,16 @@
     "active": true,
     "etag": "\"817e5-62f304f70eb80\"",
     "lastModified": "Fri, 28 Feb 2025 09:19:58 GMT",
-    "contentHash": "d954029a70f0a1e23ac202f87e808dbe38788a67ed96d4e7896a39ce5a0fa6a5"
+    "contentHash": null
   },
   {
     "id": "96f882208a704828",
     "municipalityCode": "022101",
     "url": "https://www.city.hirakawa.lg.jp/shigoto/keiyaku/kekka/files/R6nyuusatukekka20250124_shimei.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:12+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:12+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:06+00:00",
     "coveredYears": [
       2025
     ],
@@ -45433,16 +45433,16 @@
     "active": true,
     "etag": "\"172bc-62c68bf6bd500\"",
     "lastModified": "Fri, 24 Jan 2025 00:24:20 GMT",
-    "contentHash": "8fa98296bf66dcec7e02e2aa0d412412a1cf415136b8b99e86d5ac9cc16965cb"
+    "contentHash": null
   },
   {
     "id": "c5490fb77395e192",
     "municipalityCode": "022101",
     "url": "https://www.city.hirakawa.lg.jp/shigoto/keiyaku/kekka/files/R6nyuusatukekka20241217_ippan.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:13+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:13+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:07+00:00",
     "coveredYears": [
       2024
     ],
@@ -45453,7 +45453,7 @@
     "active": true,
     "etag": "\"19ea5-62c40b830d100\"",
     "lastModified": "Wed, 22 Jan 2025 00:39:00 GMT",
-    "contentHash": "fabddeb61b424ec80ecaa3c0f4003517373f485ff1294203d64005445042d577"
+    "contentHash": null
   },
   {
     "id": "852b555ade1a2a68",
@@ -45565,9 +45565,9 @@
     "municipalityCode": "294501",
     "url": "https://www.vill.shimokitayama.nara.jp/file/87dc913d467f5f358c591f3037347e2b0d189d56.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:15+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:15+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:07+00:00",
     "coveredYears": [
       2020
     ],
@@ -45578,16 +45578,16 @@
     "active": true,
     "etag": "\"36eac-5b5f0b8b1ecc0\"",
     "lastModified": "Tue, 08 Dec 2020 09:39:39 GMT",
-    "contentHash": "9c02f2f0b23675be447282e00130a38e7e22642b4e6a5f15235983adb7ee4034"
+    "contentHash": null
   },
   {
     "id": "2c66aeefe24ca1a2",
     "municipalityCode": "294501",
     "url": "https://www.vill.shimokitayama.nara.jp/oshirase/file/4ea07bbaf9633761169471d2e325a90b1d0c006c.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:16+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:16+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:07+00:00",
     "coveredYears": [
       2020
     ],
@@ -45598,7 +45598,7 @@
     "active": true,
     "etag": "\"3d5c0-5b34440640cc0\"",
     "lastModified": "Wed, 04 Nov 2020 09:03:23 GMT",
-    "contentHash": "4a14e055f1897d9278d2ab109c5fd3a1d447fc4789ecaf85d2ba983ea858414a"
+    "contentHash": null
   },
   {
     "id": "9dada13362fd3806",
@@ -45905,9 +45905,9 @@
     "municipalityCode": "303925",
     "url": "https://www.town.hidakagawa.lg.jp/shigoto/nyuusatu_keiyaku/2024-0930-1648-29.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:18+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:18+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:09+00:00",
     "coveredYears": [
       2024
     ],
@@ -45916,9 +45916,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"b3d3-65a7836ba2de7\"",
-    "lastModified": "Wed, 02 Sep 2026 04:10:21 GMT",
-    "contentHash": "dce13074a6efcf53e5724e903b80e41fd234dbdcb233faac159138445a51db68"
+    "etag": "\"b5b6-65c8075bfe7d1\"",
+    "lastModified": "Mon, 28 Sep 2026 00:51:01 GMT",
+    "contentHash": "1dab74eec9b7d2e1df5d47735ac99331fb252eee8f5ea2063241f37d64706be6"
   },
   {
     "id": "61270faf2a0e9bad",
@@ -46450,9 +46450,9 @@
     "municipalityCode": "023230",
     "url": "https://www.town.fukaura.lg.jp/doc/2022062800013/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:20+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:20+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:11+00:00",
     "coveredYears": [
       2022
     ],
@@ -46461,18 +46461,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a968442-c3d6\"",
-    "lastModified": "Tue, 01 Sep 2026 07:52:34 GMT",
-    "contentHash": "5ec0569c219c973cd44c0dbe0274f73bae0bb96f01a0bd8d5c1ff4d4e7d71def"
+    "etag": "\"6abb1cc6-c52f\"",
+    "lastModified": "Tue, 29 Sep 2026 02:04:54 GMT",
+    "contentHash": "6d0ca48a35beab05da0d776336ac74fff01251627b56ade119d8d2735165b843"
   },
   {
     "id": "30717ac90fbfa21e",
     "municipalityCode": "023230",
     "url": "https://www.town.fukaura.lg.jp/doc/2023051000025/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:21+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:21+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:13+00:00",
     "coveredYears": [
       2023
     ],
@@ -46481,18 +46481,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a968454-d704\"",
-    "lastModified": "Tue, 01 Sep 2026 07:52:52 GMT",
-    "contentHash": "4c1f404470e02dc4fa8af5638146d1b09346141718020e4df715b29985ad8776"
+    "etag": "\"6abb1d0b-d85d\"",
+    "lastModified": "Tue, 29 Sep 2026 02:06:03 GMT",
+    "contentHash": "530bded7fe69ff22f9ea1d688b8e9407b91e8b0c74720a4d587d15124d97c7d6"
   },
   {
     "id": "b69e5f4590c45e90",
     "municipalityCode": "030007",
     "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/063/010/r8kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:23+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:23+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:15+00:00",
     "coveredYears": [
       2026
     ],
@@ -46503,16 +46503,16 @@
     "active": true,
     "etag": "\"1506b-64d219d164f83\"",
     "lastModified": "Mon, 16 Mar 2026 10:23:45 GMT",
-    "contentHash": "217fea22a0abf89230ea3fff2cd0745eccce2116d8091c22303bf0a718eb9a67"
+    "contentHash": null
   },
   {
     "id": "fdbb280fdeadf049",
     "municipalityCode": "030007",
     "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/063/010/r8kijun.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:24+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:24+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:15+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "審査基準 （PDF 136.5KB）",
@@ -46521,34 +46521,34 @@
     "active": true,
     "etag": "\"22223-64d219d1699bb\"",
     "lastModified": "Mon, 16 Mar 2026 10:23:45 GMT",
-    "contentHash": "a5dbd00046f70f73d667f1e05233f1009dd5625d8083c49c6059c4196f97e023"
+    "contentHash": null
   },
   {
     "id": "7cbc88e1fd6e47f7",
     "municipalityCode": "030007",
     "url": "https://www.pref.iwate.jp/kensei/nyuusatsu/compe/kekka/1028199.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:25+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:25+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:16+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "岩手県保育士等キャリアアップ研修実施業務企画提案選定委員会の審査結果について",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"228b0-65b0e6904a3f6\"",
-    "lastModified": "Wed, 09 Sep 2026 15:21:49 GMT",
-    "contentHash": "9f14ac26466bb47260057d0521d13bd5891189167ac2cdcc737cc74990d06de5"
+    "etag": "W/\"22c83-65cae141f3668\"",
+    "lastModified": "Wed, 30 Sep 2026 07:16:31 GMT",
+    "contentHash": "4cc9c326db3da85458d2e9517f0e8d49aa45d90c7612ed493715720f99bf8769"
   },
   {
     "id": "a724703c06cde8d3",
     "municipalityCode": "030007",
     "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/078/339/400_sinsayouryour2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:25+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:25+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:17+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "プロポーザル審査要領 （PDF 184.3KB）",
@@ -46557,16 +46557,16 @@
     "active": true,
     "etag": "\"2e13c-624a944fa4c84\"",
     "lastModified": "Thu, 17 Oct 2024 10:01:25 GMT",
-    "contentHash": "3602ecf6f368091fdc6fc96fe0b1ce54d7229f469f5f88b59b99defde6d54ffe"
+    "contentHash": null
   },
   {
     "id": "35847e1083d07420",
     "municipalityCode": "030007",
     "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/087/000/sinsayouryou.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:26+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:26+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:17+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "プロポーザル審査要領 （PDF 184.5KB）",
@@ -46575,16 +46575,16 @@
     "active": true,
     "etag": "\"2e222-637d363a55818\"",
     "lastModified": "Wed, 18 Jun 2025 07:15:09 GMT",
-    "contentHash": "01bdd074bf8e5e8ff786816b3c32856d08ecb97f051aacfcaadc0cd4166e8a3c"
+    "contentHash": null
   },
   {
     "id": "d032829c474f84cb",
     "municipalityCode": "030007",
     "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/100/418/r8_youryou.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:27+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:27+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:18+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "プロポーザル審査要領 （PDF 174.6KB）",
@@ -46593,16 +46593,16 @@
     "active": true,
     "etag": "\"2ba56-6562d76412d71\"",
     "lastModified": "Thu, 09 Jul 2026 13:18:37 GMT",
-    "contentHash": "736cab317e80df84515275bd4dd8591870495cc9d450d8d0fc2e57e7c4678857"
+    "contentHash": null
   },
   {
     "id": "61005cf0f3f8c6eb",
     "municipalityCode": "030007",
     "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/101/182/04_sinnsayouryou.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:27+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:27+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:19+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "企画提案審査要領 （PDF 177.8KB）",
@@ -46611,16 +46611,16 @@
     "active": true,
     "etag": "\"2c73a-65848b16eb57c\"",
     "lastModified": "Wed, 05 Aug 2026 08:38:17 GMT",
-    "contentHash": "2dbf1a46a37cc3a14b8a0b834547dd1c0cb9b9c07d6ad87cacde6749b33c33d1"
+    "contentHash": null
   },
   {
     "id": "67751e58b6482b48",
     "municipalityCode": "032034",
     "url": "https://www.city.ofunato.iwate.jp/genre/organization/somu/keiyakukensasitsu/p20250421151145",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:30+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:30+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:22+00:00",
     "coveredYears": [
       2026
     ],
@@ -46923,9 +46923,9 @@
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018062100024/file_contents/2018062100024_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_07_06_114.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:33+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:33+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:23+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "松倉20号線道路改良工事(106 KB pdfファイル)",
@@ -46934,16 +46934,16 @@
     "active": true,
     "etag": "\"67b3779b-1a41b\"",
     "lastModified": "Mon, 17 Feb 2025 17:53:31 GMT",
-    "contentHash": "c76b936ec1b30bb70c29f03db49f99ed637628150c4e581d96f3efccf9f2dfc8"
+    "contentHash": null
   },
   {
     "id": "b22adf5f9982a137",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018062100024/file_contents/2018062100024_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_07_06_113.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:35+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:35+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:24+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "鈴子町地区仮設店舗解体工事(103 KB pdfファイル)",
@@ -46952,16 +46952,16 @@
     "active": true,
     "etag": "\"67b3779b-19a1d\"",
     "lastModified": "Mon, 17 Feb 2025 17:53:31 GMT",
-    "contentHash": "0295762585bc546148f96a2234739dcda37423cab4c7399797bbc26b81e3afa3"
+    "contentHash": null
   },
   {
     "id": "c7b860f4358849af",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018062100024/file_contents/2018062100024_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_07_06_112.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:36+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:36+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:25+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "大只越地区仮設店舗・事務所解体工事（B棟～D棟）(111 KB pdfファイル)",
@@ -46970,16 +46970,16 @@
     "active": true,
     "etag": "\"67b3779b-1ba4e\"",
     "lastModified": "Mon, 17 Feb 2025 17:53:31 GMT",
-    "contentHash": "21b532966c8a9d57c0f82ebc52c067897733fd42d517fd01f8d6b149c644ba66"
+    "contentHash": null
   },
   {
     "id": "108b6fe7ea46c8f9",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018062100024/file_contents/2018062100024_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_07_06_111.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:38+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:38+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:26+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "天神町地区仮設店舗・事務所解体工事(110 KB pdfファイル)",
@@ -46988,16 +46988,16 @@
     "active": true,
     "etag": "\"67b3779b-1b539\"",
     "lastModified": "Mon, 17 Feb 2025 17:53:31 GMT",
-    "contentHash": "6844b4a665fdb245ed39aa9e7029ffab0924ffaf9f5d41f3fde62efbf8f2869b"
+    "contentHash": null
   },
   {
     "id": "ee956a17cd2feac3",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018062100024/file_contents/2018062100024_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_07_06_105.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:39+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:39+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:27+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "鵜住居地区汚水管布設工事（その3）(110 KB pdfファイル)",
@@ -47006,7 +47006,7 @@
     "active": true,
     "etag": "\"67b3779b-1b637\"",
     "lastModified": "Mon, 17 Feb 2025 17:53:31 GMT",
-    "contentHash": "f1b2c842a5ddabeece92cd4c0d2f5614a2127b78814b8282f8d7858b3030f0ec"
+    "contentHash": null
   },
   {
     "id": "5a29f32b15ff5fc7",
@@ -47073,9 +47073,9 @@
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018071200098/file_contents/2018071200098_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_08_03_133.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:41+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:41+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:28+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "天神町3号線道路改良工事(100 KB pdfファイル)",
@@ -47084,16 +47084,16 @@
     "active": true,
     "etag": "\"67b3779c-18c03\"",
     "lastModified": "Mon, 17 Feb 2025 17:53:32 GMT",
-    "contentHash": "8369b550b583280ea0c833043900f7fbed6c15cd184eea97599e32ea5e86f994"
+    "contentHash": null
   },
   {
     "id": "d97acc37692ee3d9",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018071200098/file_contents/2018071200098_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_08_03_132.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:43+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:43+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:29+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "旧中妻出張所解体工事(98 KB pdfファイル)",
@@ -47102,16 +47102,16 @@
     "active": true,
     "etag": "\"67b3779c-187d2\"",
     "lastModified": "Mon, 17 Feb 2025 17:53:32 GMT",
-    "contentHash": "fbb1dd85fa509c07587604c745d1c762c22ac6e8a74ba6ea0e34d21c2bee873a"
+    "contentHash": null
   },
   {
     "id": "f44a5101996a198d",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018071200098/file_contents/2018071200098_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_07_26_127.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:44+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:44+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:30+00:00",
     "coveredYears": [
       2018
     ],
@@ -47122,16 +47122,16 @@
     "active": true,
     "etag": "\"67b3779c-199b9\"",
     "lastModified": "Mon, 17 Feb 2025 17:53:32 GMT",
-    "contentHash": "4b5428bce6e3b00750391664ca0a0db01d1e57dc6b269c104a0a1c8efabb7645"
+    "contentHash": null
   },
   {
     "id": "ced05d57311356b6",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018071200098/file_contents/2018071200098_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_07_20_126.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:46+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:46+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:31+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "大松唄貝線側溝改修工事（その２）(116 KB pdfファイル)",
@@ -47140,16 +47140,16 @@
     "active": true,
     "etag": "\"67b3779c-1cdc4\"",
     "lastModified": "Mon, 17 Feb 2025 17:53:32 GMT",
-    "contentHash": "5b3f7aadb85c2642afe68975020897fbd3b5dc7eb9f44649ab2bb2ab7ffdf6b3"
+    "contentHash": null
   },
   {
     "id": "a9fdf1488403fcb7",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018071200098/file_contents/2018071200098_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_07_20_125.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:47+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:47+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:32+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "大只越地区汚水管渠更生工事(104 KB pdfファイル)",
@@ -47158,7 +47158,7 @@
     "active": true,
     "etag": "\"67b3779c-19f34\"",
     "lastModified": "Mon, 17 Feb 2025 17:53:32 GMT",
-    "contentHash": "cc834e7b26f5fdd834430cd9546634f422821ea6219a5eb7286a24f1b3beb385"
+    "contentHash": null
   },
   {
     "id": "a4b74a36c2513109",
@@ -47225,9 +47225,9 @@
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018090600046/file_contents/2018090600046_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_09_06_166.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:49+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:49+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:33+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "八雲町１号線道路改良測量詳細設計業務委託(112 KB pdfファイル)",
@@ -47236,16 +47236,16 @@
     "active": true,
     "etag": "\"67b3779d-1bfe2\"",
     "lastModified": "Mon, 17 Feb 2025 17:53:33 GMT",
-    "contentHash": "1f8d81642080010096811e68681f4e68d14b009171e8d81a947c732590fbcbff"
+    "contentHash": null
   },
   {
     "id": "d4bb8bb2c6fb476c",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2018090600046/file_contents/2018090600046_www_city_kamaishi_iwate_jp_jigyousha_nyusatsu_kekka_detail___icsFiles_afieldfile_2018_09_06_165.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-09T16:53:50+00:00",
+    "lastSuccessAt": "2026-09-30T08:48:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-12T16:53:50+00:00",
+    "nextCrawlAt": "2026-10-03T08:48:34+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "平田地区マンホールポンプ設置工事（その2）(118 KB pdfファイル)",
@@ -47254,7 +47254,7 @@
     "active": true,
     "etag": "\"67b3779d-1d599\"",
     "lastModified": "Mon, 17 Feb 2025 17:53:33 GMT",
-    "contentHash": "8b6caa42d3cc1c9532acbd00fd16fbbc73c51efd892c4c9ab5661902bd344f8c"
+    "contentHash": null
   },
   {
     "id": "d328266fb8d600a1",
@@ -71881,7 +71881,7 @@
       2024
     ],
     "sourceType": "result_pdf",
-    "title": "令和６年度 入札結果一覧表（土木・建設工事）",
+    "title": "令和６年度　入札結果一覧表（土木・建設工事）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
@@ -112499,6 +112499,56 @@
     "title": "【令和9・10年度】入札参加資格審査申請必要書類一覧",
     "discoveryMethod": "procurement_page",
     "priority": 3,
+    "active": true
+  },
+  {
+    "id": "5d25146fdd31c9b4",
+    "municipalityCode": "100005",
+    "url": "https://www.pref.gunma.jp/site/nyuusatsu/776899.html",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-09-30T08:48:02+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-03T08:48:02+00:00",
+    "coveredYears": [
+      2026
+    ],
+    "sourceType": "result",
+    "title": "公募型プロポーザル結果の公表（令和8年度指定管理鳥獣捕獲等事業に係る第2回公募型プロポーザル）",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "\"c884edd6\"",
+    "lastModified": "Wed, 30 Sep 2026 04:01:51 GMT",
+    "contentHash": "bb1e1f104af0a9fb1f9bd72a6a6a15bbfc901c3b58b3fb29eba66377cdabdaf0"
+  },
+  {
+    "id": "4bff3ae989f082ea",
+    "municipalityCode": "303925",
+    "url": "https://www.town.hidakagawa.lg.jp/shigoto/nyuusatu_keiyaku/files/R8.9.9_koujiitiran.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和８年度　入札結果一覧表（土木・建設工事）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "e45651190b3445fe",
+    "municipalityCode": "303925",
+    "url": "https://www.town.hidakagawa.lg.jp/shigoto/nyuusatu_keiyaku/files/r8.8.27_gyoumuitiran.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和８年度 入札結果一覧表（業務委託）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true
   }
 ]
