@@ -19999,7 +19999,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-10T06:13:42+00:00"
+    "lastChecked": "2026-10-01T20:33:14+00:00"
   },
   {
     "dedupeKey": "94ee92c2e6f43a4477c5813aaa93b7f1b9365667fe2c870f58b200af1f24256a",
@@ -20022,7 +20022,7 @@
     "dentsuCategoryLabels": [
       "Web・アプリ・デジタルサービス"
     ],
-    "lastChecked": "2026-09-10T06:13:42+00:00"
+    "lastChecked": "2026-10-01T20:33:15+00:00"
   },
   {
     "dedupeKey": "ffbbdfb6d5dbe970f1cef11443a010a7f1b933ba164f04e0177a257c27a53a32",
@@ -28081,5 +28081,28 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-01T07:20:40+00:00"
+  },
+  {
+    "dedupeKey": "08f593fef4538ee3400b229bfef156d154971a6167f0b40046ae211433b7f801",
+    "id": "award-d43a7ab0d009975c1dfd3df5",
+    "municipalityCode": "363871",
+    "area": "四国",
+    "region": "徳島県",
+    "municipality": "美波町",
+    "organization": "美波町",
+    "title": "令和8年度美波町「デュアルスクール」推進事業コーディネート・サポート強化業務公募型プロポーザル審査結果について - にぎやかな過疎の町 美波町公式ホームページ",
+    "vendor": "株式会社あわえ よくある質問 子育て・教育 観光・移住 移住・交流 くらしのガイド 教育 お知らせ 子育て・教育 産業・仕事 入札・契約 物品・業務委託等 入札・企画提案 入札結果 注目情報 Adobe Reader インターネット公有財産売却 令和8年度美波町グローバル人材育成業務 公募型プロポーザル",
+    "awardDate": "2026-03-23",
+    "year": 2026,
+    "sourceUrl": "https://www.town.minami.lg.jp/docs/5664226.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [
+      "web_app_service"
+    ],
+    "dentsuCategoryLabels": [
+      "Web・アプリ・デジタルサービス"
+    ],
+    "lastChecked": "2026-10-01T20:33:16+00:00"
   }
 ]
