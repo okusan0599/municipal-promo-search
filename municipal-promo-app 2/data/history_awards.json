@@ -20132,7 +20132,7 @@
     "dentsuCategoryLabels": [
       "広報・PR・コミュニケーション"
     ],
-    "lastChecked": "2026-09-10T16:36:21+00:00"
+    "lastChecked": "2026-10-02T19:29:37+00:00"
   },
   {
     "dedupeKey": "e2c394c057776056e1be1a7534f90b11ecffbcf2176ed94f70cfdc9fb7d221f2",
@@ -20170,7 +20170,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-10T16:36:29+00:00"
+    "lastChecked": "2026-10-02T19:29:47+00:00"
   },
   {
     "dedupeKey": "b5230ceed69c1afe4998482dca2f521f4874191b71ebe72051ef3efac43cf6fe",
@@ -20193,7 +20193,7 @@
     "dentsuCategoryLabels": [
       "コンサル・戦略策定"
     ],
-    "lastChecked": "2026-09-10T16:36:30+00:00"
+    "lastChecked": "2026-10-02T19:29:48+00:00"
   },
   {
     "dedupeKey": "b4c7d1fdddb278369c6f32d3e71815010a06d374fe6878af0af24473dee06ccb",
@@ -28245,5 +28245,24 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-02T07:12:44+00:00"
+  },
+  {
+    "dedupeKey": "2359d7b83df5d1eb5ef264019364d1988a8c2e39326c9dc05746b0db3be060ab",
+    "id": "award-d3f047ffab6ccf6fd0cc46bb",
+    "municipalityCode": "400009",
+    "area": "九州",
+    "region": "福岡県",
+    "municipality": "福岡県",
+    "organization": "福岡県",
+    "title": "入札結果",
+    "vendor": "の公示について(NCフライス盤(8備出4)) 2026年7月29日更新 落札者の公示について(土の自動突固め試験装置(8備4)) 2026年7月29日更新 落札者の公示について(大型熱風循環乾燥機(8備5)) 2026年7月28日更新 落札者の公示について (軽自動車1台(8備車51)) 2026年7月24日更新 落札",
+    "awardDate": "2026-10-02",
+    "year": 2026,
+    "sourceUrl": "https://www.pref.fukuoka.lg.jp/life/8/63/277/",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-02T19:29:46+00:00"
   }
 ]
