@@ -20045,7 +20045,7 @@
     "dentsuCategoryLabels": [
       "コンサル・戦略策定"
     ],
-    "lastChecked": "2026-09-10T06:14:00+00:00"
+    "lastChecked": "2026-10-02T00:58:50+00:00"
   },
   {
     "dedupeKey": "b8d1a37d9d5742c4058b704e8fe1daf10b3fbc635d6c33045ebf4903244232fd",
@@ -20070,7 +20070,7 @@
       "コンサル・戦略策定",
       "観光・地域ブランディング"
     ],
-    "lastChecked": "2026-09-10T06:14:01+00:00"
+    "lastChecked": "2026-10-02T00:58:50+00:00"
   },
   {
     "dedupeKey": "58f55d4d5e5925cd6decaa90aad670ef6f1512e91970824335a7068274b531fc",
@@ -28104,5 +28104,43 @@
       "Web・アプリ・デジタルサービス"
     ],
     "lastChecked": "2026-10-01T20:33:16+00:00"
+  },
+  {
+    "dedupeKey": "dc00c959522374a7ccf39b47f92a40ec5950f3100faf7b5fa029dffdf5013278",
+    "id": "award-05c7908630a7e91fa3a3573c",
+    "municipalityCode": "362034",
+    "area": "四国",
+    "region": "徳島県",
+    "municipality": "小松島市",
+    "organization": "小松島市",
+    "title": "入札結果(令和元年10月8日開札)入札後審査方式一般競争入札(総合評価落札方式(施工能力審査型)) (PDF 177KB)",
+    "vendor": "誠建設有限会社 工事箇所 小松島市田浦町字岩金",
+    "awardDate": "2020-03-16",
+    "year": 2020,
+    "sourceUrl": "https://www.city.komatsushima.lg.jp/fs/2/2/5/2/7/2/_/R1.10.8kaisatsu.ippankyousou.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-02T00:58:37+00:00"
+  },
+  {
+    "dedupeKey": "ae5ae53c1b723595439d53747c7e8ae842ad51c60cb5f465b827b30ce3b8f373",
+    "id": "award-54de075ab1ebf5c2cc46efb9",
+    "municipalityCode": "362034",
+    "area": "四国",
+    "region": "徳島県",
+    "municipality": "小松島市",
+    "organization": "小松島市",
+    "title": "入札結果(令和元年5月24日開札)入札後審査方式一般競争入札(総合評価落札方式(施工能力審査型)) (PDF 245KB)",
+    "vendor": "齋藤建設株式会社 工事箇所 小松島市田野町字月ノ輪76-4,77-2,77-4,77-5,78-2,78-7の各一部 落札額 ¥115,430,000 工期 契約締結日の翌日から令和2年2月28日まで 最低制限価格 ¥114,089,000",
+    "awardDate": "2019-05-23",
+    "year": 2019,
+    "sourceUrl": "https://www.city.komatsushima.lg.jp/fs/2/2/5/2/7/9/_/R1.5.24kaisatsu.ippankyousou.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-02T00:58:39+00:00"
   }
 ]
