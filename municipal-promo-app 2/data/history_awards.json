@@ -20422,7 +20422,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-11T06:15:11+00:00"
+    "lastChecked": "2026-10-03T23:17:07+00:00"
   },
   {
     "dedupeKey": "cf60f83ac2f4f7925ad6e5fb9e73504f23072a7af8547c9dc05191a515dcf4a3",
@@ -28534,5 +28534,24 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-03T20:07:51+00:00"
+  },
+  {
+    "dedupeKey": "2085e647f3653831265a43461605b33bd51b35c96f950ecad2e77c14a046f6af",
+    "id": "award-2231183c67695621255a163f",
+    "municipalityCode": "273627",
+    "area": "近畿",
+    "region": "大阪府",
+    "municipality": "田尻町",
+    "organization": "田尻町",
+    "title": "田尻町多目的グラウンド及び田尻町営プール指定管理者 審査結果について",
+    "vendor": ") 三幸株式会社 総合",
+    "awardDate": "2022-04-01",
+    "year": 2022,
+    "sourceUrl": "https://www.town.tajiri.osaka.jp/mokutekibetsudesagasu/nyusatsu_keiyaku/2678.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-03T23:17:03+00:00"
   }
 ]
