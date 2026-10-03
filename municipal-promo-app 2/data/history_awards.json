@@ -20269,7 +20269,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-11T06:14:59+00:00"
+    "lastChecked": "2026-10-03T20:07:57+00:00"
   },
   {
     "dedupeKey": "5a106c3eeed62f4973296b8237c64de598a383e9829c626dc64c5624d27cd9c2",
@@ -20288,7 +20288,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-11T06:14:59+00:00"
+    "lastChecked": "2026-10-03T20:07:57+00:00"
   },
   {
     "dedupeKey": "2fea2a310eed44a38784550ec956f23e8bbec821bd742869bc7d6f5fbe8382f6",
@@ -20307,7 +20307,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-11T06:15:02+00:00"
+    "lastChecked": "2026-10-03T20:08:01+00:00"
   },
   {
     "dedupeKey": "b7007afbe411f66bf5fed620c056d694322ec73ad4b37cc35b579bdc461b5d93",
@@ -20325,7 +20325,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-11T06:15:02+00:00"
+    "lastChecked": "2026-10-03T20:08:02+00:00"
   },
   {
     "dedupeKey": "cb6ee49604d099f2ecd21b18994dbcc9579c9e4f79a680467493e7025355b7e0",
@@ -20344,7 +20344,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-11T06:15:03+00:00"
+    "lastChecked": "2026-10-03T20:08:03+00:00"
   },
   {
     "dedupeKey": "e58443e87a1c33c77de3176526b8a32ef5df41e957d6180c850bdabcef0efa44",
@@ -20362,7 +20362,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-11T06:15:03+00:00"
+    "lastChecked": "2026-10-03T20:08:03+00:00"
   },
   {
     "dedupeKey": "9387f7ef30977e031bc804fa6d2b5dd6afdf819dad294d2e469115da5963221c",
@@ -20380,7 +20380,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-11T06:15:04+00:00"
+    "lastChecked": "2026-10-03T20:08:04+00:00"
   },
   {
     "dedupeKey": "2027e289cc6901814bc8bcd0fc5963c8ec3347f78527bf0f9ea3e88861269905",
@@ -20403,7 +20403,7 @@
     "dentsuCategoryLabels": [
       "コンサル・戦略策定"
     ],
-    "lastChecked": "2026-09-11T06:15:06+00:00"
+    "lastChecked": "2026-10-03T20:08:07+00:00"
   },
   {
     "dedupeKey": "e732ff128653eb686d6baadb1ce45785336c3433aab4ba7a7313d83081bebef1",
@@ -28477,5 +28477,62 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-03T16:37:34+00:00"
+  },
+  {
+    "dedupeKey": "2f9042f96f939278cd89e70abe956e00a7c7611330ccb07ecff660b02c06adad",
+    "id": "award-40afdb3e6a56fbf134223370",
+    "municipalityCode": "222241",
+    "area": "東海",
+    "region": "静岡県",
+    "municipality": "菊川市",
+    "organization": "菊川市",
+    "title": "施行場所 入札執行日・場所 設計金額 ( 税 抜 価 格 ) 予定価格 上記入札書比較価格 最低制限価格",
+    "vendor": "入札価格×10/100) ¥64,935 契 約 金 額 ¥714,287 入札番号",
+    "awardDate": "2025-04-16",
+    "year": 2025,
+    "sourceUrl": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/r7nyuusatukekka.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-03T20:07:41+00:00"
+  },
+  {
+    "dedupeKey": "ab3bdc4aef054f9d731f9fe7ad9ef7770b9b2517fc48b9c56b22cd0c2a71d2f1",
+    "id": "award-857cb84fc8aeb23b7b20dae0",
+    "municipalityCode": "222241",
+    "area": "東海",
+    "region": "静岡県",
+    "municipality": "菊川市",
+    "organization": "菊川市",
+    "title": "施行場所 入札執行日・場所 設計金額 ( 税 抜 価 格 ) 予定価格 上記入札書比較価格 最低制限価格 上記入札書比較価格 入札者名称 第1回入札価格 第2回入札価格 見積価格 結 果 (株)ケイ・アート ¥552,640 決定 松本印刷(株) ¥659,400 (有)デザインオフィスエムエスシー 辞退 (株)松本印刷 ¥690,800 中部印刷(株) ¥714,036 ** 消費税及び地方消費税(",
+    "vendor": "入札価格×10/100) ¥55,264 契 約 金 額 ¥607,904 ¥656,260 ¥596,600 ¥656,260 ¥596,600 ** 入 札 結 果 表 菊病第1号 令和5年度きくがわ病院だより印刷製本業務委託 菊川市東横地 地内 令和5年4月18日菊川市役所 (様式6-1) 入札番号",
+    "awardDate": "2023-04-18",
+    "year": 2023,
+    "sourceUrl": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/r5nyuusatukekka.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-03T20:07:43+00:00"
+  },
+  {
+    "dedupeKey": "53a5ea589c232ccd47b6c2bfbcf083bfb3cef515cd082ce71a551dd2f3171741",
+    "id": "award-a477859f9e35f1d341abceb2",
+    "municipalityCode": "030007",
+    "area": "東北",
+    "region": "岩手県",
+    "municipality": "岩手県",
+    "organization": "岩手県",
+    "title": "北ノ又第二発電所電気設備更新工事に係る公募型プロポーザル選定委員会の審査結果について",
+    "vendor": "として株式会社明電舎が選定されました。 4",
+    "awardDate": "2026-09-30",
+    "year": 2026,
+    "sourceUrl": "https://www.pref.iwate.jp/kensei/nyuusatsu/compe/kekka/1102184.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-03T20:07:51+00:00"
   }
 ]

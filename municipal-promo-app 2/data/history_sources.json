@@ -13413,7 +13413,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "еҫ©иҲҲгҒ®еӢ•гҒҚ",
+    "title": "復興の動き",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -13428,7 +13428,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "еҫ©иҲҲзү№еҢә",
+    "title": "復興特区",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -13458,7 +13458,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "йңҮзҒҪеҫ©иҲҲ гғҲгғғгғ—",
+    "title": "震災復興 トップ",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -13533,7 +13533,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "гҒӘгӮҠгӮҸгҒ„гҒ®еҶҚз”ҹ",
+    "title": "なりわいの再生",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -56740,7 +56740,7 @@
     ],
     "sourceType": "result",
     "title": "【選定結果】「江東区男女共同参画相談室運営業務委託」に係る公募型プロポーザルの実施について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "W/\"878b-65cd62fad0a74\"",
@@ -56752,9 +56752,9 @@
     "municipalityCode": "131083",
     "url": "https://www.city.koto.lg.jp/104010/familysportschallenge2025-result.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T01:20:15+00:00",
+    "lastSuccessAt": "2026-10-03T20:07:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T01:20:15+00:00",
+    "nextCrawlAt": "2026-10-06T20:07:54+00:00",
     "coveredYears": [
       2026
     ],
@@ -56763,18 +56763,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"8491-65b1b1a2b2972\"",
-    "lastModified": "Thu, 10 Sep 2026 06:30:21 GMT",
-    "contentHash": "82ca484e7dd150384b8a5be10481adb4607790ff503a71d8a86eeb88ee21139d"
+    "etag": "W/\"81ce-65cd62ff974db\"",
+    "lastModified": "Fri, 02 Oct 2026 07:07:37 GMT",
+    "contentHash": "49c551dd34e4251221059eab375671e290334eee58c98cc28ec74ccd4e4c1a20"
   },
   {
     "id": "0c8855c0a0b1736b",
     "municipalityCode": "131083",
     "url": "https://www.city.koto.lg.jp/104010/familysportschallenge_result.html",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-11T01:20:16+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T01:20:16+00:00",
+    "lastFailureAt": "2026-10-03T20:07:54+00:00",
+    "nextCrawlAt": "2026-10-04T08:07:54+00:00",
     "coveredYears": [
       2025
     ],
@@ -56785,16 +56785,17 @@
     "active": true,
     "etag": "W/\"8324-65b1b19e1dbeb\"",
     "lastModified": "Thu, 10 Sep 2026 06:30:16 GMT",
-    "contentHash": "0be821e8874f5d97c1dd34b1e115cdbce29d50ead3620ab7a3b295ca0ea1550a"
+    "contentHash": "0be821e8874f5d97c1dd34b1e115cdbce29d50ead3620ab7a3b295ca0ea1550a",
+    "lastError": "404 Client Error: Not Found for url: https://www.city.koto.lg.jp/104010/familysportschallenge_result.html"
   },
   {
     "id": "a5fd4943efae00a4",
     "municipalityCode": "131083",
     "url": "https://www.city.koto.lg.jp/250251/fukushi/sekatsu/konkyupuropokekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T06:14:59+00:00",
+    "lastSuccessAt": "2026-10-03T20:07:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T06:14:59+00:00",
+    "nextCrawlAt": "2026-10-06T20:07:57+00:00",
     "coveredYears": [
       2024
     ],
@@ -56803,18 +56804,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"8db7-65b1b19f69c64\"",
-    "lastModified": "Thu, 10 Sep 2026 06:30:18 GMT",
-    "contentHash": "6b529ac13b9af5fb597511c3181cbd63b468f212c88f05d1b46a56749bdd95a3"
+    "etag": "W/\"8af4-65cd62fc973db\"",
+    "lastModified": "Fri, 02 Oct 2026 07:07:34 GMT",
+    "contentHash": "7038faf0dee8873b209e9f0fa09f24c0d36847457b550757f0892ebc9968da55"
   },
   {
     "id": "3c43a92644c43959",
     "municipalityCode": "131083",
     "url": "https://www.city.koto.lg.jp/011506/r6kotofurusatonouzeipropo.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T06:14:59+00:00",
+    "lastSuccessAt": "2026-10-03T20:07:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T06:14:59+00:00",
+    "nextCrawlAt": "2026-10-06T20:07:57+00:00",
     "coveredYears": [
       2027
     ],
@@ -56823,72 +56824,72 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"93e9-65b1b19dc945d\"",
-    "lastModified": "Thu, 10 Sep 2026 06:30:16 GMT",
-    "contentHash": "984e23fd4ce2f9ff3b82056f4839b794333cc0e97345317245d690f2a6b7d8b5"
+    "etag": "W/\"9126-65cd62fb2176b\"",
+    "lastModified": "Fri, 02 Oct 2026 07:07:33 GMT",
+    "contentHash": "8eb10da616935b3fc3bd160c11ad112ba0bfaa1e84e0e4cd7af4707ef6b576be"
   },
   {
     "id": "232f4602089801ab",
     "municipalityCode": "131083",
     "url": "https://www.city.koto.lg.jp/011506/r7instapropo.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T06:15:00+00:00",
+    "lastSuccessAt": "2026-10-03T20:07:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T06:15:00+00:00",
+    "nextCrawlAt": "2026-10-06T20:07:58+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "【選定結果】Instagramを活用したプロモーション管理運用業務委託に係るプロポーザルの実施について",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"97e0-65b1b19edce7f\"",
-    "lastModified": "Thu, 10 Sep 2026 06:30:17 GMT",
-    "contentHash": "ebc0b594e46a4e2c05fd75376480a7adf66582ee80efd71b58368e128e1b94c2"
+    "etag": "W/\"951d-65cd62fc122f6\"",
+    "lastModified": "Fri, 02 Oct 2026 07:07:34 GMT",
+    "contentHash": "393a79468fab67b36655af09e1adda850b7c6c337042d854d06f6ad3130bec38"
   },
   {
     "id": "77194934d2c00ad6",
     "municipalityCode": "131083",
     "url": "https://www.city.koto.lg.jp/011506/r7kotopromotionpropo.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T06:15:00+00:00",
+    "lastSuccessAt": "2026-10-03T20:07:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T06:15:00+00:00",
+    "nextCrawlAt": "2026-10-06T20:07:59+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "【選定結果】江東区プロモーションメッセージ・動画コンテスト業務委託に係るプロポーザルの実施について",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "W/\"96c1-65b1b19f4e2fd\"",
-    "lastModified": "Thu, 10 Sep 2026 06:30:17 GMT",
-    "contentHash": "586109a7784e52a5e799ce62787c40897ea22d92d776661fe4f0a4685e52279d"
+    "etag": "W/\"93fe-65cd62fc7cdfb\"",
+    "lastModified": "Fri, 02 Oct 2026 07:07:34 GMT",
+    "contentHash": "efe722bce0d04cabf1610013a996bb15729df7ecd0de7fec6e1221fb92f8a5f4"
   },
   {
     "id": "1cf391e5a3167116",
     "municipalityCode": "131083",
     "url": "https://www.city.koto.lg.jp/011506/r8promotion_book.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T06:15:01+00:00",
+    "lastSuccessAt": "2026-10-03T20:07:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T06:15:01+00:00",
+    "nextCrawlAt": "2026-10-06T20:07:59+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "【選定結果】江東区魅力発信ブック制作業務委託に係るプロポーザルの実施について",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "W/\"8cd3-65b1b1a3f363b\"",
-    "lastModified": "Thu, 10 Sep 2026 06:30:22 GMT",
-    "contentHash": "800537144fecf32269ea75ea0ed83c31af798c6169b3718d31175fbbe1059c87"
+    "etag": "W/\"8a10-65cd6300ea69c\"",
+    "lastModified": "Fri, 02 Oct 2026 07:07:39 GMT",
+    "contentHash": "00d7687391b5b5de2220acf604b06a3a8670a916ba5d1c7d05fe8c0c220e0793"
   },
   {
     "id": "04e744341091a1b5",
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/files/00062300/00062337/20260324091145.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T06:15:02+00:00",
+    "lastSuccessAt": "2026-10-03T20:08:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T06:15:02+00:00",
+    "nextCrawlAt": "2026-10-06T20:08:01+00:00",
     "coveredYears": [
       2026
     ],
@@ -56897,8 +56898,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"10d93-65b096b1ffd42\"",
-    "lastModified": "Wed, 09 Sep 2026 09:24:30 GMT",
+    "etag": "\"10d93-65cd8514e76e1\"",
+    "lastModified": "Fri, 02 Oct 2026 09:40:07 GMT",
     "contentHash": "b9ee7395f5fff595e138911b927fe8ef437c093ab95d8397b84c35bc18979697"
   },
   {
@@ -56906,9 +56907,9 @@
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/kanko/kosho/rodokoyo/proposal/R8tomajob.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T06:15:03+00:00",
+    "lastSuccessAt": "2026-10-03T20:08:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T06:15:03+00:00",
+    "nextCrawlAt": "2026-10-06T20:08:02+00:00",
     "coveredYears": [
       2026
     ],
@@ -56917,18 +56918,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"941a-65b0977099533\"",
-    "lastModified": "Wed, 09 Sep 2026 09:27:50 GMT",
-    "contentHash": "c63e7b51f580c4f1935263f3e021cc6509a4c608c79f8e8f1e4d2c27eb7d0300"
+    "etag": "\"941a-65cd85d6773cd\"",
+    "lastModified": "Fri, 02 Oct 2026 09:43:30 GMT",
+    "contentHash": "378303f83a3a561821cfced64ebb40c930e76ba3b155d46cb75354c359ca40e9"
   },
   {
     "id": "2608f46f51048b9f",
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/kanko/kosho/rodokoyo/proposal/chuto08.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T06:15:03+00:00",
+    "lastSuccessAt": "2026-10-03T20:08:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T06:15:03+00:00",
+    "nextCrawlAt": "2026-10-06T20:08:03+00:00",
     "coveredYears": [
       2026
     ],
@@ -56937,18 +56938,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"9102-65b097709a0eb\"",
-    "lastModified": "Wed, 09 Sep 2026 09:27:50 GMT",
-    "contentHash": "5596c1758a64424fa2bf504784f2e02e66eab361a4ba13d0a6c068931079d654"
+    "etag": "\"9102-65cd85d677b9d\"",
+    "lastModified": "Fri, 02 Oct 2026 09:43:30 GMT",
+    "contentHash": "8d5747d1d5e705d624b45ece8cb9f0cf4d74d1fb97352fd89e41af272ccf5a1a"
   },
   {
     "id": "90f267ef995b109a",
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/kanko/kosho/rodokoyo/proposal/internshien.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T06:15:04+00:00",
+    "lastSuccessAt": "2026-10-03T20:08:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T06:15:04+00:00",
+    "nextCrawlAt": "2026-10-06T20:08:03+00:00",
     "coveredYears": [
       2026
     ],
@@ -56957,18 +56958,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"92aa-65b097709a8bb\"",
-    "lastModified": "Wed, 09 Sep 2026 09:27:50 GMT",
-    "contentHash": "08ca82e676987bd3964585d73539f8171de0eee97f95a19cabd8d6d8abf0a72c"
+    "etag": "\"92aa-65cd85d67930d\"",
+    "lastModified": "Fri, 02 Oct 2026 09:43:30 GMT",
+    "contentHash": "a6f4491f8398256558125bec9acbc2f6575cda638ab6bd015fd57119beeafd09"
   },
   {
     "id": "58ebc5eea8820460",
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/kanko/kosho/rodokoyo/proposal/r8shokubakaizen.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T06:15:04+00:00",
+    "lastSuccessAt": "2026-10-03T20:08:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T06:15:04+00:00",
+    "nextCrawlAt": "2026-10-06T20:08:04+00:00",
     "coveredYears": [
       2026
     ],
@@ -56977,18 +56978,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"9066-65b097709914b\"",
-    "lastModified": "Wed, 09 Sep 2026 09:27:50 GMT",
-    "contentHash": "acd5167a5ef2edf698c0af6a236715318dfa9b60b1f485094aab45b81ad8cafd"
+    "etag": "\"9066-65cd85d676815\"",
+    "lastModified": "Fri, 02 Oct 2026 09:43:30 GMT",
+    "contentHash": "281d3df5532a7647370179e4837fd2b8c9323b40d8808ba0f04b82605bc1facb"
   },
   {
     "id": "c8d341e23ff8d912",
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/files/00062300/00062337/20260130113953.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T06:15:06+00:00",
+    "lastSuccessAt": "2026-10-03T20:08:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T06:15:06+00:00",
+    "nextCrawlAt": "2026-10-06T20:08:07+00:00",
     "coveredYears": [
       2026
     ],
@@ -56997,8 +56998,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"c9da3-65b096b1f8041\"",
-    "lastModified": "Wed, 09 Sep 2026 09:24:30 GMT",
+    "etag": "\"c9da3-65cd8514df210\"",
+    "lastModified": "Fri, 02 Oct 2026 09:40:07 GMT",
     "contentHash": "bcb87e7277f1c06ddc400c04f142af0e60e1dead890da040a298f28e07f7afb2"
   },
   {
@@ -57006,17 +57007,17 @@
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/files/00058700/00058713/16_hyoukakijun.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T06:15:07+00:00",
+    "lastSuccessAt": "2026-10-03T20:08:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T06:15:07+00:00",
+    "nextCrawlAt": "2026-10-06T20:08:08+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "受託候補者評価基準（PDF:105kb）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"1a303-65b096373af35\"",
-    "lastModified": "Wed, 09 Sep 2026 09:22:21 GMT",
+    "etag": "\"1a303-65cd8497b43aa\"",
+    "lastModified": "Fri, 02 Oct 2026 09:37:55 GMT",
     "contentHash": "73e7d1bd76574c3d75f952d5d81f81920ddf1b0fb3b29da93f3a77a75b334867"
   },
   {
@@ -57024,17 +57025,17 @@
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/files/00058700/00058713/17_hyoukakijn_hyou.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T06:15:08+00:00",
+    "lastSuccessAt": "2026-10-03T20:08:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T06:15:08+00:00",
+    "nextCrawlAt": "2026-10-06T20:08:09+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "受託候補者評価基準表（PDF:168kb）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"29d44-65b0963737c6d\"",
-    "lastModified": "Wed, 09 Sep 2026 09:22:21 GMT",
+    "etag": "\"29d44-65cd8497b10e2\"",
+    "lastModified": "Fri, 02 Oct 2026 09:37:55 GMT",
     "contentHash": "60758e7dd448dde996ea3ece0acf1da9723853354fae9b3ec93dac087286f5c5"
   },
   {
@@ -67102,17 +67103,20 @@
     "id": "7433109f59629377",
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1500517691_doc_234_1.pdf",
-    "failureCount": 1,
-    "lastSuccessAt": null,
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-03T20:07:57+00:00",
     "lastFailureAt": "2026-09-13T16:35:33+00:00",
-    "nextCrawlAt": "2026-09-14T04:35:33+00:00",
+    "nextCrawlAt": "2026-10-06T20:07:57+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "指名競争入札結果（H２８） [PDF形式／999.27KB]",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "lastError": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    "lastError": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "etag": "W/\"f9d15-65b6aab6175c0\"",
+    "lastModified": "Mon, 14 Sep 2026 05:26:00 GMT",
+    "contentHash": "71995a7070398a76d277374663fa6840b03e51cd2cf5935216e26e720f5f99a0"
   },
   {
     "id": "18bf146587c08318",
@@ -118110,194 +118114,273 @@
     "municipalityCode": "222241",
     "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/220303nyuusatsukekka1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-03T20:07:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-06T20:07:38+00:00",
+    "coveredYears": [
+      2021
+    ],
     "sourceType": "result_pdf",
     "title": "令和3年度菊川市入札結果公表（PDF：267KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"42ac9-5e3036d20e5c8\"",
+    "lastModified": "Mon, 04 Jul 2022 23:52:18 GMT",
+    "contentHash": "b4d3a9c9279526cbdb8f16e4b62cd9e06e88f958d57b15622a293a2b1c8e7df1"
   },
   {
     "id": "6a5d20b2e37384a5",
     "municipalityCode": "222241",
     "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/220303nyuusatsukekka2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-03T20:07:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-06T20:07:38+00:00",
+    "coveredYears": [
+      2021
+    ],
     "sourceType": "result_pdf",
     "title": "令和3年度菊川市入札結果公表（PDF：215KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"358f1-5e3036d497c53\"",
+    "lastModified": "Mon, 04 Jul 2022 23:52:21 GMT",
+    "contentHash": "7f0a51db1f1407e18387a4f3743b45a8de2c98d38a707d7abc0296ad3ff913b2"
   },
   {
     "id": "1bfac3904c3ea866",
     "municipalityCode": "222241",
     "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/220317nyuusatsukekka3.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-03T20:07:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-06T20:07:39+00:00",
+    "coveredYears": [
+      2021
+    ],
     "sourceType": "result_pdf",
     "title": "令和3年度菊川市入札結果公表（PDF：379KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"5e99a-5e3036d7022c8\"",
+    "lastModified": "Mon, 04 Jul 2022 23:52:24 GMT",
+    "contentHash": "c24e0241fef4159b843c1bd80fb60865d59c2bf99414dd45d136a039bb54b792"
   },
   {
     "id": "ea04341f48443e1c",
     "municipalityCode": "222241",
     "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/310318nyuusatukekka3.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-03T20:07:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-06T20:07:40+00:00",
+    "coveredYears": [
+      2018
+    ],
     "sourceType": "result_pdf",
     "title": "平成30年度菊川市入札結果公表（PDF：172KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"2af95-5e3036d78a28c\"",
+    "lastModified": "Mon, 04 Jul 2022 23:52:24 GMT",
+    "contentHash": "7e4c6b50488b9732e1f62615a25e4fd9786fd480f9d2bd65097b6f410d2be907"
   },
   {
     "id": "0bb36229cba31be8",
     "municipalityCode": "222241",
     "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/310320nyuusatukekka1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-03T20:07:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-06T20:07:41+00:00",
+    "coveredYears": [
+      2018
+    ],
     "sourceType": "result_pdf",
     "title": "平成30年度菊川市入札結果公表（PDF：155KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"26bf9-5e3036d297143\"",
+    "lastModified": "Mon, 04 Jul 2022 23:52:19 GMT",
+    "contentHash": "442bec5c9f83012d619c52e59402ea5602d0494f1d6b3b49ec33630b6048ece4"
   },
   {
     "id": "f7e620882ae37c99",
     "municipalityCode": "222241",
     "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/r7nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-03T20:07:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-06T20:07:41+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "紙入札案件（PDF：344KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"55c38-64dd7a3b88074\"",
+    "lastModified": "Wed, 25 Mar 2026 11:33:40 GMT",
+    "contentHash": "738e0c78bd00b0419ba265a5723efa1ac7467662b4abd3c143064e0f5344f1e5"
   },
   {
     "id": "07bc72f6b932b22e",
     "municipalityCode": "222241",
     "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/r6nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-03T20:07:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-10-06T20:07:42+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "紙入札案件（PDF：754KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"bc595-64dd72b877edd\"",
+    "lastModified": "Wed, 25 Mar 2026 11:00:03 GMT",
+    "contentHash": "3cb2176b9e3b1af0da46307996f3b2cf6085b2645ba9cc8c75f6fa6b2773d081"
   },
   {
     "id": "fe35781a5b351964",
     "municipalityCode": "222241",
     "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/r5nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-03T20:07:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-06T20:07:43+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result_pdf",
     "title": "紙入札案件（PDF：329KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"520cb-64dd72b8a5954\"",
+    "lastModified": "Wed, 25 Mar 2026 11:00:04 GMT",
+    "contentHash": "0a86bb6e6222719aaf0790ff1c67f88ba7047e3920eaa69a5bae85c8dd35708a"
   },
   {
     "id": "83e952666c6d3f6c",
     "municipalityCode": "222241",
     "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/230327nyuusatsukekka1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-03T20:07:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-10-06T20:07:44+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "建設工事（PDF：301KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"4b347-5f803192460bd\"",
+    "lastModified": "Wed, 29 Mar 2023 05:17:53 GMT",
+    "contentHash": "922d49bed15b822dd488cfc34d4370899b647bdf931aa28c10a9c650642d59df"
   },
   {
     "id": "aff5114578dd8c53",
     "municipalityCode": "222241",
     "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/230323nyuusatsukekka2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-03T20:07:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-10-06T20:07:44+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "業務委託（PDF：248KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"3dde9-5f803192a7f21\"",
+    "lastModified": "Wed, 29 Mar 2023 05:17:54 GMT",
+    "contentHash": "64837cae467fdf195a2f9030bc773f11d7acd7bd370b1ef0eabdf53be731ac42"
   },
   {
     "id": "efec6103e5b5ceef",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result261001.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-03T20:07:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-06T20:07:47+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年10月1日執行分 (PDFファイル: 309.5KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6abdc494-4d5f9\"",
+    "lastModified": "Thu, 01 Oct 2026 02:25:24 GMT",
+    "contentHash": "c66e7df51c9c3a28f246341fe02962f9184f3c44471edbabb41934652961e83c"
   },
   {
     "id": "d51fb6104aa572f8",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result260930.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-03T20:07:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-06T20:07:49+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年9月30日執行分 (PDFファイル: 80.2KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6abc6986-140c6\"",
+    "lastModified": "Wed, 30 Sep 2026 01:44:38 GMT",
+    "contentHash": "8f7ccc8c6cdebf9184f256f6568f48c8f409085b75ee2b7e7f5e8bb12105597d"
   },
   {
     "id": "782b77b6ef96ad12",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result260916.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-03T20:07:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-06T20:07:50+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年9月16日執行分 (PDFファイル: 84.1KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6aaa1ad4-15027\"",
+    "lastModified": "Wed, 16 Sep 2026 04:28:04 GMT",
+    "contentHash": "2da7c68592be248297525c9d0d375f03e67f8dc1fc4e11ae8020042fdf2b22c0"
+  },
+  {
+    "id": "fd214be80e850434",
+    "municipalityCode": "030007",
+    "url": "https://www.pref.iwate.jp/kensei/nyuusatsu/compe/kekka/1102184.html",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-03T20:07:51+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-06T20:07:51+00:00",
+    "coveredYears": [
+      2026
+    ],
+    "sourceType": "result",
+    "title": "北ノ又第二発電所電気設備更新工事に係る公募型プロポーザル選定委員会の審査結果について",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "W/\"22d1e-65cf130803742\"",
+    "lastModified": "Sat, 03 Oct 2026 15:20:30 GMT",
+    "contentHash": "d729a45f567649c69e51c48257d8a54b09a18b724435565b62495c700c63618f"
   }
 ]
