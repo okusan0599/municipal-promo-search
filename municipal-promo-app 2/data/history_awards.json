@@ -20250,7 +20250,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-11T01:20:14+00:00"
+    "lastChecked": "2026-10-03T16:38:15+00:00"
   },
   {
     "dedupeKey": "0344259af840bfa5084ffe51ea870d492592b8830d8b5af6b0c05d298dac7412",
@@ -28458,5 +28458,24 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-03T11:53:47+00:00"
+  },
+  {
+    "dedupeKey": "9b45c055f0fd9cbd2e36ffe9ed8c24dbea6d72ee4eabeafdb33ae28c1fe7a4f3",
+    "id": "award-bc2552ee54fbcb7b7d68d76b",
+    "municipalityCode": "264652",
+    "area": "近畿",
+    "region": "京都府",
+    "municipality": "与謝野町",
+    "organization": "与謝野町",
+    "title": "与謝野町地域こどもの生活支援強化事業委託業務",
+    "vendor": "一般社団法人ｓａｔｏｙａｍａにこちゃん",
+    "awardDate": "2027-03-31",
+    "year": 2027,
+    "sourceUrl": "https://www.town.yosano.lg.jp/parenting/child-and-single-parent-welfare/child-welfare/entry_1232/",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-03T16:37:34+00:00"
   }
 ]
