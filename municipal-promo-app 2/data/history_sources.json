@@ -30886,8 +30886,8 @@
       2025
     ],
     "sourceType": "result",
-    "title": "公用車売却に係る一般競争入札結果",
-    "discoveryMethod": "result_archive_link",
+    "title": "令和7年11月28日公用車売却に係る入札結果",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"a786-65299d7c252ed\"",
@@ -30957,9 +30957,9 @@
       2008
     ],
     "sourceType": "result",
-    "title": "令和元年度入札結果",
-    "discoveryMethod": "result_archive_link",
-    "priority": 1,
+    "title": "令和元年度",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
     "active": true,
     "etag": "\"1f465-65299d7c343bd\"",
     "lastModified": "Mon, 25 May 2026 00:56:03 GMT",
@@ -30978,9 +30978,9 @@
       2020
     ],
     "sourceType": "result",
-    "title": "令和2年度入札結果",
-    "discoveryMethod": "result_archive_link",
-    "priority": 1,
+    "title": "令和2年度",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
     "active": true,
     "etag": "\"2003e-65299d7c437bb\"",
     "lastModified": "Mon, 25 May 2026 00:56:03 GMT",
@@ -30999,9 +30999,9 @@
       2021
     ],
     "sourceType": "result",
-    "title": "令和3年度入札結果",
-    "discoveryMethod": "result_archive_link",
-    "priority": 1,
+    "title": "令和3年度",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
     "active": true,
     "etag": "\"1dcec-65299d7c51c3d\"",
     "lastModified": "Mon, 25 May 2026 00:56:03 GMT",
@@ -31035,7 +31035,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（工事）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "W/\"6aacb444-d51e\"",
@@ -31075,7 +31075,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（物品）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "W/\"6aacac1f-da42\"",
@@ -59208,9 +59208,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0610_jousui.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:19+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:19+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:16+00:00",
     "coveredYears": [
       2026
     ],
@@ -59221,16 +59221,16 @@
     "active": true,
     "etag": "\"6a584285-3cfff\"",
     "lastModified": "Thu, 16 Jul 2026 02:31:33 GMT",
-    "contentHash": "716e320bb1499ebd716766c37a61afeb1a15424cb1f50726b41428048e9d0474"
+    "contentHash": null
   },
   {
     "id": "f68c4b1dfa6110cd",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0708_jousui.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:20+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:20+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:17+00:00",
     "coveredYears": [
       2026
     ],
@@ -59241,16 +59241,16 @@
     "active": true,
     "etag": "\"6a8fc085-341c3\"",
     "lastModified": "Thu, 27 Aug 2026 04:43:49 GMT",
-    "contentHash": "8d463c5ef2f1051db83fb9d0f05b04f91bf2307332b2009991366db6615c8f3a"
+    "contentHash": null
   },
   {
     "id": "6c72b544610c8c74",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/material/files/group/61/20230629.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:21+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:21+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:18+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "大崎市農業委員会だより印刷製本業務入札結果 (PDFファイル: 34.2KB)",
@@ -59259,16 +59259,16 @@
     "active": true,
     "etag": "\"649d05ce-8877\"",
     "lastModified": "Thu, 29 Jun 2023 04:17:18 GMT",
-    "contentHash": "0e14ced08dfde2c0af90e8d3e91a488aaf0949c9875962d2657a3422ca4343db"
+    "contentHash": null
   },
   {
     "id": "41c93ee84240b81c",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/10253.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:22+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:22+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:19+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "令和元年8月30日プロポーザル結果 [PDFファイル／38KB]",
@@ -59277,16 +59277,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 25 Mar 2021 08:28:22 GMT",
-    "contentHash": "da38210f735f99f3d5f68979c25a28e9016b3bb8c6440259e60c56743a405a07"
+    "contentHash": null
   },
   {
     "id": "9d29e32ece63b3a2",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/54c84a0e69b9e8c233c3d9041e83406d1bdc6313.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:23+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:23+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:19+00:00",
     "coveredYears": [
       2021
     ],
@@ -59297,16 +59297,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 20 Aug 2021 02:42:53 GMT",
-    "contentHash": "774c470b62c2db52df467c934b7e7df528b489a6696260687eaf456f50b644d4"
+    "contentHash": null
   },
   {
     "id": "ff723e7c4d59a802",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/a48d9cbdc2542884f8fcfeacbc9b5a4b2adf820a.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:24+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:24+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:20+00:00",
     "coveredYears": [
       2022
     ],
@@ -59317,16 +59317,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 15 Dec 2022 08:48:05 GMT",
-    "contentHash": "ebb9a014de82ec73cf67098b7ef9e93796f0767efcf0ae661303b27ab6a1fc6e"
+    "contentHash": null
   },
   {
     "id": "9beee1175e3e5f63",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/b4226d3efa3dcd1754337122e7cec292d4d9d1f9.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:24+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:24+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:21+00:00",
     "coveredYears": [
       2022
     ],
@@ -59337,7 +59337,7 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 31 May 2022 08:39:12 GMT",
-    "contentHash": "cd65c0d8ffbe4715fcb00374704d39ee18ca506eb3efd292648ae24367556afa"
+    "contentHash": null
   },
   {
     "id": "42b599488f67ecd7",
@@ -59374,9 +59374,9 @@
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/10340.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:25+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:25+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:22+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "令和元年9月12日プロポーザル結果 [PDFファイル／39KB]",
@@ -59385,16 +59385,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 25 Mar 2021 08:25:34 GMT",
-    "contentHash": "e67fdc444ef806fa18c53ef47cfa47596fc633d2be17b8bf3d59f2ac352722e5"
+    "contentHash": null
   },
   {
     "id": "3ed419db0444e667",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/8093482616506d0288ef685d765fc49098ee3fdd.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:26+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:26+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:22+00:00",
     "coveredYears": [
       2023
     ],
@@ -59405,16 +59405,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Wed, 19 Apr 2023 00:44:59 GMT",
-    "contentHash": "6b6691ca329d6187dff438c8cd68d5a6affc9e677bd6fdc62f1a950368d129cb"
+    "contentHash": null
   },
   {
     "id": "8abd88354d2ed249",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/74371bf51bfcf014e0d62a7a45761439a92ba3dd.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:27+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:27+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:23+00:00",
     "coveredYears": [
       2023
     ],
@@ -59425,16 +59425,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 20 Apr 2023 09:31:03 GMT",
-    "contentHash": "4cf6f0d9e587c836f5e192885f34ba917bf03ad33bef76af70efbc26edcce198"
+    "contentHash": null
   },
   {
     "id": "89608f7a86c419c3",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/d318fffde7d6cb26093a9013c191bac5070ad39d.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:28+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:28+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:24+00:00",
     "coveredYears": [
       2023
     ],
@@ -59445,16 +59445,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 25 Apr 2023 06:27:16 GMT",
-    "contentHash": "0f7cef847d7b11e0c4c3fe4f1dd7deade0d17f2a8e96194b65d915ca3eb769e2"
+    "contentHash": null
   },
   {
     "id": "19b2fd27e3f31baf",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/1abee9235e14c3cc6162b45751f1b9c4dcb6c27b.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:29+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:29+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:24+00:00",
     "coveredYears": [
       2023
     ],
@@ -59465,16 +59465,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 25 May 2023 01:11:37 GMT",
-    "contentHash": "ea46bf83520dbebe647e84dd5dbbc92aa56b4e6171d0bfc42902bfbfef6a98cd"
+    "contentHash": null
   },
   {
     "id": "6916dc2cd38824be",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/73201f17d496feeb71f95ec9ea69b19756ae4dab.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:29+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:29+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:25+00:00",
     "coveredYears": [
       2023
     ],
@@ -59485,16 +59485,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 05 Jun 2023 10:36:41 GMT",
-    "contentHash": "7735cceb29b74ea074c1f86acaebb91c8dce870ebf16a36e64d56de8f067eac3"
+    "contentHash": null
   },
   {
     "id": "9acd2519ebe61131",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/0c0e02a5efcf606743c1e91a065df028fb3d80d0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:30+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:30+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:26+00:00",
     "coveredYears": [
       2026
     ],
@@ -59505,16 +59505,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 14 Apr 2026 01:13:48 GMT",
-    "contentHash": "c38b69a5882602ce5ebc6a378b8ea940358b842a65bc8c6e616dea4e757eba2c"
+    "contentHash": null
   },
   {
     "id": "29c62d01a6073cf5",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/797005b99b76b2fd7f5cd489000b89983f0f81d3.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:31+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:31+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:27+00:00",
     "coveredYears": [
       2026
     ],
@@ -59525,16 +59525,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Sun, 19 Apr 2026 23:57:37 GMT",
-    "contentHash": "a9c9a7bc7ed90835bbdd4372e8f6aaa28c8361b6516ed65abc23eefef56bb93a"
+    "contentHash": null
   },
   {
     "id": "b500a62487afa1eb",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/74b5d2bb89647a7304c5582e894783e8b6eeffe1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:32+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:32+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:27+00:00",
     "coveredYears": [
       2026
     ],
@@ -59545,16 +59545,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Wed, 22 Apr 2026 05:22:11 GMT",
-    "contentHash": "b70e319e4107d19489dbef008a62254dcdb40929d05f78cc9af1b641a6de0053"
+    "contentHash": null
   },
   {
     "id": "1909a9147c73ae5e",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/d109851eceaed01b84f5d2a6e6617bdf426046f6.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:33+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:33+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:28+00:00",
     "coveredYears": [
       2026
     ],
@@ -59565,16 +59565,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 12 May 2026 00:48:08 GMT",
-    "contentHash": "6ee1f55ad2df600ffdb10b34fe693bb971623e72e0adfa0cb9cd93fe4a5c0f7f"
+    "contentHash": null
   },
   {
     "id": "365ee423a0a89548",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/uploads/pdf/7be95ad8f2808a1e3d6f8b4627fcb106d61f89ea.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:34+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:34+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:29+00:00",
     "coveredYears": [
       2026
     ],
@@ -59585,16 +59585,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 25 May 2026 02:11:21 GMT",
-    "contentHash": "c1c0b55e3de651710602290e85fabbd725df058fae767b105a9241ad1dab8c07"
+    "contentHash": null
   },
   {
     "id": "912c662ddada2bd9",
     "municipalityCode": "172022",
     "url": "https://www.city.nanao.lg.jp/jigyosha/nyusatsu/nyusatsu/kekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:35+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:35+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:30+00:00",
     "coveredYears": [
       2008
     ],
@@ -59605,16 +59605,16 @@
     "active": true,
     "etag": "\"4818-65299d7c1bc20\"",
     "lastModified": "Mon, 25 May 2026 00:56:03 GMT",
-    "contentHash": "98cd988ef9a3706575ba99ed5ac2fe911f8e960e4fe29873fb4ad0c6a68e8b3f"
+    "contentHash": null
   },
   {
     "id": "65449aebfab4f04c",
     "municipalityCode": "172022",
     "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/koshinrireki/documents/20201028maikurobasu1_kekka_s.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:35+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:35+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:30+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "経過表（PDF：83KB）",
@@ -59623,16 +59623,16 @@
     "active": true,
     "etag": "\"14a88-642bdadf67b6c\"",
     "lastModified": "Tue, 04 Nov 2025 04:58:15 GMT",
-    "contentHash": "c95f299d0233bab811d7afdc2822b241836c7653d839c488ce7dfceac96a7237"
+    "contentHash": null
   },
   {
     "id": "c7164b114aa0ec9c",
     "municipalityCode": "172022",
     "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/koshinrireki/documents/20201028maikurobasu2_kekka_s.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:36+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:36+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:31+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "経過表（PDF：82KB）",
@@ -59641,16 +59641,16 @@
     "active": true,
     "etag": "\"1474b-642bdadf69d32\"",
     "lastModified": "Tue, 04 Nov 2025 04:58:15 GMT",
-    "contentHash": "6b9203d0b9f53c207d7237c377cb9ffbf8ead6d1346d8241884c856d51dfce04"
+    "contentHash": null
   },
   {
     "id": "d1a9f92a543917e3",
     "municipalityCode": "172022",
     "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/koshinrireki/documents/syoubouponpujidousya1_kekka_s.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:37+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:37+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:31+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "経過表（PDF：78KB）",
@@ -59659,16 +59659,16 @@
     "active": true,
     "etag": "\"134d8-642bdadf6b44b\"",
     "lastModified": "Tue, 04 Nov 2025 04:58:15 GMT",
-    "contentHash": "a4f0bf7a999d3c838936ab248f1d7adc67f91e0c0232c6a66ca770f4910a3859"
+    "contentHash": null
   },
   {
     "id": "8ca9fd40cebf2e8c",
     "municipalityCode": "172022",
     "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/koshinrireki/documents/syoubouponpujidousya2_kekka_s.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:38+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:38+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:32+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "経過表（PDF：78KB）",
@@ -59677,16 +59677,16 @@
     "active": true,
     "etag": "\"1350c-642bdadf6c209\"",
     "lastModified": "Tue, 04 Nov 2025 04:58:15 GMT",
-    "contentHash": "ae9085ddbbdc278102b481bcf0404b219c06d11ae542fd9a2efbff48d6bc461f"
+    "contentHash": null
   },
   {
     "id": "fb565370dca9dc6d",
     "municipalityCode": "172022",
     "url": "https://www.city.nanao.lg.jp/kanri/jigyosha/nyusatsu/koshinrireki/documents/syoubouponpujidousya3_kekka_s.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:38+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:38+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:32+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "経過表（PDF：78KB）",
@@ -59695,16 +59695,16 @@
     "active": true,
     "etag": "\"134c9-642bdadf6cfb6\"",
     "lastModified": "Tue, 04 Nov 2025 04:58:15 GMT",
-    "contentHash": "0768599c1b748c652b358c15937a2a4c8a780748d8f4e73809a82ba369491fb2"
+    "contentHash": null
   },
   {
     "id": "ec594387c42db2a6",
     "municipalityCode": "172031",
     "url": "http://www.city.komatsu.lg.jp/soshiki/1011/nyuusatsu_keiyaku_1/3/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:40+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:40+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:34+00:00",
     "coveredYears": [
       2023
     ],
@@ -59713,8 +59713,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6a9a620a-d20a\"",
-    "lastModified": "Fri, 04 Sep 2026 06:15:38 GMT",
+    "etag": "W/\"6abeef38-d20a\"",
+    "lastModified": "Thu, 01 Oct 2026 23:39:36 GMT",
     "contentHash": "b4ebd14028dff0f58595f2c9adf87c6d87a4b205363cd46d65c935bc00228ea9"
   },
   {
@@ -59722,9 +59722,9 @@
     "municipalityCode": "172031",
     "url": "https://www.city.komatsu.lg.jp/soshiki/1011/nyuusatsu_keiyaku_1/3/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:40+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:40+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:34+00:00",
     "coveredYears": [
       2023
     ],
@@ -59733,8 +59733,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6a9a620a-d20a\"",
-    "lastModified": "Fri, 04 Sep 2026 06:15:38 GMT",
+    "etag": "W/\"6abeef38-d20a\"",
+    "lastModified": "Thu, 01 Oct 2026 23:39:36 GMT",
     "contentHash": "b4ebd14028dff0f58595f2c9adf87c6d87a4b205363cd46d65c935bc00228ea9"
   },
   {
@@ -59742,9 +59742,9 @@
     "municipalityCode": "172031",
     "url": "https://www.city.komatsu.lg.jp/soshiki/1011/nyuusatsu_keiyaku_1/3/1/12441.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:41+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:41+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:35+00:00",
     "coveredYears": [
       2021,
       2022
@@ -59754,8 +59754,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6a95a737-2a9ee\"",
-    "lastModified": "Mon, 31 Aug 2026 16:09:27 GMT",
+    "etag": "W/\"6abefa19-2a9ee\"",
+    "lastModified": "Fri, 02 Oct 2026 00:26:01 GMT",
     "contentHash": "628c9b24a397b84f0a5496643f50400e381f79c683c87cfd3af5ce317af5b48e"
   },
   {
@@ -59763,9 +59763,9 @@
     "municipalityCode": "172031",
     "url": "https://www.city.komatsu.lg.jp/soshiki/1011/nyuusatsu_keiyaku_1/3/1/13998.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T19:56:42+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T19:56:42+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:36+00:00",
     "coveredYears": [
       2022,
       2023
@@ -59775,8 +59775,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6a95a744-301d4\"",
-    "lastModified": "Mon, 31 Aug 2026 16:09:40 GMT",
+    "etag": "W/\"6abefa25-301d4\"",
+    "lastModified": "Fri, 02 Oct 2026 00:26:13 GMT",
     "contentHash": "bdcb2eb3d991d634db1fbd9bfc0acbead89ef1de4cc5802fd85a413ee9483466"
   },
   {
@@ -59784,9 +59784,9 @@
     "municipalityCode": "172031",
     "url": "https://www.city.komatsu.lg.jp/soshiki/1011/nyuusatsu_keiyaku_1/3/1/14955.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-11T22:45:40+00:00",
+    "lastSuccessAt": "2026-10-04T15:32:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-14T22:45:40+00:00",
+    "nextCrawlAt": "2026-10-07T15:32:37+00:00",
     "coveredYears": [
       2023,
       2024
@@ -59796,8 +59796,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6a95a752-4ace8\"",
-    "lastModified": "Mon, 31 Aug 2026 16:09:54 GMT",
+    "etag": "W/\"6abefa32-4ace8\"",
+    "lastModified": "Fri, 02 Oct 2026 00:26:26 GMT",
     "contentHash": "03a3808d4f1cb14c6f2b10a240380dff1b9ad3b6ca7f115547afda00524dab9f"
   },
   {
@@ -118706,5 +118706,53 @@
     "etag": null,
     "lastModified": "Sat, 03 Oct 2026 17:17:57 GMT",
     "contentHash": "5bec27d24b4e3620d51c0cf9f69fd482f2d0630c80e674830b7a532156a191f6"
+  },
+  {
+    "id": "44e9c9f4aacc8108",
+    "municipalityCode": "012092",
+    "url": "https://www.city.yubari.lg.jp/site/nyusatsu/10750.html",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-04T15:32:14+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-07T15:32:14+00:00",
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "夕張市地域安全克雪方針策定支援業務委託に係る入札及び契約結果について",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": null,
+    "lastModified": "Sun, 04 Oct 2026 15:00:45 GMT",
+    "contentHash": "8fe952599f1b672722fc40a21c168e722f29c7df8257197b0dc945aefd3345df"
+  },
+  {
+    "id": "ff22f00a80ff1957",
+    "municipalityCode": "012092",
+    "url": "https://www.city.yubari.lg.jp/uploaded/life/10750_25193_misc.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "夕張市地域安全克雪方針策定支援業務委託　入札結果  [PDFファイル／72KB]",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "8a5e1de2282abce3",
+    "municipalityCode": "012092",
+    "url": "https://www.city.yubari.lg.jp/uploaded/life/10750_25194_misc.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "夕張市地域安全克雪方針策定支援業務委託　契約結果  [PDFファイル／86KB]",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
   }
 ]
