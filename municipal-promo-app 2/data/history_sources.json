@@ -34688,7 +34688,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果・各種選定結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"58dd-65c734647058b\"",
@@ -34972,7 +34972,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -42497,7 +42497,7 @@
     ],
     "sourceType": "result",
     "title": "委託等の入札結果等",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"6abccc2b-b5dc\"",
@@ -42517,7 +42517,7 @@
     ],
     "sourceType": "result",
     "title": "工事の入札結果等",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"6abccc2b-b568\"",
@@ -62543,9 +62543,9 @@
     "municipalityCode": "212105",
     "url": "https://www.city.ena.lg.jp/material/files/group/3/20250403_kyouyou38kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:10+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:10+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:28+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "契教幼 第 38 号 山岡こども園バス用ガレージ新設工事 (PDFファイル: 6.7KB)",
@@ -62554,16 +62554,16 @@
     "active": true,
     "etag": "\"67edf418-1a6b\"",
     "lastModified": "Thu, 03 Apr 2025 02:36:08 GMT",
-    "contentHash": "d14d8b9163e22ef088bb05ca67b497252f8f7df528f7901e6bb8b09dfdeb0c34"
+    "contentHash": null
   },
   {
     "id": "8a5b157c307b6174",
     "municipalityCode": "212105",
     "url": "https://www.city.ena.lg.jp/material/files/group/3/20250327_kensetsu179kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:10+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:10+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:28+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "契建設 第 179 号 工第38号 岩村町278号線道路災害復旧工事 (PDFファイル: 7.1KB)",
@@ -62572,16 +62572,16 @@
     "active": true,
     "etag": "\"67e4b0a7-1c3c\"",
     "lastModified": "Thu, 27 Mar 2025 01:57:59 GMT",
-    "contentHash": "3c6835d345357cac0d25aea8a0f08feed337e5351d674445b6f8f6aa79b8c1d6"
+    "contentHash": null
   },
   {
     "id": "0b58d5d6786ba3a1",
     "municipalityCode": "212105",
     "url": "https://www.city.ena.lg.jp/material/files/group/3/0109simeikekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:11+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:11+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:29+00:00",
     "coveredYears": [
       2020
     ],
@@ -62592,16 +62592,16 @@
     "active": true,
     "etag": "\"5e4e0539-a6dc\"",
     "lastModified": "Thu, 20 Feb 2020 04:04:09 GMT",
-    "contentHash": "50f44c2f764bfcd142f0ebacf5c29049424f5a1bc2a9a64ef744dc72f96e7415"
+    "contentHash": null
   },
   {
     "id": "76529e6e38740645",
     "municipalityCode": "212105",
     "url": "https://www.city.ena.lg.jp/material/files/group/3/0114simeikekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:12+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:12+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:30+00:00",
     "coveredYears": [
       2021
     ],
@@ -62612,16 +62612,16 @@
     "active": true,
     "etag": "\"5fffa9f7-208f\"",
     "lastModified": "Thu, 14 Jan 2021 02:18:31 GMT",
-    "contentHash": "836cef83f5f303de54f3f96c058774819cbf76a97daddc4d2e3a5242ddbf4158"
+    "contentHash": null
   },
   {
     "id": "7c655f9c2598cc58",
     "municipalityCode": "212105",
     "url": "https://www.city.ena.lg.jp/material/files/group/3/0116simeikekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:12+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:12+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:30+00:00",
     "coveredYears": [
       2020
     ],
@@ -62632,16 +62632,16 @@
     "active": true,
     "etag": "\"5e4e051b-8fff\"",
     "lastModified": "Thu, 20 Feb 2020 04:03:39 GMT",
-    "contentHash": "681fe8df5f804de6613238191c55aa9940f50f3b3df0d29dea0760bbb0ecd662"
+    "contentHash": null
   },
   {
     "id": "36340bf62a53bae3",
     "municipalityCode": "212105",
     "url": "https://www.city.ena.lg.jp/material/files/group/3/0123simeikekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:13+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:13+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:31+00:00",
     "coveredYears": [
       2020
     ],
@@ -62652,16 +62652,16 @@
     "active": true,
     "etag": "\"5e4e04ed-a514\"",
     "lastModified": "Thu, 20 Feb 2020 04:02:53 GMT",
-    "contentHash": "792a58989ad557cd6844c934e2f2881c7b464ed6f8e2db246ce4a72ecf2a53bb"
+    "contentHash": null
   },
   {
     "id": "13c61f8afc4dc0c1",
     "municipalityCode": "212105",
     "url": "https://www.city.ena.lg.jp/material/files/group/3/0227simeikekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:13+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:13+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:31+00:00",
     "coveredYears": [
       2020
     ],
@@ -62672,16 +62672,16 @@
     "active": true,
     "etag": "\"5e576901-3254\"",
     "lastModified": "Thu, 27 Feb 2020 07:00:17 GMT",
-    "contentHash": "9f67a4502fad820eccd4c299d6a42d056decc827c53f0e26abe6a331db1d8534"
+    "contentHash": null
   },
   {
     "id": "97948475703a99a8",
     "municipalityCode": "212105",
     "url": "https://www.city.ena.lg.jp/material/files/group/3/20260827eko46.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:14+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:14+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:32+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "契エコ第46号 資源（金属類）の売り払い（単価契約） (PDFファイル: 37.9KB)",
@@ -62690,16 +62690,16 @@
     "active": true,
     "etag": "\"6a8fe356-974d\"",
     "lastModified": "Thu, 27 Aug 2026 07:12:22 GMT",
-    "contentHash": "687b8a4f0cfae473f66ab9c554913af9c442c4a2b38e0f8b01170b2f6e2fc79f"
+    "contentHash": null
   },
   {
     "id": "a3a3bc53826019ad",
     "municipalityCode": "212105",
     "url": "https://www.city.ena.lg.jp/material/files/group/3/20260625jousui14.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:15+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:15+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:32+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "契上水第14号 逆止弁付メーターパッキン単価契約 (PDFファイル: 36.0KB)",
@@ -62708,16 +62708,16 @@
     "active": true,
     "etag": "\"6a3ccc71-8fec\"",
     "lastModified": "Thu, 25 Jun 2026 06:36:33 GMT",
-    "contentHash": "f48d158d4636c43164a95454615217fcb26a96cbe6f07aa941103504b1921a1f"
+    "contentHash": null
   },
   {
     "id": "690e0d96d0756e65",
     "municipalityCode": "212105",
     "url": "https://www.city.ena.lg.jp/material/files/group/3/20260528touen6.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:15+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:15+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:33+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "契藤苑第6号 藤花苑薬品購入業務（長期複数単価契約） (PDFファイル: 46.0KB)",
@@ -62726,16 +62726,16 @@
     "active": true,
     "etag": "\"6a18120e-b7a6\"",
     "lastModified": "Thu, 28 May 2026 09:59:42 GMT",
-    "contentHash": "c54bf16e1a49719613683bdb735ae0e2e713a8759d8a27fe9ff97ac6d54726b8"
+    "contentHash": null
   },
   {
     "id": "2de16b660eebdc5c",
     "municipalityCode": "212105",
     "url": "https://www.city.ena.lg.jp/material/files/group/3/20260528souzai36.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:16+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:16+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:33+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "契総財第36号 明智こども園プロパンガス単価契約 (PDFファイル: 40.5KB)",
@@ -62744,16 +62744,16 @@
     "active": true,
     "etag": "\"6a1812cc-a1ac\"",
     "lastModified": "Thu, 28 May 2026 10:02:52 GMT",
-    "contentHash": "8f376f02d796a434daf4823d74b981dc3cad4e0f6d5d7c2088a761e039d47692"
+    "contentHash": null
   },
   {
     "id": "c13b589e3df40ea2",
     "municipalityCode": "212105",
     "url": "https://www.city.ena.lg.jp/material/files/group/3/20260528souzai33.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:16+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:16+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:34+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "契総財第33号 武並こども園プロパンガス単価契約 (PDFファイル: 38.2KB)",
@@ -62762,16 +62762,16 @@
     "active": true,
     "etag": "\"6a1812eb-9871\"",
     "lastModified": "Thu, 28 May 2026 10:03:23 GMT",
-    "contentHash": "83940bda8ecf709e0986bd66c7628511260b80a2645aaa13fa178c2092c28bd8"
+    "contentHash": null
   },
   {
     "id": "be18599decd74764",
     "municipalityCode": "212121",
     "url": "https://www.city.toki.lg.jp/sangyo/nyusatsu/1004881/1002120.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:18+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:18+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:35+00:00",
     "coveredYears": [
       2021
     ],
@@ -62780,8 +62780,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"1805e-65b4586e591cc\"",
-    "lastModified": "Sat, 12 Sep 2026 09:07:14 GMT",
+    "etag": "\"1805e-65d20c7b6aa07\"",
+    "lastModified": "Tue, 06 Oct 2026 00:07:11 GMT",
     "contentHash": "7e8bb3f5a53ecb02f0c208619ea93f7db1837291ab44fcaeec48333f33e9a291"
   },
   {
@@ -62789,9 +62789,9 @@
     "municipalityCode": "212121",
     "url": "https://www.city.toki.lg.jp/sangyo/nyusatsu/1004881/1002121.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:19+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:19+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:37+00:00",
     "coveredYears": [
       2020
     ],
@@ -62800,8 +62800,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"1766a-65b4586e927c8\"",
-    "lastModified": "Sat, 12 Sep 2026 09:07:14 GMT",
+    "etag": "\"1766a-65d20c7b9cebb\"",
+    "lastModified": "Tue, 06 Oct 2026 00:07:11 GMT",
     "contentHash": "90777512c6a10ce76ab6fdd822fabf21f913b71f24dfb18e681915c67197fd96"
   },
   {
@@ -62809,9 +62809,9 @@
     "municipalityCode": "212121",
     "url": "https://www.city.toki.lg.jp/sangyo/nyusatsu/1004881/1002122.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:21+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:21+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:38+00:00",
     "coveredYears": [
       2019
     ],
@@ -62820,8 +62820,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"170da-65b4586ece0ed\"",
-    "lastModified": "Sat, 12 Sep 2026 09:07:14 GMT",
+    "etag": "\"170da-65d20c7bd1696\"",
+    "lastModified": "Tue, 06 Oct 2026 00:07:11 GMT",
     "contentHash": "80732ff12fe95f8454572a30dd94e85394f8f8df82e99d6293f263751ceba9a8"
   },
   {
@@ -62829,9 +62829,9 @@
     "municipalityCode": "212121",
     "url": "https://www.city.toki.lg.jp/sangyo/nyusatsu/1004881/1006070.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:23+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:23+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:39+00:00",
     "coveredYears": [
       2022
     ],
@@ -62840,8 +62840,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"1726a-65b4586e19e0f\"",
-    "lastModified": "Sat, 12 Sep 2026 09:07:14 GMT",
+    "etag": "\"1726a-65d20c7b3622c\"",
+    "lastModified": "Tue, 06 Oct 2026 00:07:11 GMT",
     "contentHash": "bdf949107bb0398c6963ca2637cb81089999fad4e21af15b239dbfc23920287c"
   },
   {
@@ -62849,9 +62849,9 @@
     "municipalityCode": "212121",
     "url": "https://www.city.toki.lg.jp/sangyo/nyusatsu/1004881/1006776.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:24+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:24+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:40+00:00",
     "coveredYears": [
       2023
     ],
@@ -62860,8 +62860,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"18c05-65b4586de0bfa\"",
-    "lastModified": "Sat, 12 Sep 2026 09:07:13 GMT",
+    "etag": "\"18c05-65d20c7b04161\"",
+    "lastModified": "Tue, 06 Oct 2026 00:07:10 GMT",
     "contentHash": "35d79da3cac498fad5cc54867bfbb960ae001c002cc4cb27791b5191dbaad267"
   },
   {
@@ -62869,9 +62869,9 @@
     "municipalityCode": "215023",
     "url": "https://www.town.tomika.gifu.jp/fs/1/2/6/1/8/3/_/_______4_4__.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:27+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:27+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:41+00:00",
     "coveredYears": [
       2022
     ],
@@ -62882,16 +62882,16 @@
     "active": true,
     "etag": "\"626f293b-ffb1e\"",
     "lastModified": "Mon, 02 May 2022 00:43:39 GMT",
-    "contentHash": "2d575fb51389a3ac11b766ebd2e3328002d023b8ec36829695318a2619aec400"
+    "contentHash": null
   },
   {
     "id": "03a9a1027244d25c",
     "municipalityCode": "215023",
     "url": "https://www.town.tomika.gifu.jp/fs/1/2/8/9/0/0/_/_______4_5__.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:31+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:31+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:42+00:00",
     "coveredYears": [
       2022
     ],
@@ -62902,16 +62902,16 @@
     "active": true,
     "etag": "\"62a18266-28dda1\"",
     "lastModified": "Thu, 09 Jun 2022 05:17:26 GMT",
-    "contentHash": "2f43f8428e8cf0a4aa73769e4b1dd0082dfc4fa870f3a4b3dfc8f35657187b65"
+    "contentHash": null
   },
   {
     "id": "a2a39d9a107ce510",
     "municipalityCode": "215023",
     "url": "https://www.town.tomika.gifu.jp/fs/1/3/1/0/7/2/_/_______4_6__.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:35+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:35+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:42+00:00",
     "coveredYears": [
       2022
     ],
@@ -62922,16 +62922,16 @@
     "active": true,
     "etag": "\"62c26dc3-30aec2\"",
     "lastModified": "Mon, 04 Jul 2022 04:34:11 GMT",
-    "contentHash": "e7c19f94d51cf43c26786a6eabe058fde1afc438d0b2b66e0af15c38528d25b5"
+    "contentHash": null
   },
   {
     "id": "a4c094a15c97be2e",
     "municipalityCode": "215023",
     "url": "https://www.town.tomika.gifu.jp/fs/1/3/2/9/4/9/_/_______4_7__.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:41+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:41+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:43+00:00",
     "coveredYears": [
       2022
     ],
@@ -62942,16 +62942,16 @@
     "active": true,
     "etag": "\"62e7683b-3773bb\"",
     "lastModified": "Mon, 01 Aug 2022 05:44:27 GMT",
-    "contentHash": "9dc98778e114e184fa492d391009127fd29672539252772ad07a856f030f9af9"
+    "contentHash": null
   },
   {
     "id": "f90037be7b5a21f0",
     "municipalityCode": "215023",
     "url": "https://www.town.tomika.gifu.jp/fs/1/3/5/0/9/9/_/_______4_8__.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:42+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:42+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:44+00:00",
     "coveredYears": [
       2022
     ],
@@ -62962,16 +62962,16 @@
     "active": true,
     "etag": "\"630ffa1e-8064c\"",
     "lastModified": "Thu, 01 Sep 2022 00:17:34 GMT",
-    "contentHash": "3725f616335f9c7a6662ea8b2bc95181aa8e979c905a3adf2501bb47fc8f7cb7"
+    "contentHash": null
   },
   {
     "id": "eb5de86c3b98adbd",
     "municipalityCode": "215023",
     "url": "https://www.town.tomika.gifu.jp/fs/3/4/2/0/2/8/_/_______8_4__.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:43+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:43+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:44+00:00",
     "coveredYears": [
       2026
     ],
@@ -62982,16 +62982,16 @@
     "active": true,
     "etag": "\"69f3fde7-7f6f\"",
     "lastModified": "Fri, 01 May 2026 01:12:07 GMT",
-    "contentHash": "cadb8e8ced0f3bd89fe49c228010363b6e5c347d362d36de26123bd140707f9c"
+    "contentHash": null
   },
   {
     "id": "376b4f77442de860",
     "municipalityCode": "215023",
     "url": "https://www.town.tomika.gifu.jp/fs/3/4/5/2/6/5/_/_______8_5__.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T14:21:43+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T14:21:43+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:45+00:00",
     "coveredYears": [
       2026
     ],
@@ -63002,16 +63002,16 @@
     "active": true,
     "etag": "\"6a150cab-39194\"",
     "lastModified": "Tue, 26 May 2026 02:59:55 GMT",
-    "contentHash": "d60bf313eca38e9adb7d6590db788d93378e02667ea19ba95111b1348ae1af83"
+    "contentHash": null
   },
   {
     "id": "ed9d22616db1c055",
     "municipalityCode": "215023",
     "url": "https://www.town.tomika.gifu.jp/fs/3/4/9/5/9/9/_/_______8_6__.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T17:23:31+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T17:23:31+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:45+00:00",
     "coveredYears": [
       2026
     ],
@@ -63022,16 +63022,16 @@
     "active": true,
     "etag": "\"6a41b598-3717f\"",
     "lastModified": "Mon, 29 Jun 2026 00:00:24 GMT",
-    "contentHash": "523c731d1929fff2340cef6bc896e8c0f0c2badddc2e167737371bb8846d45b6"
+    "contentHash": null
   },
   {
     "id": "3a4a738797a97fbc",
     "municipalityCode": "215023",
     "url": "https://www.town.tomika.gifu.jp/fs/3/5/3/8/3/6/_/_______8_7__.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T17:23:32+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T17:23:32+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:46+00:00",
     "coveredYears": [
       2026
     ],
@@ -63042,16 +63042,16 @@
     "active": true,
     "etag": "\"6a6af791-1e47b\"",
     "lastModified": "Thu, 30 Jul 2026 07:04:49 GMT",
-    "contentHash": "6ca4c946f9dce844520403e710b030839fbfdc327513117f255639780c503f6b"
+    "contentHash": null
   },
   {
     "id": "ae875e3d6035419d",
     "municipalityCode": "215023",
     "url": "https://www.town.tomika.gifu.jp/fs/3/5/7/5/0/8/_/_______8_8__.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T17:23:33+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T17:23:33+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:46+00:00",
     "coveredYears": [
       2026
     ],
@@ -63062,16 +63062,16 @@
     "active": true,
     "etag": "\"6a94e128-35e98\"",
     "lastModified": "Mon, 31 Aug 2026 02:04:24 GMT",
-    "contentHash": "0b6ab3031605a41e264baaec40c67d3f51ec9dc9bd0d0aea1f17e3a02d559316"
+    "contentHash": null
   },
   {
     "id": "bc6620339cd67d46",
     "municipalityCode": "222062",
     "url": "https://www.city.mishima.shizuoka.jp/page/3030.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T17:23:34+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T17:23:34+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:47+00:00",
     "coveredYears": [
       2023
     ],
@@ -63081,17 +63081,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 12 Sep 2026 17:00:59 GMT",
-    "contentHash": "2c030bcd5225bea9f7842463c64c42f4890d8001b48ac1ef6055d1dae7c8e46b"
+    "lastModified": "Mon, 05 Oct 2026 17:00:55 GMT",
+    "contentHash": "b78b1992e258e4807c698ebad4c3f932ecb2c84aa2d110c761916b80e4757c1e"
   },
   {
     "id": "1bc60460ac9dc43c",
     "municipalityCode": "222062",
     "url": "https://www.city.mishima.shizuoka.jp/page/31400.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T17:23:34+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T17:23:34+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:47+00:00",
     "coveredYears": [
       2026
     ],
@@ -63101,17 +63101,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 12 Sep 2026 17:01:44 GMT",
-    "contentHash": "0bed52e286b92a684afa62b2d69890ac82b8be741f183915e0cc3d7fc8cd942c"
+    "lastModified": "Mon, 05 Oct 2026 17:01:35 GMT",
+    "contentHash": "2320ce016f19079922f717fff16ed72aca45ca0b009983dc3c69b3b912b3bcc3"
   },
   {
     "id": "2d3a8ec3ce15dc2c",
     "municipalityCode": "222062",
     "url": "https://www.city.mishima.shizuoka.jp/page/3175.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-12T17:23:35+00:00",
+    "lastSuccessAt": "2026-10-06T00:58:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-15T17:23:35+00:00",
+    "nextCrawlAt": "2026-10-09T00:58:48+00:00",
     "coveredYears": [
       2024
     ],
@@ -63121,8 +63121,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 12 Sep 2026 17:01:01 GMT",
-    "contentHash": "7cbed71afdb68d47717a623b786a7887439e1b6569d384253113929d397cad33"
+    "lastModified": "Mon, 05 Oct 2026 17:00:57 GMT",
+    "contentHash": "333283037a2de1b0006d93f2861a110467f53748933316b54386fba8451fc37d"
   },
   {
     "id": "e7d7d6dd7e705bdb",
@@ -119514,6 +119514,126 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "技術提案評価基準書  [PDFファイル／354KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "1d5fddee0b102d87",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Kodomo_1002_mitumori.xlsx",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "見積書(Excel)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "623a6dc491e45ddf",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Kodomo_1002_setumei.PDF",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "説明書(PDF)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "5ae1498d5e396afa",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Kodomo_1002_shiyou.PDF",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "仕様書(PDF)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "ebbc3782b1d71e8a",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Kyozai_1002_mitumori.xlsx",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "見積書(Excel)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "b7854b30696d80bf",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Kyozai_1002_setumei.PDF",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "説明書(PDF)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "ad03d99454444392",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Kyozai_1002_shiyou.PDF",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "仕様書(PDF)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "cc29ee8d6a3d2c90",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Lami_1002_mitumori.xlsx",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "見積書(Excel)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "4190a1b149a01de2",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Lami_1002_setumei.PDF",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "説明書(PDF)",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
