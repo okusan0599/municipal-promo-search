@@ -66902,9 +66902,9 @@
     "municipalityCode": "010006",
     "url": "https://www.pref.hokkaido.lg.jp/fs/1/3/1/0/8/1/2/7/_/%E5%85%A5%E6%9C%AD%E8%80%85%E5%8F%8A%E3%81%B3%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7%E8%A1%A8.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:29+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:29+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:21+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "消防用設備保守点検業務委託契約(R8.3.17) (PDF 52.4KB)",
@@ -66913,16 +66913,16 @@
     "active": true,
     "etag": "\"69c61277-d189\"",
     "lastModified": "Fri, 27 Mar 2026 05:15:35 GMT",
-    "contentHash": "e301e1306272e0437e450346f9e0c2583bbbc09821415145c336124760b5d723"
+    "contentHash": null
   },
   {
     "id": "22ce0afa72073847",
     "municipalityCode": "010006",
     "url": "https://www.pref.hokkaido.lg.jp/fs/1/3/1/3/2/5/4/1/_/%E5%85%A5%E6%9C%AD%E8%80%85%E5%8F%8A%E3%81%B3%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7%E8%A1%A8(%E6%B8%85%E6%8E%83%E6%B4%97%E6%BF%AF%E9%9B%BB%E8%A9%B1%E4%BA%A4%E6%8F%9B).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:30+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:30+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:22+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "庁舎清掃洗濯電話交換業務委託契約(R8.3.17) (PDF 104KB)",
@@ -66931,16 +66931,16 @@
     "active": true,
     "etag": "\"69f30135-19fe4\"",
     "lastModified": "Thu, 30 Apr 2026 07:13:57 GMT",
-    "contentHash": "4cdbb39e8b8b01224e6ed739d8e927a70f1bb1b5b987c4047c526a922bbe5366"
+    "contentHash": null
   },
   {
     "id": "1f61abd29a96098d",
     "municipalityCode": "010006",
     "url": "https://www.pref.hokkaido.lg.jp/fs/1/3/1/1/4/3/9/7/_/02_%E5%85%A5%E6%9C%AD%E8%A8%98%E9%8C%B2%E8%A1%A8%E3%83%BB%E7%B5%90%E6%9E%9C%E8%A1%A8(%E6%84%9F%E6%9F%93%E6%80%A7%E5%BB%83%E6%A3%84%E7%89%A9).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:30+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:30+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:22+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "感染性廃棄物収集運搬処分業務委託契約（R8.3.17) (PDF 87.9KB)",
@@ -66949,25 +66949,25 @@
     "active": true,
     "etag": "\"69cc746c-15f74\"",
     "lastModified": "Wed, 01 Apr 2026 01:27:08 GMT",
-    "contentHash": "f21fa410eb560aecb20d7b796d328c4edfc31d57d7296d2f1a2ef31c4baba779"
+    "contentHash": null
   },
   {
     "id": "836eb57375d7ad18",
     "municipalityCode": "010006",
     "url": "https://www.pref.hokkaido.lg.jp/hf/kst/keiyaku/nyuusatu/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:31+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:31+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:23+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6aa6d026-39f0\"",
-    "lastModified": "Sun, 13 Sep 2026 16:32:38 GMT",
-    "contentHash": "1713e812aeee0ef1bfe8fde570ec1fa77667ac5c5b1194ff31098cb921f6de6e"
+    "etag": "\"6ac6b5cf-3919\"",
+    "lastModified": "Wed, 07 Oct 2026 21:12:47 GMT",
+    "contentHash": "e41662ea4c384bb98c8a9635eb69e34c6d183f93bdfce84e06e505e6cb399942"
   },
   {
     "id": "2c80493a95629e3d",
@@ -67052,9 +67052,9 @@
     "municipalityCode": "010006",
     "url": "https://www.pref.hokkaido.lg.jp/fs/1/3/0/2/3/9/5/6/_/%E8%87%AA%E5%8B%95%E8%BB%8A%E3%81%AE%E4%BA%A4%E6%8F%9B%E5%A5%91%E7%B4%84(%E5%8C%97%E6%B5%B7%E9%81%93%E5%91%8A%E7%A4%BA%E7%AC%AC11688%E5%8F%B7).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:32+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:32+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:23+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "自動車の交換契約(北海道告示第11688号) (PDF 53.3KB)",
@@ -67063,16 +67063,16 @@
     "active": true,
     "etag": "\"69a0d4a5-d557\"",
     "lastModified": "Thu, 26 Feb 2026 23:17:57 GMT",
-    "contentHash": "9d45f85f2857e01f2b36a8a2e12d713666b99bd0057f5aa709e8e808c2c83ea4"
+    "contentHash": null
   },
   {
     "id": "942b3034a5b982e1",
     "municipalityCode": "010006",
     "url": "https://www.pref.hokkaido.lg.jp/fs/1/3/0/2/3/9/5/7/_/%E8%87%AA%E5%8B%95%E8%BB%8A%E3%81%AE%E4%BA%A4%E6%8F%9B%E5%A5%91%E7%B4%84(%E5%8C%97%E6%B5%B7%E9%81%93%E5%91%8A%E7%A4%BA%E7%AC%AC426%E5%8F%B7).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:33+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:33+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:24+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "自動車の交換契約(北海道告示第426号) (PDF 135KB)",
@@ -67081,16 +67081,16 @@
     "active": true,
     "etag": "\"69a0d4a5-21b96\"",
     "lastModified": "Thu, 26 Feb 2026 23:17:57 GMT",
-    "contentHash": "d6fb1c983ca4edbcb6c5ac477ed0beecc0b70e4f4885fcf762e93e2bccb8e042"
+    "contentHash": null
   },
   {
     "id": "e4ad9ef3ca04c0b5",
     "municipalityCode": "010006",
     "url": "https://www.pref.hokkaido.lg.jp/fs/1/3/0/2/3/9/5/9/_/%E8%87%AA%E5%8B%95%E8%BB%8A%E3%81%AE%E8%B3%83%E8%B2%B8%E5%80%9F%E5%A5%91%E7%B4%84(%E5%8C%97%E6%B5%B7%E9%81%93%E5%91%8A%E7%A4%BA%E7%AC%AC11138%E5%8F%B7).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:33+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:33+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:24+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "自動車の賃貸借契約(北海道告示第11138号) (PDF 65.2KB)",
@@ -67099,7 +67099,7 @@
     "active": true,
     "etag": "\"69a0d4a6-104de\"",
     "lastModified": "Thu, 26 Feb 2026 23:17:58 GMT",
-    "contentHash": "953334649c9d7075b0a4a4f68c8af50bc69467ec2dc403411956034bb5b8cadf"
+    "contentHash": null
   },
   {
     "id": "7433109f59629377",
@@ -67124,10 +67124,10 @@
     "id": "18bf146587c08318",
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1785833975_doc_621_0.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-13T16:35:35+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:35+00:00",
+    "lastFailureAt": "2026-10-07T21:31:26+00:00",
+    "nextCrawlAt": "2026-10-08T09:31:26+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "指名競争入札結果（Ｒ８） [PDF形式／658.6KB]",
@@ -67136,24 +67136,25 @@
     "active": true,
     "etag": "W/\"a4a68-6585865d299b8\"",
     "lastModified": "Thu, 06 Aug 2026 03:22:28 GMT",
-    "contentHash": "01de33c947c22e303c72a4b979c670c2517626f74403e87366e9e28139c751e8"
+    "contentHash": "01de33c947c22e303c72a4b979c670c2517626f74403e87366e9e28139c751e8",
+    "lastError": "404 Client Error: Not Found for url: https://www.city.naka.lg.jp/data/doc/1785833975_doc_621_0.pdf"
   },
   {
     "id": "832389a570373e6d",
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1747028457_doc_346_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:36+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:36+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:28+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "指名競争入札結果（Ｒ７） [PDF形式／1.79MB]",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"1c9857-6585865d42c10\"",
-    "lastModified": "Thu, 06 Aug 2026 03:22:29 GMT",
+    "etag": "W/\"1c9857-65b6aab594418\"",
+    "lastModified": "Mon, 14 Sep 2026 05:25:59 GMT",
     "contentHash": "74d18ae89c7386a34d14839725f9b6f74a841e28c295c8e03f9ff5553e79b5d6"
   },
   {
@@ -67161,9 +67162,9 @@
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1737439656_doc_346_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:37+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:37+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:28+00:00",
     "coveredYears": [
       2024
     ],
@@ -67172,8 +67173,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"1d5d34-6585865d57818\"",
-    "lastModified": "Thu, 06 Aug 2026 03:22:29 GMT",
+    "etag": "W/\"1d5d34-65b6aab5a8468\"",
+    "lastModified": "Mon, 14 Sep 2026 05:25:59 GMT",
     "contentHash": "210c0777e932a606efd5c1078c1e15b5f31f8ddebce680c1aa6721414d5bcc86"
   },
   {
@@ -67181,17 +67182,17 @@
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1710469568_doc_788_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:38+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:38+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:29+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "指名競争入札結果（Ｒ５） [PDF形式／1.94MB]",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"1f02ea-6585865d70688\"",
-    "lastModified": "Thu, 06 Aug 2026 03:22:29 GMT",
+    "etag": "W/\"1f02ea-65b6aab5b9da8\"",
+    "lastModified": "Mon, 14 Sep 2026 05:25:59 GMT",
     "contentHash": "477abb7b9e5bf4a444b9fdd84dd52c3222a2547b26588b9a3530e538ac88ab8c"
   },
   {
@@ -67199,17 +67200,17 @@
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1676981138_doc_346_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:38+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:38+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:29+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "指名競争入札結果（Ｒ４） [PDF形式／1.24MB]",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"13d36d-6585865d85290\"",
-    "lastModified": "Thu, 06 Aug 2026 03:22:29 GMT",
+    "etag": "W/\"13d36d-65b6aab5c7480\"",
+    "lastModified": "Mon, 14 Sep 2026 05:25:59 GMT",
     "contentHash": "9373c87908d2cae01a106f142c2ae07bf46260e53776178c3c67cc6767baa176"
   },
   {
@@ -67262,9 +67263,9 @@
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1484124248_doc_77_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:39+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:39+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:30+00:00",
     "coveredYears": [
       2016
     ],
@@ -67273,8 +67274,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"16edd-65b369c1b5330\"",
-    "lastModified": "Fri, 11 Sep 2026 15:19:25 GMT",
+    "etag": "W/\"16edd-65c98c8facd00\"",
+    "lastModified": "Tue, 29 Sep 2026 05:52:16 GMT",
     "contentHash": "c7e9b083f0c91e38cf0eb6d8455fa06e3270642f37d522bb39b8e2f3583c12cc"
   },
   {
@@ -67282,9 +67283,9 @@
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1776836476_doc_346_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:39+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:39+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:30+00:00",
     "coveredYears": [
       2026
     ],
@@ -67293,18 +67294,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"2e159-65b369c1655d8\"",
-    "lastModified": "Fri, 11 Sep 2026 15:19:25 GMT",
-    "contentHash": "12ab394c0a59f549719325b90ddddaa7e2fe052381e936e901d2178a7c6b804e"
+    "etag": "W/\"2da9b-65c98c8f4cdd8\"",
+    "lastModified": "Tue, 29 Sep 2026 05:52:16 GMT",
+    "contentHash": "d1aa686a2619bdcfdeb3a080ecc5306a4529262174b2aae0ce038dc085831d2b"
   },
   {
     "id": "bd2f7f2a09257305",
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1772069349_doc_788_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:40+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:40+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:31+00:00",
     "coveredYears": [
       2025
     ],
@@ -67313,8 +67314,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"2d02c-65b369c16d2d8\"",
-    "lastModified": "Fri, 11 Sep 2026 15:19:25 GMT",
+    "etag": "W/\"2d02c-65c98c8f56e00\"",
+    "lastModified": "Tue, 29 Sep 2026 05:52:16 GMT",
     "contentHash": "ee8260cf9be28a753dd0ff789971c92f7424a45fe06e35ca65d86565e73dcfd1"
   },
   {
@@ -67322,9 +67323,9 @@
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1748586924_doc_788_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:40+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:40+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:31+00:00",
     "coveredYears": [
       2024
     ],
@@ -67333,8 +67334,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"2b9a4-65b369c174808\"",
-    "lastModified": "Fri, 11 Sep 2026 15:19:25 GMT",
+    "etag": "W/\"2b9a4-65c98c8f5faa0\"",
+    "lastModified": "Tue, 29 Sep 2026 05:52:16 GMT",
     "contentHash": "4634ad8c7944cc4b212219ae1ae70f163f9542012b93c420d9a60b96002d0699"
   },
   {
@@ -67342,9 +67343,9 @@
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1708940736_doc_788_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:41+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:41+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:32+00:00",
     "coveredYears": [
       2023
     ],
@@ -67353,8 +67354,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"2ad4d-65b369c17dc78\"",
-    "lastModified": "Fri, 11 Sep 2026 15:19:25 GMT",
+    "etag": "W/\"2ad4d-65c98c8f68740\"",
+    "lastModified": "Tue, 29 Sep 2026 05:52:16 GMT",
     "contentHash": "b8a5e1048c1ac4fa72a3bf331bdcf8c165854e4497cf48ee2a53a42d48f05abb"
   },
   {
@@ -67362,9 +67363,9 @@
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1651467620_doc_47_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:41+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:41+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:32+00:00",
     "coveredYears": [
       2022
     ],
@@ -67373,8 +67374,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"16016-65b369c185590\"",
-    "lastModified": "Fri, 11 Sep 2026 15:19:25 GMT",
+    "etag": "W/\"16016-65c98c8f76db8\"",
+    "lastModified": "Tue, 29 Sep 2026 05:52:16 GMT",
     "contentHash": "6b76076b1f8cca821d8c2b5ae7001ce1920d83bf91359a3a3bc7e43b7d857d53"
   },
   {
@@ -67397,9 +67398,9 @@
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1776401803_doc_621_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:42+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:42+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:33+00:00",
     "coveredYears": [
       2025
     ],
@@ -67410,16 +67411,16 @@
     "active": true,
     "etag": "W/\"30e4e-64fa3863dd270\"",
     "lastModified": "Fri, 17 Apr 2026 08:13:30 GMT",
-    "contentHash": "146c81ebbe29939d2917610013151bd6a1351d5a77bd3e19784701d7f750bfdd"
+    "contentHash": null
   },
   {
     "id": "6c0a9fe44f1fc3a9",
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1745562713_doc_788_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:43+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:43+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:34+00:00",
     "coveredYears": [
       2024
     ],
@@ -67430,16 +67431,16 @@
     "active": true,
     "etag": "W/\"2ed1a-64fa3863e6ac8\"",
     "lastModified": "Fri, 17 Apr 2026 08:13:30 GMT",
-    "contentHash": "98f55e1e0189751d79010538c4fee17cb40c7eeb8a325ee2c50b3f2a6081d8ea"
+    "contentHash": null
   },
   {
     "id": "d81f152f395ad0f6",
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1712212719_doc_788_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:43+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:43+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:34+00:00",
     "coveredYears": [
       2023
     ],
@@ -67450,16 +67451,16 @@
     "active": true,
     "etag": "W/\"3011e-64fa3863f5cf8\"",
     "lastModified": "Fri, 17 Apr 2026 08:13:30 GMT",
-    "contentHash": "eb0741ce4606792af4ca322f6cd8e4fe03e1c2e5255d3b7443074d19a78c3c84"
+    "contentHash": null
   },
   {
     "id": "ec5ba823b378bd78",
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1681909340_doc_346_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:44+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:44+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:35+00:00",
     "coveredYears": [
       2022
     ],
@@ -67470,16 +67471,16 @@
     "active": true,
     "etag": "W/\"2ef72-64fa3863ff168\"",
     "lastModified": "Fri, 17 Apr 2026 08:13:30 GMT",
-    "contentHash": "1316e10c2a9ae72c7db073427ab8a4d6a00d90d578c0864e0ef0e57c1588f02e"
+    "contentHash": null
   },
   {
     "id": "abd7a5a60c265312",
     "municipalityCode": "082261",
     "url": "https://www.city.naka.lg.jp/data/doc/1633417639_doc_616_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T16:35:45+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:45+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:35+00:00",
     "coveredYears": [
       2021
     ],
@@ -67490,16 +67491,16 @@
     "active": true,
     "etag": "W/\"1eb10-64fa3864085d8\"",
     "lastModified": "Fri, 17 Apr 2026 08:13:30 GMT",
-    "contentHash": "b950fc6cdb4714d96bd36778d1a9f26e63e83d8d5b2d3fc2722c3c19526e1b47"
+    "contentHash": null
   },
   {
     "id": "44f55353878222e3",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/gyousei/sangyoubusiness/nyuusatsukeiyaku/nyuusatu/nyusatsukekkanokohyo/001252.html",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-13T16:35:47+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T16:35:47+00:00",
+    "lastFailureAt": "2026-10-07T21:31:37+00:00",
+    "nextCrawlAt": "2026-10-08T09:31:37+00:00",
     "coveredYears": [
       2015,
       2016
@@ -67511,16 +67512,17 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "c1715a56031704d8214229e576f39d61b6042e3509a29e0e8a7bcbe901bdaabb"
+    "contentHash": "c1715a56031704d8214229e576f39d61b6042e3509a29e0e8a7bcbe901bdaabb",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/gyousei/sangyoubusiness/nyuusatsukeiyaku/nyuusatu/nyusatsukekkanokohyo/001252.html"
   },
   {
     "id": "5109ec87d37ecead",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4554f34da2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T19:38:22+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T19:38:22+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:37+00:00",
     "coveredYears": [
       2011
     ],
@@ -67531,16 +67533,16 @@
     "active": true,
     "etag": "\"13744-5b63db2b4b1c0\"",
     "lastModified": "Sat, 12 Dec 2020 05:29:51 GMT",
-    "contentHash": "22eff75636467498c1ed15a00fb660e0dceef2eada58b8c40ec62bcf8d68d275"
+    "contentHash": null
   },
   {
     "id": "b45bd441264707a7",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4554f6e0a8.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T19:38:23+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T19:38:23+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:38+00:00",
     "coveredYears": [
       2011
     ],
@@ -67551,16 +67553,16 @@
     "active": true,
     "etag": "\"943e-5b63db2b4b1c0\"",
     "lastModified": "Sat, 12 Dec 2020 05:29:51 GMT",
-    "contentHash": "3c2c054b7aaf9e3dace9f97b50c904a391df26ef5c05344f990374d1cc7aac2c"
+    "contentHash": null
   },
   {
     "id": "d3cbebb84daf1684",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4554f8ad4c.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T19:38:23+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T19:38:23+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:39+00:00",
     "coveredYears": [
       2011
     ],
@@ -67571,16 +67573,16 @@
     "active": true,
     "etag": "\"8f10-5b63db2b4b1c0\"",
     "lastModified": "Sat, 12 Dec 2020 05:29:51 GMT",
-    "contentHash": "636d81bbbc4aa6fa1d38cd88e1d8367fc879d1fd328f4cfcc5fecf80851834b6"
+    "contentHash": null
   },
   {
     "id": "6c4d9e525d650399",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4554fb3bc2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T19:38:24+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T19:38:24+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:39+00:00",
     "coveredYears": [
       2011
     ],
@@ -67591,16 +67593,16 @@
     "active": true,
     "etag": "\"c667-5b63db2b4b1c0\"",
     "lastModified": "Sat, 12 Dec 2020 05:29:51 GMT",
-    "contentHash": "0510b0402e56ddf53a519de244295b9108aad483c2660a3961b8d897dc18499c"
+    "contentHash": null
   },
   {
     "id": "bead3c21c6c25083",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd455500725b.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-13T19:38:24+00:00",
+    "lastSuccessAt": "2026-10-07T21:31:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-16T19:38:24+00:00",
+    "nextCrawlAt": "2026-10-10T21:31:40+00:00",
     "coveredYears": [
       2010,
       2011
@@ -67612,7 +67614,7 @@
     "active": true,
     "etag": "\"110af-5b63db2c3f400\"",
     "lastModified": "Sat, 12 Dec 2020 05:29:52 GMT",
-    "contentHash": "b6c677ede8e80564d782da4997690617aaf7021b11ee827d050293a57489cb8f"
+    "contentHash": null
   },
   {
     "id": "41b3d28ffd599f91",
@@ -85522,7 +85524,7 @@
       2024
     ],
     "sourceType": "result",
-    "title": "令和6年度　入札結果等のページ 感染症対策課",
+    "title": "令和6年度　入札結果等のページ",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
@@ -119900,6 +119902,191 @@
     "sourceType": "result",
     "title": "落札者の公示について（クロロフィル測定装置（８備出１６））",
     "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "887803e19ca32a25",
+    "municipalityCode": "472085",
+    "url": "https://www.city.urasoe.lg.jp/doc/2026080600112/",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-07T21:31:20+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-10T21:31:20+00:00",
+    "coveredYears": [
+      2026
+    ],
+    "sourceType": "result",
+    "title": "（10／５　選定結果追加）【公告】令和８年度春季キャンプ誘客シャトルバス運行及び安全誘導対策業務委託に係る企画提案の募集について",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "W/\"6ac34b5a-7dfa\"",
+    "lastModified": "Mon, 05 Oct 2026 07:01:46 GMT",
+    "contentHash": "4571e801594ab6dcc592c7b953034b991ab71d173c29d088c8a333a73a0bf1ce"
+  },
+  {
+    "id": "ca6cebe3cc53c064",
+    "municipalityCode": "473014",
+    "url": "https://www.vill.kunigami.okinawa.jp/kunigami-village/wp-content/uploads/2026/08/3ecd13ea2390a3692bfd204c4bc8192e-4.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "国頭村公告第35号",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "6145a6fc16d903fd",
+    "municipalityCode": "300004",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/061000/d00222767_d/fil/01jisshiyoko.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "01 実施要項",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "88c9e231e9831b91",
+    "municipalityCode": "300004",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/061000/d00222767_d/fil/02siyosho.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "02 仕様書",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "1d809b2dd25baaad",
+    "municipalityCode": "300004",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/061000/d00222767_d/fil/09hyokakijyun.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "09 提案書評価基準",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "25f6c5efad91e379",
+    "municipalityCode": "300004",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/061000/d00222767_d/fil/kaito.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "質問に対する回答",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "716ecf7feb294b25",
+    "municipalityCode": "300004",
+    "url": "https://www.pref.wakayama.lg.jp/prefg/061000/d00222767_d/fil/sankousiryo.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "（参考資料）アンビエンテジャパンスタイル出展のご案内",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "e454b7d672eb73e3",
+    "municipalityCode": "472085",
+    "url": "https://www.city.urasoe.lg.jp/doc/2026080600112/file_contents/file_2026810195343_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "１　公告",
+    "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "b19b19581689a49b",
+    "municipalityCode": "472085",
+    "url": "https://www.city.urasoe.lg.jp/doc/2026080600112/file_contents/file_2026810195352_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "２　公募要領",
+    "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "2fd6ddbca20dad00",
+    "municipalityCode": "472085",
+    "url": "https://www.city.urasoe.lg.jp/doc/2026080600112/file_contents/file_2026810195413_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "別紙１　事業概況書",
+    "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "dce1abf5f4d1b93f",
+    "municipalityCode": "472085",
+    "url": "https://www.city.urasoe.lg.jp/doc/2026080600112/file_contents/file_2026810195420_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "別紙２　公園全体図",
+    "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "0639e202c8b244c9",
+    "municipalityCode": "472085",
+    "url": "https://www.city.urasoe.lg.jp/doc/2026080600112/file_contents/file_2026810195427_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "別紙３　安全誘導員配置予定",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   }
