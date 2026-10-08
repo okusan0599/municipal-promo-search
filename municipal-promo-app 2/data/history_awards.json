@@ -28797,5 +28797,28 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-06T20:30:22+00:00"
+  },
+  {
+    "dedupeKey": "f7f7569220024003ac0f1be894851a600c075886c3d2413618fb6233925fcb2a",
+    "id": "award-ff1538142b710193abf11817",
+    "municipalityCode": "032034",
+    "area": "東北",
+    "region": "岩手県",
+    "municipality": "大船渡市",
+    "organization": "大船渡市",
+    "title": "外国人観光客誘客促進業務 2 選定結果",
+    "vendor": "株式会社オマツリジャパン 次点交渉権者 stosdesign株式会社",
+    "awardDate": "2026-10-01",
+    "year": 2026,
+    "sourceUrl": "https://www.city.ofunato.iwate.jp/archive/p20261003083304",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [
+      "tourism_place_branding"
+    ],
+    "dentsuCategoryLabels": [
+      "観光・地域ブランディング"
+    ],
+    "lastChecked": "2026-10-08T02:12:03+00:00"
   }
 ]
