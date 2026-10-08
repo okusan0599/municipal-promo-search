@@ -18914,7 +18914,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果一覧",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -68815,9 +68815,9 @@
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/97/20240805-155135.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:32+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:32+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:46+00:00",
     "coveredYears": [
       2023
     ],
@@ -68827,7 +68827,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Tue, 14 Jul 2026 04:25:02 GMT",
+    "lastModified": "Tue, 06 Oct 2026 00:13:40 GMT",
     "contentHash": "2a69c07e7b8113a585e98cc1162df27f64447f2a0ac2c26f578155611c727b4f"
   },
   {
@@ -69015,9 +69015,9 @@
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/748/20240628-173105.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:34+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:34+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:46+00:00",
     "coveredYears": [
       2024
     ],
@@ -69028,16 +69028,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 05 Sep 2025 01:13:52 GMT",
-    "contentHash": "6c44402aae1969cd05d7c585ab5a7c83f30d1c5172d34a126b3983aa75f618fd"
+    "contentHash": null
   },
   {
     "id": "c37169862a3ef802",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/748/20230327-092123.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:35+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:35+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:47+00:00",
     "coveredYears": [
       2023
     ],
@@ -69048,16 +69048,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 05 Sep 2025 01:13:53 GMT",
-    "contentHash": "82a6ebf6a83eb8845aed4b9a49e4dbc896683f9140f880d913b17fa6081fc403"
+    "contentHash": null
   },
   {
     "id": "0f65abc4425b4d7f",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/748/20220920-161141.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:36+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:36+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:48+00:00",
     "coveredYears": [
       2022
     ],
@@ -69068,16 +69068,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 05 Sep 2025 01:13:54 GMT",
-    "contentHash": "f0cb90f9fa335dfa6b8792bce055f88bceedece6783b1a1f8c17bd6d290169fa"
+    "contentHash": null
   },
   {
     "id": "c7989ebfdaf3babf",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/748/2Book1_2020070715162854.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:37+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:37+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:49+00:00",
     "coveredYears": [
       2020
     ],
@@ -69088,16 +69088,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 05 Sep 2025 01:13:55 GMT",
-    "contentHash": "bf188bffbf6cecc9c9258e6ead7094323e4fcc95518c573eb5a6d0fe15d71a90"
+    "contentHash": null
   },
   {
     "id": "94a863ed2bea65aa",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/748/20200401-165621.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:39+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:39+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:50+00:00",
     "coveredYears": [
       2020
     ],
@@ -69108,16 +69108,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 05 Sep 2025 01:13:55 GMT",
-    "contentHash": "d2f6f0d2d498417192bd2dcf25928a226e42e71c2b691566ab47c0b0d5cc29b9"
+    "contentHash": null
   },
   {
     "id": "a3c6a08a4360fc44",
     "municipalityCode": "264075",
     "url": "https://www.town.kyotamba.kyoto.jp/material/files/group/12/senteikekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:40+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:40+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:51+00:00",
     "coveredYears": [
       2012
     ],
@@ -69128,7 +69128,7 @@
     "active": true,
     "etag": "\"61c2d2ec-9903\"",
     "lastModified": "Wed, 22 Dec 2021 07:25:32 GMT",
-    "contentHash": "095d6b3cf13bf404ae22de9ad42969af9f9fe5c154c413b0e5bcc0c16a5d79db"
+    "contentHash": null
   },
   {
     "id": "a2f95954352ae776",
@@ -69150,9 +69150,9 @@
     "municipalityCode": "264075",
     "url": "https://www.town.kyotamba.kyoto.jp/material/files/group/12/rakusatsukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:42+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:42+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:52+00:00",
     "coveredYears": [
       2013
     ],
@@ -69163,106 +69163,106 @@
     "active": true,
     "etag": "\"61c2d2ee-27642\"",
     "lastModified": "Wed, 22 Dec 2021 07:25:34 GMT",
-    "contentHash": "209c326ff0dcfc62e39bf6d4bcb024f05bf8dca25b97fa4e6e9b53e4c132676d"
+    "contentHash": null
   },
   {
     "id": "5e032b3910529789",
     "municipalityCode": "272051",
     "url": "https://www.city.suita.osaka.jp/sangyo/1017983/1017994/1004130.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:44+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:44+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:54+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "総務部　随意契約結果公表",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"a55c-65b670278cd61\"",
-    "lastModified": "Mon, 14 Sep 2026 01:04:01 GMT",
-    "contentHash": "f0e4411dd7200bbe114b910128e91a70d65242d8ebde5c553b9a6a89b370ba7e"
+    "etag": "\"a55c-65d559c96dac6\"",
+    "lastModified": "Thu, 08 Oct 2026 15:09:00 GMT",
+    "contentHash": "7bf2bb3797ba43e81de58a557dcf968d19a2ec081973fcaf2849d152c2983058"
   },
   {
     "id": "8cb1f57ace1ec7e9",
     "municipalityCode": "272051",
     "url": "https://www.city.suita.osaka.jp/sangyo/1017983/1017994/1004131.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:44+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:44+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:55+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "行政経営部　随意契約結果公表",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"a529-65b670278f859\"",
-    "lastModified": "Mon, 14 Sep 2026 01:04:01 GMT",
-    "contentHash": "6122328ad179c97722f202c4a0b71081cc1d2155b5d238f5c4187fea84cec189"
+    "etag": "\"a529-65d559c9709a6\"",
+    "lastModified": "Thu, 08 Oct 2026 15:09:01 GMT",
+    "contentHash": "59dd94952c002a35b25cfd38f13416d7f2971f6d96f0b70431ad91c409537199"
   },
   {
     "id": "aa74c3883ab4d189",
     "municipalityCode": "272051",
     "url": "https://www.city.suita.osaka.jp/sangyo/1017983/1017994/1004132.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:45+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:45+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:55+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "税務部　随意契約結果公表",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"a573-65b670279273a\"",
-    "lastModified": "Mon, 14 Sep 2026 01:04:01 GMT",
-    "contentHash": "8f4dacc78d00b55774a78d0234e5dcd1d278db5fbf100993f8f58c6e1f3d5d9c"
+    "etag": "\"a573-65d559c97349e\"",
+    "lastModified": "Thu, 08 Oct 2026 15:09:01 GMT",
+    "contentHash": "53577e0fe8545f35b4c02c98a10b0c692de3b5450f2d79ec4806a6c82bfdc7c0"
   },
   {
     "id": "6c7073f25fd0a77c",
     "municipalityCode": "272051",
     "url": "https://www.city.suita.osaka.jp/sangyo/1017983/1017994/1004133.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:46+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:46+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:56+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "市民部　随意契約結果公表",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"a504-65b670279561a\"",
-    "lastModified": "Mon, 14 Sep 2026 01:04:01 GMT",
-    "contentHash": "cc514430022264a9de8c81f1a5273b77d444019c1603d4c30c237b77faf6a37a"
+    "etag": "\"a504-65d559c97637e\"",
+    "lastModified": "Thu, 08 Oct 2026 15:09:01 GMT",
+    "contentHash": "3ace11e56169ec0dcc40b99760136125002cb91282a6833c0675bf9d06a5adeb"
   },
   {
     "id": "ee831ecd8e4dfc49",
     "municipalityCode": "272051",
     "url": "https://www.city.suita.osaka.jp/sangyo/1017983/1017994/1004134.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:47+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:47+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:57+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "都市魅力部　随意契約結果公表",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"a5cb-65b670279b7c2\"",
-    "lastModified": "Mon, 14 Sep 2026 01:04:01 GMT",
-    "contentHash": "b9562946030c67838498444dd856ed640ffff49295cd91b39eec2b51b4d9bd0c"
+    "etag": "\"a5cb-65d559c97c13f\"",
+    "lastModified": "Thu, 08 Oct 2026 15:09:01 GMT",
+    "contentHash": "ca1583483ad597097df4672c0f51aee78e0331b9582726e451c9f3acd62a8b83"
   },
   {
     "id": "43ca6db087b5a1a5",
     "municipalityCode": "272051",
     "url": "https://www.city.suita.osaka.jp/_res/projects/default_project/_page_/001/017/994/2026060401.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:49+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:49+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:57+00:00",
     "coveredYears": [
       2026
     ],
@@ -69273,16 +69273,16 @@
     "active": true,
     "etag": "\"1673dd-65366aac3eb40\"",
     "lastModified": "Thu, 04 Jun 2026 05:17:57 GMT",
-    "contentHash": "e6359e59d3f95ab8e8fe945b8ce36aad9580036d9f22e93e6f787873f6b6313b"
+    "contentHash": null
   },
   {
     "id": "f7f05cbb876f62fc",
     "municipalityCode": "272124",
     "url": "https://www.city.yao.osaka.jp/sangyou_business/nyuusatsu_keiyaku/1016268/1011737.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:50+00:00",
+    "lastSuccessAt": "2026-10-08T16:42:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:50+00:00",
+    "nextCrawlAt": "2026-10-11T16:42:59+00:00",
     "coveredYears": [
       2025
     ],
@@ -69291,8 +69291,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"cb4b-65b66605996a0\"",
-    "lastModified": "Mon, 14 Sep 2026 00:18:41 GMT",
+    "etag": "\"cb4b-65d55bfd5e599\"",
+    "lastModified": "Thu, 08 Oct 2026 15:18:52 GMT",
     "contentHash": "8b5f7f68cee6bacd408e8683750b13915edd7f9101e4ca2c24b5169e030f262b"
   },
   {
@@ -69300,9 +69300,9 @@
     "municipalityCode": "272124",
     "url": "https://www.city.yao.osaka.jp/sangyou_business/nyuusatsu_keiyaku/1016268/1011790.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:51+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:51+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:00+00:00",
     "coveredYears": [
       2025
     ],
@@ -69311,8 +69311,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"c9c6-65b6660559ef8\"",
-    "lastModified": "Mon, 14 Sep 2026 00:18:41 GMT",
+    "etag": "\"c9c6-65d55bfd26eda\"",
+    "lastModified": "Thu, 08 Oct 2026 15:18:52 GMT",
     "contentHash": "08376ed246d62cc7440f3980c3eddec76bc3d6b3c7cbbf764110eb9eb46e77fe"
   },
   {
@@ -69320,9 +69320,9 @@
     "municipalityCode": "272124",
     "url": "https://www.city.yao.osaka.jp/sangyou_business/nyuusatsu_keiyaku/1016268/1011905.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:52+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:52+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:01+00:00",
     "coveredYears": [
       2025
     ],
@@ -69331,8 +69331,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"c97f-65b66605dd0b1\"",
-    "lastModified": "Mon, 14 Sep 2026 00:18:41 GMT",
+    "etag": "\"c97f-65d55c00b0796\"",
+    "lastModified": "Thu, 08 Oct 2026 15:18:55 GMT",
     "contentHash": "f6526d4a2f45871102fe06028f9201082bf51ffeba9c83480e4bb701867cff70"
   },
   {
@@ -69340,9 +69340,9 @@
     "municipalityCode": "272124",
     "url": "https://www.city.yao.osaka.jp/sangyou_business/nyuusatsu_keiyaku/1016268/1012078.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:52+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:52+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:02+00:00",
     "coveredYears": [
       2025
     ],
@@ -69351,8 +69351,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"c669-65b6660624172\"",
-    "lastModified": "Mon, 14 Sep 2026 00:18:42 GMT",
+    "etag": "\"c669-65d55c00fb2f0\"",
+    "lastModified": "Thu, 08 Oct 2026 15:18:56 GMT",
     "contentHash": "ccaa39e5df9e93465c6733c03699f1c40832a54e852d44c360c8d68e4038bdc4"
   },
   {
@@ -69360,9 +69360,9 @@
     "municipalityCode": "272124",
     "url": "https://www.city.yao.osaka.jp/sangyou_business/nyuusatsu_keiyaku/1016268/1012097.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:53+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:53+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:03+00:00",
     "coveredYears": [
       2025
     ],
@@ -69371,8 +69371,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"c615-65b66605c2ace\"",
-    "lastModified": "Mon, 14 Sep 2026 00:18:41 GMT",
+    "etag": "\"c615-65d55bfd81fed\"",
+    "lastModified": "Thu, 08 Oct 2026 15:18:52 GMT",
     "contentHash": "6022b3de7962ae55b9d207640c726f105ac1dcb40cdba851d1279ffc2408e12b"
   },
   {
@@ -69380,17 +69380,17 @@
     "municipalityCode": "272124",
     "url": "https://www.city.yao.osaka.jp/sangyou_business/nyuusatsu_keiyaku/1011662/1003088/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:54+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:54+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:03+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "【循環型社会推進課】入札結果等の情報",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"a891-65b665f66d035\"",
-    "lastModified": "Mon, 14 Sep 2026 00:18:25 GMT",
+    "etag": "\"a891-65d55bf0c5a3a\"",
+    "lastModified": "Thu, 08 Oct 2026 15:18:39 GMT",
     "contentHash": "ccb3f6fd1d5b8ab00d05db0547539d3c2c8c82ffc64fb8d8dc822a020c883713"
   },
   {
@@ -69398,17 +69398,17 @@
     "municipalityCode": "272124",
     "url": "https://www.city.yao.osaka.jp/sangyou_business/nyuusatsu_keiyaku/1011662/1008819/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:54+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:54+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:04+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "【環境保全課】入札結果等の情報",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"ce46-65b665f43619b\"",
-    "lastModified": "Mon, 14 Sep 2026 00:18:23 GMT",
+    "etag": "\"ce46-65d55beb2a0c1\"",
+    "lastModified": "Thu, 08 Oct 2026 15:18:33 GMT",
     "contentHash": "9fc958767e584b3534eb1d1aa2e5de04885502d851983d0ba77272855ba7f470"
   },
   {
@@ -69416,17 +69416,17 @@
     "municipalityCode": "272124",
     "url": "https://www.city.yao.osaka.jp/sangyou_business/nyuusatsu_keiyaku/1011662/1008824/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:55+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:55+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:05+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "【教育政策課】入札結果等の情報",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"a267-65b665f8aac30\"",
-    "lastModified": "Mon, 14 Sep 2026 00:18:27 GMT",
+    "etag": "\"a267-65d55bf35cbef\"",
+    "lastModified": "Thu, 08 Oct 2026 15:18:41 GMT",
     "contentHash": "85ab5f5eacd0bcb8afd5e338648f7ac6b8ab97c172325c56aeb0b411c214082d"
   },
   {
@@ -69434,17 +69434,17 @@
     "municipalityCode": "272124",
     "url": "https://www.city.yao.osaka.jp/sangyou_business/nyuusatsu_keiyaku/1011662/1008865/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:56+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:56+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:05+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "【市民課】入札結果等の情報",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"a503-65b665ec92b73\"",
-    "lastModified": "Mon, 14 Sep 2026 00:18:15 GMT",
+    "etag": "\"a503-65d55be777f90\"",
+    "lastModified": "Thu, 08 Oct 2026 15:18:29 GMT",
     "contentHash": "3e02cc1d6b01d521f4406beb25e1ac1a9e053b43dc1dd1683efb05429591d39f"
   },
   {
@@ -69452,9 +69452,9 @@
     "municipalityCode": "294268",
     "url": "https://www.town.koryo.nara.jp/0000007919.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:58+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:58+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:07+00:00",
     "coveredYears": [
       2026
     ],
@@ -69464,17 +69464,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 13 Sep 2026 15:00:46 GMT",
-    "contentHash": "77b85c419e321802a000fa50c2e81dc24a3778892bfac4c6ad4ef6462044b510"
+    "lastModified": "Thu, 08 Oct 2026 15:00:46 GMT",
+    "contentHash": "75563820232f1ab1be85c753a9472a6bcd3122bcfa21776da98ff1a7f7ddaefb"
   },
   {
     "id": "97090114ee8c6c61",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T01:19:58+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T01:19:58+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:08+00:00",
     "coveredYears": [
       2018
     ],
@@ -69483,9 +69483,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6a9e3c71-90c0\"",
-    "lastModified": "Mon, 07 Sep 2026 04:24:17 GMT",
-    "contentHash": "1107cf69e419f1eae0f933a4b80dfe4afb99595d18af68ac32efdcb571c4c414"
+    "etag": "\"6ac72810-90ea\"",
+    "lastModified": "Thu, 08 Oct 2026 05:20:16 GMT",
+    "contentHash": "1e7962749c9a37e168d1446582db50a5b06fe01aa708c0391513517c9617ebd2"
   },
   {
     "id": "00aaf973eaf421f0",
@@ -69747,9 +69747,9 @@
     "municipalityCode": "112011",
     "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/011/717/nyusatsukekka_r7-12.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T06:32:00+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T06:32:00+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:08+00:00",
     "coveredYears": [
       2025
     ],
@@ -69760,16 +69760,16 @@
     "active": true,
     "etag": "\"46556-6486844dcd613\"",
     "lastModified": "Thu, 15 Jan 2026 07:35:29 GMT",
-    "contentHash": "1a32569c51fe1bafcf0387189937aa87c27b9ebd6faffbc32d0865d05dc21eff"
+    "contentHash": null
   },
   {
     "id": "e039d181b339f59a",
     "municipalityCode": "112011",
     "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/011/718/kekka-02-all.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T06:32:02+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T06:32:02+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:09+00:00",
     "coveredYears": [
       2020
     ],
@@ -69780,16 +69780,16 @@
     "active": true,
     "etag": "\"3ea8e-61d7dd49647c0\"",
     "lastModified": "Thu, 18 Jul 2024 04:15:35 GMT",
-    "contentHash": "e1e226890d9b4faee5e95900e27825b0a17b603a9df9f4fdd011b0cfbbbad53b"
+    "contentHash": null
   },
   {
     "id": "915126b86bff0266",
     "municipalityCode": "112011",
     "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/011/718/kekka-03-all.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T06:32:03+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T06:32:03+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:10+00:00",
     "coveredYears": [
       2021
     ],
@@ -69800,16 +69800,16 @@
     "active": true,
     "etag": "\"727ac-61d7dd49647c0\"",
     "lastModified": "Thu, 18 Jul 2024 04:15:35 GMT",
-    "contentHash": "36ff6687847ed3314d0a6bdf6fc78dc1f3c25d9b8978cc041ad50d82678df24c"
+    "contentHash": null
   },
   {
     "id": "aa06950c796a6055",
     "municipalityCode": "112011",
     "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/011/718/kekka-04-all.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T06:32:04+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T06:32:04+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:11+00:00",
     "coveredYears": [
       2022
     ],
@@ -69820,16 +69820,16 @@
     "active": true,
     "etag": "\"3b7c7-61d7dd49647c0\"",
     "lastModified": "Thu, 18 Jul 2024 04:15:35 GMT",
-    "contentHash": "34bc3ec6f8a1fc94c3ee95b8726b42975789eea90e12d89feb3db3d7ee6a5f63"
+    "contentHash": null
   },
   {
     "id": "b7813b3d4f8e301d",
     "municipalityCode": "112011",
     "url": "https://www.city.kawagoe.saitama.jp/_res/projects/default_project/_page_/001/011/718/kekka-05-all.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-14T06:32:05+00:00",
+    "lastSuccessAt": "2026-10-08T16:43:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-17T06:32:05+00:00",
+    "nextCrawlAt": "2026-10-11T16:43:12+00:00",
     "coveredYears": [
       2023
     ],
@@ -69840,7 +69840,7 @@
     "active": true,
     "etag": "\"4259e-61d7dd49647c0\"",
     "lastModified": "Thu, 18 Jul 2024 04:15:35 GMT",
-    "contentHash": "7abbdcce04b912992fe22f9ed3e084562ba544da84c1162fa8ed027c6b38a8fb"
+    "contentHash": null
   },
   {
     "id": "8fac28d1a02eb94d",
