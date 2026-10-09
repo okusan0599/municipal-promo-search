@@ -1,15 +1,15 @@
 {
   "state": "completed",
-  "started_at": "2026-10-08T22:09:27+00:00",
-  "updated_at": "2026-10-08T22:19:14+00:00",
+  "started_at": "2026-10-09T02:15:18+00:00",
+  "updated_at": "2026-10-09T02:23:21+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 114,
     "status": {
       "state": "completed",
-      "started_at": "2026-10-08T22:09:27+00:00",
-      "updated_at": "2026-10-08T22:09:35+00:00",
+      "started_at": "2026-10-09T02:15:19+00:00",
+      "updated_at": "2026-10-09T02:15:26+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
@@ -24,29 +24,29 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 84,
-    "failed": 16,
+    "succeeded": 79,
+    "failed": 21,
     "sourcesAdded": 0,
-    "historySourcesAdded": 8
+    "historySourcesAdded": 27
   },
   "direct": {
     "processed": 50,
     "succeeded": 47,
     "failed": 3,
-    "projects": 209,
-    "unchanged": 8,
-    "historySourcesAdded": 154
+    "projects": 189,
+    "unchanged": 9,
+    "historySourcesAdded": 127
   },
   "history": {
     "processed": 30,
-    "succeeded": 30,
-    "failed": 0,
+    "succeeded": 27,
+    "failed": 3,
     "awards": 1,
-    "documents": 44,
-    "unchanged": 5
+    "documents": 12,
+    "unchanged": 15
   },
-  "statusNormalized": 0,
-  "historyLinkedProjects": 22,
+  "statusNormalized": 30,
+  "historyLinkedProjects": 0,
   "coverage": {
     "municipalities": 1788,
     "municipalitiesVisited": 1787,
@@ -55,7 +55,7 @@
     "sources": 6885,
     "projects": 4390,
     "projectsWithDeadline": 1038,
-    "historySources": 6994,
+    "historySources": 6995,
     "historyMunicipalities": 511,
     "historyAwards": 1553,
     "historyLinkedProjects": 469
@@ -68,7 +68,7 @@
     "sources": 6885,
     "projects": 4390,
     "projectsWithDeadline": 1038,
-    "historySources": 6994,
+    "historySources": 6995,
     "historyMunicipalities": 511,
     "historyAwards": 1553,
     "historyLinkedProjects": 469,
