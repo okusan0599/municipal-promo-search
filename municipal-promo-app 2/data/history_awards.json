@@ -17675,7 +17675,7 @@
   },
   {
     "dedupeKey": "4ac02a41ea1d8fa56bf66779f11ba1858b0931dc339b50eca1b773b2736c7586",
-    "id": "award-06b0bcea09499d182d9e24cd",
+    "id": "award-9b2ab92542dae618f0d15845",
     "municipalityCode": "322091",
     "area": "中国",
     "region": "島根県",
@@ -17685,12 +17685,12 @@
     "vendor": "の決定) 2026年6月23日 雲南市建設工事および測量・設計等業務入札結果一覧【令和7年度】 2026年1月30日 雲南市キャリアアドバイザー業務委託に関する公募型プロポーザル",
     "awardDate": "2026-07-21",
     "year": 2025,
-    "sourceUrl": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/index.html",
+    "sourceUrl": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/",
     "sourceSystem": "municipality_result",
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-30T16:06:55+00:00"
+    "lastChecked": "2026-10-09T09:25:24+00:00"
   },
   {
     "dedupeKey": "b7804a316c8949cbba9ca6926965a90ff98b748fc7af41b5600e879d504e7abf",
@@ -22629,7 +22629,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-14T19:35:12+00:00"
+    "lastChecked": "2026-10-09T09:25:23+00:00"
   },
   {
     "dedupeKey": "3a3c4ed42155739b6eea2bf2933ae09ec2e09c7b91151b1cd8622dd95e42c627",
@@ -28839,5 +28839,28 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-08T09:14:31+00:00"
+  },
+  {
+    "dedupeKey": "a7fb06b67374e18b14a8e130fdf7e1ae988d78fb212b96acc636a27d35ea1f6a",
+    "id": "award-dfc6f144975599dc0f737167",
+    "municipalityCode": "141003",
+    "area": "南関東",
+    "region": "神奈川県",
+    "municipality": "横浜市",
+    "organization": "横浜市",
+    "title": "都心臨海部における象徴的なみどり空間の創出基本計画等検討業務委託 プロポーザル結果 契約結果(PDF:397KB) 発注情報 公告日 2026年6月12日 参加資格 種目(委託)",
+    "vendor": "令和８年９月上旬頃",
+    "awardDate": "2026-08-26",
+    "year": 2026,
+    "sourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/toshi/syouchoumidori.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [
+      "consulting_strategy"
+    ],
+    "dentsuCategoryLabels": [
+      "コンサル・戦略策定"
+    ],
+    "lastChecked": "2026-10-09T09:24:58+00:00"
   }
 ]
