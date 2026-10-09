@@ -22652,7 +22652,7 @@
     "dentsuCategoryLabels": [
       "コンサル・戦略策定"
     ],
-    "lastChecked": "2026-09-14T23:21:27+00:00"
+    "lastChecked": "2026-10-09T16:30:11+00:00"
   },
   {
     "dedupeKey": "0af415c9470d12c2d02dd263940d4674bc915e4e88918afc2a080a57149bc10e",
@@ -28862,5 +28862,48 @@
       "コンサル・戦略策定"
     ],
     "lastChecked": "2026-10-09T09:24:58+00:00"
+  },
+  {
+    "dedupeKey": "c24f3d7ac58106371944d32cb3a93691a42a13eb91f15f1ca72eac532c391ba4",
+    "id": "award-419c188ab4a9db93f0346b78",
+    "municipalityCode": "141003",
+    "area": "南関東",
+    "region": "神奈川県",
+    "municipality": "横浜市",
+    "organization": "横浜市",
+    "title": "都心臨海部における象徴的なみどり空間の創出基本計画等検討業務委託 2 委託内容 (1) 都市のみどりのコンセプト(理念・あり方)の検討 (2) 赤レンガパークにおける基本計画の策定 (3) 高島中央公園における基本計画の策定 (4) 関係者調整の支援 (5) 概算事業費及び事業スケジュールの検討 (6) 成果品の作成 3 契約の相手方 株式会社日建設計 東京オフィス 4",
+    "vendor": "を特定し、次のとおり契約しました。 ※上位5位までは1次評価、2次評価の合計点数、6位以下は、1次評価のみの",
+    "amount": 2899.6,
+    "awardDate": "2026-09-24",
+    "year": 2026,
+    "sourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/toshi/syouchoumidori.files/keiyakukekka.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [
+      "consulting_strategy"
+    ],
+    "dentsuCategoryLabels": [
+      "コンサル・戦略策定"
+    ],
+    "lastChecked": "2026-10-09T16:29:54+00:00"
+  },
+  {
+    "dedupeKey": "69cb9b500931a633e97439c82868b1850afb780b3eace88ccff3dd2c723170aa",
+    "id": "award-fc97a6005e4dfc49376f8652",
+    "municipalityCode": "173843",
+    "area": "北陸",
+    "region": "石川県",
+    "municipality": "志賀町",
+    "organization": "志賀町",
+    "title": "審査結果及び優先交渉者の決定について [PDFファイル/70KB]",
+    "vendor": "の決定について 志賀町「道の駅とぎ海街道(仮称)」管理運営等計画策定業務に係る公募型プロポーザ ルについて、令和8年10月6日に審査委員会を開催し、参加表明した2者の企画提案書 及びプレゼンテーション等の審査を行いました。 この",
+    "awardDate": "2026-10-06",
+    "year": 2026,
+    "sourceUrl": "https://www.town.shika.lg.jp/uploaded/attachment/7319.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-09T16:29:56+00:00"
   }
 ]
