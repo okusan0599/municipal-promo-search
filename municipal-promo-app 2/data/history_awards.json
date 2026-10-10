@@ -24066,7 +24066,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-15T18:24:27+00:00"
+    "lastChecked": "2026-10-10T20:16:26+00:00"
   },
   {
     "dedupeKey": "88a3fdc2fd75bf266cda8bb176125f92b340f07c2942e1de559805249db33594",
@@ -24085,7 +24085,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-15T18:24:28+00:00"
+    "lastChecked": "2026-10-10T20:16:27+00:00"
   },
   {
     "dedupeKey": "8ac59979c1885a9a94a53e787ad46d31d328ac790d477753ccb5c87a5bd34dcd",
@@ -24104,7 +24104,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-15T18:24:29+00:00"
+    "lastChecked": "2026-10-10T20:16:27+00:00"
   },
   {
     "dedupeKey": "5306ae26b2e4aa1a6581b4f807af437c81af4ef0fd8fa49609c9814ab659da4f",
@@ -24122,7 +24122,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-15T18:24:29+00:00"
+    "lastChecked": "2026-10-10T20:16:28+00:00"
   },
   {
     "dedupeKey": "1ed25c0d8e63ab588e626030807c6b802de3f8e7ed2ecc67823f6ab7904ae6c6",
@@ -29000,5 +29000,28 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-10T08:45:21+00:00"
+  },
+  {
+    "dedupeKey": "66b5b00a59ff658bf72bce8edaea1b69a62a81076ff2ce0dde2281b5f9577161",
+    "id": "award-a5a867a5a3cf7b3355402cee",
+    "municipalityCode": "313840",
+    "area": "中国",
+    "region": "鳥取県",
+    "municipality": "日吉津村",
+    "organization": "日吉津村",
+    "title": "日吉津村公式ホームページ機能性向上業務 2 選定方法 業務提案書に基づき、提案者によるプレゼンテーションを実施 3 提案者数 7社 4",
+    "vendor": "として、 下記の者を選定したので公表 します。 1",
+    "awardDate": "2026-10-09",
+    "year": 2026,
+    "sourceUrl": "https://www.hiezu.jp/wp-content/uploads/2026/08/日吉津村公式ホームページ機能性向上業務選定結果について.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [
+      "web_app_service"
+    ],
+    "dentsuCategoryLabels": [
+      "Web・アプリ・デジタルサービス"
+    ],
+    "lastChecked": "2026-10-10T20:16:24+00:00"
   }
 ]
