@@ -39453,7 +39453,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"6a7519a4-aa3f\"",
@@ -40205,7 +40205,7 @@
     "nextCrawlAt": "2026-10-01T23:28:43+00:00",
     "coveredYears": [],
     "sourceType": "result",
-    "title": "随意契約結果（総務部） [2026年7月14日]",
+    "title": "随意契約結果（総務部） [2026年10月6日]",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
@@ -75754,9 +75754,9 @@
     "municipalityCode": "364894",
     "url": "https://www.town.higashimiyoshi.lg.jp/fs/6/3/0/8/6/2/_/%E4%BB%A4%E5%92%8C8%E5%B9%B41%E6%9C%8821%E6%97%A5%E9%96%8B%E6%9C%AD%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8(%E5%BB%BA%E8%A8%AD%E8%AA%B2).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T13:46:50+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T13:46:50+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:47+00:00",
     "coveredYears": [
       2026
     ],
@@ -75767,16 +75767,16 @@
     "active": true,
     "etag": "\"6a0d5450-248c8\"",
     "lastModified": "Wed, 20 May 2026 06:27:28 GMT",
-    "contentHash": "0b3f845ffdd9fe86d428ee4ab76d97e869317a70cf15249d14b23522a2e976c3"
+    "contentHash": null
   },
   {
     "id": "7111e6ea60f3fa99",
     "municipalityCode": "364894",
     "url": "https://www.town.higashimiyoshi.lg.jp/fs/6/3/0/8/6/1/_/%E4%BB%A4%E5%92%8C7%E5%B9%B412%E6%9C%8815%E6%97%A5%E9%96%8B%E6%9C%AD%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8(%E5%85%A5%E6%9C%AD%E5%BE%8C%E5%AF%A9%E6%9F%BB%E6%96%B9%E5%BC%8F%E4%B8%80%E8%88%AC%E7%AB%B6%E4%BA%89%E5%85%A5%E6%9C%AD(%E7%B7%8F%E5%90%88%E8%A9%95%E4%BE%A1%E8%90%BD%E6%9C%AD%E6%96%B9%E5%BC%8F)).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T13:46:51+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T13:46:51+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:47+00:00",
     "coveredYears": [
       2025
     ],
@@ -75787,16 +75787,16 @@
     "active": true,
     "etag": "\"6a0d544f-19a11\"",
     "lastModified": "Wed, 20 May 2026 06:27:27 GMT",
-    "contentHash": "1b4d7d0d88a96bfced2a7c6062c2e1afec93f9ef0b00457644c74288a6f6043e"
+    "contentHash": null
   },
   {
     "id": "97165648ccbf4c61",
     "municipalityCode": "364894",
     "url": "https://www.town.higashimiyoshi.lg.jp/fs/6/3/0/8/2/2/_/%E4%BB%A4%E5%92%8C8%E5%B9%B45%E6%9C%8820%E6%97%A5%E9%96%8B%E6%9C%AD%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8(%E5%BB%BA%E8%A8%AD%E8%AA%B2%E3%83%BB%E5%BB%BA%E8%A8%AD%E8%AA%B2%E5%9B%BD%E5%9C%9F%E8%AA%BF%E6%9F%BB%E4%BF%82%E3%83%BB%E7%92%B0%E5%A2%83%E8%AA%B2).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T13:46:52+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T13:46:52+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:48+00:00",
     "coveredYears": [
       2026
     ],
@@ -75807,16 +75807,16 @@
     "active": true,
     "etag": "\"6a0d0af0-2051e\"",
     "lastModified": "Wed, 20 May 2026 01:14:24 GMT",
-    "contentHash": "17a78a8562b247d5d76f40d3f292c261d39bebe1a10b8758466ecc02ae8470a8"
+    "contentHash": null
   },
   {
     "id": "6379eae1e6e27aab",
     "municipalityCode": "364894",
     "url": "https://www.town.higashimiyoshi.lg.jp/fs/6/3/1/9/1/8/_/%E4%BB%A4%E5%92%8C8%E5%B9%B46%E6%9C%884%E6%97%A5%E9%96%8B%E6%9C%AD%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8(%E5%BB%BA%E8%A8%AD%E8%AA%B2%E3%83%BB%E7%92%B0%E5%A2%83%E8%AA%B2%E3%83%BB%E7%94%9F%E6%B6%AF%E5%AD%A6%E7%BF%92%E8%AA%B2).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T13:46:52+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T13:46:52+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:49+00:00",
     "coveredYears": [
       2026
     ],
@@ -75827,16 +75827,16 @@
     "active": true,
     "etag": "\"6a20e5cd-29623\"",
     "lastModified": "Thu, 04 Jun 2026 02:41:17 GMT",
-    "contentHash": "0392d56486d86a461a22c12c99d37f5ae526223c99ce047543b260262f965196"
+    "contentHash": null
   },
   {
     "id": "53b150f141240664",
     "municipalityCode": "364894",
     "url": "https://www.town.higashimiyoshi.lg.jp/fs/6/3/5/8/4/0/_/%E4%BB%A4%E5%92%8C8%E5%B9%B47%E6%9C%8815%E6%97%A5%E9%96%8B%E6%9C%AD%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8(%E5%AD%A6%E6%A0%A1%E6%95%99%E8%82%B2%E8%AA%B2).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T13:46:53+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T13:46:53+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:49+00:00",
     "coveredYears": [
       2026
     ],
@@ -75847,16 +75847,16 @@
     "active": true,
     "etag": "\"6a5707fd-2113a\"",
     "lastModified": "Wed, 15 Jul 2026 04:09:33 GMT",
-    "contentHash": "338079ed2b442989ad17156b6748fd104d6ce3aa1ace07fb6b47c7fd26b23ad7"
+    "contentHash": null
   },
   {
     "id": "498c2665f1467ede",
     "municipalityCode": "364894",
     "url": "https://www.town.higashimiyoshi.lg.jp/fs/6/3/5/8/4/1/_/%E4%BB%A4%E5%92%8C8%E5%B9%B47%E6%9C%8815%E6%97%A5%E9%96%8B%E6%9C%AD%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8(%E7%A8%8E%E5%8B%99%E8%AA%B2%E3%83%BB%E7%B7%8F%E5%8B%99%E8%AA%B2%E3%83%BB%E7%92%B0%E5%A2%83%E8%AA%B2).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T13:46:54+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T13:46:54+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:50+00:00",
     "coveredYears": [
       2026,
       2027
@@ -75868,16 +75868,16 @@
     "active": true,
     "etag": "\"6a5707fd-256bb\"",
     "lastModified": "Wed, 15 Jul 2026 04:09:33 GMT",
-    "contentHash": "730fedd1cde4051357dc3644a1ad4ea2a8b9d1a534c1720e338798e3632eec3c"
+    "contentHash": null
   },
   {
     "id": "77b31b5fcce37024",
     "municipalityCode": "364894",
     "url": "https://www.town.higashimiyoshi.lg.jp/fs/6/3/8/7/4/1/_/%E4%BB%A4%E5%92%8C8%E5%B9%B48%E6%9C%8826%E6%97%A5%E9%96%8B%E6%9C%AD%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8(%E5%BB%BA%E8%A8%AD%E8%AA%B2).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T13:46:54+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T13:46:54+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:51+00:00",
     "coveredYears": [
       2026
     ],
@@ -75888,16 +75888,16 @@
     "active": true,
     "etag": "\"6a8e8725-2afba\"",
     "lastModified": "Wed, 26 Aug 2026 06:26:45 GMT",
-    "contentHash": "4194dbba82742ca0536957b2e345959cd0336d83bbef1a6d31783d4ae40aef9a"
+    "contentHash": null
   },
   {
     "id": "410609a463c7b655",
     "municipalityCode": "364894",
     "url": "https://www.town.higashimiyoshi.lg.jp/fs/6/3/9/1/5/9/_/%E4%BB%A4%E5%92%8C8%E5%B9%B48%E6%9C%8826%E6%97%A5%E9%96%8B%E6%9C%AD%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8(%E7%92%B0%E5%A2%83%E8%AA%B2%E3%83%BB%E5%AD%A6%E6%A0%A1%E6%95%99%E8%82%B2%E8%AA%B2).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T13:46:55+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T13:46:55+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:51+00:00",
     "coveredYears": [
       2026
     ],
@@ -75908,16 +75908,16 @@
     "active": true,
     "etag": "\"6a94e591-2a33d\"",
     "lastModified": "Mon, 31 Aug 2026 02:23:13 GMT",
-    "contentHash": "e82a9173920759e61e76e4535817368cce5a1b6e38f809f3834d382dbddaabbd"
+    "contentHash": null
   },
   {
     "id": "3d2c8357a655fc54",
     "municipalityCode": "372021",
     "url": "https://www.city.marugame.lg.jp/uploaded/life/45421_91729_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T13:46:56+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T13:46:56+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:53+00:00",
     "coveredYears": [
       2026
     ],
@@ -75927,7 +75927,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Tue, 15 Sep 2026 13:02:31 GMT",
+    "lastModified": "Sat, 10 Oct 2026 15:02:36 GMT",
     "contentHash": "00540aed2a3cefe61739c7291bc53da4a0e9b22894579e75258c3ef594c09b44"
   },
   {
@@ -75935,9 +75935,9 @@
     "municipalityCode": "372021",
     "url": "https://www.city.marugame.lg.jp/uploaded/life/45422_91731_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T13:46:57+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T13:46:57+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:53+00:00",
     "coveredYears": [
       2026
     ],
@@ -75947,7 +75947,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Tue, 15 Sep 2026 13:02:31 GMT",
+    "lastModified": "Sat, 10 Oct 2026 15:02:36 GMT",
     "contentHash": "6a884de25742186e1bf96e56b88a4d9e010edcbeb8670fa38e2dcf619dfefb62"
   },
   {
@@ -75955,9 +75955,9 @@
     "municipalityCode": "372021",
     "url": "https://www.city.marugame.lg.jp/uploaded/attachment/8783.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T13:46:58+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T13:46:58+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:54+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "選定結果書[PDFファイル／72KB]",
@@ -76123,9 +76123,9 @@
     "municipalityCode": "372021",
     "url": "https://www.city.marugame.lg.jp/uploaded/attachment/24067.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:15+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:15+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:55+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "6月契約締結分 [PDFファイル／122KB]",
@@ -76381,9 +76381,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/44113.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:17+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:17+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:56+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "審査結果はこちら [PDFファイル／51KB]",
@@ -76459,9 +76459,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/29417.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:17+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:17+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:57+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "審査結果 [PDFファイル／19KB]",
@@ -76537,9 +76537,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/28931.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:18+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:18+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:57+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "第2次審査実施要項 [PDFファイル／66KB]",
@@ -76555,9 +76555,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/14059.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:20+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:20+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:58+00:00",
     "coveredYears": [
       2016
     ],
@@ -76575,9 +76575,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/16071.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:20+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:20+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:59+00:00",
     "coveredYears": [
       2017
     ],
@@ -76595,9 +76595,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/18990.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:21+00:00",
+    "lastSuccessAt": "2026-10-10T15:33:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:21+00:00",
+    "nextCrawlAt": "2026-10-13T15:33:59+00:00",
     "coveredYears": [
       2018
     ],
@@ -76615,9 +76615,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/21517.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:22+00:00",
+    "lastSuccessAt": "2026-10-10T15:34:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:22+00:00",
+    "nextCrawlAt": "2026-10-13T15:34:00+00:00",
     "coveredYears": [
       2019
     ],
@@ -76635,9 +76635,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/24453.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:23+00:00",
+    "lastSuccessAt": "2026-10-10T15:34:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:23+00:00",
+    "nextCrawlAt": "2026-10-13T15:34:01+00:00",
     "coveredYears": [
       2020
     ],
@@ -76655,9 +76655,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/42739.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:23+00:00",
+    "lastSuccessAt": "2026-10-10T15:34:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:23+00:00",
+    "nextCrawlAt": "2026-10-13T15:34:01+00:00",
     "coveredYears": [
       2026
     ],
@@ -76675,9 +76675,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/43120.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:24+00:00",
+    "lastSuccessAt": "2026-10-10T15:34:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:24+00:00",
+    "nextCrawlAt": "2026-10-13T15:34:02+00:00",
     "coveredYears": [
       2026
     ],
@@ -76695,9 +76695,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/43457.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:24+00:00",
+    "lastSuccessAt": "2026-10-10T15:34:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:24+00:00",
+    "nextCrawlAt": "2026-10-13T15:34:02+00:00",
     "coveredYears": [
       2026
     ],
@@ -76715,9 +76715,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/43277.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:25+00:00",
+    "lastSuccessAt": "2026-10-10T15:34:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:25+00:00",
+    "nextCrawlAt": "2026-10-13T15:34:03+00:00",
     "coveredYears": [
       2026
     ],
@@ -76735,9 +76735,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/43483.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:26+00:00",
+    "lastSuccessAt": "2026-10-10T15:34:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:26+00:00",
+    "nextCrawlAt": "2026-10-13T15:34:04+00:00",
     "coveredYears": [
       2026
     ],
@@ -76755,9 +76755,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/14057.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-15T18:24:27+00:00",
+    "lastSuccessAt": "2026-10-10T15:34:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-18T18:24:27+00:00",
+    "nextCrawlAt": "2026-10-13T15:34:04+00:00",
     "coveredYears": [
       2016
     ],
@@ -120865,15 +120865,18 @@
     "municipalityCode": "362034",
     "url": "https://www.city.komatsushima.lg.jp/fs/6/4/2/0/8/1/_/%E5%AF%A9%E6%9F%BB%E7%B5%90%E6%9E%9C.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-10T15:33:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-10-13T15:33:41+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "審査結果 (PDF 33KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6ac35ef8-83d2\"",
+    "lastModified": "Mon, 05 Oct 2026 08:25:28 GMT",
+    "contentHash": "a9914a4126ebf4d27c42d965c47d161fcf0814c9d7d6228c2353ae02b9f414ae"
   },
   {
     "id": "5154a7265b84c68e",
@@ -120955,45 +120958,56 @@
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/material/files/group/2/R8_0929_53.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-10T15:33:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-10-13T15:33:43+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果53(PDFファイル:71.5KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6abc98ba-11dc2\"",
+    "lastModified": "Wed, 30 Sep 2026 05:06:02 GMT",
+    "contentHash": "6a8c166d4519bf0f112c548fb3f55c69da5399fe1f4400622e1226206269121a"
   },
   {
     "id": "e5fba42fcd158217",
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/material/files/group/2/R8_0929_54_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-10T15:33:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-10-13T15:33:44+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果54(PDFファイル:66KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6abc9a4b-107bc\"",
+    "lastModified": "Wed, 30 Sep 2026 05:12:43 GMT",
+    "contentHash": "38858fe78768d96e05122c929d018156824e7d0ad98188be9ee9b198ba3fb9c7"
   },
   {
     "id": "6f79403ec14b0efb",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/KekkaAList2026k/2026/KekkaAList2026/2026-09-24/1_00086.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-10T15:33:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-13T15:33:45+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年度 公園整備汚水管渠工事",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6ab4ac99-14b11\"",
+    "lastModified": "Thu, 24 Sep 2026 04:52:41 GMT",
+    "contentHash": "9ad3e2822a15e35471ecdf443335ba06a82c8d4193baddbb5553a505551bcc09"
   },
   {
     "id": "2269a5e9593bfaf7",
@@ -121037,6 +121051,81 @@
     "sourceType": "result_pdf",
     "title": "R7.4.9入札_点々舗装補修工事(上半期) (PDF 56.7KB)",
     "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "9d80cf0db52f7a60",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Kodomo_1006_mitumori_teisei.xlsx",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "見積書訂正(Excel)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "0675f0e658f3f3be",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Kodomo_1006_shiyou_teisei.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "仕様書訂正(PDF)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "311e1d299a5fcb24",
+    "municipalityCode": "272299",
+    "url": "https://www.city.shijonawate.lg.jp/uploaded/attachment/38784.xls",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "チェック表・受付票 [Excelファイル／22KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "c91f382e88c95a8e",
+    "municipalityCode": "272299",
+    "url": "https://www.city.shijonawate.lg.jp/uploaded/attachment/38786.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "入札公告 [PDFファイル／210KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "d472cfbef3664921",
+    "municipalityCode": "272299",
+    "url": "https://www.city.shijonawate.lg.jp/uploaded/attachment/38787.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "注意事項 [PDFファイル／150KB]",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   }
