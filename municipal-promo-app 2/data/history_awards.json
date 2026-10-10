@@ -22694,7 +22694,7 @@
     "dentsuCategoryLabels": [
       "コンサル・戦略策定"
     ],
-    "lastChecked": "2026-09-15T07:58:05+00:00"
+    "lastChecked": "2026-10-10T01:56:41+00:00"
   },
   {
     "dedupeKey": "f605d5074357d489b58dd3c4fac3f31b2d685be296204b71543e1df2f8032e13",
@@ -28905,5 +28905,80 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-09T16:29:56+00:00"
+  },
+  {
+    "dedupeKey": "acc6514265ffbac25f35411fed451aafebd886ba87080701c03b263b8436015b",
+    "id": "award-b41cd3908cf3a6dd12e572c3",
+    "municipalityCode": "294241",
+    "area": "近畿",
+    "region": "奈良県",
+    "municipality": "上牧町",
+    "organization": "上牧町",
+    "title": "情報系パソコン機器等調達業務 入札番号 一般08-05号",
+    "vendor": "の氏名 清水哲自動車株式会社 代表取締役 清水 嘉朗",
+    "awardDate": "2026-07-14",
+    "year": 2026,
+    "sourceUrl": "https://www.town.kanmaki.nara.jp/material/files/group/4/20260724nyuusatukekkakouhyousyo.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-10T01:56:28+00:00"
+  },
+  {
+    "dedupeKey": "d40296e155b2b6755656044665a7d4deb65d1e9c594762c5201f01c3ead5d134",
+    "id": "award-08e8db7bb3fc0fe9f8cf3cce",
+    "municipalityCode": "294241",
+    "area": "近畿",
+    "region": "奈良県",
+    "municipality": "上牧町",
+    "organization": "上牧町",
+    "title": "令和8年度 入札結果公表書(令和8年7月22日実施分) (PDFファイル: 154.0KB)",
+    "vendor": "の氏名 株式会社シティ・プランニング 関西支店 支店長 橋本 美仁",
+    "awardDate": "2026-07-28",
+    "year": 2026,
+    "sourceUrl": "https://www.town.kanmaki.nara.jp/material/files/group/4/2026087nyuusatukekkakouhyousyo.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-10T01:56:29+00:00"
+  },
+  {
+    "dedupeKey": "6652b0d9a064848cfe13c474d8829e23611fe2bfbd5a86dae67afbcf67ea9203",
+    "id": "award-9f3436b2937ca4a2beb13012",
+    "municipalityCode": "294241",
+    "area": "近畿",
+    "region": "奈良県",
+    "municipality": "上牧町",
+    "organization": "上牧町",
+    "title": "令和8年度 入札結果 (PDFファイル: 214.1KB)",
+    "vendor": "予定価格",
+    "year": 2026,
+    "sourceUrl": "https://www.town.kanmaki.nara.jp/material/files/group/4/20260918nyuusatukekkaitirann.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-10T01:56:30+00:00"
+  },
+  {
+    "dedupeKey": "c273c1048e8b0f18ae04cab6b4f93aaf646b07dea286e5a4ec3d67ff944f11b4",
+    "id": "award-9f07e179958dacfeb0e34d31",
+    "municipalityCode": "294241",
+    "area": "近畿",
+    "region": "奈良県",
+    "municipality": "上牧町",
+    "organization": "上牧町",
+    "title": "令和8年度 入札結果・契約情報公表書(議会案件分) (PDFファイル: 197.8KB)",
+    "vendor": "及び契約相手方氏名 株式会社 上村組 代表取締役 上村 智津子",
+    "awardDate": "2026-08-24",
+    "year": 2026,
+    "sourceUrl": "https://www.town.kanmaki.nara.jp/material/files/group/4/20260918nyuusatukekkakouhyousyo.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-10T01:56:30+00:00"
   }
 ]
