@@ -29502,7 +29502,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -29519,7 +29519,7 @@
     ],
     "sourceType": "result",
     "title": "令和5年度",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true,
     "etag": "\"8840-65cf1c2ccfe3d\"",
@@ -29539,7 +29539,7 @@
     ],
     "sourceType": "result",
     "title": "令和5年度",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true,
     "etag": "\"8aa4-65cf1c2d844ba\"",
@@ -29559,7 +29559,7 @@
     ],
     "sourceType": "result",
     "title": "令和6年度",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true,
     "etag": "\"86dc-65cf1c3201211\"",
@@ -51695,7 +51695,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "少額随意契約の基準額及び誓約書を徴収する金額の引き上げについて（令和8年1月1日適用）",
+    "title": "少額随意契約の基準額及び誓約書を徴収する金額の引き上げについて（令和8年（2026年）1月1日適用）",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -51888,7 +51888,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "【募集】令和7･8年度西予市入札参加資格審査申請の受付（物品・役務等）",
+    "title": "令和7･8年度西予市入札参加資格審査申請の受付（物品・役務等）",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -79058,9 +79058,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070116nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:01+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:01+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:38+00:00",
     "coveredYears": [
       2025
     ],
@@ -79071,16 +79071,16 @@
     "active": true,
     "etag": "\"6789ad20-19230\"",
     "lastModified": "Fri, 17 Jan 2025 01:06:40 GMT",
-    "contentHash": "b479fbc33d6ad069d5f982994bb6fc7c145a7dbee4ac45d37544423fa2e97188"
+    "contentHash": null
   },
   {
     "id": "a1a46cfe734ecffe",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070130nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:03+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:03+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:39+00:00",
     "coveredYears": [
       2025
     ],
@@ -79091,16 +79091,16 @@
     "active": true,
     "etag": "\"67a18348-29588\"",
     "lastModified": "Tue, 04 Feb 2025 03:02:32 GMT",
-    "contentHash": "e0e4d4913101f049d9b36a7ca84c56c011cfc7c2b98800af79051fa3808db3b6"
+    "contentHash": null
   },
   {
     "id": "8de25db4cacc6eef",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070213nyuusatukekka2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:04+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:04+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:40+00:00",
     "coveredYears": [
       2025
     ],
@@ -79111,16 +79111,16 @@
     "active": true,
     "etag": "\"67b5514a-11b25\"",
     "lastModified": "Wed, 19 Feb 2025 03:34:34 GMT",
-    "contentHash": "2daafe1c49fee2c0d4b3774ff4ec2c1ad11209c34a9502f9c80a7f61a6ae5549"
+    "contentHash": null
   },
   {
     "id": "b512794a0a160ebb",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070228nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:05+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:05+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:41+00:00",
     "coveredYears": [
       2025
     ],
@@ -79131,16 +79131,16 @@
     "active": true,
     "etag": "\"67c11473-11166\"",
     "lastModified": "Fri, 28 Feb 2025 01:42:11 GMT",
-    "contentHash": "c0da9e0db6dc65bbf69dcd84fd2763debd6c165fec7f5f97e4422999e402c2de"
+    "contentHash": null
   },
   {
     "id": "4326ae685d81954d",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070312nyuusatukekka2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:07+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:07+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:42+00:00",
     "coveredYears": [
       2025
     ],
@@ -79151,16 +79151,16 @@
     "active": true,
     "etag": "\"67d137a0-34f80\"",
     "lastModified": "Wed, 12 Mar 2025 07:28:32 GMT",
-    "contentHash": "bf43cc7485820d14476e5be8cc918bf2b794bcabaac543bc63600dfc082a673c"
+    "contentHash": null
   },
   {
     "id": "1a7706dd7ed15bb4",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070408nyuusatukekka1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:09+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:09+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:43+00:00",
     "coveredYears": [
       2025
     ],
@@ -79171,16 +79171,16 @@
     "active": true,
     "etag": "\"67f5ea19-46242\"",
     "lastModified": "Wed, 09 Apr 2025 03:31:37 GMT",
-    "contentHash": "0097844564d360f50686768de9fca1f56a4553c00ed2a644fb22783e5f4bcf39"
+    "contentHash": null
   },
   {
     "id": "f146105494c4b2e9",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070422nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:12+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:12+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:43+00:00",
     "coveredYears": [
       2025
     ],
@@ -79191,16 +79191,16 @@
     "active": true,
     "etag": "\"68085812-ce82f\"",
     "lastModified": "Wed, 23 Apr 2025 03:01:38 GMT",
-    "contentHash": "2c35c33ecbbbb2a2f6065a78579efcb050fb4cf6bcecd10e4f09e76979c98c6a"
+    "contentHash": null
   },
   {
     "id": "958ef7a7b1c72eda",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070520nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:13+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:13+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:44+00:00",
     "coveredYears": [
       2025
     ],
@@ -79211,16 +79211,16 @@
     "active": true,
     "etag": "\"682be616-10b7f\"",
     "lastModified": "Tue, 20 May 2025 02:16:54 GMT",
-    "contentHash": "a5f7e65c04dd4fec780e9c0e7b2f76147135c0f0fcf1e6183aae202c03bd3403"
+    "contentHash": null
   },
   {
     "id": "1599fa3bba8a30a4",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070603nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:14+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:14+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:44+00:00",
     "coveredYears": [
       2025
     ],
@@ -79231,16 +79231,16 @@
     "active": true,
     "etag": "\"683e5d3d-1bac3\"",
     "lastModified": "Tue, 03 Jun 2025 02:26:05 GMT",
-    "contentHash": "96c9048d7fce8547c4e96ee9172c491b70394ad3f510d40375efbb8e755ba08c"
+    "contentHash": null
   },
   {
     "id": "878cad66efe9b326",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070617nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:16+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:16+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:45+00:00",
     "coveredYears": [
       2025
     ],
@@ -79251,16 +79251,16 @@
     "active": true,
     "etag": "\"6850cad9-1c804\"",
     "lastModified": "Tue, 17 Jun 2025 01:54:33 GMT",
-    "contentHash": "1ff0a2873cb1a8cb3c9cd91c13643584f4e6192dc3e5083bc960fa31d86c4a3c"
+    "contentHash": null
   },
   {
     "id": "b9a8a1001324c63e",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/081029nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:17+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:17+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:45+00:00",
     "coveredYears": [
       2026
     ],
@@ -79271,16 +79271,16 @@
     "active": true,
     "etag": "\"697ac423-17b0e\"",
     "lastModified": "Thu, 29 Jan 2026 02:21:23 GMT",
-    "contentHash": "6bbede85ee5830cabbdd411f6609d4a8e746c8f5c89b7c566f7ea8b7da590333"
+    "contentHash": null
   },
   {
     "id": "bf37d3a986d675a9",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/071216nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:18+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:18+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:46+00:00",
     "coveredYears": [
       2025
     ],
@@ -79291,16 +79291,16 @@
     "active": true,
     "etag": "\"6940f623-3911b\"",
     "lastModified": "Tue, 16 Dec 2025 06:03:15 GMT",
-    "contentHash": "3d7cd6617627a1d3dd371e247d6151f244a040785f22e3e6e5c4b480fade4b83"
+    "contentHash": null
   },
   {
     "id": "d5cbd2bba3d0fbdb",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/071118nyuusatukekka2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:20+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:20+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:47+00:00",
     "coveredYears": [
       2025
     ],
@@ -79311,16 +79311,16 @@
     "active": true,
     "etag": "\"691c1bec-56dd2\"",
     "lastModified": "Tue, 18 Nov 2025 07:10:36 GMT",
-    "contentHash": "9f2ca0baf851c128557be33fccf11b04f5f05bd104838b3fee4999a5009e2c7c"
+    "contentHash": null
   },
   {
     "id": "66db4674f9ce1607",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/071007nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:21+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:21+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:47+00:00",
     "coveredYears": [
       2025
     ],
@@ -79331,16 +79331,16 @@
     "active": true,
     "etag": "\"68e5d184-65bea\"",
     "lastModified": "Wed, 08 Oct 2025 02:50:44 GMT",
-    "contentHash": "88ab0c57783cff728727205c8b80b57afdd88255e1d1a3261487c96c4c250b76"
+    "contentHash": null
   },
   {
     "id": "81a571723f1f0d13",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070909nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:23+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:23+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:48+00:00",
     "coveredYears": [
       2025
     ],
@@ -79351,16 +79351,16 @@
     "active": true,
     "etag": "\"68bf8dfe-e5f6\"",
     "lastModified": "Tue, 09 Sep 2025 02:16:30 GMT",
-    "contentHash": "b2acc824f06e8e921a829b7102bb3ddc6e72a05ec717e72c31a95433b21a26e5"
+    "contentHash": null
   },
   {
     "id": "5324d9aaa35fe988",
     "municipalityCode": "152081",
     "url": "https://www.city.ojiya.niigata.jp/site/nyusatsu/nyusatu-r2kekka-buppin.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:24+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:24+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:50+00:00",
     "coveredYears": [
       2020
     ],
@@ -79369,8 +79369,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8927-65b8e5d6e1065\"",
-    "lastModified": "Wed, 16 Sep 2026 00:01:11 GMT",
+    "etag": "\"8927-65d8a4ec28864\"",
+    "lastModified": "Sun, 11 Oct 2026 06:01:08 GMT",
     "contentHash": "9b0f44ada5b454e5ee126f30afc12058fb7fbc98f3e8e60182c6789b215c813e"
   },
   {
@@ -79378,9 +79378,9 @@
     "municipalityCode": "152081",
     "url": "https://www.city.ojiya.niigata.jp/site/nyusatsu/nyusatu-r3kekka-buppin.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:26+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:26+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:51+00:00",
     "coveredYears": [
       2021
     ],
@@ -79389,8 +79389,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8538-65b8e5dae504c\"",
-    "lastModified": "Wed, 16 Sep 2026 00:01:15 GMT",
+    "etag": "\"8538-65d8a4eff3266\"",
+    "lastModified": "Sun, 11 Oct 2026 06:01:12 GMT",
     "contentHash": "83840befb438b9e89b0e8ad32276e924030ef5182df23c77b558fef20a544fd1"
   },
   {
@@ -79398,9 +79398,9 @@
     "municipalityCode": "152081",
     "url": "https://www.city.ojiya.niigata.jp/site/nyusatsu/nyusatu-r7kekka-kensetu.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T00:37:27+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T00:37:27+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:52+00:00",
     "coveredYears": [
       2025
     ],
@@ -79409,8 +79409,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"88fa-65b8e5f944c38\"",
-    "lastModified": "Wed, 16 Sep 2026 00:01:47 GMT",
+    "etag": "\"88fa-65d8a50cdf962\"",
+    "lastModified": "Sun, 11 Oct 2026 06:01:42 GMT",
     "contentHash": "c75ffb2a813f85b5503cb3c9b41eb6ad9cf1e0e56a9f610395e6f116f9333afa"
   },
   {
@@ -79418,9 +79418,9 @@
     "municipalityCode": "152081",
     "url": "https://www.city.ojiya.niigata.jp/soshiki/kikakuseisaku/nyusatu-r2kekka-kensetu.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:18:39+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:18:39+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:53+00:00",
     "coveredYears": [
       2020
     ],
@@ -79429,8 +79429,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"53ba-65b9364e66c96\"",
-    "lastModified": "Wed, 16 Sep 2026 06:01:11 GMT",
+    "etag": "\"53ba-65d8a4eca489b\"",
+    "lastModified": "Sun, 11 Oct 2026 06:01:09 GMT",
     "contentHash": "63e2742623f45980a22560748507138298d6fd450099d59c2cf2f97a65d8a13f"
   },
   {
@@ -79438,9 +79438,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/soshiki/zaimuka/nyusatsu_keiyaku/nyusatsu_kekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:18:41+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:18:41+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:56+00:00",
     "coveredYears": [
       2020
     ],
@@ -79449,18 +79449,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6aaa308c-c654\"",
-    "lastModified": "Wed, 16 Sep 2026 06:00:44 GMT",
-    "contentHash": "aae9c16fc0d820db3ce6d493efb23bd899b7ce3e3cf9e8eca7b1bc6c4f4c15cf"
+    "etag": "\"6ac741b0-c6b3\"",
+    "lastModified": "Thu, 08 Oct 2026 07:09:36 GMT",
+    "contentHash": "27e2ea3fdad1af95c1d830a4f98cce188af5c8a45a97199cc276885a5a7ad2db"
   },
   {
     "id": "1bade55318a698e0",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/220707-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:18:44+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:18:44+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:57+00:00",
     "coveredYears": [
       2022
     ],
@@ -79471,16 +79471,16 @@
     "active": true,
     "etag": "\"62c68f02-db76f\"",
     "lastModified": "Thu, 07 Jul 2022 07:45:06 GMT",
-    "contentHash": "d8dc0af14a2135499c1054f8f621060e5c6c21294d6683d784feb8dd7c834d94"
+    "contentHash": null
   },
   {
     "id": "9401bf94468bf1f3",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/220728-.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:18:47+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:18:47+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:58+00:00",
     "coveredYears": [
       2022
     ],
@@ -79491,16 +79491,16 @@
     "active": true,
     "etag": "\"62e37546-d41c8\"",
     "lastModified": "Fri, 29 Jul 2022 05:51:02 GMT",
-    "contentHash": "6ed816c7ed118fbeeff40de3b60517abd80d91c96678f36bc6f14b53d5d77b7d"
+    "contentHash": null
   },
   {
     "id": "582563dba1013d9a",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/220825-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:18:49+00:00",
+    "lastSuccessAt": "2026-10-11T06:04:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:18:49+00:00",
+    "nextCrawlAt": "2026-10-14T06:04:59+00:00",
     "coveredYears": [
       2022
     ],
@@ -79511,16 +79511,16 @@
     "active": true,
     "etag": "\"63072830-c126f\"",
     "lastModified": "Thu, 25 Aug 2022 07:43:44 GMT",
-    "contentHash": "17fe3475294ce9c25c42a5abd9885e4ff5843a577cad5c252ca881baa185f12b"
+    "contentHash": null
   },
   {
     "id": "89a78ad68225367f",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/220901-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:18:50+00:00",
+    "lastSuccessAt": "2026-10-11T06:05:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:18:50+00:00",
+    "nextCrawlAt": "2026-10-14T06:05:00+00:00",
     "coveredYears": [
       2022
     ],
@@ -79531,16 +79531,16 @@
     "active": true,
     "etag": "\"631044ec-66ddb\"",
     "lastModified": "Thu, 01 Sep 2022 05:36:44 GMT",
-    "contentHash": "4fa96e0115cd2d850ef5f097c2a5babe917020bd75cd7f85eef5a40007d4668a"
+    "contentHash": null
   },
   {
     "id": "3aab4a9dda758b4e",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyusatsukekka230119.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:18:52+00:00",
+    "lastSuccessAt": "2026-10-11T06:05:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:18:52+00:00",
+    "nextCrawlAt": "2026-10-14T06:05:01+00:00",
     "coveredYears": [
       2023
     ],
@@ -79551,16 +79551,16 @@
     "active": true,
     "etag": "\"63c8da5a-3cb80\"",
     "lastModified": "Thu, 19 Jan 2023 05:51:22 GMT",
-    "contentHash": "2afb020feb4ba56f5cce7722c8d302bbe3b25412a09277bb6b7201e3fdebb8a9"
+    "contentHash": null
   },
   {
     "id": "71897a1a4cb2f7b3",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/221215.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:18:54+00:00",
+    "lastSuccessAt": "2026-10-11T06:05:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:18:54+00:00",
+    "nextCrawlAt": "2026-10-14T06:05:02+00:00",
     "coveredYears": [
       2022
     ],
@@ -79571,16 +79571,16 @@
     "active": true,
     "etag": "\"639ab56e-29f4c\"",
     "lastModified": "Thu, 15 Dec 2022 05:49:34 GMT",
-    "contentHash": "7b92fe6a67039d23d7e2870cad1320f6301b0fd170d4b36ea204ad242b1d281b"
+    "contentHash": null
   },
   {
     "id": "1bdb7606e7a86711",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyusatsukekka221013.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:18:56+00:00",
+    "lastSuccessAt": "2026-10-11T06:05:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:18:56+00:00",
+    "nextCrawlAt": "2026-10-14T06:05:03+00:00",
     "coveredYears": [
       2022
     ],
@@ -79591,16 +79591,16 @@
     "active": true,
     "etag": "\"6347a540-a31b3\"",
     "lastModified": "Thu, 13 Oct 2022 05:42:24 GMT",
-    "contentHash": "0ae0ab9e6035b53d376e91196420409d153097941a9819e33588def63aede61d"
+    "contentHash": null
   },
   {
     "id": "9ef86b9ae5cc8d9d",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyusatsukekka_220922.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:18:58+00:00",
+    "lastSuccessAt": "2026-10-11T06:05:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:18:58+00:00",
+    "nextCrawlAt": "2026-10-14T06:05:03+00:00",
     "coveredYears": [
       2022
     ],
@@ -79611,16 +79611,16 @@
     "active": true,
     "etag": "\"632bcaef-83fb7\"",
     "lastModified": "Thu, 22 Sep 2022 02:39:43 GMT",
-    "contentHash": "f8d0dea3e0c3d83332082b4ec2a669dfd52aa7bae87ca22d64e545d37df731d3"
+    "contentHash": null
   },
   {
     "id": "8e0e2d6110a6fbed",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/220915.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:01+00:00",
+    "lastSuccessAt": "2026-10-11T06:05:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:01+00:00",
+    "nextCrawlAt": "2026-10-14T06:05:04+00:00",
     "coveredYears": [
       2022
     ],
@@ -79631,7 +79631,7 @@
     "active": true,
     "etag": "\"6322c13d-8f0ac\"",
     "lastModified": "Thu, 15 Sep 2022 06:07:57 GMT",
-    "contentHash": "b5dec8c5b12f93a61352295d92fa14de36e24ccad98f3f0035ba2b7ac72df659"
+    "contentHash": null
   },
   {
     "id": "ac49083ae800bdbb",
@@ -121173,14 +121173,122 @@
     "municipalityCode": "400009",
     "url": "https://www.pref.fukuoka.lg.jp/uploaded/attachment/298542.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-11T06:04:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-10-14T06:04:38+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果表 [PDFファイル／142KB]",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
+    "active": true,
+    "etag": "\"2340c-65c4af5723f92\"",
+    "lastModified": "Fri, 25 Sep 2026 09:01:15 GMT",
+    "contentHash": "bbcd68169f9cd9feb35addf1377d98ea10a434dbf5f8974c601df6bb7007248c"
+  },
+  {
+    "id": "9a83d3e8fc0883a8",
+    "municipalityCode": "131237",
+    "url": "https://www.city.edogawa.tokyo.jp/documents/73725/shitsumonkaitosyo.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "「親水公園等設備管理委託・点検委託」質問回答書（PDF：92KB）",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "ca12034bfd8b6bfc",
+    "municipalityCode": "292028",
+    "url": "https://www.city.yamatotakada.nara.jp/material/files/group/14/R08_115_qa.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "質疑回答（R8.10.9更新） (PDFファイル: 115.8KB)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "bcbceb32dbd13632",
+    "municipalityCode": "152129",
+    "url": "https://www.city.murakami.lg.jp/uploaded/attachment/78694.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "特記仕様書　令和８年10月９日修正 [PDFファイル／1.16MB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "600a253e3c890e08",
+    "municipalityCode": "152129",
+    "url": "https://www.city.murakami.lg.jp/uploaded/attachment/78695.xlsx",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "機能要件一覧表（１～６）　令和８年10月９日修正 [Excelファイル／100KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "17110fc2a8609394",
+    "municipalityCode": "152129",
+    "url": "https://www.city.murakami.lg.jp/uploaded/attachment/78697.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "質問及び回答一覧 [PDFファイル／297KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "cc170356afa0afd7",
+    "municipalityCode": "082252",
+    "url": "https://www.city.hitachiomiya.lg.jp/data/doc/1791426718_doc_21_0.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "物件調書(物件番号26-1) [PDF形式／5.55MB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "908df538a2fd8b45",
+    "municipalityCode": "082252",
+    "url": "https://www.city.hitachiomiya.lg.jp/data/doc/1791427845_doc_21_0.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "旧山方学校給食センター貸付に係る公募型プロポーザル実施要領 [PDF形式／388.01KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
     "active": true
   }
 ]
