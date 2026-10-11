@@ -53205,7 +53205,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"1ddf3-65ce061bb7def\"",
@@ -53223,7 +53223,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "特命随意契約・海外活動契約の公表",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -54213,7 +54213,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札・プロポーザル結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"4a69-65ce41fd40f2b\"",
@@ -79638,9 +79638,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuastsukekka_gesui10.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:03+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:03+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:02+00:00",
     "coveredYears": [
       2023
     ],
@@ -79651,16 +79651,16 @@
     "active": true,
     "etag": "\"64d4a154-3ae35\"",
     "lastModified": "Thu, 10 Aug 2023 08:35:32 GMT",
-    "contentHash": "b5e010a06580c3dce8105a93cca16e2dd2e5aa9e7b78dcf959df17ada367ea43"
+    "contentHash": null
   },
   {
     "id": "622f342b0236a658",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuatsukekka_2308010.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:06+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:06+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:03+00:00",
     "coveredYears": [
       2023
     ],
@@ -79671,16 +79671,16 @@
     "active": true,
     "etag": "\"64d47c08-d9381\"",
     "lastModified": "Thu, 10 Aug 2023 05:56:24 GMT",
-    "contentHash": "e49aa0355664739b4d197979c69ab4e08e0b2bdc043b18a520a970f88d5d418b"
+    "contentHash": null
   },
   {
     "id": "d90c9d25a479b079",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuatsukekka_23080300.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:08+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:08+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:04+00:00",
     "coveredYears": [
       2023
     ],
@@ -79691,16 +79691,16 @@
     "active": true,
     "etag": "\"64cb4e56-49ab8\"",
     "lastModified": "Thu, 03 Aug 2023 06:51:02 GMT",
-    "contentHash": "fec1668b7a1301b51d1a2da345c90670252906543e5c303c883dc16ac2dad808"
+    "contentHash": null
   },
   {
     "id": "e229ef54fe8f39d4",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyusatsukekka_sogohyoka230803.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:09+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:09+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:05+00:00",
     "coveredYears": [
       2023
     ],
@@ -79711,16 +79711,16 @@
     "active": true,
     "etag": "\"64d0870f-3de4b\"",
     "lastModified": "Mon, 07 Aug 2023 05:54:23 GMT",
-    "contentHash": "056c6e25f33ee910c7cd5948b51e3c3b225f60adae0e87f781c1e4e5f2f3a559"
+    "contentHash": null
   },
   {
     "id": "b0bd2b243031b739",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuusatukekka_060328.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:09+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:09+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:05+00:00",
     "coveredYears": [
       2024
     ],
@@ -79731,16 +79731,16 @@
     "active": true,
     "etag": "\"6604cb46-15e2e\"",
     "lastModified": "Thu, 28 Mar 2024 01:43:34 GMT",
-    "contentHash": "e7c345ac42f64ae29cb3f8fdb76df39b46634c1c9783bd66c45a2d354cdfce16"
+    "contentHash": null
   },
   {
     "id": "9d232245806e60ad",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuusatukekka_060321.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:12+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:12+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:06+00:00",
     "coveredYears": [
       2024
     ],
@@ -79751,16 +79751,16 @@
     "active": true,
     "etag": "\"65fbf50d-a4284\"",
     "lastModified": "Thu, 21 Mar 2024 08:51:25 GMT",
-    "contentHash": "39394332514d5a2f0cbad5e7a81bc7a72e2d1aa8b82d3bc2dfda5af146ae2e61"
+    "contentHash": null
   },
   {
     "id": "403657193837b647",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuusatukekka_060314.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:13+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:13+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:07+00:00",
     "coveredYears": [
       2024
     ],
@@ -79771,16 +79771,16 @@
     "active": true,
     "etag": "\"65f27c68-2bbec\"",
     "lastModified": "Thu, 14 Mar 2024 04:26:16 GMT",
-    "contentHash": "68dce3c9b61d2dc9c079b5c9954b99f7ed515bb29961a413c11bec83dad4a97a"
+    "contentHash": null
   },
   {
     "id": "f6e1dd33826e9409",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyusatsukekka_060307.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:15+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:15+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:07+00:00",
     "coveredYears": [
       2024
     ],
@@ -79791,16 +79791,16 @@
     "active": true,
     "etag": "\"65e918c1-29c07\"",
     "lastModified": "Thu, 07 Mar 2024 01:30:41 GMT",
-    "contentHash": "bfe9f7b1414ca493d879f1d16dd60998c637a4bfd2dbc13e932e451fd9e9d411"
+    "contentHash": null
   },
   {
     "id": "c7fbb1250b271659",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuusatukekka_060222.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:17+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:17+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:08+00:00",
     "coveredYears": [
       2024
     ],
@@ -79811,16 +79811,16 @@
     "active": true,
     "etag": "\"65d6e58d-6fa02\"",
     "lastModified": "Thu, 22 Feb 2024 06:11:25 GMT",
-    "contentHash": "f31cd867287b540687ba159c160a454a2343a183159255c1785fd6d3bbd73616"
+    "contentHash": null
   },
   {
     "id": "3c90a8b13cfebf59",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/results_sougouhyouka20240802.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:19+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:19+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:08+00:00",
     "coveredYears": [
       2024
     ],
@@ -79831,16 +79831,16 @@
     "active": true,
     "etag": "\"66ac960c-24307\"",
     "lastModified": "Fri, 02 Aug 2024 08:17:16 GMT",
-    "contentHash": "8a33f0ffb3822d6e7d672fe06fedd3a340f52d37cb6021f27b752731fbbb7f4d"
+    "contentHash": null
   },
   {
     "id": "62b4f706e057aa02",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/results_sougouhyouka20240826.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:21+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:21+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:09+00:00",
     "coveredYears": [
       2024
     ],
@@ -79851,16 +79851,16 @@
     "active": true,
     "etag": "\"66cbc251-34c9e\"",
     "lastModified": "Sun, 25 Aug 2024 23:46:25 GMT",
-    "contentHash": "f4aea470ca32358a07dda55f985a524082f8b8b429e0533824d8f4d0d49b4ccc"
+    "contentHash": null
   },
   {
     "id": "3c704389f8453fe9",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/results060829.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:23+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:23+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:09+00:00",
     "coveredYears": [
       2024
     ],
@@ -79871,16 +79871,16 @@
     "active": true,
     "etag": "\"66cff5fd-68d26\"",
     "lastModified": "Thu, 29 Aug 2024 04:15:57 GMT",
-    "contentHash": "34bdd68196522d238756d5688d59155b2cc935e4b2b557426b4cea80a027e553"
+    "contentHash": null
   },
   {
     "id": "eca825fa637f557e",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/results240627.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:25+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:25+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:10+00:00",
     "coveredYears": [
       2024
     ],
@@ -79891,16 +79891,16 @@
     "active": true,
     "etag": "\"667ccff8-48e1d\"",
     "lastModified": "Thu, 27 Jun 2024 02:35:36 GMT",
-    "contentHash": "22637204d7431bdc3459c5a88d53da5274b5e0684fa10d8af861041045c2c0c1"
+    "contentHash": null
   },
   {
     "id": "86a705332a84e260",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result250328.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:26+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:26+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:11+00:00",
     "coveredYears": [
       2025
     ],
@@ -79911,16 +79911,16 @@
     "active": true,
     "etag": "\"67e658cc-13ce3\"",
     "lastModified": "Fri, 28 Mar 2025 08:07:40 GMT",
-    "contentHash": "1a72ef9b59e0bb43dbd475179c068ec974aeb706431ce6e7b26ce5eebf554666"
+    "contentHash": null
   },
   {
     "id": "15567ec10843978e",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/results250327.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:27+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:27+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:11+00:00",
     "coveredYears": [
       2025
     ],
@@ -79931,16 +79931,16 @@
     "active": true,
     "etag": "\"67e4bcf8-24d56\"",
     "lastModified": "Thu, 27 Mar 2025 02:50:32 GMT",
-    "contentHash": "75c4e00f0961908dfa3464b7434a5c0df09eb67757c06eaba0093825c6495a67"
+    "contentHash": null
   },
   {
     "id": "74ad6feb8b4f4a17",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result250321.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:27+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:27+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:12+00:00",
     "coveredYears": [
       2025
     ],
@@ -79951,16 +79951,16 @@
     "active": true,
     "etag": "\"67dcb219-15aa4\"",
     "lastModified": "Fri, 21 Mar 2025 00:26:01 GMT",
-    "contentHash": "a8999376596d61372588d03a26a8115dca4fd701f87c4a0f7498e65411eaddc9"
+    "contentHash": null
   },
   {
     "id": "ee4a97293b4c655c",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result250319.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:29+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:29+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:12+00:00",
     "coveredYears": [
       2025
     ],
@@ -79971,16 +79971,16 @@
     "active": true,
     "etag": "\"67da5361-2650b\"",
     "lastModified": "Wed, 19 Mar 2025 05:17:21 GMT",
-    "contentHash": "146178343903515190f8576e4e776f7aa8b178ff9acc57b3a904ee40df8063a8"
+    "contentHash": null
   },
   {
     "id": "295dc6d70c3f8bec",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result250317.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:30+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:30+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:13+00:00",
     "coveredYears": [
       2025
     ],
@@ -79991,16 +79991,16 @@
     "active": true,
     "etag": "\"67d7cd54-238ad\"",
     "lastModified": "Mon, 17 Mar 2025 07:20:52 GMT",
-    "contentHash": "df2fcd8b841244784381271b23edde7b36cbec55f8a1c6e5d72414d510bbc4e8"
+    "contentHash": null
   },
   {
     "id": "e330043de11eddbb",
     "municipalityCode": "472123",
     "url": "https://www.city.tomigusuku.lg.jp/material/files/group/31/sinsakekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T06:19:32+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T06:19:32+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:13+00:00",
     "coveredYears": [
       2026
     ],
@@ -80011,7 +80011,7 @@
     "active": true,
     "etag": "\"6a854e14-1ba7d\"",
     "lastModified": "Wed, 19 Aug 2026 06:32:52 GMT",
-    "contentHash": "2b686a550c3f15ab986ea1325e9d7918832993fea790b1059d8729bcc3d1ace5"
+    "contentHash": null
   },
   {
     "id": "ac621f84428bfd0c",
@@ -80078,9 +80078,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuusatukekka080327shuusei.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T11:55:24+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T11:55:24+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:13+00:00",
     "coveredYears": [
       2026
     ],
@@ -80091,16 +80091,16 @@
     "active": true,
     "etag": "\"69c61f86-661a0\"",
     "lastModified": "Fri, 27 Mar 2026 06:11:18 GMT",
-    "contentHash": "c16792a089edaf084e96fd53806ec92c199b472ad1fd2a16ee05401dbe1ba94a"
+    "contentHash": null
   },
   {
     "id": "236ab00cfe33fc08",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result260319.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T11:55:27+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T11:55:27+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:14+00:00",
     "coveredYears": [
       2026
     ],
@@ -80111,16 +80111,16 @@
     "active": true,
     "etag": "\"69bb8167-6094c\"",
     "lastModified": "Thu, 19 Mar 2026 04:53:59 GMT",
-    "contentHash": "550dfc9d780cefdc4a75392f4ae51f53157ce9301798bd9a33fc9e0d239bc0d4"
+    "contentHash": null
   },
   {
     "id": "e87992056597fcf4",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result260318.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T11:55:28+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T11:55:28+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:15+00:00",
     "coveredYears": [
       2026
     ],
@@ -80131,16 +80131,16 @@
     "active": true,
     "etag": "\"69ba1206-32426\"",
     "lastModified": "Wed, 18 Mar 2026 02:46:30 GMT",
-    "contentHash": "7f6e36ca80d785434fc9b743b727b2720bc3a285fc2b294ac3a2ebef99437394"
+    "contentHash": null
   },
   {
     "id": "a631367b5e75835c",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result260313.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T11:55:30+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T11:55:30+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:15+00:00",
     "coveredYears": [
       2026
     ],
@@ -80151,16 +80151,16 @@
     "active": true,
     "etag": "\"69b37c8c-10be8\"",
     "lastModified": "Fri, 13 Mar 2026 02:55:08 GMT",
-    "contentHash": "1a2e2efbca919e068bc275655a645de22e35aed96d96972c6049fb6d6076e9b2"
+    "contentHash": null
   },
   {
     "id": "ca531ee1776ab5b8",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result260312.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T11:55:31+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T11:55:31+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:16+00:00",
     "coveredYears": [
       2026
     ],
@@ -80171,7 +80171,7 @@
     "active": true,
     "etag": "\"69b3737e-1f60d\"",
     "lastModified": "Fri, 13 Mar 2026 02:16:30 GMT",
-    "contentHash": "430137ee855a7113596a77eb3a796300cb22d60fcb79fc13f3ae9e747517a9d1"
+    "contentHash": null
   },
   {
     "id": "437c047a3cb7451b",
@@ -80238,9 +80238,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result260903.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T11:55:33+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T11:55:33+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:16+00:00",
     "coveredYears": [
       2026
     ],
@@ -80251,16 +80251,16 @@
     "active": true,
     "etag": "\"6a98e0ed-345dc\"",
     "lastModified": "Thu, 03 Sep 2026 02:52:29 GMT",
-    "contentHash": "9ba1ca78444f5317202c7d8fdcb7e2f1e1b1ca864b0b9935174a2b7ed4dab82c"
+    "contentHash": null
   },
   {
     "id": "0ba01c0314e741e8",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result260902.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T11:55:35+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T11:55:35+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:17+00:00",
     "coveredYears": [
       2026
     ],
@@ -80271,16 +80271,16 @@
     "active": true,
     "etag": "\"6a98e0ba-3e5c0\"",
     "lastModified": "Thu, 03 Sep 2026 02:51:38 GMT",
-    "contentHash": "dd41575577d45209aef20982232054d85ce0beaa145db2413a1573f194844858"
+    "contentHash": null
   },
   {
     "id": "44031e735cf5886a",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result260827.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T11:55:37+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T11:55:37+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:17+00:00",
     "coveredYears": [
       2026
     ],
@@ -80291,16 +80291,16 @@
     "active": true,
     "etag": "\"6a8fedad-407df\"",
     "lastModified": "Thu, 27 Aug 2026 07:56:29 GMT",
-    "contentHash": "efe0f64c5b8fad689b6e91643f492bb300dc225b384adab53ccc3e18a14d6d6f"
+    "contentHash": null
   },
   {
     "id": "fe79395e54c50068",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result260826.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T11:55:39+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T11:55:39+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:18+00:00",
     "coveredYears": [
       2026
     ],
@@ -80311,16 +80311,16 @@
     "active": true,
     "etag": "\"6a8e68e7-21d34\"",
     "lastModified": "Wed, 26 Aug 2026 04:17:43 GMT",
-    "contentHash": "cd181b1945c980711aad99a3d93d8fa1c1ee07305c657552c6f89b2421c3d54f"
+    "contentHash": null
   },
   {
     "id": "039c35bc21a2ecc7",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/result260820.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T11:55:40+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T11:55:40+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:19+00:00",
     "coveredYears": [
       2026
     ],
@@ -80331,16 +80331,16 @@
     "active": true,
     "etag": "\"6a86990d-3fef7\"",
     "lastModified": "Thu, 20 Aug 2026 06:05:01 GMT",
-    "contentHash": "4e3f35d42547a716470806ac38ac63fe28f5d842525628dbca8122a6e338d6bc"
+    "contentHash": null
   },
   {
     "id": "9746d95edfc466e9",
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/list116-348.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T11:55:42+00:00",
+    "lastSuccessAt": "2026-10-11T13:09:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T11:55:42+00:00",
+    "nextCrawlAt": "2026-10-14T13:09:21+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "工事の入札結果（過年度分）",
@@ -80348,8 +80348,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 16 Sep 2026 11:46:05 GMT",
-    "contentHash": "2a84fbfd089b96cb475e7572081c49383cf07144363cf3ffbc11a6aa8483e489"
+    "lastModified": "Sun, 11 Oct 2026 13:01:49 GMT",
+    "contentHash": "b693b51b14ba5441ff528e025434dfc277920ce2808af1af0ca8ba48b8ca4497"
   },
   {
     "id": "9c0445ef2a4581f1",
@@ -121287,6 +121287,66 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "旧山方学校給食センター貸付に係る公募型プロポーザル実施要領 [PDF形式／388.01KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "f4b00be209a99ca8",
+    "municipalityCode": "400009",
+    "url": "https://www.pref.fukuoka.lg.jp/bid-info/koukou-aed.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "落札者の公示（福岡県立学校に配置する自動体外式除細動器（ＡＥＤ）賃貸借業務）",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "4c1d733e8d53a527",
+    "municipalityCode": "400009",
+    "url": "https://www.pref.fukuoka.lg.jp/bid-info/koukou-aed2.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "落札者の公示（福岡県立学校に配置する自動体外式除細動器（ＡＥＤ）賃貸借業務）",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "7f0fc59465a4ca5e",
+    "municipalityCode": "400009",
+    "url": "https://www.pref.fukuoka.lg.jp/contents/8bisha68-kouji.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "落札者の公示について（普通自動車１台（８備車６８））",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "a7c5157a99bc1796",
+    "municipalityCode": "400009",
+    "url": "https://www.pref.fukuoka.lg.jp/contents/8bisyutu18r.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "落札者の公示について（ペレット対応可能３Dプリンターシステム（８備出１８））",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
