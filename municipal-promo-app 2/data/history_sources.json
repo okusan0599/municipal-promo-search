@@ -22524,7 +22524,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果・発注見通し",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"6abccf6d-bca4\"",
@@ -73974,7 +73974,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "田辺中央体育館大規模改修事業に係る優先交渉者の選定結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -81445,9 +81445,9 @@
     "municipalityCode": "172031",
     "url": "https://www.city.komatsu.lg.jp/material/files/group/9/5053000401.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:25+00:00",
+    "lastSuccessAt": "2026-10-11T22:12:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:25+00:00",
+    "nextCrawlAt": "2026-10-14T22:12:59+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "ファックス機能付き複合機（長期継続契約）(PDFファイル:253.1KB)",
@@ -81456,16 +81456,16 @@
     "active": true,
     "etag": "\"65cae99d-3f425\"",
     "lastModified": "Tue, 13 Feb 2024 04:01:33 GMT",
-    "contentHash": "5288367b9f5f686c80bb63ce81bc6f8823c39eaaee5dda31aa6e7b4544a7bec3"
+    "contentHash": null
   },
   {
     "id": "b7744e236e61bdc9",
     "municipalityCode": "172031",
     "url": "https://www.city.komatsu.lg.jp/material/files/group/9/5053000294.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:26+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:26+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:00+00:00",
     "coveredYears": [
       2023
     ],
@@ -81476,7 +81476,7 @@
     "active": true,
     "etag": "\"65813374-3fb0d\"",
     "lastModified": "Tue, 19 Dec 2023 06:08:52 GMT",
-    "contentHash": "901d20a2a2b62419cf5e75c9f31919d3ae81e59cd38f08cb176802a0c7481396"
+    "contentHash": null
   },
   {
     "id": "d46ddddb3ad80aef",
@@ -81528,9 +81528,9 @@
     "municipalityCode": "172031",
     "url": "https://www.city.komatsu.lg.jp/material/files/group/9/R612205063000243.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:26+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:26+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:00+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "（単価契約）資源ごみ（破砕困難物）",
@@ -81539,16 +81539,16 @@
     "active": true,
     "etag": "\"68b407f3-11599\"",
     "lastModified": "Sun, 31 Aug 2025 08:29:39 GMT",
-    "contentHash": "71d18ccf28da992b2cded0fb649fcd0c3d1d8f0190ecfea053e09f4c7a01869c"
+    "contentHash": null
   },
   {
     "id": "04f186e66b528278",
     "municipalityCode": "172031",
     "url": "https://www.city.komatsu.lg.jp/material/files/group/9/R612205063000244.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:27+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:27+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:01+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "（単価契約）資源ごみ（新聞・雑誌）",
@@ -81557,16 +81557,16 @@
     "active": true,
     "etag": "\"68b4082a-11b40\"",
     "lastModified": "Sun, 31 Aug 2025 08:30:34 GMT",
-    "contentHash": "d215abc56051b9ecbf8402162a64c0fdd933df93c5481376c8876ac4bf3bf4dc"
+    "contentHash": null
   },
   {
     "id": "01b7b45bca174225",
     "municipalityCode": "172031",
     "url": "https://www.city.komatsu.lg.jp/material/files/group/9/R612175063000238.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:27+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:27+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:02+00:00",
     "coveredYears": [
       2024
     ],
@@ -81577,16 +81577,16 @@
     "active": true,
     "etag": "\"68b4065b-148e2\"",
     "lastModified": "Sun, 31 Aug 2025 08:22:51 GMT",
-    "contentHash": "f96cf02f95362ae3d1082f5c9df7032d8fa43b45873bc04b5ea21048a2a841ac"
+    "contentHash": null
   },
   {
     "id": "cd71b43d3928f818",
     "municipalityCode": "172031",
     "url": "https://www.city.komatsu.lg.jp/material/files/group/9/R609245063000185.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:28+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:28+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:02+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "（単価契約）トイレットペーパー",
@@ -81595,16 +81595,16 @@
     "active": true,
     "etag": "\"68b3ee31-10aa0\"",
     "lastModified": "Sun, 31 Aug 2025 06:39:45 GMT",
-    "contentHash": "b83fc6ea8e640fd5e661ffe769db729f51b39f75778b487772a1b5e7347e08b6"
+    "contentHash": null
   },
   {
     "id": "402cf8062964e05c",
     "municipalityCode": "172031",
     "url": "https://www.city.komatsu.lg.jp/material/files/group/9/R609205063000153.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:28+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:28+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:03+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "（単価契約）資源ごみ（アルミ缶）",
@@ -81613,7 +81613,7 @@
     "active": true,
     "etag": "\"68ad4a20-1161c\"",
     "lastModified": "Tue, 26 Aug 2025 05:46:08 GMT",
-    "contentHash": "169b7bdff8bf2568be666bda83ba080b898a3efe38de97cc206ea794a98d7d66"
+    "contentHash": null
   },
   {
     "id": "33d23f4ec5a0e6a3",
@@ -81665,9 +81665,9 @@
     "municipalityCode": "172031",
     "url": "https://www.city.komatsu.lg.jp/material/files/group/9/R80217507300000A.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:29+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:29+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:03+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "落札業者・落札金額詳細",
@@ -81676,7 +81676,7 @@
     "active": true,
     "etag": "\"699bb627-1d693\"",
     "lastModified": "Mon, 23 Feb 2026 02:06:31 GMT",
-    "contentHash": "7cf903525a5b9f0aae9fa73636e98de028e23ced532494434430a571f68eb3e6"
+    "contentHash": null
   },
   {
     "id": "64fb28ce860bd75a",
@@ -81923,9 +81923,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/27nendonyusatsukekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:30+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:30+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:05+00:00",
     "coveredYears": [
       2015
     ],
@@ -81935,7 +81935,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 16 Sep 2026 17:00:01 GMT",
+    "lastModified": "Sun, 11 Oct 2026 22:00:01 GMT",
     "contentHash": "0dd4e660f863b2461bb919b22a6eb06a5893305fa7ebeae1c70c97fa2f4dcc1d"
   },
   {
@@ -81943,9 +81943,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/28nendonyusatsukekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:31+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:31+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:05+00:00",
     "coveredYears": [
       2016
     ],
@@ -81955,7 +81955,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 16 Sep 2026 17:00:01 GMT",
+    "lastModified": "Sun, 11 Oct 2026 22:00:02 GMT",
     "contentHash": "79dfac417b99caa19ab7b9a76f4fe88279cd41cd4c6a637b0402df2ed95972c8"
   },
   {
@@ -81963,9 +81963,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/29nendonyusatsukekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:31+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:31+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:06+00:00",
     "coveredYears": [
       2017
     ],
@@ -81975,7 +81975,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 16 Sep 2026 17:00:01 GMT",
+    "lastModified": "Sun, 11 Oct 2026 22:00:02 GMT",
     "contentHash": "8369f64e094a3ac8f4e36218ffda340861bbb847574531e84c50202256b33a3c"
   },
   {
@@ -81983,9 +81983,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/30nendonyusatsukekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:32+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:32+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:07+00:00",
     "coveredYears": [
       2018
     ],
@@ -81995,7 +81995,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 16 Sep 2026 17:00:01 GMT",
+    "lastModified": "Sun, 11 Oct 2026 22:00:02 GMT",
     "contentHash": "4c8fee6afcd16b73995851be2c11f137ab25a0bdb2d14482ef513729f09486b9"
   },
   {
@@ -82003,9 +82003,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/31nendonyusatsukekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:32+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:32+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:07+00:00",
     "coveredYears": [
       2019
     ],
@@ -82015,7 +82015,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 16 Sep 2026 17:00:01 GMT",
+    "lastModified": "Sun, 11 Oct 2026 22:00:02 GMT",
     "contentHash": "08ea2f25bef2f54650e8c2fe3eb38f3f1d588149a0e4be484586cf99f814bc6b"
   },
   {
@@ -82023,9 +82023,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa6nyusatsu/Zaimu0120250313101.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:33+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:33+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:08+00:00",
     "coveredYears": [
       2025
     ],
@@ -82035,17 +82035,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 16 Sep 2026 15:00:04 GMT",
-    "contentHash": "05cb39e526ee0a093dc0551b924b7701a62577320e293516b4d4105a279002ac"
+    "lastModified": "Sun, 11 Oct 2026 15:00:04 GMT",
+    "contentHash": "02dc5387081984d22a6c05b856ad20aa6a1093e648f7188018e68a7cbb2cf3b0"
   },
   {
     "id": "23d8ad0052b4aaa9",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250418091.files/20250417_01kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:34+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:34+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:08+00:00",
     "coveredYears": [
       2025
     ],
@@ -82056,16 +82056,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 17 Apr 2025 06:49:50 GMT",
-    "contentHash": "f8dd80b8b43b1f2e471a73e9c41dc86cdb3d264a73d9b47d694315ce45c361ba"
+    "contentHash": null
   },
   {
     "id": "666303f2014c7490",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250418091.files/20250417_02kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:34+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:34+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:09+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "プール浄化装置保守点検業務委託（PDF：59KB）",
@@ -82074,16 +82074,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 17 Apr 2025 06:49:56 GMT",
-    "contentHash": "9ef51116f681dbe1c0c6bfea8d1d7450b85337e26a7fefeb5fb64f25d27447b0"
+    "contentHash": null
   },
   {
     "id": "3739692ec4b954e0",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250418091.files/20250417_03kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:35+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:35+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:10+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "グラウンド用防塵剤購入（PDF：57KB）",
@@ -82092,16 +82092,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 17 Apr 2025 23:26:08 GMT",
-    "contentHash": "284d1581dcdd9b5629e0143ebf13152e270f7c9443fada5fcbf4a939e30744f7"
+    "contentHash": null
   },
   {
     "id": "5d7fbb8c05e17955",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250418091.files/20250417_04kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:36+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:36+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:10+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "小中学校等給食施設ネズミ・害虫駆除業務委託（PDF：76KB）",
@@ -82110,16 +82110,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 17 Apr 2025 06:50:08 GMT",
-    "contentHash": "4214620d138d7554a61fcc98c6a84c8c86ed2ac028f59c289e595dcb683db884"
+    "contentHash": null
   },
   {
     "id": "1c2e584b745128e2",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250418091.files/20250417_05kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T17:13:36+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T17:13:36+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:11+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "小中学校貯水槽清掃業務委託（PDF：63KB）",
@@ -82128,16 +82128,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 17 Apr 2025 06:50:15 GMT",
-    "contentHash": "6c66a51efceaf4e26956344e57b3c2ad0befbf0aa728b4528a2e01d15b35f0be"
+    "contentHash": null
   },
   {
     "id": "d4f7f69f2ecfeb49",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250422152.files/20250424_01kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:10+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:10+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:11+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "環境衛生センター耐震補強詳細設計業務委託（第24331号）（PDF：66KB）",
@@ -82146,16 +82146,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 25 Apr 2025 07:12:53 GMT",
-    "contentHash": "2deb841f77a16a147230827f46cc1e526fde12cceb5bfce1e8515bf24e67babe"
+    "contentHash": null
   },
   {
     "id": "a03e3a32bfac56dd",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250422152.files/20250424-02kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:11+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:11+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:12+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "市営駐車場利用状況調査業務委託（単価契約）（PDF：89KB）",
@@ -82164,16 +82164,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 25 Apr 2025 07:16:01 GMT",
-    "contentHash": "bd7f5594eaab870901dc5d2cee6d433e556de4bb443f90d92108a415136a01d7"
+    "contentHash": null
   },
   {
     "id": "c0601d11c9ae5b36",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250422152.files/20250424_03kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:11+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:11+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:13+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "鯖江駅周辺交通社会実験業務委託（PDF：54KB）",
@@ -82182,16 +82182,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 25 Apr 2025 07:13:00 GMT",
-    "contentHash": "25d4c3242b803878929dbf4c4ac4c8a06263a1cce3e6ceca7283e2636854db72"
+    "contentHash": null
   },
   {
     "id": "dd0d044614082478",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250422152.files/20250424_04kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:12+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:12+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:13+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "市営住宅平井団地合併浄化槽清掃（PDF：53KB）",
@@ -82200,16 +82200,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 25 Apr 2025 07:13:07 GMT",
-    "contentHash": "c91777bf22fa36aa06565bcebdb3c889cc3e386804fde9ed3755d764eda74221"
+    "contentHash": null
   },
   {
     "id": "ec82f4e8205f8c6b",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250422152.files/20250424_05kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:13+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:13+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:14+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "スポットビジョンスクリーナー購入（PDF：61KB）",
@@ -82218,16 +82218,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 25 Apr 2025 07:13:14 GMT",
-    "contentHash": "8c443f70eabbb0a9392a684cafcd36582001dc1d58e2e5f9606523aac92bbf3a"
+    "contentHash": null
   },
   {
     "id": "8b1fc9da9159918c",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250519110.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:13+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:13+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:15+00:00",
     "coveredYears": [
       2025
     ],
@@ -82237,17 +82237,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 16 Sep 2026 15:00:04 GMT",
-    "contentHash": "570b852ffe3512a56bb906d36f90972fbbd0b2d52c0f248a87c43f7f8d48f598"
+    "lastModified": "Sun, 11 Oct 2026 15:00:04 GMT",
+    "contentHash": "8661eb5f50efaa2578039d656d7661a32dfa441e43c083bb7d979e7102230dad"
   },
   {
     "id": "fe8a6c131c5a1558",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250430085.files/20250501_01kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:14+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:14+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:15+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "北中山公民館照明器具改修工事（PDF：55KB）",
@@ -82256,16 +82256,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 01 May 2025 07:33:42 GMT",
-    "contentHash": "8e4aeab78304390d72552cc2e76ee6d31cd616c9616ddd3ad209de1c6d51fa56"
+    "contentHash": null
   },
   {
     "id": "91cc02b93688bcc4",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250430085.files/20250501_02kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:15+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:15+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:16+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "児童センター遊戯室空気調和設備整備工事（第2（PDF：57KB）",
@@ -82274,16 +82274,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 01 May 2025 07:33:48 GMT",
-    "contentHash": "1935fe8f5046ce9c29323c902c723e5326d7f6f5dd0ea09dede409e2733cc76d"
+    "contentHash": null
   },
   {
     "id": "2054221fda8c709e",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250430085.files/20250501_03kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:15+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:15+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:16+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "鯖江市民プール管理棟屋上防水改修工事（PDF：52KB）",
@@ -82292,16 +82292,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 01 May 2025 07:33:54 GMT",
-    "contentHash": "8eb732f95d0a2bc9f82433dba4b61f240fd558ad8d4ba11f857091826c099890"
+    "contentHash": null
   },
   {
     "id": "65a32ac694a1c4f6",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250430085.files/20250501_04kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:16+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:16+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:17+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "立待体育館非構造部材耐震化工事実施設計業務委託（PDF：63KB）",
@@ -82310,16 +82310,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 01 May 2025 07:33:59 GMT",
-    "contentHash": "f6f64b12817f0974b399e3744e5aa1b5c87b15dbd180fe429e326a9dc9c932b2"
+    "contentHash": null
   },
   {
     "id": "6e6c38aa823add20",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250430085.files/20250501_05kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:17+00:00",
+    "lastSuccessAt": "2026-10-11T22:13:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:17+00:00",
+    "nextCrawlAt": "2026-10-14T22:13:17+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "公共下水道汚水支線管渠布設工事（第25001号）（PDF：53KB）",
@@ -82328,7 +82328,7 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 01 May 2025 07:34:05 GMT",
-    "contentHash": "e71c45a06f3d5cadb2fb0805723f736814d0d7b891a9570e06c7062a1444dce3"
+    "contentHash": null
   },
   {
     "id": "cbe6323435743577",
