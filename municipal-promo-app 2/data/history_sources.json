@@ -7616,8 +7616,8 @@
       2026
     ],
     "sourceType": "result",
-    "title": "入札結果表【令和８年度】",
-    "discoveryMethod": "procurement_page",
+    "title": "令和８年度入札結果【工事・委託】",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "W/\"6aa23cae-6da1\"",
@@ -82335,9 +82335,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa4/Zaimu0120220726092.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:17+00:00",
+    "lastSuccessAt": "2026-10-12T01:33:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:17+00:00",
+    "nextCrawlAt": "2026-10-15T01:33:49+00:00",
     "coveredYears": [
       2022
     ],
@@ -82347,17 +82347,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 16 Sep 2026 15:00:03 GMT",
-    "contentHash": "b05caa2642952f3c839badad190f36379b8777d8a1024fea0e39eee2d582a454"
+    "lastModified": "Sun, 11 Oct 2026 15:00:03 GMT",
+    "contentHash": "7c6cc483835fece035c8afe4cd548d7531e4341e83b94e683d04bbd9b045a344"
   },
   {
     "id": "8c8f7d9e95075fe8",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250514092.files/20250515_01kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:18+00:00",
+    "lastSuccessAt": "2026-10-12T01:33:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:18+00:00",
+    "nextCrawlAt": "2026-10-15T01:33:49+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "北中山小学校外壁改修工事（PDF：53KB）",
@@ -82366,16 +82366,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 15 May 2025 08:36:52 GMT",
-    "contentHash": "7edf645a7f836e5642d2ec538507636f242469ccba2439c68ca4d5d7f40187cb"
+    "contentHash": null
   },
   {
     "id": "9459443ddb965b3f",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250514092.files/20250515_02kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:19+00:00",
+    "lastSuccessAt": "2026-10-12T01:33:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:19+00:00",
+    "nextCrawlAt": "2026-10-15T01:33:50+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "中河保育所テラスシート張替工事（PDF：53KB）",
@@ -82384,16 +82384,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 15 May 2025 08:36:59 GMT",
-    "contentHash": "ee7c3e9ebe952622cccea1896bbf96814249da160c0e45f38d5417ef99bd5cdf"
+    "contentHash": null
   },
   {
     "id": "409ae82146b8fe92",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250514092.files/20250515_03kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:19+00:00",
+    "lastSuccessAt": "2026-10-12T01:33:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:19+00:00",
+    "nextCrawlAt": "2026-10-15T01:33:51+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "青年会館照明器具改修工事（PDF：54KB）",
@@ -82402,16 +82402,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 15 May 2025 08:37:05 GMT",
-    "contentHash": "1e669e15af555fd8b29c669316c0979f7cc85122a11cdf03ab026c84d9e48a6d"
+    "contentHash": null
   },
   {
     "id": "24434dd03f8a93ba",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250514092.files/20250515_04kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:20+00:00",
+    "lastSuccessAt": "2026-10-12T01:33:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:20+00:00",
+    "nextCrawlAt": "2026-10-15T01:33:51+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "環境衛生センター屋根防水改修工事（第24301号）（PDF：54KB）",
@@ -82420,16 +82420,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 15 May 2025 08:37:10 GMT",
-    "contentHash": "e19f7056762ce4f937becb1387a47e39e253333993e8be9cc3ec8b07c513afd6"
+    "contentHash": null
   },
   {
     "id": "fbe08ccf06ffa4d3",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa7nyusatsu/Zaimu0120250514092.files/20250515_05kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:20+00:00",
+    "lastSuccessAt": "2026-10-12T01:33:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:20+00:00",
+    "nextCrawlAt": "2026-10-15T01:33:52+00:00",
     "coveredYears": [
       2025
     ],
@@ -82440,16 +82440,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 15 May 2025 08:37:16 GMT",
-    "contentHash": "c8177856020f88a4509172ac56d2c60184dc589e660fa9086b08d1471fc28b81"
+    "contentHash": null
   },
   {
     "id": "51d1577c0f112f9b",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p011950_d/fil/r3_10_14.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:23+00:00",
+    "lastSuccessAt": "2026-10-12T01:33:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:23+00:00",
+    "nextCrawlAt": "2026-10-15T01:33:54+00:00",
     "coveredYears": [
       2021
     ],
@@ -82458,8 +82458,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"7fd5f3f46dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:17:02 GMT",
+    "etag": "\"3b6f67a5b459dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:13:49 GMT",
     "contentHash": "d275910a41e6fae6e3fe9b2f281b2754e15eda6e29802381f8e73d71039e9788"
   },
   {
@@ -82467,9 +82467,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p011950_d/fil/r3_10_28.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:24+00:00",
+    "lastSuccessAt": "2026-10-12T01:33:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:24+00:00",
+    "nextCrawlAt": "2026-10-15T01:33:55+00:00",
     "coveredYears": [
       2021
     ],
@@ -82478,8 +82478,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8b71d7f3f46dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:17:02 GMT",
+    "etag": "\"91d169a5b459dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:13:49 GMT",
     "contentHash": "14b35fc324292389de6e8933c4b070070a4fe1ba5733af836b24d126f54c5465"
   },
   {
@@ -82487,9 +82487,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p011950_d/fil/r3_11_11.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:24+00:00",
+    "lastSuccessAt": "2026-10-12T01:33:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:24+00:00",
+    "nextCrawlAt": "2026-10-15T01:33:56+00:00",
     "coveredYears": [
       2021
     ],
@@ -82498,8 +82498,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8b71d7f3f46dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:17:02 GMT",
+    "etag": "\"91d169a5b459dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:13:49 GMT",
     "contentHash": "0e09bd59d53c586b190bfdc4d146d4c66c092d0f1328dab1b6bb9f347a0c3614"
   },
   {
@@ -82507,9 +82507,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p011950_d/fil/r3_12_2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:25+00:00",
+    "lastSuccessAt": "2026-10-12T01:33:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:25+00:00",
+    "nextCrawlAt": "2026-10-15T01:33:57+00:00",
     "coveredYears": [
       2021
     ],
@@ -82518,8 +82518,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"fcd3d9f3f46dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:17:02 GMT",
+    "etag": "\"ed336ca5b459dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:13:49 GMT",
     "contentHash": "beb1229174e3ce7bd83684b6c6ae622ca7135feba2f59e9c20b870184adbda2f"
   },
   {
@@ -82527,9 +82527,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p011950_d/fil/r3_4_15.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:26+00:00",
+    "lastSuccessAt": "2026-10-12T01:33:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:26+00:00",
+    "nextCrawlAt": "2026-10-15T01:33:58+00:00",
     "coveredYears": [
       2021
     ],
@@ -82538,8 +82538,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"fcd3d9f3f46dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:17:02 GMT",
+    "etag": "\"ed336ca5b459dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:13:49 GMT",
     "contentHash": "0c7ae3de67fbfcefe0142f6f3307a67f10075132a1befd9da7b923eaa841e6f4"
   },
   {
@@ -82547,9 +82547,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p011950_d/fil/r3_4_22.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:27+00:00",
+    "lastSuccessAt": "2026-10-12T01:33:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:27+00:00",
+    "nextCrawlAt": "2026-10-15T01:33:59+00:00",
     "coveredYears": [
       2021
     ],
@@ -82558,8 +82558,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"9998def3f46dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:17:02 GMT",
+    "etag": "\"59966ea5b459dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:13:49 GMT",
     "contentHash": "3e8f58a6f0bd8ddcecd61b65879280d1825ea4bcb43bb96b6f950a608472bf3a"
   },
   {
@@ -82567,9 +82567,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p011950_d/fil/r3_5_13.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:28+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:28+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:00+00:00",
     "coveredYears": [
       2021
     ],
@@ -82578,8 +82578,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"e7fae0f3f46dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:17:02 GMT",
+    "etag": "\"aef870a5b459dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:13:49 GMT",
     "contentHash": "dac552a74c937c8b4447cc1bd9ef5cdcd6ccfc2d4207256e467852adfeeabe77"
   },
   {
@@ -82587,9 +82587,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p011950_d/fil/r3_5_26.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:29+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:29+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:00+00:00",
     "coveredYears": [
       2021
     ],
@@ -82598,8 +82598,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"e7fae0f3f46dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:17:02 GMT",
+    "etag": "\"fd5a73a5b459dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:13:49 GMT",
     "contentHash": "7811c94e6267ab3822e9bfa8b21ca4f4132d46b7ff41816bcc41eb5f26bf73aa"
   },
   {
@@ -82607,9 +82607,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p011950_d/fil/r3_6_10.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:30+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:30+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:02+00:00",
     "coveredYears": [
       2021
     ],
@@ -82618,8 +82618,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"2c5de3f3f46dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:17:02 GMT",
+    "etag": "\"fd5a73a5b459dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:13:49 GMT",
     "contentHash": "f143ee0a4f9562b9e605cc1fec8e7884f163d374f8c64b2e2201660c7fac5362"
   },
   {
@@ -82627,9 +82627,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_10_27.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:31+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:31+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:03+00:00",
     "coveredYears": [
       2022
     ],
@@ -82638,8 +82638,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"9f728ce11246dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "etag": "\"a1f56f65b759dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:33:30 GMT",
     "contentHash": "484eda725fd86ac9f4e865636a7041c32acf8a3caeed64ff81022a4c0f29beed"
   },
   {
@@ -82647,9 +82647,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_10_7.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:31+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:31+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:04+00:00",
     "coveredYears": [
       2022
     ],
@@ -82658,8 +82658,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"9f728ce11246dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "etag": "\"f6577265b759dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:33:30 GMT",
     "contentHash": "9d2bc29cd3a399fecfb7a3913fd1f3213796c230fb9454ec9ac4547417a34507"
   },
   {
@@ -82667,9 +82667,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_11_24.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:32+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:32+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:05+00:00",
     "coveredYears": [
       2022
     ],
@@ -82678,8 +82678,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"f3d48ee11246dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "etag": "\"4eba7465b759dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:33:30 GMT",
     "contentHash": "e4c069bcf8525730d6a0665996301a7827c841d8b90f516cf32f450d1d2e77c1"
   },
   {
@@ -82687,9 +82687,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_12_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T20:21:33+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T20:21:33+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:05+00:00",
     "coveredYears": [
       2022
     ],
@@ -82698,8 +82698,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"5e3791e11246dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "etag": "\"4eba7465b759dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:33:30 GMT",
     "contentHash": "09afda9f2da3f666c83d6f27c78ede08e045978f803f40b4d62411763e6391b9"
   },
   {
@@ -82707,9 +82707,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_12_22.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T23:11:06+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T23:11:06+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:06+00:00",
     "coveredYears": [
       2022
     ],
@@ -82718,8 +82718,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"5e3791e11246dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "etag": "\"a81c7765b759dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:33:30 GMT",
     "contentHash": "f327f98805ba5cbd5430f39a6de036f8117078da3dbbcec7b83ecbdb71e520ca"
   },
   {
@@ -82727,9 +82727,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_4_14.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T23:11:07+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T23:11:07+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:07+00:00",
     "coveredYears": [
       2022
     ],
@@ -82738,8 +82738,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"949993e11246dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "etag": "\"a81c7765b759dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:33:30 GMT",
     "contentHash": "106bebdca7ba8726ae76bf2b1ce6995804c13049dd36601c36280ed0e6aafb1a"
   },
   {
@@ -82747,9 +82747,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_4_28.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T23:11:08+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T23:11:08+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:08+00:00",
     "coveredYears": [
       2022
     ],
@@ -82758,8 +82758,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"14fc95e11246dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "etag": "\"fd7e7965b759dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:33:30 GMT",
     "contentHash": "e0b72995385bf2ca0f54e16dc932c3ae531a564ba9bfd3c08f32e4574bdbbe89"
   },
   {
@@ -82767,9 +82767,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_5_12.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T23:11:09+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T23:11:09+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:09+00:00",
     "coveredYears": [
       2022
     ],
@@ -82778,8 +82778,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"4a5e98e11246dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "etag": "\"56e17b65b759dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:33:30 GMT",
     "contentHash": "0493525732ff72f047241f1e736a7fd2e57e1e5704e00ee75211c8e2416f1e21"
   },
   {
@@ -82787,9 +82787,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_5_26.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T23:11:10+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T23:11:10+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:10+00:00",
     "coveredYears": [
       2022
     ],
@@ -82798,8 +82798,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"13c19ae11246dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "etag": "\"ee437e65b759dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:33:30 GMT",
     "contentHash": "ac70ec7f77dbad4431d791b6c20b2be75177a835b5bc1d072db7cc654b6409a9"
   },
   {
@@ -82807,9 +82807,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p012634_d/fil/r4_6_8.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T23:11:11+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T23:11:11+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:11+00:00",
     "coveredYears": [
       2022
     ],
@@ -82818,8 +82818,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"89859fe11246dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 19:37:59 GMT",
+    "etag": "\"6d88365b759dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:33:30 GMT",
     "contentHash": "9b7c5917e6159dd6a2685e042584ddf35b48838436921ef471ed6ad990153f78"
   },
   {
@@ -82827,9 +82827,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319_d/fil/r5_10_12.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T23:11:11+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T23:11:11+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:11+00:00",
     "coveredYears": [
       2023
     ],
@@ -82838,8 +82838,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8f96f9341646dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 20:01:48 GMT",
+    "etag": "\"2f71870ba59dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:55:17 GMT",
     "contentHash": "5f256510fb60ee2b46c8e7f62d0c3b269e90f82fb1ff342589e90220e450488b"
   },
   {
@@ -82847,9 +82847,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319_d/fil/r5_10_26.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T23:11:12+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T23:11:12+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:12+00:00",
     "coveredYears": [
       2023
     ],
@@ -82858,8 +82858,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8f96f9341646dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 20:01:48 GMT",
+    "etag": "\"5c591b70ba59dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:55:17 GMT",
     "contentHash": "4662e7afaaabf3529d17db72655e3067c2236a381eebe1900c5b2c03be715fcc"
   },
   {
@@ -82867,9 +82867,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319_d/fil/r5_12_22.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T23:11:13+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T23:11:13+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:13+00:00",
     "coveredYears": [
       2023
     ],
@@ -82878,8 +82878,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"caf8fb341646dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 20:01:48 GMT",
+    "etag": "\"5c591b70ba59dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:55:17 GMT",
     "contentHash": "4c83c6aea9918f3abe7474d4458f02f131a796a3bfa72a5ce6b271582b3352a7"
   },
   {
@@ -82887,9 +82887,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319_d/fil/r5_12_7.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-16T23:11:14+00:00",
+    "lastSuccessAt": "2026-10-12T01:34:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-19T23:11:14+00:00",
+    "nextCrawlAt": "2026-10-15T01:34:13+00:00",
     "coveredYears": [
       2023
     ],
@@ -82898,8 +82898,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"315bfe341646dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 20:01:48 GMT",
+    "etag": "\"c4bb1d70ba59dd1:0\"",
+    "lastModified": "Sun, 11 Oct 2026 19:55:17 GMT",
     "contentHash": "54719df9fa47b683486b2aae57f96eb3caa45c609a2b22425fcd795fbf7ac825"
   },
   {
@@ -121349,6 +121349,101 @@
     "title": "落札者の公示について（ペレット対応可能３Dプリンターシステム（８備出１８））",
     "discoveryMethod": "procurement_page",
     "priority": 3,
+    "active": true
+  },
+  {
+    "id": "a7b17c791121573b",
+    "municipalityCode": "472085",
+    "url": "https://www.city.urasoe.lg.jp/doc/630aba8aea4ac91bd2612ff1/",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-12T01:33:47+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-15T01:33:47+00:00",
+    "coveredYears": [
+      2026
+    ],
+    "sourceType": "result",
+    "title": "工事及び委託の契約に関すること（契約約款・発注予定・入札結果）",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "W/\"6ac74a3f-7161\"",
+    "lastModified": "Thu, 08 Oct 2026 07:46:07 GMT",
+    "contentHash": "e89f5d593d6159023f2bc7a77c6bc38d45a525c9c3ddc7a190f8da0c06057de1"
+  },
+  {
+    "id": "60b04cebfb9c15f8",
+    "municipalityCode": "472085",
+    "url": "https://www.city.urasoe.lg.jp/doc/63043c0350f259402391c38d/",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "過去の入札結果（令和元年度～令和7年度）【工事・委託】",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "1c13c08fa39de619",
+    "municipalityCode": "472085",
+    "url": "https://www.city.urasoe.lg.jp/doc/630aba8aea4ac91bd2612ff1/file_contents/R061001b.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "浦添市業務委託契約約款(R6.10.1版)PDF[PDF：353KB]",
+    "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "927fa210e7fef858",
+    "municipalityCode": "472085",
+    "url": "https://www.city.urasoe.lg.jp/doc/630aba8aea4ac91bd2612ff1/file_contents/file_20261084132048_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "発注予定一覧（委託）R8.10.1時点[PDF：143KB]",
+    "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "0045ccc4f88490a2",
+    "municipalityCode": "472085",
+    "url": "https://www.city.urasoe.lg.jp/doc/630aba8aea4ac91bd2612ff1/file_contents/file_20261084132048_2.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "発注予定一覧（工事）R8.10.1時点[PDF：200KB]",
+    "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "3aa986750e9c0bac",
+    "municipalityCode": "472085",
+    "url": "https://www.city.urasoe.lg.jp/doc/630aba8aea4ac91bd2612ff1/file_contents/file_2026515141246_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "浦添市建設工事請負契約約款（R8.5.1版）[PDF：407KB]",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true
   }
 ]
