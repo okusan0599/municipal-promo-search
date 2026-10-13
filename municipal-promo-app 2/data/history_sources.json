@@ -19577,7 +19577,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"6ab575ae-6e66\"",
@@ -85390,9 +85390,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/itakuR5-7-68.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:14+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:14+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:36+00:00",
     "coveredYears": [
       2023
     ],
@@ -85410,9 +85410,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/itakuR5-7-56.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:14+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:14+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:36+00:00",
     "coveredYears": [
       2023
     ],
@@ -85430,9 +85430,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/itakuR5-4-5.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:15+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:15+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:37+00:00",
     "coveredYears": [
       2023
     ],
@@ -85450,9 +85450,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/chintaishakuR5-4-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:15+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:15+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:38+00:00",
     "coveredYears": [
       2023
     ],
@@ -85470,9 +85470,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/koujiR5-4-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:16+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:16+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:39+00:00",
     "coveredYears": [
       2023
     ],
@@ -85490,9 +85490,9 @@
     "municipalityCode": "282120",
     "url": "https://www.city.ako.lg.jp/soumu/keiyaku/nyuusatsujouhoukekkamitooshi.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:17+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:17+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:40+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札情報・入札結果・工事発注見通し",
@@ -85501,7 +85501,7 @@
     "active": true,
     "etag": "\"48f9-657b72731c26d\"",
     "lastModified": "Wed, 29 Jul 2026 03:00:08 GMT",
-    "contentHash": "a17759f203fe803e9449e11d86bbbeccdf2b3ec6f60221ade756aee1c1740d10"
+    "contentHash": null
   },
   {
     "id": "a3be90ff8b2619e5",
@@ -85539,9 +85539,9 @@
     "municipalityCode": "010006",
     "url": "https://www.pref.hokkaido.lg.jp/hf/kst/197479.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:18+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:18+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:40+00:00",
     "coveredYears": [
       2024
     ],
@@ -85550,18 +85550,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6aabec11-534f\"",
-    "lastModified": "Thu, 17 Sep 2026 13:33:05 GMT",
-    "contentHash": "669955a5175ae168da11d758b86eb2e2c0d5b8062c0c294af59b3eb5e7e97c00"
+    "etag": "\"6acdfafd-534f\"",
+    "lastModified": "Tue, 13 Oct 2026 09:33:49 GMT",
+    "contentHash": "94d75c9b5c7534ac1b55ca530a63c4def7f9d06ef3bc36d6c952de482d0a7300"
   },
   {
     "id": "3dd09a87c5fdd9ae",
     "municipalityCode": "010006",
     "url": "https://www.pref.hokkaido.lg.jp/hf/kst/228373.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:19+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:19+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:41+00:00",
     "coveredYears": [
       2025
     ],
@@ -85570,18 +85570,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6aabec16-58c8\"",
-    "lastModified": "Thu, 17 Sep 2026 13:33:10 GMT",
-    "contentHash": "f07154975d9060112416419b117b535cf90d099596e9ff8d1fd2aa8f383dd082"
+    "etag": "\"6acdfaff-58c8\"",
+    "lastModified": "Tue, 13 Oct 2026 09:33:51 GMT",
+    "contentHash": "aee6de328a3ed74264f92da8e505accb25527fc4852ddc36c3016369af5c48e8"
   },
   {
     "id": "68a9fdf00d63f18c",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd45577297c1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:21+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:21+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:42+00:00",
     "coveredYears": [
       2016
     ],
@@ -85592,16 +85592,16 @@
     "active": true,
     "etag": "\"121d3-5b63db5170bc0\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:31 GMT",
-    "contentHash": "8908c173454e13a129f42393d3215e292cc04d353b7f1bdac024387da4453354"
+    "contentHash": null
   },
   {
     "id": "54ac7c48448b6d83",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4557745b1d.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:21+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:21+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:42+00:00",
     "coveredYears": [
       2016
     ],
@@ -85612,16 +85612,16 @@
     "active": true,
     "etag": "\"a3fe-5b63db5170bc0\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:31 GMT",
-    "contentHash": "4ce1ed6f3c8434aa73b18bb14b6318a925bde165edb32fe640c8717ff68686b9"
+    "contentHash": null
   },
   {
     "id": "7a5f6990746f57e5",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4557767ea2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:22+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:22+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:43+00:00",
     "coveredYears": [
       2016
     ],
@@ -85632,16 +85632,16 @@
     "active": true,
     "etag": "\"d2a9-5b63db5170bc0\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:31 GMT",
-    "contentHash": "35db21d65b8d78827f9aa3ee6fecb7abbb2ed9b8320cd1ba70dd758c341850a3"
+    "contentHash": null
   },
   {
     "id": "7cb277f1512fb739",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd455778a81a.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:22+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:22+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:44+00:00",
     "coveredYears": [
       2016
     ],
@@ -85652,16 +85652,16 @@
     "active": true,
     "etag": "\"b675-5b63db5170bc0\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:31 GMT",
-    "contentHash": "9e43a71244cbe6206f879c197d065f895e216d4a1b39f417b11f30790a2d439b"
+    "contentHash": null
   },
   {
     "id": "1cb6ffccf550540e",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd45577b0812.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:23+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:23+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:44+00:00",
     "coveredYears": [
       2015,
       2016
@@ -85673,7 +85673,7 @@
     "active": true,
     "etag": "\"eb25-5b63db5170bc0\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:31 GMT",
-    "contentHash": "5489ef8e103b74e5f3ab2c99e952fd170f1ac257365fdae7d849e4e7f0650fee"
+    "contentHash": null
   },
   {
     "id": "9cf4de81b336a5ab",
@@ -85710,9 +85710,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/soshiki/zaisei_keiyaku/gyomu/nyusatsu_keiyaku/nyusatsu/nyusatsukekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:24+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:24+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:46+00:00",
     "coveredYears": [
       2022
     ],
@@ -85721,9 +85721,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6aa74ebf-af0e\"",
-    "lastModified": "Mon, 14 Sep 2026 01:32:47 GMT",
-    "contentHash": "9bbeabece829b2c71e50f62ac68e40abd9b42fe8e3f2486b5bde6057c4a3b391"
+    "etag": "W/\"6acd7592-af0e\"",
+    "lastModified": "Tue, 13 Oct 2026 00:04:34 GMT",
+    "contentHash": "2b9711626c080d45c49d5f989e957d53ac2a5d82f7f0d08d0ed8477355903416"
   },
   {
     "id": "41ccac9e93c0bcbc",
@@ -85760,9 +85760,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/kekka03-jouken46.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:25+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:25+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:48+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "鳥羽中央公園園路整備工事(PDFファイル:76.5KB)",
@@ -85778,9 +85778,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/kekka03-jouken45.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:26+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:26+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:49+00:00",
     "coveredYears": [
       2021
     ],
@@ -85798,9 +85798,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/kekka03-jouken44.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:26+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:26+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:50+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "観光施設災害復旧工事(PDFファイル:76.5KB)",
@@ -85816,9 +85816,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/kekka03-jouken43.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:27+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:27+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:51+00:00",
     "coveredYears": [
       2021
     ],
@@ -85836,9 +85836,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/kekka03-jouken42.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:27+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:27+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:52+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "河川災害復旧に伴う市道広谷口線配水管布設替工事(PDFファイル:99.3KB)",
@@ -85899,9 +85899,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/kekka1-37.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:28+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:28+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:54+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "鳥羽中央公園園路整備工事(PDFファイル:91.6KB)",
@@ -85917,9 +85917,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/kekka1-38.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:29+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:29+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:55+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "市道長岡線外1線道路修繕工事(PDFファイル:85KB)",
@@ -85935,9 +85935,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/kekka1-36.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:29+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:29+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:56+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "普通河川矢田川河床掘削工事(PDFファイル:83.9KB)",
@@ -85953,9 +85953,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/kekka1-35.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:30+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:30+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:56+00:00",
     "coveredYears": [
       2020
     ],
@@ -85973,9 +85973,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/kekka1-34.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:30+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:30+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:57+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "鳥羽展望台公衆トイレ改修工事(PDFファイル:88.8KB)",
@@ -86051,9 +86051,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/kekka1-35_10208922.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:31+00:00",
+    "lastSuccessAt": "2026-10-13T09:40:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:31+00:00",
+    "nextCrawlAt": "2026-10-16T09:40:59+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "船津3号橋長寿命化工事(PDFファイル:79.5KB)",
@@ -86069,9 +86069,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/r1-12kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:31+00:00",
+    "lastSuccessAt": "2026-10-13T09:41:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:31+00:00",
+    "nextCrawlAt": "2026-10-16T09:41:00+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "答志島神島間海底送水管布設工事その3(PDFファイル:80.8KB)",
@@ -86087,9 +86087,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/r1-13kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:32+00:00",
+    "lastSuccessAt": "2026-10-13T09:41:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:32+00:00",
+    "nextCrawlAt": "2026-10-16T09:41:01+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "答志島神島間海底送水管布設工事その2(PDFファイル:86.2KB)",
@@ -86105,9 +86105,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/10/r1-11kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T13:40:33+00:00",
+    "lastSuccessAt": "2026-10-13T09:41:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T13:40:33+00:00",
+    "nextCrawlAt": "2026-10-16T09:41:01+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "県道答志桃取線減圧弁（神島送水系）取替工事(PDFファイル:83.9KB)",
@@ -95468,10 +95468,10 @@
     "id": "17de19836dc4775c",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/nyusatsu/5106.html",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": null,
-    "lastFailureAt": "2026-09-19T20:57:45+00:00",
-    "nextCrawlAt": "2026-09-20T08:57:45+00:00",
+    "lastFailureAt": "2026-10-13T09:40:34+00:00",
+    "nextCrawlAt": "2026-10-14T09:40:34+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果等",
@@ -110528,7 +110528,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "各課電話番号",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -121512,5 +121512,25 @@
     "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
+  },
+  {
+    "id": "af3d5f6e34d0be8d",
+    "municipalityCode": "100005",
+    "url": "https://www.pref.gunma.jp/site/nyuusatsu/778146.html",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-13T09:40:33+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-16T09:40:33+00:00",
+    "coveredYears": [
+      2027
+    ],
+    "sourceType": "result",
+    "title": "公募型プロポーザル結果の公表（令和9年度群馬県職員採用案内パンフレット等作成委託業務）",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "\"722c812e\"",
+    "lastModified": "Mon, 12 Oct 2026 17:17:50 GMT",
+    "contentHash": "ca29d493ff66025221e7a8c904312c30fbd8fc100dad4d72c2b7b5350f6a8c8d"
   }
 ]
