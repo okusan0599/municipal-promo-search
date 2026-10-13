@@ -86867,9 +86867,9 @@
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r2/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T18:29:03+00:00",
+    "lastSuccessAt": "2026-10-13T22:59:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T18:29:03+00:00",
+    "nextCrawlAt": "2026-10-16T22:59:38+00:00",
     "coveredYears": [
       2020
     ],
@@ -86878,18 +86878,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6aaa5966-9b78\"",
-    "lastModified": "Wed, 16 Sep 2026 08:55:02 GMT",
-    "contentHash": "40509b35bd3aa68c687db6091c2950366ebdf60ab86b04e63f7f9d9ccac6617a"
+    "etag": "\"6ac72991-9b7a\"",
+    "lastModified": "Thu, 08 Oct 2026 05:26:41 GMT",
+    "contentHash": "96b215405217fda7a0c1742368d1a25becf763ce290e2864c1d943895b5189bd"
   },
   {
     "id": "4d2e30718ac3240d",
     "municipalityCode": "423076",
     "url": "https://webtown.nagayo.jp/kiji0036103/3_6103_35798_up_1clg4h2n.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:20:54+00:00",
+    "lastSuccessAt": "2026-10-13T22:59:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:20:54+00:00",
+    "nextCrawlAt": "2026-10-16T22:59:39+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果（PDF：93キロバイト）",
@@ -86898,16 +86898,16 @@
     "active": true,
     "etag": "\"917eaa70c841dd1:0\"",
     "lastModified": "Fri, 11 Sep 2026 08:35:03 GMT",
-    "contentHash": "76cc86fc0b1f967280e292e9df4d6ebee4139b04bb26ec43f71c2adbc625198f"
+    "contentHash": null
   },
   {
     "id": "504c231b3116f5cc",
     "municipalityCode": "423076",
     "url": "https://webtown.nagayo.jp/dynamic/info/pub/default.aspx?c_id=25",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:20:56+00:00",
+    "lastSuccessAt": "2026-10-13T22:59:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:20:56+00:00",
+    "nextCrawlAt": "2026-10-16T22:59:42+00:00",
     "coveredYears": [
       2011
     ],
@@ -86918,7 +86918,7 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "4c8386d0270e29282caf7653ad12c6c595763e3b6e89438649a2fb3449211a54"
+    "contentHash": "35c9a476fa94223fef04f3f4c2211f6b400d2b877ff404c4b8f70c319d535f9b"
   },
   {
     "id": "432a7b189e003812",
@@ -86940,9 +86940,9 @@
     "municipalityCode": "282171",
     "url": "https://www.city.kawanishi.hyogo.jp/business/nyusatsu/nyusatsukeiyaku/1004181/1018310.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:20:57+00:00",
+    "lastSuccessAt": "2026-10-13T22:59:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:20:57+00:00",
+    "nextCrawlAt": "2026-10-16T22:59:44+00:00",
     "coveredYears": [
       2023
     ],
@@ -86951,18 +86951,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"9e88-65baf4678f300\"",
-    "lastModified": "Thu, 17 Sep 2026 15:17:00 GMT",
-    "contentHash": "68e62dc9dde469afbcb78bf579a5f61e8a5b4c21b5d5aef1a62221d52a980c7c"
+    "etag": "\"9f07-65dba4fc6e900\"",
+    "lastModified": "Tue, 13 Oct 2026 15:17:24 GMT",
+    "contentHash": "2c11c819c1b605eaaaf0cca6cc980378d1f8bd29c1e080c52ce1ca75300239c8"
   },
   {
     "id": "7f28439012f4b3cc",
     "municipalityCode": "282171",
     "url": "https://www.city.kawanishi.hyogo.jp/_res/projects/default_project/_page_/001/017/731/0427-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:20:58+00:00",
+    "lastSuccessAt": "2026-10-13T22:59:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:20:58+00:00",
+    "nextCrawlAt": "2026-10-16T22:59:45+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "安全灯等修繕及び設置工事（中部）（単価契約） （PDF 114.0KB）",
@@ -86978,9 +86978,9 @@
     "municipalityCode": "282171",
     "url": "https://www.city.kawanishi.hyogo.jp/_res/projects/default_project/_page_/001/017/731/0427-2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:20:59+00:00",
+    "lastSuccessAt": "2026-10-13T22:59:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:20:59+00:00",
+    "nextCrawlAt": "2026-10-16T22:59:46+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "安全灯等修繕及び設置工事（南部）（単価契約） （PDF 113.9KB）",
@@ -86996,9 +86996,9 @@
     "municipalityCode": "282171",
     "url": "https://www.city.kawanishi.hyogo.jp/_res/projects/default_project/_page_/001/017/731/0427-3.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:00+00:00",
+    "lastSuccessAt": "2026-10-13T22:59:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:00+00:00",
+    "nextCrawlAt": "2026-10-16T22:59:47+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "安全灯等修繕及び設置工事（北部）（単価契約） （PDF 137.3KB）",
@@ -87014,9 +87014,9 @@
     "municipalityCode": "282171",
     "url": "https://www.city.kawanishi.hyogo.jp/_res/projects/default_project/_page_/001/017/901/05013jigo.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:01+00:00",
+    "lastSuccessAt": "2026-10-13T22:59:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:01+00:00",
+    "nextCrawlAt": "2026-10-16T22:59:48+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "道路反射鏡修繕及び設置工事（単価契約） （PDF 111.7KB）",
@@ -87032,9 +87032,9 @@
     "municipalityCode": "282171",
     "url": "https://www.city.kawanishi.hyogo.jp/_res/projects/default_project/_page_/001/017/901/05014jigo.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:02+00:00",
+    "lastSuccessAt": "2026-10-13T22:59:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:02+00:00",
+    "nextCrawlAt": "2026-10-16T22:59:50+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "防護柵等修繕及び設置工事（単価契約） （PDF 112.8KB）",
@@ -87050,9 +87050,9 @@
     "municipalityCode": "282171",
     "url": "https://www.city.kawanishi.hyogo.jp/_res/projects/default_project/_page_/001/017/901/05015jigo.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:03+00:00",
+    "lastSuccessAt": "2026-10-13T22:59:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:03+00:00",
+    "nextCrawlAt": "2026-10-16T22:59:51+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "区画線等修繕及び設置工事（単価契約） （PDF 109.6KB）",
@@ -87068,9 +87068,9 @@
     "municipalityCode": "282171",
     "url": "https://www.city.kawanishi.hyogo.jp/_res/projects/default_project/_page_/001/017/965/230609.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:04+00:00",
+    "lastSuccessAt": "2026-10-13T22:59:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:04+00:00",
+    "nextCrawlAt": "2026-10-16T22:59:52+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "川西市立学校園所樹木害虫駆除業務委託（単価契約）(教育総務課) （PDF 112.2KB）",
@@ -87086,9 +87086,9 @@
     "municipalityCode": "282171",
     "url": "https://www.city.kawanishi.hyogo.jp/_res/projects/default_project/_page_/001/018/085/230728-2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:05+00:00",
+    "lastSuccessAt": "2026-10-13T22:59:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:05+00:00",
+    "nextCrawlAt": "2026-10-16T22:59:53+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "市立小・中特別支援学校におけるスマートフォン契約 (教育総務課） （PDF 77.2KB）",
@@ -87104,17 +87104,17 @@
     "municipalityCode": "292087",
     "url": "https://www.city.gose.nara.jp/category/6-9-5-0-0-0-0-0-0-0.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:07+00:00",
+    "lastSuccessAt": "2026-10-13T22:59:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:07+00:00",
+    "nextCrawlAt": "2026-10-16T22:59:55+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"3b7f-65bb4e8f37fff\"",
-    "lastModified": "Thu, 17 Sep 2026 22:00:20 GMT",
+    "etag": "\"3b7f-65dbff0d0c685\"",
+    "lastModified": "Tue, 13 Oct 2026 22:00:20 GMT",
     "contentHash": "e65ec3cf8284ee243bd45455c0fc6d3af7343592c6621404dc36914b6e59c799"
   },
   {
@@ -87271,10 +87271,10 @@
     "id": "755b6647d555958c",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/R7-5nyuusatu.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-17T22:21:08+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:08+00:00",
+    "lastFailureAt": "2026-10-13T22:59:56+00:00",
+    "nextCrawlAt": "2026-10-14T10:59:56+00:00",
     "coveredYears": [
       2025
     ],
@@ -87285,16 +87285,17 @@
     "active": true,
     "etag": "\"684a9726-2e166\"",
     "lastModified": "Thu, 12 Jun 2025 09:00:22 GMT",
-    "contentHash": "55e01b3adadb07de3516b021360d5c62f690c0d5b90ad9983c16d1db9701c2f5"
+    "contentHash": "55e01b3adadb07de3516b021360d5c62f690c0d5b90ad9983c16d1db9701c2f5",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.iijima.lg.jp/material/files/group/3/R7-5nyuusatu.pdf/"
   },
   {
     "id": "7f69b24e6933ad0f",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/R7-6nyuusatu.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-17T22:21:08+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:08+00:00",
+    "lastFailureAt": "2026-10-13T22:59:57+00:00",
+    "nextCrawlAt": "2026-10-14T10:59:57+00:00",
     "coveredYears": [
       2025
     ],
@@ -87305,16 +87306,17 @@
     "active": true,
     "etag": "\"686b54ab-1500e\"",
     "lastModified": "Mon, 07 Jul 2025 05:01:31 GMT",
-    "contentHash": "2a5bc0ea7312dfd3eef9c35a9adf959a1f74d9f51d76758ba88fca726543d601"
+    "contentHash": "2a5bc0ea7312dfd3eef9c35a9adf959a1f74d9f51d76758ba88fca726543d601",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.iijima.lg.jp/material/files/group/3/R7-6nyuusatu.pdf/"
   },
   {
     "id": "03bbb6ce4f816c8b",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/R7-7nyuusatu.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-17T22:21:09+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:09+00:00",
+    "lastFailureAt": "2026-10-13T22:59:58+00:00",
+    "nextCrawlAt": "2026-10-14T10:59:58+00:00",
     "coveredYears": [
       2025
     ],
@@ -87325,16 +87327,17 @@
     "active": true,
     "etag": "\"689e95fa-253ee\"",
     "lastModified": "Fri, 15 Aug 2025 02:05:46 GMT",
-    "contentHash": "ede3724f298ac07bf2aa972ce46851f4f6517bd3f85efd04addce9f5cc883af6"
+    "contentHash": "ede3724f298ac07bf2aa972ce46851f4f6517bd3f85efd04addce9f5cc883af6",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.iijima.lg.jp/material/files/group/3/R7-7nyuusatu.pdf/"
   },
   {
     "id": "94ba04ec56ea2371",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/R7-8nyuusatu.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-17T22:21:10+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:10+00:00",
+    "lastFailureAt": "2026-10-13T22:59:59+00:00",
+    "nextCrawlAt": "2026-10-14T10:59:59+00:00",
     "coveredYears": [
       2025
     ],
@@ -87345,16 +87348,17 @@
     "active": true,
     "etag": "\"68c37042-21752\"",
     "lastModified": "Fri, 12 Sep 2025 00:58:42 GMT",
-    "contentHash": "15a0942d4e0eb86c487c2bd62521ebdac608274adc94b602a44c1687ba1a7560"
+    "contentHash": "15a0942d4e0eb86c487c2bd62521ebdac608274adc94b602a44c1687ba1a7560",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.iijima.lg.jp/material/files/group/3/R7-8nyuusatu.pdf/"
   },
   {
     "id": "5cc96f440be3b931",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/r7-10nyuusatsu.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-17T22:21:10+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:10+00:00",
+    "lastFailureAt": "2026-10-13T23:00:00+00:00",
+    "nextCrawlAt": "2026-10-14T11:00:00+00:00",
     "coveredYears": [
       2025
     ],
@@ -87365,16 +87369,17 @@
     "active": true,
     "etag": "\"691566f6-362d2\"",
     "lastModified": "Thu, 13 Nov 2025 05:04:54 GMT",
-    "contentHash": "e6f265803aeef3b2b257c42d99152ed044b289a45473c844c6af9811f86c21fa"
+    "contentHash": "e6f265803aeef3b2b257c42d99152ed044b289a45473c844c6af9811f86c21fa",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.iijima.lg.jp/material/files/group/3/r7-10nyuusatsu.pdf/"
   },
   {
     "id": "814a651646d3c2d9",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/r8-7nyuusatu.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-17T22:21:11+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:11+00:00",
+    "lastFailureAt": "2026-10-13T23:00:01+00:00",
+    "nextCrawlAt": "2026-10-14T11:00:01+00:00",
     "coveredYears": [
       2026
     ],
@@ -87385,16 +87390,17 @@
     "active": true,
     "etag": "\"6a7e806c-28e1f\"",
     "lastModified": "Fri, 14 Aug 2026 02:41:48 GMT",
-    "contentHash": "8b3212be89c986c9a20c5838c347285d1300fcd5c80a0ba4e79c0f3e9477302c"
+    "contentHash": "8b3212be89c986c9a20c5838c347285d1300fcd5c80a0ba4e79c0f3e9477302c",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.iijima.lg.jp/material/files/group/3/r8-7nyuusatu.pdf/"
   },
   {
     "id": "9417fdd3e4f118e1",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/r8-6nyuusatu.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-17T22:21:11+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:11+00:00",
+    "lastFailureAt": "2026-10-13T23:00:02+00:00",
+    "nextCrawlAt": "2026-10-14T11:00:02+00:00",
     "coveredYears": [
       2026
     ],
@@ -87405,16 +87411,17 @@
     "active": true,
     "etag": "\"6a50badc-23c4b\"",
     "lastModified": "Fri, 10 Jul 2026 09:26:52 GMT",
-    "contentHash": "5c4ad123f32587787a895a57c08be94e3d54eca468e737e8aac88b491c3cf8c8"
+    "contentHash": "5c4ad123f32587787a895a57c08be94e3d54eca468e737e8aac88b491c3cf8c8",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.iijima.lg.jp/material/files/group/3/r8-6nyuusatu.pdf/"
   },
   {
     "id": "abf56fad44358af0",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/r8-5nyuusatsu.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-17T22:21:12+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:12+00:00",
+    "lastFailureAt": "2026-10-13T23:00:02+00:00",
+    "nextCrawlAt": "2026-10-14T11:00:02+00:00",
     "coveredYears": [
       2026
     ],
@@ -87425,16 +87432,17 @@
     "active": true,
     "etag": "\"6a2a4ea6-2cd59\"",
     "lastModified": "Thu, 11 Jun 2026 05:59:02 GMT",
-    "contentHash": "25b654aff07933bd2ef40820e8fa9695968809d3bd7684536020c727db6dbb1d"
+    "contentHash": "25b654aff07933bd2ef40820e8fa9695968809d3bd7684536020c727db6dbb1d",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.iijima.lg.jp/material/files/group/3/r8-5nyuusatsu.pdf/"
   },
   {
     "id": "ab89b1973215cba2",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/r8-3nyuusatu.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-17T22:21:13+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:13+00:00",
+    "lastFailureAt": "2026-10-13T23:00:03+00:00",
+    "nextCrawlAt": "2026-10-14T11:00:03+00:00",
     "coveredYears": [
       2025,
       2026
@@ -87446,16 +87454,17 @@
     "active": true,
     "etag": "\"69d85887-15216\"",
     "lastModified": "Fri, 10 Apr 2026 01:55:19 GMT",
-    "contentHash": "2c41a309b5cd30444d9d2c7399254dd2c1c4dce8600084ede1437184ca06e9a3"
+    "contentHash": "2c41a309b5cd30444d9d2c7399254dd2c1c4dce8600084ede1437184ca06e9a3",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.iijima.lg.jp/material/files/group/3/r8-3nyuusatu.pdf/"
   },
   {
     "id": "dee951cb6921cbf2",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/r8-2nyuusatsu.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-17T22:21:13+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:13+00:00",
+    "lastFailureAt": "2026-10-13T23:00:04+00:00",
+    "nextCrawlAt": "2026-10-14T11:00:04+00:00",
     "coveredYears": [
       2025,
       2026
@@ -87467,16 +87476,17 @@
     "active": true,
     "etag": "\"69ae8196-14996\"",
     "lastModified": "Mon, 09 Mar 2026 08:15:18 GMT",
-    "contentHash": "053c451eb511040f967bde05a87708447b1e140f347f23f197b5b6ec91e5ab38"
+    "contentHash": "053c451eb511040f967bde05a87708447b1e140f347f23f197b5b6ec91e5ab38",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.iijima.lg.jp/material/files/group/3/r8-2nyuusatsu.pdf/"
   },
   {
     "id": "df3eaa814b8c9ae2",
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/86043_238392_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:14+00:00",
+    "lastSuccessAt": "2026-10-13T23:00:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:14+00:00",
+    "nextCrawlAt": "2026-10-16T23:00:05+00:00",
     "coveredYears": [
       2024
     ],
@@ -87486,7 +87496,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 17 Sep 2026 22:02:54 GMT",
+    "lastModified": "Tue, 13 Oct 2026 22:03:12 GMT",
     "contentHash": "fc8089e2f0a57512c613bcb6505b5d425fd32cad3f0c032a3cc2491d9041f16a"
   },
   {
@@ -87494,9 +87504,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/86043_238393_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:15+00:00",
+    "lastSuccessAt": "2026-10-13T23:00:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:15+00:00",
+    "nextCrawlAt": "2026-10-16T23:00:06+00:00",
     "coveredYears": [
       2024
     ],
@@ -87506,7 +87516,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 17 Sep 2026 22:02:54 GMT",
+    "lastModified": "Tue, 13 Oct 2026 22:03:12 GMT",
     "contentHash": "a670e4ea62d92b6a1127ca4bdcf43d8b9011c3823a72125e6c2953560af88323"
   },
   {
@@ -87514,9 +87524,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/86043_238394_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:16+00:00",
+    "lastSuccessAt": "2026-10-13T23:00:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:16+00:00",
+    "nextCrawlAt": "2026-10-16T23:00:07+00:00",
     "coveredYears": [
       2024
     ],
@@ -87526,7 +87536,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 17 Sep 2026 22:02:54 GMT",
+    "lastModified": "Tue, 13 Oct 2026 22:03:12 GMT",
     "contentHash": "33a856f2293b22958bf54e3e230ff74ccbc44dbe700ffc21f083355f04961a90"
   },
   {
@@ -87534,9 +87544,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/86043_238395_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:17+00:00",
+    "lastSuccessAt": "2026-10-13T23:00:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:17+00:00",
+    "nextCrawlAt": "2026-10-16T23:00:08+00:00",
     "coveredYears": [
       2025
     ],
@@ -87546,7 +87556,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 17 Sep 2026 22:02:54 GMT",
+    "lastModified": "Tue, 13 Oct 2026 22:03:12 GMT",
     "contentHash": "ef76c309e2806c139d7e71d376b8d98b8a53f288852cc9104362b07d9947654a"
   },
   {
@@ -87554,9 +87564,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/86043_238492_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:17+00:00",
+    "lastSuccessAt": "2026-10-13T23:00:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:17+00:00",
+    "nextCrawlAt": "2026-10-16T23:00:08+00:00",
     "coveredYears": [
       2025
     ],
@@ -87566,7 +87576,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 17 Sep 2026 22:02:54 GMT",
+    "lastModified": "Tue, 13 Oct 2026 22:03:12 GMT",
     "contentHash": "505ac4bfbfd2c493e15d92972f433bf100cbf61f8715680f861b8ce557e64ab5"
   },
   {
@@ -87634,9 +87644,9 @@
     "municipalityCode": "432067",
     "url": "https://www.city.tamana.lg.jp/q/aview/128/14766.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:19+00:00",
+    "lastSuccessAt": "2026-10-13T23:00:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:19+00:00",
+    "nextCrawlAt": "2026-10-16T23:00:10+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "指名競争入札結果",
@@ -87645,16 +87655,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "8e55cd7b4f1501e365877a39c9201b4e1f5a25e42d3865416f7de8b4ef037775"
+    "contentHash": "b95ffb2d0fc05a09992cd646fc58638f002a767ef70046cf3267f7ecc7b663fb"
   },
   {
     "id": "6fd6a7612d4c08ae",
     "municipalityCode": "432067",
     "url": "https://www.city.tamana.lg.jp/q/aview/128/36169.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-17T22:21:20+00:00",
+    "lastSuccessAt": "2026-10-13T23:00:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-20T22:21:20+00:00",
+    "nextCrawlAt": "2026-10-16T23:00:11+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "条件付一般競争入札結果",
@@ -87663,7 +87673,7 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "8a27294d9e1af825fd08e94e7efe153eb2afff50af4ca97d3938a0ed9a2c2bb9"
+    "contentHash": "cbf375e394ad783966bf2bb6adff983c9d852fe11e5a653844f25b28f5435432"
   },
   {
     "id": "72f2647a99108296",
