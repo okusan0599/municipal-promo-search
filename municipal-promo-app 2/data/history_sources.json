@@ -48445,7 +48445,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果（業務委託・その他）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -75184,8 +75184,8 @@
       2020
     ],
     "sourceType": "result",
-    "title": "入札結果はこちら",
-    "discoveryMethod": "procurement_page",
+    "title": "入札結果",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"6ac6d82e-180e9\"",
@@ -92618,9 +92618,9 @@
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/material/files/group/2/R8_0414_11_02.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T06:08:28+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T06:08:28+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:00+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果11(PDFファイル:67.4KB)",
@@ -92629,16 +92629,16 @@
     "active": true,
     "etag": "\"6a14e673-10d88\"",
     "lastModified": "Tue, 26 May 2026 00:16:51 GMT",
-    "contentHash": "95a1b16edbac4e6dae6b187fa9c045285cd017bfff5f252dca3ce334edac128c"
+    "contentHash": null
   },
   {
     "id": "c7c2651fb97ae1a1",
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/material/files/group/2/R8_0414_12_02.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T06:08:28+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T06:08:28+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:01+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果12(PDFファイル:65.8KB)",
@@ -92647,16 +92647,16 @@
     "active": true,
     "etag": "\"6a14e69e-10700\"",
     "lastModified": "Tue, 26 May 2026 00:17:34 GMT",
-    "contentHash": "49c62a5de89f863dbf4ff016e81f25bbeb02c763cde729423b8c99e6888b6f52"
+    "contentHash": null
   },
   {
     "id": "606dfcfbe91f6b04",
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/material/files/group/2/R8_0414_13_02.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T06:08:29+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T06:08:29+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:01+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果13(PDFファイル:66.1KB)",
@@ -92665,16 +92665,16 @@
     "active": true,
     "etag": "\"6a14e6d0-10833\"",
     "lastModified": "Tue, 26 May 2026 00:18:24 GMT",
-    "contentHash": "be97c65cf0a8fd07d2f624a5a94621dc93ecbd1c625f92f83c50cc15030e99d2"
+    "contentHash": null
   },
   {
     "id": "2fec963f2831ce20",
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/material/files/group/2/R8_0414_14_01.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T06:08:29+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T06:08:29+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:02+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果14(PDFファイル:66.1KB)",
@@ -92683,16 +92683,16 @@
     "active": true,
     "etag": "\"6a14e477-10816\"",
     "lastModified": "Tue, 26 May 2026 00:08:23 GMT",
-    "contentHash": "2e7d101e6f4119c8caf70031d7633f74bb8a0c8e3aa7f8af997bf11a322b3b98"
+    "contentHash": null
   },
   {
     "id": "77d6f5b776dd5bf3",
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/material/files/group/2/R8_0907_52_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T06:08:30+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T06:08:30+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:02+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果52(PDFファイル:155.1KB)",
@@ -92701,16 +92701,16 @@
     "active": true,
     "etag": "\"6a9e51a8-26c3c\"",
     "lastModified": "Mon, 07 Sep 2026 05:54:48 GMT",
-    "contentHash": "0523bb5c76aa455c15e96e7d18353ae963e6abc260eaf9c56ab2a91659fbfbf2"
+    "contentHash": null
   },
   {
     "id": "06958ac2c2d32fd8",
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/material/files/group/2/R8_0825_48_1_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:28+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:28+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:03+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果48(PDFファイル:66.2KB)",
@@ -92719,16 +92719,16 @@
     "active": true,
     "etag": "\"6a8e7c11-10874\"",
     "lastModified": "Wed, 26 Aug 2026 05:39:29 GMT",
-    "contentHash": "ee34f2e31bf208a544cd9ba57024142408e2dec0e76125411a12f502b0f1cd08"
+    "contentHash": null
   },
   {
     "id": "af55d224c4907eb7",
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/material/files/group/2/R8_0825_49_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:29+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:29+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:04+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果49(PDFファイル:60.6KB)",
@@ -92737,16 +92737,16 @@
     "active": true,
     "etag": "\"6a8e7c6e-f229\"",
     "lastModified": "Wed, 26 Aug 2026 05:41:02 GMT",
-    "contentHash": "a7fdc7d4d165fae4c55ecafcd71f4a011554489ee911994413b074e612852e4d"
+    "contentHash": null
   },
   {
     "id": "50160ca520babf8e",
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/material/files/group/2/R8_0825_50_1_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:29+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:29+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:04+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果50(PDFファイル:65.9KB)",
@@ -92755,16 +92755,16 @@
     "active": true,
     "etag": "\"6a8e7cbb-10746\"",
     "lastModified": "Wed, 26 Aug 2026 05:42:19 GMT",
-    "contentHash": "f385dede3b6e4c3e8dde24c9d94648d47d76417292a6011b4004834cc04588c4"
+    "contentHash": null
   },
   {
     "id": "67406a534b5817b7",
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/material/files/group/2/R8_0825_51_1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:30+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:30+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:05+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果51(PDFファイル:61.4KB)",
@@ -92773,16 +92773,16 @@
     "active": true,
     "etag": "\"6a8e7d4e-f563\"",
     "lastModified": "Wed, 26 Aug 2026 05:44:46 GMT",
-    "contentHash": "56fc126512b43f88872f1ead87f2434a51488c279df707282e72f42a2392d9c8"
+    "contentHash": null
   },
   {
     "id": "d80b241600781de2",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/jigyosha/nyusatsu/kekka/15445.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:30+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:30+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:05+00:00",
     "coveredYears": [
       2025
     ],
@@ -92791,18 +92791,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a8cdbf9-18538\"",
-    "lastModified": "Tue, 25 Aug 2026 00:04:09 GMT",
-    "contentHash": "9e14692ee4bee35f96493678aaba58c7d17ec1ffca7c0862c77dec08ca894d05"
+    "etag": "\"6abf5c61-18538\"",
+    "lastModified": "Fri, 02 Oct 2026 07:25:21 GMT",
+    "contentHash": "e1dd2dcc2a408f9d861747bbdf69a149243af843f061184b96e834c9fee18a65"
   },
   {
     "id": "07253b204ff29b2d",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/jigyosha/nyusatsu/kekka/15455.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:31+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:31+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:06+00:00",
     "coveredYears": [
       2025,
       2026
@@ -92812,18 +92812,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a8cdbfa-1a9c3\"",
-    "lastModified": "Tue, 25 Aug 2026 00:04:10 GMT",
-    "contentHash": "8a9087df6073c645beaa5a1de430b6dbf1fdab044ffac2ff4900f57515dfd8f4"
+    "etag": "\"6abf5c62-1a9c3\"",
+    "lastModified": "Fri, 02 Oct 2026 07:25:22 GMT",
+    "contentHash": "0187224c401cd91332e75c282df6174c062a8d7f4fb6acafc9d8787521de2772"
   },
   {
     "id": "7da1458dd7a251ca",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/jigyosha/nyusatsu/kekka/15456.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:31+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:31+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:07+00:00",
     "coveredYears": [
       2025
     ],
@@ -92832,18 +92832,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a8cdbfb-18715\"",
-    "lastModified": "Tue, 25 Aug 2026 00:04:11 GMT",
-    "contentHash": "e1854fa0760ecec7d02b2f933e424ba2d365d6947020545bf0082c450b2d9161"
+    "etag": "\"6ac6d7bf-18715\"",
+    "lastModified": "Wed, 07 Oct 2026 23:37:35 GMT",
+    "contentHash": "610157f05ed57ba5026c0211ff89c1772f63297fdf76590a8f16afd9aa09a20a"
   },
   {
     "id": "ff7de2c645fe7c9b",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/jigyosha/nyusatsu/kekka/16521.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:32+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:32+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:07+00:00",
     "coveredYears": [
       2026
     ],
@@ -92852,18 +92852,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6aab3519-184e9\"",
-    "lastModified": "Thu, 17 Sep 2026 00:32:25 GMT",
-    "contentHash": "a1b2316a3fd2ce2887dbbd82963841087242ce0e62a508a39ac4664d102871b5"
+    "etag": "\"6acf1f61-18600\"",
+    "lastModified": "Wed, 14 Oct 2026 06:21:21 GMT",
+    "contentHash": "d6d76a1345f5cfc429bf6601272e993e217e59c7492d040d220bf8ac2e2a98ee"
   },
   {
     "id": "4a7bd1b966c542fa",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/jigyosha/nyusatsu/kekka/16522.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:33+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:33+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:08+00:00",
     "coveredYears": [
       2026
     ],
@@ -92872,9 +92872,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6aab6f50-1840d\"",
-    "lastModified": "Thu, 17 Sep 2026 04:40:48 GMT",
-    "contentHash": "ae62d5961c605683d686d8a5a5f764f6ef1688d5cb9f6e008ee31a3406cdbe4e"
+    "etag": "\"6ac46007-18538\"",
+    "lastModified": "Tue, 06 Oct 2026 02:42:15 GMT",
+    "contentHash": "9ded1509a8ff6eff12005f68b063c9fd82168d40969692a3605640649b71a9b3"
   },
   {
     "id": "c1159e703aa10cb5",
@@ -92956,9 +92956,9 @@
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/KekkaAList2025g/2025/KekkaAList2025/2026-03-26/2_00150.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:34+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:34+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:09+00:00",
     "coveredYears": [
       2025,
       2026
@@ -92970,16 +92970,16 @@
     "active": true,
     "etag": "\"6a4b42e7-12fb6\"",
     "lastModified": "Mon, 06 Jul 2026 05:53:43 GMT",
-    "contentHash": "4ab26469a10b44fed7ce2a706ea2a91e3bda89ce19d56a4f7f0faf32f26a582f"
+    "contentHash": null
   },
   {
     "id": "2a82937fe5cfeb86",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/KekkaAList2025g/2025/KekkaAList2025/2026-03-06/2_00169.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:35+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:35+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:10+00:00",
     "coveredYears": [
       2025,
       2026
@@ -92991,16 +92991,16 @@
     "active": true,
     "etag": "\"6a4b42e7-14bb8\"",
     "lastModified": "Mon, 06 Jul 2026 05:53:43 GMT",
-    "contentHash": "6104ed4cfe506115208834d5b3ebe27ae6af2c262af72e12b34ccf60c322587a"
+    "contentHash": null
   },
   {
     "id": "1e07819b57af9634",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/KekkaAList2025g/2025/KekkaAList2025/2026-01-22/2_00133.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:35+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:35+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:11+00:00",
     "coveredYears": [
       2025,
       2026
@@ -93012,16 +93012,16 @@
     "active": true,
     "etag": "\"6a4b42e6-14adc\"",
     "lastModified": "Mon, 06 Jul 2026 05:53:42 GMT",
-    "contentHash": "e1117826c324ca4a01c4aa3edb743a2d030d1b3ccb8e1812c6185cdb60ec7b6d"
+    "contentHash": null
   },
   {
     "id": "483aefcd7ce2010b",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/KekkaAList2025g/2025/KekkaAList2025/2025-12-22/2_00132.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:36+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:36+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:11+00:00",
     "coveredYears": [
       2025
     ],
@@ -93032,16 +93032,16 @@
     "active": true,
     "etag": "\"6a4b42e6-15c71\"",
     "lastModified": "Mon, 06 Jul 2026 05:53:42 GMT",
-    "contentHash": "0a42fb495e46ac4820c3cd879246b79916bf13a81b0624aa19d4638e885ac0a9"
+    "contentHash": null
   },
   {
     "id": "6cea4317c3c3781b",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/KekkaAList2025g/2025/KekkaAList2025/2025-11-18/2_00121.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:37+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:37+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:12+00:00",
     "coveredYears": [
       2025
     ],
@@ -93052,7 +93052,7 @@
     "active": true,
     "etag": "\"6a4b42e5-153bf\"",
     "lastModified": "Mon, 06 Jul 2026 05:53:41 GMT",
-    "contentHash": "91746b3c98debaa3e97c96c4a7e8f2ad2f3d198b727c83bd5bf11054b1ee43df"
+    "contentHash": null
   },
   {
     "id": "1bd407c2467cfae5",
@@ -93134,9 +93134,9 @@
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/KekkaAList2025k/2025/KekkaAList2025/2026-03-26/1_00162.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:37+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:37+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:12+00:00",
     "coveredYears": [
       2025,
       2026
@@ -93148,16 +93148,16 @@
     "active": true,
     "etag": "\"6a4b42d6-14309\"",
     "lastModified": "Mon, 06 Jul 2026 05:53:26 GMT",
-    "contentHash": "ff47b0f62142e0953b7bda9bbdb38e78816113f8bfa4ce16d5cf75f568986f2c"
+    "contentHash": null
   },
   {
     "id": "9c60f07f9e2378f2",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/KekkaAList2025k/2025/KekkaAList2025/2026-01-22/1_00142.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:38+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:38+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:13+00:00",
     "coveredYears": [
       2025,
       2026
@@ -93169,16 +93169,16 @@
     "active": true,
     "etag": "\"6a4b42d6-13329\"",
     "lastModified": "Mon, 06 Jul 2026 05:53:26 GMT",
-    "contentHash": "eb2116d001ccc2b3f5f63c53cfacd5914a1ca75dcba88cabf04c73c6b8fb8860"
+    "contentHash": null
   },
   {
     "id": "1ec29f55b62dfa9f",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/KekkaAList2025k/2025/KekkaAList2025/2026-01-22/1_00140.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:39+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:39+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:13+00:00",
     "coveredYears": [
       2025,
       2026
@@ -93190,16 +93190,16 @@
     "active": true,
     "etag": "\"6a4b42d6-1371a\"",
     "lastModified": "Mon, 06 Jul 2026 05:53:26 GMT",
-    "contentHash": "5dac594c47b3db807965e4d2899bc6246a9382a971365c41e40cb17dd6cb4e9d"
+    "contentHash": null
   },
   {
     "id": "0e2287c1b82b375d",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/KekkaAList2025k/2025/KekkaAList2025/2026-01-22/1_00134.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:40+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:40+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:14+00:00",
     "coveredYears": [
       2025,
       2026
@@ -93211,16 +93211,16 @@
     "active": true,
     "etag": "\"6a4b42d6-140fe\"",
     "lastModified": "Mon, 06 Jul 2026 05:53:26 GMT",
-    "contentHash": "72d1196463d7ab4696c2737ff34337cfe01c09962693a003641ca54af6b0f36f"
+    "contentHash": null
   },
   {
     "id": "2849c562c1c4759e",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/KekkaAList2025k/2025/KekkaAList2025/2025-12-25/1_00133.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:40+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:40+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:15+00:00",
     "coveredYears": [
       2025
     ],
@@ -93231,16 +93231,16 @@
     "active": true,
     "etag": "\"6a4b42d6-13181\"",
     "lastModified": "Mon, 06 Jul 2026 05:53:26 GMT",
-    "contentHash": "0d45702cdcb0f61f3cdb8f33cfc0882ea36a8aeb6f862abcdca2c9ac06e4adf3"
+    "contentHash": null
   },
   {
     "id": "77a97fc7af38ab07",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/fs/3/6/0/4/8/7/_/%E4%BB%A4%E5%92%8C2%E5%B9%B4%E5%BA%A6(%E4%BB%AE)%E5%A5%A5%E6%B2%B3%E5%86%85%E5%9C%B0%E5%8C%BA%E6%B4%A5%E6%B3%A2%E9%81%BF%E9%9B%A3%E3%82%BF%E3%83%AF%E3%83%BC%E6%96%B0%E7%AF%89%E5%B7%A5%E4%BA%8B%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:41+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:41+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:15+00:00",
     "coveredYears": [
       2020
     ],
@@ -93258,27 +93258,27 @@
     "municipalityCode": "342041",
     "url": "https://www.city.mihara.hiroshima.jp/soshiki/25/200936.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:42+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:42+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:16+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "【選定結果を掲載します】道の駅「みはら神明の里」ＰＯＳシステム更新（公募型プロポーザル）の実施について",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"548a-65bd3f9716fc2\"",
-    "lastModified": "Sat, 19 Sep 2026 11:04:01 GMT",
-    "contentHash": "13e1999f9ca9d0e7a7e0f211105abef78ac78b99fc276188cc3c69a7f193531a"
+    "etag": "\"548a-65de4dea880be\"",
+    "lastModified": "Thu, 15 Oct 2026 18:03:49 GMT",
+    "contentHash": "6d0a4d1414a6fb5ea39c6297dc43bfc67a73a97cf3dab7fa339c4cc30d177287"
   },
   {
     "id": "90688f2da3612e74",
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/soshiki/43/93019.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:43+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:43+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:18+00:00",
     "coveredYears": [
       2026
     ],
@@ -93288,8 +93288,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 19 Sep 2026 11:02:51 GMT",
-    "contentHash": "133af32e196a86c0eeb74adc0b33bcaf69335975f74127e8e471c80e62d28177"
+    "lastModified": "Thu, 15 Oct 2026 18:02:55 GMT",
+    "contentHash": "82b22b1e9734f653f8f7145bb3c72c9fc830dc135c10b19420297161bececd74"
   },
   {
     "id": "0f0acd5493faead9",
@@ -93311,9 +93311,9 @@
     "municipalityCode": "350001",
     "url": "https://www.pref.yamaguchi.lg.jp/soshiki/4/362239.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T11:18:43+00:00",
+    "lastSuccessAt": "2026-10-15T18:30:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T11:18:43+00:00",
+    "nextCrawlAt": "2026-10-18T18:30:18+00:00",
     "coveredYears": [
       2026
     ],
@@ -93322,8 +93322,8 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"636c-65bd359d1c9d7\"",
-    "lastModified": "Sat, 19 Sep 2026 10:19:23 GMT",
+    "etag": "\"636c-65de516337f85\"",
+    "lastModified": "Thu, 15 Oct 2026 18:19:21 GMT",
     "contentHash": "599966ae64edd98d509772bdefc2ab58cb7061479480d5354ff4187380ec8f08"
   },
   {
@@ -122201,30 +122201,38 @@
     "municipalityCode": "392014",
     "url": "https://www.city.kochi.kochi.jp/uploaded/attachment/179793.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-15T18:29:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-18T18:29:57+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "高知市ラブアクト推進事業委託業務公募型プロポーザルに係る審査結果の公表について [PDFファイル／82KB]",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"145b5-6546b4f0821dd\"",
+    "lastModified": "Wed, 17 Jun 2026 04:15:24 GMT",
+    "contentHash": "fd707f21f7005020c6a397d34c5607fdb338795480cf405bd71fd8df8dd0d74a"
   },
   {
     "id": "66ed52b4651169a3",
     "municipalityCode": "032115",
     "url": "https://www.city.kamaishi.iwate.jp/docs/2026100500040/file_contents/250401-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-15T18:29:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-10-18T18:29:59+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "釜石市市営建設工事等及び財産の買入れ等に係る入札結果等公表要領[PDF：98.5KB]",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6ad041c5-18a0c\"",
+    "lastModified": "Thu, 15 Oct 2026 03:00:21 GMT",
+    "contentHash": "8e0c94a3f042dc1745b6d418dee93f6fd3b2192c3a01d0961747db65bcbb3a47"
   },
   {
     "id": "aea1bac47f77dff0",
@@ -122269,6 +122277,51 @@
     "title": "釜石地区マンホール蓋更新工事[PDF：174KB]",
     "discoveryMethod": "result_archive_link",
     "priority": 3,
+    "active": true
+  },
+  {
+    "id": "f966961f602c9975",
+    "municipalityCode": "014729",
+    "url": "https://www.town.horokanai.hokkaido.jp/wp-content/uploads/2026/10/horoplus-recipe_vol6.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "レシピvol.6",
+    "discoveryMethod": "link_discovery",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "26e26b11ddc1eb55",
+    "municipalityCode": "352101",
+    "url": "https://www.city.hikari.lg.jp/soshiki/2/nyusatsu/jigyosha/1/kekka/8522_6/16511.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "令和8年度建設工事（10月～12月）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "030c2da267721873",
+    "municipalityCode": "352101",
+    "url": "https://www.city.hikari.lg.jp/soshiki/2/nyusatsu/jigyosha/1/kekka/8524_8/16519.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "入札結果 令和8年度物品・業務委託等(10月～3月)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true
   }
 ]

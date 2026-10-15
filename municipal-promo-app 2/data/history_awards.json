@@ -1072,7 +1072,7 @@
   },
   {
     "dedupeKey": "29e3ca080e72f40e6a2b1eaa470afee55a33bf4fcad78e4976d4ac1b8a3df3b7",
-    "id": "award-b85cf4de071cd9f7062372d7",
+    "id": "award-749a47c05bd89fe21fbae82c",
     "municipalityCode": "032115",
     "area": "東北",
     "region": "岩手県",
@@ -1082,12 +1082,12 @@
     "vendor": "名 オ",
     "awardDate": "1999-07-01",
     "year": 1999,
-    "sourceUrl": "https://www.city.kamaishi.iwate.jp/docs/2026082000019/file_contents/250401-1.pdf",
+    "sourceUrl": "https://www.city.kamaishi.iwate.jp/docs/2026100500040/file_contents/250401-1.pdf",
     "sourceSystem": "municipality_result",
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-25T22:38:15+00:00"
+    "lastChecked": "2026-10-15T18:29:59+00:00"
   },
   {
     "dedupeKey": "ab9ab6fd87479e5c2d2ac07d322d32f5769afc0c238e2f3bbe525866edd274a6",
@@ -29023,5 +29023,24 @@
       "Web・アプリ・デジタルサービス"
     ],
     "lastChecked": "2026-10-10T20:16:24+00:00"
+  },
+  {
+    "dedupeKey": "ce9d3c666c4655ecb9d8513b954662e8742cd0b5d2870802743869684b14d06c",
+    "id": "award-bf353ad620fc72fd8bc2e6fe",
+    "municipalityCode": "392014",
+    "area": "四国",
+    "region": "高知県",
+    "municipality": "高知市",
+    "organization": "高知市",
+    "title": "令和8年度高知市ラブアクト推進事業委託業務 2",
+    "vendor": "の",
+    "awardDate": "2026-06-12",
+    "year": 2026,
+    "sourceUrl": "https://www.city.kochi.kochi.jp/uploaded/attachment/179793.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-15T18:29:57+00:00"
   }
 ]
