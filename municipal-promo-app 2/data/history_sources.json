@@ -4252,7 +4252,7 @@
     ],
     "sourceType": "result",
     "title": "「令和7年度宮崎県観光案内板情報更新等業務委託」の入札結果公表について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -4273,7 +4273,7 @@
     ],
     "sourceType": "result",
     "title": "「令和7年度宮崎県観光案内板情報更新等業務委託」の入札結果公表について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -4294,7 +4294,7 @@
     ],
     "sourceType": "result",
     "title": "「令和8年度宮崎県観光入込客統計調査業務委託」の入札結果公表について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -4378,7 +4378,7 @@
     ],
     "sourceType": "result",
     "title": "Google Workspaceライセンスの賃貸借及び保守に係る一般競争入札の結果公表",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -4398,7 +4398,7 @@
     ],
     "sourceType": "result",
     "title": "宮崎県庁業務用ソフトウェアライセンスの調達業務に係る一般競争入札の結果公表",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -7616,8 +7616,8 @@
       2026
     ],
     "sourceType": "result",
-    "title": "令和８年度入札結果【工事・委託】",
-    "discoveryMethod": "result_archive_link",
+    "title": "入札結果表【令和８年度】",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"6aa23cae-6da1\"",
@@ -94072,9 +94072,9 @@
     "municipalityCode": "402028",
     "url": "https://www.city.omuta.lg.jp/kiji00321380/3_21380_130405_up_wb2ilg57.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T14:38:13+00:00",
+    "lastSuccessAt": "2026-10-16T01:38:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T14:38:13+00:00",
+    "nextCrawlAt": "2026-10-19T01:38:50+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "プロポーザル審査結果（PDF：400.7キロバイト）",
@@ -94083,16 +94083,16 @@
     "active": true,
     "etag": "\"4158e2d3ebfddc1:0\"",
     "lastModified": "Tue, 16 Jun 2026 23:57:02 GMT",
-    "contentHash": "f8e53f689c7b2950419ee1497a6321a2752d954f74aca7d66062c9e6fbeb3bfb"
+    "contentHash": null
   },
   {
     "id": "2fd2f10e2f99c7e1",
     "municipalityCode": "422100",
     "url": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/koji_hatchu/389.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T14:38:13+00:00",
+    "lastSuccessAt": "2026-10-16T01:38:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T14:38:13+00:00",
+    "nextCrawlAt": "2026-10-19T01:38:50+00:00",
     "coveredYears": [
       2016,
       2023
@@ -94104,7 +94104,7 @@
     "active": true,
     "etag": "\"6a827d69-b72c\"",
     "lastModified": "Mon, 17 Aug 2026 03:18:01 GMT",
-    "contentHash": "0aaa19bece0e4a8bf1936c5457b4be74c5605df2c7c514b9acabc805248edddb"
+    "contentHash": null
   },
   {
     "id": "4f8ae6454fc0be1e",
@@ -94127,9 +94127,9 @@
     "municipalityCode": "400009",
     "url": "https://www.pref.fukuoka.lg.jp/uploaded/attachment/271089.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T14:38:16+00:00",
+    "lastSuccessAt": "2026-10-16T01:38:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T14:38:16+00:00",
+    "nextCrawlAt": "2026-10-19T01:38:52+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果表 [PDFファイル／139KB]",
@@ -94145,9 +94145,9 @@
     "municipalityCode": "400009",
     "url": "https://www.pref.fukuoka.lg.jp/uploaded/attachment/264998.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T14:38:16+00:00",
+    "lastSuccessAt": "2026-10-16T01:38:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T14:38:16+00:00",
+    "nextCrawlAt": "2026-10-19T01:38:53+00:00",
     "coveredYears": [
       2025
     ],
@@ -94165,9 +94165,9 @@
     "municipalityCode": "402311",
     "url": "https://www.city.nakagawa.lg.jp/uploaded/attachment/29076.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T14:38:18+00:00",
+    "lastSuccessAt": "2026-10-16T01:38:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T14:38:18+00:00",
+    "nextCrawlAt": "2026-10-19T01:38:55+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果表カラー印刷機（R7年2月導入) [PDFファイル／101KB]",
@@ -94213,80 +94213,80 @@
     "municipalityCode": "212024",
     "url": "https://www.city.ogaki.lg.jp/0000066677.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T14:38:19+00:00",
+    "lastSuccessAt": "2026-10-16T01:38:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T14:38:19+00:00",
+    "nextCrawlAt": "2026-10-19T01:38:56+00:00",
     "coveredYears": [
       2024
     ],
     "sourceType": "result",
     "title": "外国語指導助手派遣業務の公募型プロポーザルの選定結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 18 Sep 2026 15:09:52 GMT",
-    "contentHash": "b6f972aa4d9132db205400bcc42888632a41cca30222c1e8924a6d35b6ec9169"
+    "lastModified": "Thu, 15 Oct 2026 15:11:37 GMT",
+    "contentHash": "79d90ccfb766224fda6e824ace902bab488ecd7725cb85283863f362e13144e8"
   },
   {
     "id": "75b5cee222b4f2de",
     "municipalityCode": "212024",
     "url": "https://www.city.ogaki.lg.jp/0000068214.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T14:38:20+00:00",
+    "lastSuccessAt": "2026-10-16T01:38:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T14:38:20+00:00",
+    "nextCrawlAt": "2026-10-19T01:38:57+00:00",
     "coveredYears": [
       2024
     ],
     "sourceType": "result",
     "title": "大垣西インターチェンジ周辺道の駅等整備基本方針策定支援業務委託の公募型プロポーザルの選定結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 18 Sep 2026 15:08:10 GMT",
-    "contentHash": "b06acb619b7cbeb6328d433f3418288de52b3b3fd2576a2c961ac978a33b0e4b"
+    "lastModified": "Thu, 15 Oct 2026 15:09:05 GMT",
+    "contentHash": "72421fce1e263e5abb61f6f1dc2191d62809a879ae585a5f5cf22296fa6a4c6e"
   },
   {
     "id": "2155a155181897fc",
     "municipalityCode": "212024",
     "url": "https://www.city.ogaki.lg.jp/0000068452.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T14:38:21+00:00",
+    "lastSuccessAt": "2026-10-16T01:38:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T14:38:21+00:00",
+    "nextCrawlAt": "2026-10-19T01:38:57+00:00",
     "coveredYears": [
       2024
     ],
     "sourceType": "result",
     "title": "大垣駅南口公衆トイレ改築工事設計業務委託の公募型プロポーザルの選定結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 18 Sep 2026 15:07:38 GMT",
-    "contentHash": "59a6f1615435a40723e59d6f917b0c1accce86ce6491cc9e31e68ccdad30e34a"
+    "lastModified": "Thu, 15 Oct 2026 15:08:17 GMT",
+    "contentHash": "ff5c484c392ac81acb4c881ac4d272f7956c5604b03a5f70b920e789db0db33e"
   },
   {
     "id": "7a5b23aea402cf4a",
     "municipalityCode": "212024",
     "url": "https://www.city.ogaki.lg.jp/0000070618.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:07+00:00",
+    "lastSuccessAt": "2026-10-16T01:38:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:07+00:00",
+    "nextCrawlAt": "2026-10-19T01:38:58+00:00",
     "coveredYears": [
       2024
     ],
     "sourceType": "result",
     "title": "大垣市役所第2駐車場等の貸付先事業者選定に係る公募型プロポーザルの選定結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 19 Sep 2026 15:10:05 GMT",
-    "contentHash": "2525f7e8db2dcc187e5d5641075e0e316896b028bdabda0b927f34040d7b37ec"
+    "lastModified": "Thu, 15 Oct 2026 15:09:30 GMT",
+    "contentHash": "98af17626bfbdd2a6dac50e46c9ed6e9e1528ec54747d40bd04753f91cfba5b2"
   },
   {
     "id": "fcd9c0e913087b04",
@@ -94369,9 +94369,9 @@
     "municipalityCode": "450006",
     "url": "https://www.pref.miyazaki.lg.jp/digital-suishin/kense/chotatsu/kekka/20260515131822.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:12+00:00",
+    "lastSuccessAt": "2026-10-16T01:38:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:12+00:00",
+    "nextCrawlAt": "2026-10-19T01:38:59+00:00",
     "coveredYears": [
       2008
     ],
@@ -94381,8 +94381,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 18 Sep 2026 15:32:47 GMT",
-    "contentHash": "df8a4e9b2f2e9e048e06d19539e5151d6246ec136e236068aa0a87fc217b8099"
+    "lastModified": "Fri, 16 Oct 2026 00:00:42 GMT",
+    "contentHash": "2e6d0773ae9b8e9dee3f4900a3c1c6eedb90771c04dfbb178a30c894d75f2450"
   },
   {
     "id": "94fe975c7313f3a4",
@@ -94433,10 +94433,10 @@
     "id": "addcbd120b73705a",
     "municipalityCode": "402311",
     "url": "https://www.city.nakagawa.lg.jp/uploaded/attachment/28115.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-19T18:15:14+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:14+00:00",
+    "lastFailureAt": "2026-10-16T01:38:59+00:00",
+    "nextCrawlAt": "2026-10-16T13:38:59+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "指定管理者労働条件審査業務委託 [PDFファイル／46KB]",
@@ -94445,16 +94445,17 @@
     "active": true,
     "etag": "\"b75c-620ddca2b16cd\"",
     "lastModified": "Fri, 30 Aug 2024 03:00:11 GMT",
-    "contentHash": "0bd73a6c84a80ea8438bec99b934606e5ae3ac4a196467b9486e9214aede05b8"
+    "contentHash": "0bd73a6c84a80ea8438bec99b934606e5ae3ac4a196467b9486e9214aede05b8",
+    "lastError": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   {
     "id": "e1bbc6903aa670cb",
     "municipalityCode": "072036",
     "url": "https://www.city.koriyama.lg.jp/uploaded/attachment/107266.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:14+00:00",
+    "lastSuccessAt": "2026-10-16T01:39:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:14+00:00",
+    "nextCrawlAt": "2026-10-19T01:39:00+00:00",
     "coveredYears": [
       2025
     ],
@@ -94465,7 +94466,7 @@
     "active": true,
     "etag": "\"1356c-63aa72c8a7ea8\"",
     "lastModified": "Thu, 24 Jul 2025 06:45:41 GMT",
-    "contentHash": "164e4b48ef4cd4262690e505eaad52ea2073cc182dc5cd546d75fde83d53a415"
+    "contentHash": null
   },
   {
     "id": "3db5a319e3bb1d18",
@@ -94891,10 +94892,10 @@
     "id": "c23f253a3a33646d",
     "municipalityCode": "014231",
     "url": "https://www.town.nanporo.hokkaido.jp/topics/politics/p51695/",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-19T18:15:16+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:16+00:00",
+    "lastFailureAt": "2026-10-16T01:39:01+00:00",
+    "nextCrawlAt": "2026-10-16T13:39:01+00:00",
     "coveredYears": [
       2026
     ],
@@ -94905,7 +94906,8 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "99c83450ea637f92c3f88a04f082de6b19e5472d567b39e085fba00d5793c865"
+    "contentHash": "99c83450ea637f92c3f88a04f082de6b19e5472d567b39e085fba00d5793c865",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.nanporo.hokkaido.jp/topics/politics/p51695/"
   },
   {
     "id": "c45b40bb8fa0ee29",
@@ -94941,10 +94943,10 @@
     "id": "b708964516815292",
     "municipalityCode": "252069",
     "url": "https://www.city.kusatsu.shiga.jp/kurashi/sangyobusiness/nyusatsu/proposal/kekka/jinjikyuyojimu.html",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-19T18:15:17+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:17+00:00",
+    "lastFailureAt": "2026-10-16T01:39:03+00:00",
+    "nextCrawlAt": "2026-10-16T13:39:03+00:00",
     "coveredYears": [
       2018
     ],
@@ -94955,7 +94957,8 @@
     "active": true,
     "etag": null,
     "lastModified": "Sat, 19 Sep 2026 15:01:37 GMT",
-    "contentHash": "dd347ad437f5236ad8b81f455253fb6705e148b47cc4a413d875f94e3878d797"
+    "contentHash": "dd347ad437f5236ad8b81f455253fb6705e148b47cc4a413d875f94e3878d797",
+    "lastError": "404 Client Error: Not Found for url: https://www.city.kusatsu.shiga.jp/kurashi/sangyobusiness/nyusatsu/proposal/kekka/jinjikyuyojimu.html"
   },
   {
     "id": "ad79cecb691f6542",
@@ -94977,27 +94980,27 @@
     "municipalityCode": "030007",
     "url": "https://www.pref.iwate.jp/kensei/nyuusatsu/compe/kekka/1101922.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:19+00:00",
+    "lastSuccessAt": "2026-10-16T01:39:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:19+00:00",
+    "nextCrawlAt": "2026-10-19T01:39:05+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "障がい福祉の仕事の魅力発信動画等制作業務委託に係る企画提案の審査結果について",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "W/\"23053-65bd79040bb3b\"",
-    "lastModified": "Sat, 19 Sep 2026 15:20:56 GMT",
-    "contentHash": "4b3d44ddd29e63e89b648c8d535bb317df42a6280cbbc5ef02f8576f44a302ca"
+    "etag": "W/\"2312a-65de93d75cb57\"",
+    "lastModified": "Thu, 15 Oct 2026 23:16:40 GMT",
+    "contentHash": "ea7011e33fb63e1966b81c2adfaa151ef402c27651cd29caee48a29e9e7874fb"
   },
   {
     "id": "ff5c0eeb6cdae5ea",
     "municipalityCode": "132144",
     "url": "https://www.city.kokubunji.tokyo.jp/business/jigyousha/nyusatsu/1034929/1033902.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:20+00:00",
+    "lastSuccessAt": "2026-10-16T01:39:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:20+00:00",
+    "nextCrawlAt": "2026-10-19T01:39:06+00:00",
     "coveredYears": [
       2028
     ],
@@ -95006,18 +95009,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "W/\"ec20-65bd760538b94\"",
-    "lastModified": "Sat, 19 Sep 2026 15:07:32 GMT",
-    "contentHash": "917117fc3c92a10f7c1a6a3108edb9360c208da795b8b67175c28fcbc5e69ad7"
+    "etag": "W/\"e48f-65deb2360e7ff\"",
+    "lastModified": "Fri, 16 Oct 2026 01:32:32 GMT",
+    "contentHash": "443ec8f1a59df7a6e144d79349c3bd20237b60283e6a5ac3ccf93edd93492431"
   },
   {
     "id": "5a517b0fc101f82e",
     "municipalityCode": "132144",
     "url": "https://www.city.kokubunji.tokyo.jp/business/jigyousha/nyusatsu/1034929/1038033.html",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-19T18:15:20+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:20+00:00",
+    "lastFailureAt": "2026-10-16T01:39:07+00:00",
+    "nextCrawlAt": "2026-10-16T13:39:07+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "国分寺市市民課窓口業務等支援業務委託に係る公募型プロポーザルの審査結果について",
@@ -95026,7 +95029,8 @@
     "active": true,
     "etag": "W/\"a462-65bd76054338c\"",
     "lastModified": "Sat, 19 Sep 2026 15:07:32 GMT",
-    "contentHash": "53fbdae66f1c6c9e70af506e007f3dff6327102658f4a43c4804d67ddb67e966"
+    "contentHash": "53fbdae66f1c6c9e70af506e007f3dff6327102658f4a43c4804d67ddb67e966",
+    "lastError": "404 Client Error: Not Found for url: https://www.city.kokubunji.tokyo.jp/business/jigyousha/nyusatsu/1034929/1038033.html"
   },
   {
     "id": "87f3fc8b9ecabf1b",
@@ -95123,9 +95127,9 @@
     "municipalityCode": "172057",
     "url": "https://www.city.suzu.lg.jp/uploaded/attachment/10048.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:21+00:00",
+    "lastSuccessAt": "2026-10-16T01:39:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:21+00:00",
+    "nextCrawlAt": "2026-10-19T01:39:08+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果【2月19日】 [PDFファイル／39KB]",
@@ -95134,16 +95138,16 @@
     "active": true,
     "etag": "\"98d3-64cbb71bc1c4d\"",
     "lastModified": "Wed, 11 Mar 2026 08:30:11 GMT",
-    "contentHash": "c23804b7180be0f09a61b5c3c5b72d6d464632c0efb830878ade686553f8444c"
+    "contentHash": null
   },
   {
     "id": "95abb70586ee71b8",
     "municipalityCode": "172057",
     "url": "https://www.city.suzu.lg.jp/uploaded/attachment/10080.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:22+00:00",
+    "lastSuccessAt": "2026-10-16T01:39:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:22+00:00",
+    "nextCrawlAt": "2026-10-19T01:39:08+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果【2月20日】 [PDFファイル／67KB]",
@@ -95152,16 +95156,16 @@
     "active": true,
     "etag": "\"108df-64cbb71bc1c4d\"",
     "lastModified": "Wed, 11 Mar 2026 08:30:11 GMT",
-    "contentHash": "55513ee896663f4bacc3c3f05633a3f1e5176fc1246f61688006eee24385a54d"
+    "contentHash": null
   },
   {
     "id": "5a2c1770707ada19",
     "municipalityCode": "172057",
     "url": "https://www.city.suzu.lg.jp/uploaded/attachment/10097.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:23+00:00",
+    "lastSuccessAt": "2026-10-16T01:39:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:23+00:00",
+    "nextCrawlAt": "2026-10-19T01:39:09+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果【2月27日】 [PDFファイル／38KB]",
@@ -95170,16 +95174,16 @@
     "active": true,
     "etag": "\"9410-64cbb71bc1c4d\"",
     "lastModified": "Wed, 11 Mar 2026 08:30:11 GMT",
-    "contentHash": "2816e3db4f1ffccae7521cd4996a4a96817ffc0c4c2e2125bccf34080bc950e9"
+    "contentHash": null
   },
   {
     "id": "e0c0b6842fb971e6",
     "municipalityCode": "172057",
     "url": "https://www.city.suzu.lg.jp/uploaded/attachment/10379.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:24+00:00",
+    "lastSuccessAt": "2026-10-16T01:39:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:24+00:00",
+    "nextCrawlAt": "2026-10-19T01:39:09+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果【3月6日】 [PDFファイル／36KB]",
@@ -95188,16 +95192,16 @@
     "active": true,
     "etag": "\"8e4c-6520cbc898536\"",
     "lastModified": "Mon, 18 May 2026 00:35:16 GMT",
-    "contentHash": "04910b1b7cb8f0d13660b22c937bf3e8ec7a3560ef4808b01cc288639fcf2ff0"
+    "contentHash": null
   },
   {
     "id": "b25ee90c9a238e49",
     "municipalityCode": "172057",
     "url": "https://www.city.suzu.lg.jp/uploaded/attachment/10380.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:24+00:00",
+    "lastSuccessAt": "2026-10-16T01:39:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:24+00:00",
+    "nextCrawlAt": "2026-10-19T01:39:10+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果【3月13日】 [PDFファイル／72KB]",
@@ -95206,16 +95210,16 @@
     "active": true,
     "etag": "\"11c6c-6520cbc898536\"",
     "lastModified": "Mon, 18 May 2026 00:35:16 GMT",
-    "contentHash": "225fb42003e7b3edfa51fd5b6a31836bb5b3efe9dd2fe79cba7cf3eb3d3d0ec7"
+    "contentHash": null
   },
   {
     "id": "53923946adb5f9d4",
     "municipalityCode": "172057",
     "url": "https://www.city.suzu.lg.jp/uploaded/attachment/10382.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:25+00:00",
+    "lastSuccessAt": "2026-10-16T01:39:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:25+00:00",
+    "nextCrawlAt": "2026-10-19T01:39:11+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果【3月27日】 [PDFファイル／43KB]",
@@ -95224,16 +95228,16 @@
     "active": true,
     "etag": "\"a9c0-6520cbc898536\"",
     "lastModified": "Mon, 18 May 2026 00:35:16 GMT",
-    "contentHash": "ba50c0b5164f071e8db9f365e2a0cd2c513c547daad5aff30f5c0a40d0bee9eb"
+    "contentHash": null
   },
   {
     "id": "174727ceae99a6e8",
     "municipalityCode": "172057",
     "url": "https://www.city.suzu.lg.jp/uploaded/attachment/10381.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:26+00:00",
+    "lastSuccessAt": "2026-10-16T01:39:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:26+00:00",
+    "nextCrawlAt": "2026-10-19T01:39:11+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果【3月23日】 [PDFファイル／69KB]",
@@ -95242,16 +95246,16 @@
     "active": true,
     "etag": "\"112a0-6520cbc898536\"",
     "lastModified": "Mon, 18 May 2026 00:35:16 GMT",
-    "contentHash": "d502639fc74ea89edcc307653029490979671bf1ed3e6e53528918a74db291b9"
+    "contentHash": null
   },
   {
     "id": "0dee6842d33b2dd7",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa6nyusatsu/Zaimu0120240.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:27+00:00",
+    "lastSuccessAt": "2026-10-16T01:39:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:27+00:00",
+    "nextCrawlAt": "2026-10-19T01:39:14+00:00",
     "coveredYears": [
       2024
     ],
@@ -95261,17 +95265,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 18 Sep 2026 15:00:04 GMT",
-    "contentHash": "45cae5223ea19d591ef770518a7b89f63b629581f76f49d0d08047997f6591b1"
+    "lastModified": "Thu, 15 Oct 2026 03:10:56 GMT",
+    "contentHash": "d7823c83f9cfa9d573a93e588f1f62224a30e01b937c7d6c87ba90929aaa0d53"
   },
   {
     "id": "7dcb7e179ab085ee",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa6nyusatsu/Zaimu0120240411085.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:28+00:00",
+    "lastSuccessAt": "2026-10-16T01:39:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:28+00:00",
+    "nextCrawlAt": "2026-10-19T01:39:15+00:00",
     "coveredYears": [
       2024
     ],
@@ -95281,17 +95285,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 19 Sep 2026 15:00:04 GMT",
-    "contentHash": "c92efdbe203f0d495981057cbb5d36c4d35b6f92bbfeb6493d6987085e339984"
+    "lastModified": "Thu, 15 Oct 2026 03:10:56 GMT",
+    "contentHash": "2422fea1be93ec762caccf44dd51c94fb8925a736baefaf84fe3b89c1f932033"
   },
   {
     "id": "5af455a8bae94da4",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa6nyusatsu/Zaimu0120240418090.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-19T18:15:29+00:00",
+    "lastSuccessAt": "2026-10-16T01:39:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-22T18:15:29+00:00",
+    "nextCrawlAt": "2026-10-19T01:39:16+00:00",
     "coveredYears": [
       2024
     ],
@@ -95301,8 +95305,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 19 Sep 2026 15:00:04 GMT",
-    "contentHash": "f44d13ffbdf07f4f722c6162b353076d7f57a0930d83af9ba49d033799b1bdd0"
+    "lastModified": "Thu, 15 Oct 2026 03:10:56 GMT",
+    "contentHash": "bbd0a8f31d8a5c343f8f951046c84c99a8b985a726ece7e618a1cf777af33d5a"
   },
   {
     "id": "7a1eac211a9f1884",
@@ -122564,42 +122568,102 @@
     "municipalityCode": "143421",
     "url": "https://www.town.ninomiya.kanagawa.jp/gikai/cmsfiles/contents/0000003/3246/r8.3teirei_kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-16T01:38:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-19T01:38:47+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年第3回定例会 審議結果 (PDF形式、102.84KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 15 Oct 2026 02:28:34 GMT",
+    "contentHash": "8fcf3ffd53cd9dc39abc8f32a77669ee2143abbf5426f7eb7b258b040ef7a09d"
   },
   {
     "id": "3674fd8998a18c44",
     "municipalityCode": "143421",
     "url": "https://www.town.ninomiya.kanagawa.jp/gikai/cmsfiles/contents/0000003/3246/r8.4rinji_kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-16T01:38:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-19T01:38:48+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年第4回臨時会 審議結果 (PDF形式、114.12KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 15 Oct 2026 02:28:34 GMT",
+    "contentHash": "59f66779b4fc022139e57799466f9b8dcc9011f41db3d09bb6fa5e811e0d8758"
   },
   {
     "id": "c0302f50f19aec53",
     "municipalityCode": "143421",
     "url": "https://www.town.ninomiya.kanagawa.jp/gikai/cmsfiles/contents/0000003/3246/r8.3rinji_kekka.pdf",
     "failureCount": 0,
+    "lastSuccessAt": "2026-10-16T01:38:48+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-19T01:38:48+00:00",
+    "coveredYears": [
+      2026
+    ],
+    "sourceType": "result_pdf",
+    "title": "令和8年第3回臨時会 審議結果 (PDF形式、129.46KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 15 Oct 2026 02:28:34 GMT",
+    "contentHash": "d6daf9c2b5bc6b589312d72f772c8635d1ce23678adaf9d4737a692c71e25e4d"
+  },
+  {
+    "id": "ae0288f0b8c47f17",
+    "municipalityCode": "132144",
+    "url": "https://www.city.kokubunji.tokyo.jp/_res/projects/default_project/_page_/001/033/902/003kijun.pdf",
+    "failureCount": 0,
     "lastSuccessAt": null,
     "lastFailureAt": null,
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result_pdf",
-    "title": "令和8年第3回臨時会 審議結果 (PDF形式、129.46KB)",
+    "title": "国分寺市旧庁舎用地利活用事業事業者選定公募型プロポーザル審査基準 （PDF 333.9 KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "f19622775899e619",
+    "municipalityCode": "182079",
+    "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa5/Zaimu0120230622143.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "入札結果（令和5年6月22日執行）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "cd4e63efe0c5e44b",
+    "municipalityCode": "182079",
+    "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/nyusatukekka/Kkanri0120211130170.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "入札結果（令和3年12月2日執行）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true
