@@ -48277,7 +48277,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"4cd7-65cb56aadbd08\"",
@@ -48315,7 +48315,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"4aaf-65cb5682bda47\"",
@@ -48333,7 +48333,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約締結状況",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -48348,7 +48348,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札・見積合わせ結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -86561,7 +86561,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "（審査結果の公表）伊予市下水浄化センター民間連携再エネシェアリング調査業務公募型プロポーザル",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"508d-65c7ee92567b2\"",
@@ -86579,7 +86579,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "（審査結果）道の駅なかやま電気自動車充電機器設置事業プロポーザル参加者の募集について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"4f0c-65c7ee927b58b\"",
@@ -98358,9 +98358,9 @@
     "municipalityCode": "263664",
     "url": "https://www.town.seika.kyoto.jp/material/files/group/5/zaimukaikeikekka2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T01:23:32+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T01:23:32+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:20+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "財務会計システム更新リースの入札結果(PDFファイル:48KB)",
@@ -98369,7 +98369,7 @@
     "active": true,
     "etag": "\"6a02e6eb-bfd0\"",
     "lastModified": "Tue, 12 May 2026 08:38:03 GMT",
-    "contentHash": "688edf07bdec2272a8a53a414f749924ff51a10f7976f34548f2a8d697e04a3e"
+    "contentHash": null
   },
   {
     "id": "03d53331c6819def",
@@ -98421,9 +98421,9 @@
     "municipalityCode": "342041",
     "url": "https://www.city.mihara.hiroshima.jp/site/keiyakuka/140162.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T01:23:33+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T01:23:33+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:21+00:00",
     "coveredYears": [
       2022
     ],
@@ -98432,18 +98432,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"f5e8-65bdfadcfa726\"",
-    "lastModified": "Sun, 20 Sep 2026 01:01:52 GMT",
-    "contentHash": "c3ca724f152353b0f8f59db84cad7b85a83b4313209738a1259228c791efa35b"
+    "etag": "\"f5e8-65dfdfca5ecba\"",
+    "lastModified": "Sat, 17 Oct 2026 00:01:47 GMT",
+    "contentHash": "8fd5e8f0d37247691f1f5dde6daa888392fd05637912957e848a8633d090aaa2"
   },
   {
     "id": "6382733669e8fe30",
     "municipalityCode": "342041",
     "url": "https://www.city.mihara.hiroshima.jp/uploaded/attachment/138290.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T01:23:33+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T01:23:33+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:22+00:00",
     "coveredYears": [
       2023
     ],
@@ -98506,9 +98506,9 @@
     "municipalityCode": "020001",
     "url": "https://www.pref.aomori.lg.jp/soshiki/zaimu/zaisan/files/aomoriken-koyuzaisankanri-system-kobo-shinsakekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T01:23:35+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T01:23:35+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:24+00:00",
     "coveredYears": [
       2026
     ],
@@ -98519,16 +98519,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 17 Sep 2026 08:22:48 GMT",
-    "contentHash": "5b7154b90625fce9c2ac864edebea72133838ffe75b87cbb68f98d3e112c52b1"
+    "contentHash": null
   },
   {
     "id": "de711a3909e53681",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/2023_buppin_kami.files/2023000458.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T01:23:35+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T01:23:35+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:25+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "乳児用マグカップの購入（PDF：3KB）",
@@ -98537,16 +98537,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 22 May 2023 05:01:15 GMT",
-    "contentHash": "b6c73571441cd8ffb3e922be1082bc1bc8652a7a825a48819281a1967050a10b"
+    "contentHash": null
   },
   {
     "id": "a4632dc51bfda519",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/2023_buppin_kami.files/2023000466.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T01:23:36+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T01:23:36+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:26+00:00",
     "coveredYears": [
       2023
     ],
@@ -98557,16 +98557,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 22 May 2023 05:01:38 GMT",
-    "contentHash": "cef4bfd4a58001f980979c6754a96461fcf730c9073b434dc3b8791499129a97"
+    "contentHash": null
   },
   {
     "id": "4831f77514f64088",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/2023_buppin_kami.files/2023000600.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T01:23:36+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T01:23:36+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:26+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "松戸市マイ・タイムライン冊子の印刷（PDF：3KB）",
@@ -98575,16 +98575,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 09 Jun 2023 01:02:34 GMT",
-    "contentHash": "528053aaf319062667fdc803e7db7b8b602a881e1746512d73855416c5c83a1f"
+    "contentHash": null
   },
   {
     "id": "37e027557f81728e",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/2023_buppin_kami.files/2023000607.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T01:23:37+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T01:23:37+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:27+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "交通安全看板の作製（単価契約）（PDF：3KB）",
@@ -98593,16 +98593,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 09 Jun 2023 01:03:12 GMT",
-    "contentHash": "7e3d72e7f81fa4eda08d088f1391d63b663ba75ffa73cb62937828a6830c9e64"
+    "contentHash": null
   },
   {
     "id": "72e4135df6c88610",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/2023_buppin_kami.files/2023000610.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T01:23:38+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T01:23:38+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:28+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "ガス式発電機の購入（PDF：3KB）",
@@ -98611,16 +98611,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 09 Jun 2023 01:03:36 GMT",
-    "contentHash": "a99912cd0a57d55efff113e2cbabdb22a98b5765068ac787fdacff84550a8d97"
+    "contentHash": null
   },
   {
     "id": "a6246d323e4f9b08",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/29130202302161703165.files/492.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T01:23:38+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T01:23:38+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:28+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "東部スポーツパークテニスコート修繕（PDF：3KB）",
@@ -98629,16 +98629,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 25 May 2023 08:07:27 GMT",
-    "contentHash": "2b8f1404eabd774c280c6efa6e31880ec1b163ff73dfaf2b2c9612ac6b5046b9"
+    "contentHash": null
   },
   {
     "id": "f4c8303ddb1fdce4",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/29130202302161703165.files/1854.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T01:23:39+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T01:23:39+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:29+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "栄町排水機場他ポンプ修繕（PDF：3KB）",
@@ -98647,16 +98647,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 25 May 2023 08:07:40 GMT",
-    "contentHash": "674f32578e675a675d86d240f30c79bb82699e111734bf30d84331844dac6ae6"
+    "contentHash": null
   },
   {
     "id": "e8cbc34a11117749",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/29130202302161703165.files/463.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T01:23:40+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T01:23:40+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:30+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "日暮クリーンセンターごみクレーンワイヤーロープ交換修繕（PDF：3KB）",
@@ -98665,16 +98665,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 12 Jun 2023 04:58:21 GMT",
-    "contentHash": "9240734f54eb228ddee40053fa6558c7ca7b6900d8156c12836b25cdb0224844"
+    "contentHash": null
   },
   {
     "id": "695976f798b56ca1",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/29130202302161703165.files/533.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T01:23:40+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T01:23:40+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:30+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "常盤平終末処理場ボイラー修繕（PDF：3KB）",
@@ -98683,16 +98683,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 12 Jun 2023 04:58:41 GMT",
-    "contentHash": "0c73cdd398b09110a932eeb1f31512d76e00580effce1024bfc719ea46c41c37"
+    "contentHash": null
   },
   {
     "id": "ff7df0d986750883",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/29130202302161703165.files/555.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T06:32:18+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T06:32:18+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:31+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "二十世紀が丘第2ポンプ場他汚水ポンプ修繕（PDF：3KB）",
@@ -98701,16 +98701,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 12 Jun 2023 04:59:02 GMT",
-    "contentHash": "45811f34e2d7db4dce8f6667a4aa269845629182b012e807a134c0d82db89fd4"
+    "contentHash": null
   },
   {
     "id": "e8d53a2be3337de3",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R6kekka/R6-sokuryo-shimo.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T06:32:19+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T06:32:19+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:32+00:00",
     "coveredYears": [
       2019,
       2024
@@ -98721,17 +98721,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 19 Sep 2026 18:01:54 GMT",
-    "contentHash": "d54d751e8b6b0102a8dcc37300e3d22538a696b0ac93c59ca805dca739e4c834"
+    "lastModified": "Fri, 16 Oct 2026 18:01:43 GMT",
+    "contentHash": "507a39040b2f7b8e7444212629cd2080ef3b6261b275ed36b288cca7755aa380"
   },
   {
     "id": "3b0410f4be435e4f",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/r5itaku1.files/460.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T06:32:19+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T06:32:19+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:32+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "管きょ調査業務委託（PDF：3KB）",
@@ -98740,16 +98740,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 12 Jun 2023 05:03:45 GMT",
-    "contentHash": "8375643295b0ae5ebcc44330facb9314eca5ac5bfd1bab4e7d38d12bf299bdc4"
+    "contentHash": null
   },
   {
     "id": "a45030b5d9220743",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/r5itaku1.files/468.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T06:32:20+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T06:32:20+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:33+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "街路樹せん定委託（常盤平クスノキ通り他）（PDF：3KB）",
@@ -98758,16 +98758,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 29 May 2023 09:47:04 GMT",
-    "contentHash": "18e9cd2f82328eba49706e66edcda85a37e10a4c53e6a513f8a36ad4d06517af"
+    "contentHash": null
   },
   {
     "id": "63e602eb0d87c537",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/r5itaku1.files/475.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T06:32:20+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T06:32:20+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:34+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "街路樹せん定委託（日暮クスノキ通り他）（PDF：3KB）",
@@ -98776,16 +98776,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 29 May 2023 09:47:17 GMT",
-    "contentHash": "8086c1219129a568ef5357faa25de4d2cb758ab9112c93922f94ec190a073421"
+    "contentHash": null
   },
   {
     "id": "c49e27cb3fca1238",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/r5itaku1.files/488.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T06:32:21+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T06:32:21+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:34+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "市内サクラ通り他街路樹マス整備委託(南部地区)（PDF：3KB）",
@@ -98794,16 +98794,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 29 May 2023 09:47:27 GMT",
-    "contentHash": "bdad6c690f18c76a64147dda20c6aec5be50dc4bef06942464d3c9483e617ae1"
+    "contentHash": null
   },
   {
     "id": "4faf52a98374480c",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/r5itaku1.files/489.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T06:32:22+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T06:32:22+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:35+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "市内サクラ通り他街路樹マス整備委託(北部地区)（PDF：3KB）",
@@ -98812,16 +98812,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 29 May 2023 09:47:41 GMT",
-    "contentHash": "e3b4c7325a75958aa1835d5e1998da9b11ccdec73fba3af41d507ec27063755e"
+    "contentHash": null
   },
   {
     "id": "af637f1571cdea51",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/sokuryoukekka.files/1836.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T06:32:22+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T06:32:22+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:36+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "松戸市相模台地区土地区画整理事業に伴う家屋等事前調査業務委託（PDF：3KB）",
@@ -98830,16 +98830,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 10 Apr 2023 05:50:38 GMT",
-    "contentHash": "f7a9b40f30a43c04755b2d521ffe9f4573ed3628b87a92e6454d9c2f85e5b4b0"
+    "contentHash": null
   },
   {
     "id": "52d1507e15597c35",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/sokuryoukekka.files/1850.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T06:32:23+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T06:32:23+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:36+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "八柱駅周辺地区電線共同溝整備計画書策定業務委託（PDF：4KB）",
@@ -98848,16 +98848,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 16 May 2023 04:54:44 GMT",
-    "contentHash": "dc77aeec99e058b232433e21585ff7bc3ad16632ab04f3b8257e9cfb57cd52d6"
+    "contentHash": null
   },
   {
     "id": "93683c632dddabac",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/sokuryoukekka.files/529.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T06:32:24+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T06:32:24+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:37+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "道路舗装構造等調査業務委託（FWD調査）（PDF：3KB）",
@@ -98866,16 +98866,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 29 May 2023 01:09:18 GMT",
-    "contentHash": "12f661b8d2c2c5013b1569c588027cb0c67f0ff05e776e2573738366ddbcb0ae"
+    "contentHash": null
   },
   {
     "id": "0a1440a2128e03cc",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/sokuryoukekka.files/516.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T06:32:25+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T06:32:25+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:38+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "北小金駅周辺都市再生整備計画策定業務委託（PDF：3KB）",
@@ -98884,16 +98884,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 29 May 2023 01:10:12 GMT",
-    "contentHash": "4a3c03c64804996986ef2ad77ed72a3bd861f85a3d4a1d664b9cc16c8a0278a1"
+    "contentHash": null
   },
   {
     "id": "90d375d72db7658a",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R5kekka/sokuryoukekka.files/501.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T06:32:25+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T06:32:25+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:38+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "松戸市営松戸新田住宅給排水管改修工事に伴う設計業務委託（PDF：3KB）",
@@ -98902,16 +98902,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 01 Jun 2023 06:08:14 GMT",
-    "contentHash": "e65047497b69d7aaa5942989e52463d425367f34801ee511961130acbdc73c19"
+    "contentHash": null
   },
   {
     "id": "4d028b4649ad1b79",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R6kekka/R6-syuzen-kamihannki.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-20T06:32:26+00:00",
+    "lastSuccessAt": "2026-10-17T00:41:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-23T06:32:26+00:00",
+    "nextCrawlAt": "2026-10-20T00:41:39+00:00",
     "coveredYears": [
       2019,
       2024
@@ -98922,8 +98922,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 19 Sep 2026 18:01:54 GMT",
-    "contentHash": "a542e01f53bc4de959ca290e920954a87d5d65017d9c445f89eae144c4fcf8af"
+    "lastModified": "Fri, 16 Oct 2026 18:01:42 GMT",
+    "contentHash": "195efce4cb24e6d6f40dcc49a4f3b8f919f8b045615a79240f315fb3c2a4ec2d"
   },
   {
     "id": "48528e052438588f",
@@ -123371,27 +123371,106 @@
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/soshiki/somu/3/2/kekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-17T00:41:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-20T00:41:16+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result",
     "title": "入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "W/\"6ad041bb-9e6c\"",
+    "lastModified": "Thu, 15 Oct 2026 03:00:11 GMT",
+    "contentHash": "04d0c10d8a55a474d6b706e867bc01ece355ce231ef2817171c4d1f402a514ee"
   },
   {
     "id": "1762d4f7c4d31822",
     "municipalityCode": "402265",
     "url": "https://www.city.miyawaka.lg.jp/kiji003449386/index.html",
     "failureCount": 0,
+    "lastSuccessAt": "2026-10-17T00:41:18+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-20T00:41:18+00:00",
+    "coveredYears": [
+      2011,
+      2026
+    ],
+    "sourceType": "result",
+    "title": "令和8年10月分の入札・契約の結果公表",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true,
+    "etag": "\"0915bb66d5bdd1:0\"",
+    "lastModified": "Tue, 13 Oct 2026 23:51:06 GMT",
+    "contentHash": "5874446ac2a4f5d4b194ee70c6b4785f27be8a4e523c865596c5af300438bcbd"
+  },
+  {
+    "id": "86165b66e75b54e2",
+    "municipalityCode": "100005",
+    "url": "https://www.pref.gunma.jp/site/nyuusatsu/778795.html",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-17T00:41:19+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-20T00:41:19+00:00",
+    "coveredYears": [
+      2026
+    ],
+    "sourceType": "result",
+    "title": "公募型プロポーザル結果の公表(「令和8年度群馬県デジタルミュージアム事業」実施運営業務委託）",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "\"df8e74d3\"",
+    "lastModified": "Fri, 16 Oct 2026 17:17:24 GMT",
+    "contentHash": "bb5fc203a5b3bef98553434987d7ba09ea002d697771f40c82334c45009724f0"
+  },
+  {
+    "id": "ee6971a97f279f80",
+    "municipalityCode": "382108",
+    "url": "https://www.city.iyo.lg.jp/kosodateshien/documents/shinsakekka.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-17T00:41:19+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-20T00:41:19+00:00",
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "伊予市みんなで共育！こどもがまんなか「つどい場」推進事業委託業務プロポーザル審査結果（PDF：209KB）",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "\"34280-65dec5cdf9414\"",
+    "lastModified": "Fri, 16 Oct 2026 03:00:12 GMT",
+    "contentHash": "289ae3fe7ce011ed26e91318a04f2c087611bf9ba8f7cac224c2b950a7bfe76f"
+  },
+  {
+    "id": "bbcc89d8933f99fd",
+    "municipalityCode": "402265",
+    "url": "https://www.city.miyawaka.lg.jp/kiji003449386/3_449386_20117_up_m22hm5vi.pdf",
+    "failureCount": 0,
     "lastSuccessAt": null,
     "lastFailureAt": null,
     "nextCrawlAt": null,
     "coveredYears": [],
-    "sourceType": "result",
-    "title": "令和8年10月分の入札・契約の結果公表",
+    "sourceType": "result_pdf",
+    "title": "入札結果(R8.10.2)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "4d27861107c1a49f",
+    "municipalityCode": "402265",
+    "url": "https://www.city.miyawaka.lg.jp/kiji003449386/3_449386_20156_up_pms8vabs.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "入札結果(R8.10.6)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true
