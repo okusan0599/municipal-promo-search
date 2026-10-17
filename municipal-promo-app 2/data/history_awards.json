@@ -27595,7 +27595,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-20T19:39:37+00:00"
+    "lastChecked": "2026-10-17T17:26:09+00:00"
   },
   {
     "dedupeKey": "1455fb21f33bc26c30c30c8a46d8229039cb5c2e54c2be43b3ad1434a8b6bdaf",
@@ -29119,5 +29119,45 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-17T14:24:30+00:00"
+  },
+  {
+    "dedupeKey": "611c603345bbe2e3f4d0afef1d4b9df904b192d977088ca0263471907c271538",
+    "id": "award-feee96893ab98c5dd6c37a8d",
+    "municipalityCode": "141003",
+    "area": "南関東",
+    "region": "神奈川県",
+    "municipality": "横浜市",
+    "organization": "横浜市",
+    "title": "令和8年度「身近な地域で行うフレイル予防普及啓発等(一体的実施分)事業委託 2 委託内容 3 契約の相手方 一般社団法人横浜市薬剤師会 4",
+    "vendor": "の特定にあたっては、本市にとって最適な事業者を選定するため、公募型プロポーザル方式を採用し、",
+    "amount": 1701.5,
+    "awardDate": "2026-04-01",
+    "year": 2026,
+    "sourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kenko/2026frail_itaku.files/0013_20260409.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-17T17:25:50+00:00"
+  },
+  {
+    "dedupeKey": "9b19b3a307a3e134c2f6746d4d7c63e61fb412c1d47ce742e0d35b46c4a4bc76",
+    "id": "award-cf18c03a3ab91225a29b2edc",
+    "municipalityCode": "141003",
+    "area": "南関東",
+    "region": "神奈川県",
+    "municipality": "横浜市",
+    "organization": "横浜市",
+    "title": "令和8年度高齢者の保健事業と介護予防の一体的実施通所型集団支援業務委託 2 委託内容 3 契約の相手方 4",
+    "vendor": "の特定にあたっては、本市にとって最適な事業者を選定するため、公募型プロポーザル方式を採用し、",
+    "amount": 11084.0,
+    "awardDate": "2026-04-01",
+    "year": 2026,
+    "sourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kenko/2026tsuusho.files/0019_20260409.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-17T17:25:51+00:00"
   }
 ]
