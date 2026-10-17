@@ -27576,7 +27576,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-20T16:59:58+00:00"
+    "lastChecked": "2026-10-17T14:24:33+00:00"
   },
   {
     "dedupeKey": "0deb3e292ba1a6e3d4c27d75dc3309163aad6f0ed839d4cf5059a6275441c1a9",
@@ -29061,5 +29061,63 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-17T11:03:31+00:00"
+  },
+  {
+    "dedupeKey": "264ae674964ecddb5e41680438e7df87231d67e949d83e37649583cf50f8aeeb",
+    "id": "award-d29685250e1f3fdc5387fc8e",
+    "municipalityCode": "141003",
+    "area": "南関東",
+    "region": "神奈川県",
+    "municipality": "横浜市",
+    "organization": "横浜市",
+    "title": "令和8年度 請求審査資料作成業務委託 入札結果 入札結果(PDF:7KB) 発注情報 公告日 2026年2月20日 入札方式 指名競争(公募型) 入札参加資格 種目(委託) コンピュータ業務",
+    "vendor": "決定にあたっては、入札書に記載された金額に当該金額の100分の10に相当する額を加算した金額(当該金額に1円未満の端数があるときは、その端数金額を切捨てた金額)をもって",
+    "awardDate": "2026-03-09",
+    "year": 2026,
+    "sourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kenko/r8seikyushinsa.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-17T14:24:28+00:00"
+  },
+  {
+    "dedupeKey": "f8b395d1a5e60dd06d6190fae0b37331c087c389a57a02c858629acb7236bfdb",
+    "id": "award-e63681bcda5e17df72c108c6",
+    "municipalityCode": "141003",
+    "area": "南関東",
+    "region": "神奈川県",
+    "municipality": "横浜市",
+    "organization": "横浜市",
+    "title": "年齢到達介護保険被保険者証封入封かん等業務委託 入札結果 入札結果(PDF:102KB) 発注情報 公告日 2025年1月20日 入札方式 指名競争(公募型) 入札参加資格 種目(委託) コンピュータ業務,その他の委託等",
+    "vendor": "とはなりません。 発注",
+    "awardDate": "2025-03-07",
+    "year": 2025,
+    "sourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kenko/toutatu_kekkakeisai.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-17T14:24:28+00:00"
+  },
+  {
+    "dedupeKey": "06978df92a8f501c6c5af3ce68304e7bba0fe00e016264270b303678028223c3",
+    "id": "award-bd9b24a0d1553c8a226da8a8",
+    "municipalityCode": "141003",
+    "area": "南関東",
+    "region": "神奈川県",
+    "municipality": "横浜市",
+    "organization": "横浜市",
+    "title": "2 委託内容 3 契約の相手方 4",
+    "vendor": "を特定し、次のとおり契約しました。 「知的障害者等にわかりやすい資料等の表現見直し業務委託」契約結果 ひらがなネット株式会社 提案者",
+    "amount": 279.9,
+    "awardDate": "2026-09-30",
+    "year": 2026,
+    "sourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kenko/wakariyasui2026.files/0086_20261015.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-17T14:24:30+00:00"
   }
 ]
