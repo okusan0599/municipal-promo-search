@@ -1,15 +1,15 @@
 {
   "state": "completed",
-  "started_at": "2026-10-17T20:41:49+00:00",
-  "updated_at": "2026-10-17T20:51:37+00:00",
+  "started_at": "2026-10-17T23:11:01+00:00",
+  "updated_at": "2026-10-17T23:19:23+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 114,
     "status": {
       "state": "completed",
-      "started_at": "2026-10-17T20:41:49+00:00",
-      "updated_at": "2026-10-17T20:42:40+00:00",
+      "started_at": "2026-10-17T23:11:01+00:00",
+      "updated_at": "2026-10-17T23:12:10+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
@@ -24,29 +24,29 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 90,
-    "failed": 10,
+    "succeeded": 80,
+    "failed": 20,
     "sourcesAdded": 0,
-    "historySourcesAdded": 50
+    "historySourcesAdded": 15
   },
   "direct": {
     "processed": 50,
-    "succeeded": 47,
-    "failed": 3,
-    "projects": 197,
-    "unchanged": 2,
-    "historySourcesAdded": 162
+    "succeeded": 43,
+    "failed": 7,
+    "projects": 150,
+    "unchanged": 20,
+    "historySourcesAdded": 39
   },
   "history": {
     "processed": 30,
     "succeeded": 30,
     "failed": 0,
-    "awards": 0,
-    "documents": 30,
-    "unchanged": 19
+    "awards": 1,
+    "documents": 17,
+    "unchanged": 27
   },
   "statusNormalized": 0,
-  "historyLinkedProjects": 4,
+  "historyLinkedProjects": 0,
   "coverage": {
     "municipalities": 1788,
     "municipalitiesVisited": 1787,
