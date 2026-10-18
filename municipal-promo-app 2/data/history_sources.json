@@ -48277,7 +48277,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"4cd7-65cb56aadbd08\"",
@@ -48315,7 +48315,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"4aaf-65cb5682bda47\"",
@@ -48333,7 +48333,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約締結状況",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -48348,7 +48348,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札・見積合わせ結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -48448,7 +48448,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果（業務委託・その他）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -104669,9 +104669,9 @@
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/uploaded/attachment/44455.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:07+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:07+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:22+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "審査結果 [PDFファイル／33KB]",
@@ -104762,9 +104762,9 @@
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/soshiki/2/nyusatsu/jigyosha/1/kekka/8524_7/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:08+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:08+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:22+00:00",
     "coveredYears": [
       2025
     ],
@@ -104773,18 +104773,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a8cd795-1870d\"",
-    "lastModified": "Mon, 24 Aug 2026 23:45:25 GMT",
-    "contentHash": "357e741452b396fef9f88cf67cce05c018d580cbdc7211b625791caa4bfb55c0"
+    "etag": "\"6ad40878-1870d\"",
+    "lastModified": "Sat, 17 Oct 2026 23:44:56 GMT",
+    "contentHash": "3e437ead845b1f1012bd9978935bfb70ae05e58c5bf2dbcd29f4d310c8053ecb"
   },
   {
     "id": "adcf67140af1c4da",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/soshiki/2/nyusatsu/jigyosha/1/kekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:08+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:08+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:23+00:00",
     "coveredYears": [
       2025
     ],
@@ -104793,9 +104793,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6aab6f4c-18325\"",
-    "lastModified": "Thu, 17 Sep 2026 04:40:44 GMT",
-    "contentHash": "c4133fcaaf8ce97d876b68613792576d623e5a2224c3537d55d05cd98ab54c99"
+    "etag": "\"6ad40833-18325\"",
+    "lastModified": "Sat, 17 Oct 2026 23:43:47 GMT",
+    "contentHash": "0489c3fe218ffc688cf9449fab77ebe2c658001aecf1c9599cfa7d21bbc9f860"
   },
   {
     "id": "7596d2e02b762169",
@@ -104847,9 +104847,9 @@
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/material/files/group/22/R070508_0900_kekkaR7kaiganmaturinhoikusitagariA.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:09+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:09+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:24+00:00",
     "coveredYears": [
       2025
     ],
@@ -104860,16 +104860,16 @@
     "active": true,
     "etag": "\"681c0ea9-690a\"",
     "lastModified": "Thu, 08 May 2025 01:53:45 GMT",
-    "contentHash": "9ef27b16406dce19f82a04a09dd1b31e2c076380dca9c8dd84d87576e560c298"
+    "contentHash": null
   },
   {
     "id": "113b90f27fd5bb1d",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/material/files/group/22/R070508_0910_kekkaR7kaiganmaturinhokusitagariB.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:10+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:10+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:24+00:00",
     "coveredYears": [
       2025
     ],
@@ -104880,16 +104880,16 @@
     "active": true,
     "etag": "\"681c0ef9-66ba\"",
     "lastModified": "Thu, 08 May 2025 01:55:05 GMT",
-    "contentHash": "1b8b7b2a537a3f0b067dddae8e248405aff54957e643092b84c3329d65b6a7c4"
+    "contentHash": null
   },
   {
     "id": "9d58309e0332efc3",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/material/files/group/22/R070508_0920_kekkaasaehokubutikukouenryokutigairojyuijikanri.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:10+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:10+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:25+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "浅江北部地区公園緑地・街路樹維持管理業務 (PDFファイル: 26.1KB)",
@@ -104898,16 +104898,16 @@
     "active": true,
     "etag": "\"681c0f21-682b\"",
     "lastModified": "Thu, 08 May 2025 01:55:45 GMT",
-    "contentHash": "829148ac5ca39156ad8f24f73d837b852de670206d7f7128b6775fb2a9455da9"
+    "contentHash": null
   },
   {
     "id": "1fe77cec66bc7ff7",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/material/files/group/22/R070508_0930_kekkaasaenanbutikukouenryokutigairojyuijikanri.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:11+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:11+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:25+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "浅江南部地区公園緑地・街路樹維持管理業務 (PDFファイル: 25.8KB)",
@@ -104916,16 +104916,16 @@
     "active": true,
     "etag": "\"681c0f3b-671b\"",
     "lastModified": "Thu, 08 May 2025 01:56:11 GMT",
-    "contentHash": "e5b566075c6855c92074456fbe101cc9444f9eab73c5953f50ef431cfd1b1bd2"
+    "contentHash": null
   },
   {
     "id": "140a5f27da3a359d",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/material/files/group/22/R070508_0940_kekkamituitikukouenryokutigairojyuijikanri.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:12+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:12+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:26+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "光井地区公園緑地・街路樹維持管理業務 (PDFファイル: 25.7KB)",
@@ -104934,7 +104934,7 @@
     "active": true,
     "etag": "\"681c0f5f-668b\"",
     "lastModified": "Thu, 08 May 2025 01:56:47 GMT",
-    "contentHash": "51a13a25172877eabf105d6a1783669fcaaeab56a583d8cb74b9b852656e8677"
+    "contentHash": null
   },
   {
     "id": "3120cba92f346995",
@@ -104971,9 +104971,9 @@
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/material/files/group/23/r080224_ippann_r8dai1kikoshirui_kyuuyamatochouchiiki_baibai.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:13+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:13+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:27+00:00",
     "coveredYears": [
       2026
     ],
@@ -104984,16 +104984,16 @@
     "active": true,
     "etag": "\"69c1f1d1-b2fd\"",
     "lastModified": "Tue, 24 Mar 2026 02:07:13 GMT",
-    "contentHash": "f09d88ecc32079bf1d992f8aa52d7b4cf3a28148d380ea0321afaa450218c381"
+    "contentHash": null
   },
   {
     "id": "4517905949f51bcd",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/material/files/group/23/r080319_ippan_r8nendodai1kikoshibaibaikeiyaku_kyuhikarisitiiki.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:13+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:13+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:27+00:00",
     "coveredYears": [
       2026
     ],
@@ -105004,16 +105004,16 @@
     "active": true,
     "etag": "\"6a508af9-b30b\"",
     "lastModified": "Fri, 10 Jul 2026 06:02:33 GMT",
-    "contentHash": "84dba9d8015dfc09b8634b77f8fbc18046b648f0d5a6ab8d8b136d24f24cf3bf"
+    "contentHash": null
   },
   {
     "id": "0f09ca705f59c264",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/soshiki/2/nyusatsu/jigyosha/1/kekka/8524_8/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:14+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:14+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:28+00:00",
     "coveredYears": [
       2026
     ],
@@ -105022,9 +105022,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6aab6f4d-185e2\"",
-    "lastModified": "Thu, 17 Sep 2026 04:40:45 GMT",
-    "contentHash": "19570f4ebb2fa067d2a01d6b02b9babe9503ffc2a3538fc12ae60cb546aa7f53"
+    "etag": "\"6ad40887-1870d\"",
+    "lastModified": "Sat, 17 Oct 2026 23:45:11 GMT",
+    "contentHash": "d5bf424f5eb533f400fafc75b06d51a145a92ba5939faa33c6b99e061b2a7c69"
   },
   {
     "id": "269d0c1c5febd141",
@@ -105076,9 +105076,9 @@
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/material/files/group/22/0910_kekka_R8kaiganmaturinhoikusitakariB.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:15+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:15+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:28+00:00",
     "coveredYears": [
       2026
     ],
@@ -105089,16 +105089,16 @@
     "active": true,
     "etag": "\"69e071d9-1a4fd\"",
     "lastModified": "Thu, 16 Apr 2026 05:21:29 GMT",
-    "contentHash": "716155547ba1943c4009d814e909f9b710454a331073b4a96118771fe1e4d170"
+    "contentHash": null
   },
   {
     "id": "7eeea4e76183961c",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/material/files/group/22/0900_kekka_hikarisikanritikusakarigyoumu.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:15+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:15+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:29+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "光市管理地草刈業務 (PDFファイル: 104.6KB)",
@@ -105107,16 +105107,16 @@
     "active": true,
     "etag": "\"69e6e46b-1a237\"",
     "lastModified": "Tue, 21 Apr 2026 02:43:55 GMT",
-    "contentHash": "56876162b7a00c7e8e00bb81824f6bed364a4ff6cabb13e1820b84931befef30"
+    "contentHash": null
   },
   {
     "id": "8aa84564af27e50e",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/material/files/group/22/0910_kekka_syuunankouikinoudouijikanriryoumu.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:16+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:16+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:30+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "周南広域農道維持管理業務 (PDFファイル: 106.5KB)",
@@ -105125,16 +105125,16 @@
     "active": true,
     "etag": "\"69e6e4cb-1a9c1\"",
     "lastModified": "Tue, 21 Apr 2026 02:45:31 GMT",
-    "contentHash": "5bf726852acc0dd0274df020904407fe28bde60bccba2160592d776dde6a7418"
+    "contentHash": null
   },
   {
     "id": "d553db4188feef3f",
     "municipalityCode": "352101",
     "url": "https://www.city.hikari.lg.jp/material/files/group/22/0920_kekka_yamatonoumendouroijikanrigyoumu.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:17+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:17+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:30+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "大和農免道路維持管理業務 (PDFファイル: 106.0KB)",
@@ -105143,16 +105143,16 @@
     "active": true,
     "etag": "\"69e6e4ef-1a7b2\"",
     "lastModified": "Tue, 21 Apr 2026 02:46:07 GMT",
-    "contentHash": "a146a6b487d391fb7bf542885b71fddc57ca9dca8ab15f7e09fd514e763362ba"
+    "contentHash": null
   },
   {
     "id": "102af4247a5e8862",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa6nyusatsu/Zaimu0120240502103.files/20240502-01kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:18+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:18+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:31+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "横江柳町1号線道路改良工事(24-202004)（PDF：84KB）",
@@ -105161,16 +105161,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 02 May 2024 10:10:57 GMT",
-    "contentHash": "43d7f435ca1effc469f17b06b0c26007910df384fe6a519dc202c80e2d18b737"
+    "contentHash": null
   },
   {
     "id": "7062aa43834a9048",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa6nyusatsu/Zaimu0120240502103.files/20240502-02kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:19+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:19+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:32+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "公園施設維持補修第1号工事（西山公園）（PDF：57KB）",
@@ -105179,16 +105179,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 02 May 2024 10:11:06 GMT",
-    "contentHash": "0dca0bc29404f34f22720ca42c8ff7909a99d9fdf6052a4ff73836362bd73c7f"
+    "contentHash": null
   },
   {
     "id": "5ec25377fdc6ebb3",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa6nyusatsu/Zaimu0120240502103.files/20240502-03kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:20+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:20+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:32+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "鯖江市公園遊具安全点検業務（PDF：52KB）",
@@ -105197,16 +105197,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 02 May 2024 10:11:15 GMT",
-    "contentHash": "f15f2445032860eb245b47fc803b5d69fec6397b4bab32d26b6a8cc3314dbee5"
+    "contentHash": null
   },
   {
     "id": "536bdebda79ac1e3",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa6nyusatsu/Zaimu0120240502103.files/20240502-04kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:20+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:20+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:33+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "神明地区公立認定こども園整備土質調査業務委託（PDF：60KB）",
@@ -105215,16 +105215,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 02 May 2024 10:11:27 GMT",
-    "contentHash": "1a41cbd5a033d12384d298d3bf127c83e0a61bbae73052446eaaa7bb10de2b41"
+    "contentHash": null
   },
   {
     "id": "817df137ee239338",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa6nyusatsu/Zaimu0120240502103.files/20240502-05kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:21+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:21+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:34+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "神明地区公立認定こども園整備測量業務委託（PDF：58KB）",
@@ -105233,16 +105233,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 02 May 2024 10:11:39 GMT",
-    "contentHash": "37f8b35bc5d47c2fc489fc4b947fb5d31feb37e8db6ee8d23bf089cd6b85daa1"
+    "contentHash": null
   },
   {
     "id": "e0f4c9796d551a67",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/nyusatukekka/Kkanri0120220105150.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:22+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:22+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:34+00:00",
     "coveredYears": [
       2022
     ],
@@ -105252,17 +105252,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 20 Sep 2026 15:00:03 GMT",
-    "contentHash": "aaa32dd1610c24c689479c00947791d0199c82456a36760a4c28ead09793d529"
+    "lastModified": "Sat, 17 Oct 2026 15:00:03 GMT",
+    "contentHash": "3ed68091436edfba303f427e25fff16e05e9d70959a6c02d40588a06ac87694d"
   },
   {
     "id": "f6b79f24becb92ea",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa5/Zaimu0120230420230.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:22+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:22+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:35+00:00",
     "coveredYears": [
       2023
     ],
@@ -105272,17 +105272,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 20 Sep 2026 15:00:02 GMT",
-    "contentHash": "be553e57d00f187262cfc9400c4288e716477cfb9ce34b44015c60a6882db297"
+    "lastModified": "Sat, 17 Oct 2026 15:00:02 GMT",
+    "contentHash": "2561d6663910b465aa40b3392fbe28b1d9fd0da616ce2451f5b737835d92b7ac"
   },
   {
     "id": "b0afd23bf9bf9391",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa5/Zaimu0120230508123.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:23+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:23+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:36+00:00",
     "coveredYears": [
       2023
     ],
@@ -105292,17 +105292,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 20 Sep 2026 15:00:02 GMT",
-    "contentHash": "bd081a42a88812faba47890abddc2e1043dee2934cebf03731c3a3aa97f65b4f"
+    "lastModified": "Sat, 17 Oct 2026 15:00:02 GMT",
+    "contentHash": "7129c6a5c5e0e342839c56b6a619cee50f9629c392c2061d503dabc480625b59"
   },
   {
     "id": "df1aef67a1fd9ddd",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa5/Zaimu0120230510154.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:23+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:23+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:36+00:00",
     "coveredYears": [
       2023
     ],
@@ -105312,17 +105312,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 20 Sep 2026 15:00:03 GMT",
-    "contentHash": "afed0f3cf83e9b5e3ac69f915499fcd4a752d65b6950bbb3f67d83cfb38c3651"
+    "lastModified": "Sat, 17 Oct 2026 15:00:03 GMT",
+    "contentHash": "4fbd47d9a8aad05b24ca7de5fb9666553e85d709e98a4a0afbc49c4bf408c72c"
   },
   {
     "id": "335d1e6473e51354",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa5/Zaimu0120230.files/20230601-01kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:24+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:24+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:37+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "公園遊具安全点検業務委託（PDF：51KB）",
@@ -105331,16 +105331,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 06 Jun 2023 00:04:51 GMT",
-    "contentHash": "5895b02ba538e7988363a689b12242d656493af40a0c2620e534e5079872e909"
+    "contentHash": null
   },
   {
     "id": "55ac27cdbb7e2d8f",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa5/Zaimu0120230.files/20230601-02kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T19:42:58+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T19:42:58+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:37+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "神明小学校電話設備改修工事（PDF：51KB）",
@@ -105349,16 +105349,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 06 Jun 2023 00:05:09 GMT",
-    "contentHash": "11c809505657f00b5ea4733dea9647d5da3d61f57fd87dd99f35db88af3044a0"
+    "contentHash": null
   },
   {
     "id": "78376ecafd3a05ec",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa5/Zaimu0120230.files/20230601-03kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T19:42:59+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T19:42:59+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:38+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "東陽中学校消火ポンプ改修工事（PDF：57KB）",
@@ -105367,16 +105367,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 06 Jun 2023 00:05:34 GMT",
-    "contentHash": "7f0aa9ba7550aa4fd648626253f6109fddd06e00f7e9d5c361b64bace471b41e"
+    "contentHash": null
   },
   {
     "id": "08979c6b524501eb",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa5/Zaimu0120230.files/20230601-04kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T19:42:59+00:00",
+    "lastSuccessAt": "2026-10-18T11:25:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T19:42:59+00:00",
+    "nextCrawlAt": "2026-10-21T11:25:38+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "有定鳥羽線道路照明灯灯具更新工事（23-202008）（PDF：57KB）",
@@ -105385,7 +105385,7 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 06 Jun 2023 00:06:57 GMT",
-    "contentHash": "0ab495294b9c58d4feb06d0846c0e099afd49098670029d3a7ad793d7ad21572"
+    "contentHash": null
   },
   {
     "id": "715ce7387aea2162",
@@ -124392,27 +124392,63 @@
     "municipalityCode": "402265",
     "url": "https://www.city.miyawaka.lg.jp/kiji003449362/3_449362_19981_up_isqewoa3.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-18T11:25:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-10-21T11:25:20+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果(R8.9.17)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"80d8afa3047dd1:0\"",
+    "lastModified": "Fri, 18 Sep 2026 05:45:57 GMT",
+    "contentHash": "82e59277088860d24fd89a6aa26c326f8b22e9a1bb968ae0a4f399890fe4ba11"
   },
   {
     "id": "1864b457951fbd99",
     "municipalityCode": "402265",
     "url": "https://www.city.miyawaka.lg.jp/kiji003449362/3_449362_20011_up_bx37647p.pdf",
     "failureCount": 0,
+    "lastSuccessAt": "2026-10-18T11:25:20+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-21T11:25:20+00:00",
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "入札結果(R8.9.25)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true,
+    "etag": "\"0f21b678c4cdd1:0\"",
+    "lastModified": "Fri, 25 Sep 2026 01:23:00 GMT",
+    "contentHash": "9d1887295d2a605b4374e96bddd0e9acefd418edc190caf6ef75b9c2805570f4"
+  },
+  {
+    "id": "1d9b8f21232da7d2",
+    "municipalityCode": "182079",
+    "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa4/Zaimu0120230215150.html",
+    "failureCount": 0,
     "lastSuccessAt": null,
     "lastFailureAt": null,
     "nextCrawlAt": null,
     "coveredYears": [],
-    "sourceType": "result_pdf",
-    "title": "入札結果(R8.9.25)",
+    "sourceType": "result",
+    "title": "入札結果（令和5年2月16日執行）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "fc9ca21a966c4335",
+    "municipalityCode": "182079",
+    "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa4/Zaimu0120230323.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "入札結果（令和5年3月23日執行）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true
