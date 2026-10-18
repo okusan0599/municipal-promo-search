@@ -83431,7 +83431,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -103872,9 +103872,9 @@
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/material/files/group/10/r2_nyuusatukekka_no51.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:35:54+00:00",
+    "lastSuccessAt": "2026-10-18T06:08:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:35:54+00:00",
+    "nextCrawlAt": "2026-10-21T06:08:52+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "日高市障がい者計画等策定業務 (PDFファイル: 83.7KB)",
@@ -103883,16 +103883,16 @@
     "active": true,
     "etag": "\"5eccb4bd-14ea0\"",
     "lastModified": "Tue, 26 May 2020 06:18:37 GMT",
-    "contentHash": "7fb21ac0edf13e36fb567f49828a5029a139f28923c1bbd4e4d44a7892519bc5"
+    "contentHash": null
   },
   {
     "id": "208014fecc684530",
     "municipalityCode": "402265",
     "url": "https://www.city.miyawaka.lg.jp/kiji003449362/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:35:57+00:00",
+    "lastSuccessAt": "2026-10-18T06:08:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:35:57+00:00",
+    "nextCrawlAt": "2026-10-21T06:08:55+00:00",
     "coveredYears": [
       2011,
       2026
@@ -103902,18 +103902,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"0ab3b2b6f45dd1:0\"",
-    "lastModified": "Wed, 16 Sep 2026 00:06:06 GMT",
-    "contentHash": "636cd8b07f9b5a06c02f2a418bda09fa5b776ba0776de30f7f127a588c450892"
+    "etag": "\"0de69a99954dd1:0\"",
+    "lastModified": "Mon, 05 Oct 2026 07:18:04 GMT",
+    "contentHash": "571ccd5472858a5ff6f51b757698f0e0408a289624cc4f5806879bd8f26fbd99"
   },
   {
     "id": "1c7e8568138e4c84",
     "municipalityCode": "342041",
     "url": "https://www.city.mihara.hiroshima.jp/site/keiyakuka/120830.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:35:58+00:00",
+    "lastSuccessAt": "2026-10-18T06:08:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:35:58+00:00",
+    "nextCrawlAt": "2026-10-21T06:08:56+00:00",
     "coveredYears": [
       2021
     ],
@@ -103922,9 +103922,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"d851-65bf7fb3c294d\"",
-    "lastModified": "Mon, 21 Sep 2026 06:01:30 GMT",
-    "contentHash": "978647e3d3313c22a813b3dba491849c21ac1cd33be710666809afae2ae20e92"
+    "etag": "\"d851-65e17208d382e\"",
+    "lastModified": "Sun, 18 Oct 2026 06:01:23 GMT",
+    "contentHash": "0164595e67a5e85e1678a32a87afeee9f7daa538a22c5b4eb6e31d026f6fafe2"
   },
   {
     "id": "9692baf9d3c1d0f3",
@@ -103976,9 +103976,9 @@
     "municipalityCode": "124249",
     "url": "https://www.town.shirako.lg.jp/0000003422.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:01+00:00",
+    "lastSuccessAt": "2026-10-18T06:08:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:01+00:00",
+    "nextCrawlAt": "2026-10-21T06:08:57+00:00",
     "coveredYears": [
       2022
     ],
@@ -103987,18 +103987,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"7287-65beb66fe3d05\"",
-    "lastModified": "Sun, 20 Sep 2026 15:01:03 GMT",
-    "contentHash": "49a77164d1df45b90732d1ea8ef613b4f08df8a47ac177e4571f9ed27288ebcf"
+    "etag": "\"728d-65e0a8c72a92d\"",
+    "lastModified": "Sat, 17 Oct 2026 15:00:59 GMT",
+    "contentHash": "0e301f96c8996a56cece9827221607d1af8b5fb77b083ec76b699f7f17dc5fa4"
   },
   {
     "id": "49cd426caccb6d4b",
     "municipalityCode": "123226",
     "url": "https://www.town.shisui.chiba.jp/docs/2026071600039/file_contents/kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:02+00:00",
+    "lastSuccessAt": "2026-10-18T06:08:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:02+00:00",
+    "nextCrawlAt": "2026-10-21T06:08:57+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "酒々井町部活動地域展開事業業務委託プロポーザル審査結果について[PDF：40.9KB]",
@@ -104007,7 +104007,7 @@
     "active": true,
     "etag": "\"6aac0074-a3b0\"",
     "lastModified": "Thu, 17 Sep 2026 15:00:04 GMT",
-    "contentHash": "ae7591608acaacc68d57bf6795869343903d69210844d55b2b962d42d5f43580"
+    "contentHash": null
   },
   {
     "id": "8a06ebdcb9d4386c",
@@ -104149,9 +104149,9 @@
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R6kekka/R6-sokuryo-shimo.files/1269.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:04+00:00",
+    "lastSuccessAt": "2026-10-18T06:08:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:04+00:00",
+    "nextCrawlAt": "2026-10-21T06:08:58+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "橋りょう塗膜調査業務委託(道路維持課)（PDF：4KB）",
@@ -104160,16 +104160,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Wed, 16 Oct 2024 04:32:57 GMT",
-    "contentHash": "41ee13606fd943bca602c15819a33901d1795d15c98391f44190f6f04a9a70c2"
+    "contentHash": null
   },
   {
     "id": "498191d634c30d2e",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R6kekka/R6-sokuryo-shimo.files/1299.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:04+00:00",
+    "lastSuccessAt": "2026-10-18T06:08:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:04+00:00",
+    "nextCrawlAt": "2026-10-21T06:08:59+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "横断歩道橋定期点検業務委託(道路維持課)（PDF：4KB）",
@@ -104178,16 +104178,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Wed, 16 Oct 2024 04:31:30 GMT",
-    "contentHash": "98799330bf3f105a17da1d24aea5a1b6c91ddb2965d80eefd01a91bca4450d81"
+    "contentHash": null
   },
   {
     "id": "ca28376ef687f195",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R6kekka/R6-sokuryo-shimo.files/1307.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:05+00:00",
+    "lastSuccessAt": "2026-10-18T06:08:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:05+00:00",
+    "nextCrawlAt": "2026-10-21T06:08:59+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "都市再生整備計画に関わる公共施設配置基本計画検討業務委託（北小金駅北口周辺地区）(街づくり課)（PDF：4KB）",
@@ -104196,16 +104196,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Wed, 16 Oct 2024 04:34:33 GMT",
-    "contentHash": "b22477338f93d68b88e20ca8ae6db6197b743082ecdbd97bccefb9e4211f845e"
+    "contentHash": null
   },
   {
     "id": "a2b071bc06a3ae0b",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R6kekka/R6-sokuryo-shimo.files/1286.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:06+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:06+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:00+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "橋りょう定期点検業務委託（その1）(道路維持課)（PDF：5KB）",
@@ -104214,16 +104214,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 17 Oct 2024 03:00:41 GMT",
-    "contentHash": "e398a1097bc370c1d9cc86ae72978835f6d0d90b0f53fa154581257c6c2c484c"
+    "contentHash": null
   },
   {
     "id": "42191557465c317e",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R6kekka/R6-sokuryo-shimo.files/1271.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:06+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:06+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:01+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "橋りょう定期点検業務委託（その2）(道路維持課)（PDF：5KB）",
@@ -104232,16 +104232,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 17 Oct 2024 03:03:08 GMT",
-    "contentHash": "65cb27a0e8823f3333053912280ff584fa2926d59805b576fb5587fe6502ee34"
+    "contentHash": null
   },
   {
     "id": "fdebf3c3e19adb7d",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R6kekka/R6-syuzen-kamihannki.files/622.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:07+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:07+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:01+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "常盤平終末処理場ブロワ他修繕（下水道維持課）（PDF：3KB）",
@@ -104250,16 +104250,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Mon, 27 May 2024 00:39:19 GMT",
-    "contentHash": "928d5bdc64937555712b41f5be0fa8a16d1f9652c3585009dea865ab078636d3"
+    "contentHash": null
   },
   {
     "id": "27133ed7f57f42e0",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R6kekka/R6-syuzen-kamihannki.files/701.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:08+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:08+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:02+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "柿ノ木台公園体育館トレーニングルーム空調設備修繕（スポーツ振興課スポーツ施設担当室）（PDF：4KB）",
@@ -104268,16 +104268,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 11 Jun 2024 01:32:24 GMT",
-    "contentHash": "3229b40d69c5f81c0f27450a1201235d609db05135e7497c4cbd8bb7720e26f1"
+    "contentHash": null
   },
   {
     "id": "9be946275df5ff50",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R6kekka/R6-syuzen-kamihannki.files/617.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:09+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:09+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:03+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "相模台放課後児童クラブトイレ修繕（子ども居場所課）（PDF：3KB）",
@@ -104286,16 +104286,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 11 Jun 2024 01:33:32 GMT",
-    "contentHash": "845ac6b40534b515952e4cf74eca47a3bfdbfd26ec5c1b20eee916034efeefc9"
+    "contentHash": null
   },
   {
     "id": "ecb081e8991e76d0",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R6kekka/R6-syuzen-kamihannki.files/643.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:09+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:09+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:03+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "東部クリーンセンター運転班事務所空調機交換修繕（東部クリーンセンター）（PDF：4KB）",
@@ -104304,16 +104304,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 11 Jun 2024 01:34:53 GMT",
-    "contentHash": "56b0e6dea06062aa57d28fea702c54d6412c6b0b5392d6add65449ec601e1953"
+    "contentHash": null
   },
   {
     "id": "d244cb29bff6ae10",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R6kekka/R6-syuzen-kamihannki.files/683.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:10+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:10+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:04+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "日暮クリーンセンターごみクレーン横行走行ケーブル交換修繕（日暮クリーンセンター）（PDF：3KB）",
@@ -104322,7 +104322,7 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 11 Jun 2024 01:35:53 GMT",
-    "contentHash": "e49717a8a820cdd63bfe4ceba9e38be7af00fe218327125232f99adebf697075"
+    "contentHash": null
   },
   {
     "id": "0e8fa9e0a7c133b5",
@@ -104449,9 +104449,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/42357.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:11+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:11+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:05+00:00",
     "coveredYears": [
       2023
     ],
@@ -104469,9 +104469,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/42358.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:13+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:13+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:06+00:00",
     "coveredYears": [
       2023
     ],
@@ -104489,9 +104489,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/43620.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:13+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:13+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:06+00:00",
     "coveredYears": [
       2023
     ],
@@ -104509,9 +104509,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/45915.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:14+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:14+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:07+00:00",
     "coveredYears": [
       2023
     ],
@@ -104529,9 +104529,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/47512.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:15+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:15+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:08+00:00",
     "coveredYears": [
       2024
     ],
@@ -104549,9 +104549,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/60817.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T06:36:16+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T06:36:16+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:08+00:00",
     "coveredYears": [
       2026
     ],
@@ -104569,9 +104569,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/58049.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:03+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:03+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:09+00:00",
     "coveredYears": [
       2026
     ],
@@ -104589,9 +104589,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/58061.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:03+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:03+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:10+00:00",
     "coveredYears": [
       2026
     ],
@@ -104609,9 +104609,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/55689.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:04+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:04+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:10+00:00",
     "coveredYears": [
       2025
     ],
@@ -104629,9 +104629,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/53573.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:04+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:04+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:11+00:00",
     "coveredYears": [
       2025
     ],
@@ -104649,9 +104649,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/93129_262664_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-21T14:24:05+00:00",
+    "lastSuccessAt": "2026-10-18T06:09:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-24T14:24:05+00:00",
+    "nextCrawlAt": "2026-10-21T06:09:11+00:00",
     "coveredYears": [
       2026
     ],
@@ -104661,7 +104661,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Mon, 21 Sep 2026 14:02:56 GMT",
+    "lastModified": "Sun, 18 Oct 2026 05:03:09 GMT",
     "contentHash": "fcdb4be82cab52850edce6fbb40dae158947c286171c4d8458dcae3c15ffae78"
   },
   {
@@ -106382,7 +106382,7 @@
       2020
     ],
     "sourceType": "result",
-    "title": "令和２年度入札結果（物品調達など）",
+    "title": "令和２年度入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
@@ -124208,6 +124208,213 @@
     "title": "岩波駅周辺整備事業（賑わい施設整備） 設計・建設工事請負契約書 （賑わい拠点誘導施設）（案） (PDFファイル: 888.5KB)",
     "discoveryMethod": "procurement_page",
     "priority": 3,
+    "active": true
+  },
+  {
+    "id": "140d768d79d097d6",
+    "municipalityCode": "282201",
+    "url": "https://www.city.kasai.hyogo.jp/uploaded/attachment/35394.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-18T06:08:50+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-21T06:08:50+00:00",
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "指定管理候補者選定結果 [PDFファイル／157KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "\"273a4-65df20515add8\"",
+    "lastModified": "Fri, 16 Oct 2026 09:45:09 GMT",
+    "contentHash": "b3056cbcfc4648427386d667f27177ff780235946cf0da90899a4fbeba7af10f"
+  },
+  {
+    "id": "4f75a0c845f0554a",
+    "municipalityCode": "294438",
+    "url": "https://www.town.shimoichi.lg.jp/cmsfiles/contents/0000001/1918/result.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "(PDF形式、39.07KB)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "a720de7f517ba81d",
+    "municipalityCode": "322016",
+    "url": "https://www.city.matsue.lg.jp/material/files/group/35/sinnsakekka.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-18T06:08:51+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-21T06:08:51+00:00",
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "審査結果 (PDFファイル: 41.9KB)",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "\"6ad09ace-a74c\"",
+    "lastModified": "Thu, 15 Oct 2026 09:20:14 GMT",
+    "contentHash": "85d441d8b676aac5536ff8c415ed4722a87be356e9bf1b1b0c58e7424a0aeac4"
+  },
+  {
+    "id": "2698ebf718dee68c",
+    "municipalityCode": "272213",
+    "url": "https://www.city.kashiwara.lg.jp/docs/2026041700011/file_contents/file_2026681173612_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-18T06:08:51+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-21T06:08:51+00:00",
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "公募型プロポーザルの選定結果[PDF：47.9KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "\"6a8e90d1-bfa7\"",
+    "lastModified": "Wed, 26 Aug 2026 07:08:01 GMT",
+    "contentHash": "be363fb861220d4af704233da4a6d139ffedb42faf25fbc89efcbda936efea56"
+  },
+  {
+    "id": "7357dbf7f5934442",
+    "municipalityCode": "272213",
+    "url": "https://www.city.kashiwara.lg.jp/docs/2026041700011/file_contents/file_2026826392134_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-18T06:08:52+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-21T06:08:52+00:00",
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "事業者選定結果ならびに契約の締結について[PDF：90.3KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "\"6a8e90d1-16927\"",
+    "lastModified": "Wed, 26 Aug 2026 07:08:01 GMT",
+    "contentHash": "3a21867344e1df048a3737a7863d5644cb19b5087dd6dc3da822e0fc75200d34"
+  },
+  {
+    "id": "6522048bfb7fa109",
+    "municipalityCode": "272213",
+    "url": "https://www.city.kashiwara.lg.jp/docs/2026041700011/file_contents/shinsakijyun.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "柏原市ふるさと納税事業支援業務公募型プロポーザル審査基準[PDF：122KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "d7248b63f107060c",
+    "municipalityCode": "272213",
+    "url": "https://www.city.kashiwara.lg.jp/docs/2026041700011/file_contents/file_20264271194638_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "質問・回答書（その１）[PDF：143KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "21a0a9ea09ece44a",
+    "municipalityCode": "272213",
+    "url": "https://www.city.kashiwara.lg.jp/docs/2026041700011/file_contents/file_20265111125420_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "質問・回答書（その２）[PDF：187KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "bc3fb9ae8c02d545",
+    "municipalityCode": "272213",
+    "url": "https://www.city.kashiwara.lg.jp/docs/2026041700011/file_contents/file_20265133131227_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "質問・回答書（その３）[PDF：128KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "265e784796abb130",
+    "municipalityCode": "272213",
+    "url": "https://www.city.kashiwara.lg.jp/docs/2026041700011/file_contents/shiyousho.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "柏原市ふるさと納税事業支援業務公募型プロポーザル仕様書[PDF：304KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "bddf46dbe2da1f61",
+    "municipalityCode": "272213",
+    "url": "https://www.city.kashiwara.lg.jp/docs/2026041700011/file_contents/youryou.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "柏原市ふるさと納税事業支援業務公募型プロポーザル実施要領[PDF：311KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "5bc706af87141e39",
+    "municipalityCode": "402265",
+    "url": "https://www.city.miyawaka.lg.jp/kiji003449362/3_449362_19981_up_isqewoa3.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "入札結果(R8.9.17)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "1864b457951fbd99",
+    "municipalityCode": "402265",
+    "url": "https://www.city.miyawaka.lg.jp/kiji003449362/3_449362_20011_up_bx37647p.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "入札結果(R8.9.25)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true
   }
 ]
