@@ -1,130 +1,5 @@
 [
   {
-    "id": "d326d5de3bd2649a69",
-    "area": "近畿",
-    "region": "京都府",
-    "municipality": "京都市",
-    "organization": "京都府京都市",
-    "noticeDate": "2026-10-15",
-    "deadline": "2026-10-19",
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": 392.6,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 12,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "業務委託"
-    ],
-    "title": "令和９年度 固定資産税（償却資産）当初納税通知書等作成業務委託について",
-    "summary": "令和9年度 固定資産税(償却資産)当初納税通知書等作成業務委託について bgcolor=\"#FFFFFF\" leftmargin=\"0\" topmargin=\"0\" marginwidth=\"0\" marginheight=\"0\"> 市長部局 入札公告 以下のとおり入札を行いますので公告します。 公告日:2026.10.15 年度 令和8年度 (2026) 入札番号 451113 入札方式 参加希望型指名競争入札 契約方式 総価契約 案件名称 令和9年度 固定資産税(償却資産)当初納税通知書等作成業務委託について 履行期限 契約の日の翌日から令和 9年 3月31日まで 履行場所 行財政局 市税事務所法人諸税室 予定価格(税抜き) 3,925,680円 入札期間開始日時 2026.10.15 09:00から 入札期間締切日時 2026.10.19 17:00まで 開札日 2026.10.20 開札時間 09:00以降 種目 印刷(",
-    "status": "soon",
-    "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/451113.htm",
-    "sourceName": "京都府京都市",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
-    "attachments": [
-      {
-        "name": "仕様書",
-        "url": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./451113_12_10131326.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "一般競争入札",
-    "lgCode": "26",
-    "cityCode": "261009"
-  },
-  {
-    "id": "c656f97885dd00edb0",
-    "area": "九州",
-    "region": "宮崎県",
-    "municipality": "宮崎県",
-    "organization": "宮崎県",
-    "noticeDate": "2026-10-16",
-    "deadline": "2026-10-19",
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 12,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "業務委託"
-    ],
-    "title": "令和8年度情報セキュリティ対策強化業務委託に係る入札公告",
-    "summary": "令和8年度情報セキュリティ対策強化業務委託に係る入札公告 宮崎県:令和8年度情報セキュリティ対策強化業務委託に係る入札公告",
-    "status": "soon",
-    "sourceUrl": "https://www.pref.miyazaki.lg.jp/digital-suishin/kense/chotatsu/20261016122854.html",
-    "sourceName": "宮崎県",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
-    "attachments": [
-      {
-        "name": "入札説明書（PDF：182KB）",
-        "url": "https://www.pref.miyazaki.lg.jp/documents/113316/113316_20261016135407-1.pdf"
-      },
-      {
-        "name": "仕様書（PDF：285KB）",
-        "url": "https://www.pref.miyazaki.lg.jp/documents/113316/80607_20261016125113-1.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "45",
-    "cityCode": ""
-  },
-  {
-    "id": "06452a633705127a83",
-    "area": "東海",
-    "region": "岐阜県",
-    "municipality": "岐阜県",
-    "organization": "岐阜県",
-    "noticeDate": "2026-10-19",
-    "deadline": "2026-10-19",
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 12,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "業務委託"
-    ],
-    "title": "【建設関連業務】砂委第砂修G号 県単 砂防修繕 砂防堰堤改築等測量設計業務委託",
-    "summary": "【建設関連業務】砂委第砂修G号 県単 砂防修繕 砂防堰堤改築等測量設計業務委託 第1号様式 【事後審査型・地域型(人材育成型)総合評価落札方式】岐阜県美濃土木事務所長 鵜飼 信裕1 一般競争入札に付する業務(1) 砂委第砂修G号工 事 名 工 事 名 県単 砂防修繕 砂防堰堤改築等測量設計業務委託 (電子入札対象案件)(2) 松谷洞川 関市 板取 地内(3) 測量業務 基準点測量 N=4点 現地測量 A=0.007km2路線測量 L=0.17km設計業務 施設設計 N=1式 仮設構造物設計 N=1式(4) 令和9年3月20日限り(5) 9,325,800 円(消費税及び地方消費税を含む)(6) 有(7)(8)2 入札参加資格入札参加資格に関する事項アイウエ オカ キク1 資本関係(ア) 親会社(会社法第2条第4号の親会社をいう。以下同じ。)と子会社の関係にある場合(イ) 親会社を同じくする子会社同士の関係にある場合2 人的関係(",
-    "status": "soon",
-    "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/life/522076_2997474_misc.pdf",
-    "sourceName": "岐阜県",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
-    "attachments": [],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "21",
-    "cityCode": ""
-  },
-  {
     "id": "77b141272ffa24d167",
     "area": "中国",
     "region": "岡山県",
@@ -154,7 +29,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026036497.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "1",
@@ -196,7 +71,7 @@
     "sourceUrl": "https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/017/063/01kokoku.pdf",
     "sourceName": "静岡県磐田市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書 （PDF 471.7KB）",
@@ -238,7 +113,7 @@
     "sourceUrl": "https://www.town.sasaguri.fukuoka.jp/material/files/group/7/kokokuC015.pdf",
     "sourceName": "福岡県篠栗町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -276,7 +151,7 @@
     "sourceUrl": "https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/017/082/01.koukokubun.pdf",
     "sourceName": "静岡県磐田市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書 （PDF 210.4KB）",
@@ -323,7 +198,7 @@
     "sourceUrl": "https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/8/8/_/16___________________________.pdf",
     "sourceName": "山梨県南アルプス市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "5082000055 (ZIP 7.34MB)",
@@ -370,7 +245,7 @@
     "sourceUrl": "https://www.city.minami-alps.yamanashi.jp/fs/1/4/6/9/8/7/_/15_______________________.pdf",
     "sourceName": "山梨県南アルプス市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "5082000054 (ZIP 668KB)",
@@ -413,7 +288,7 @@
     "sourceUrl": "https://www.pref.chiba.lg.jp/carbon/nyuu-kei/buppin-itaku/nyuusatsukoukoku/r8suiso-itaku.html",
     "sourceName": "千葉県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "モビリティ分野における中長期水素需要等調査業務委託仕様書（PDF：240.6KB）",
@@ -460,7 +335,7 @@
     "sourceUrl": "https://www.town.ikata.ehime.jp/uploaded/attachment/17960.pdf",
     "sourceName": "愛媛県西宇和郡伊方町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -501,7 +376,7 @@
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/LGLXdGyanW20261008_10.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -539,7 +414,7 @@
     "sourceUrl": "https://www.city.shunan.lg.jp/uploaded/attachment/124193.pdf",
     "sourceName": "山口県周南市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -572,11 +447,11 @@
     ],
     "title": "建築課：【第525号】定期調査報告概要書等データ化業務委託",
     "summary": "建築課:【第525号】定期調査報告概要書等データ化業務委託 建築課:【第525号】定期調査報告概要書等データ化業務委託/春日部市公式ホームページ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T5N6PD4'); var cms_a",
-    "status": "open",
+    "status": "soon",
     "sourceUrl": "https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/67/38637.html",
     "sourceName": "埼玉県春日部市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書(PDFファイル:152KB)",
@@ -620,11 +495,11 @@
     ],
     "title": "【入札関係】【公募型プロポーザル】横浜国際園芸博覧会 熊本市出展花壇整備業務委託に係るプロポーザルについて",
     "summary": "【入札関係】【公募型プロポーザル】横浜国際園芸博覧会 熊本市出展花壇整備業務委託に係るプロポーザルについて - 1 -み ど り 公 発 第186号令和8年(2026年)10月13日公募型プロポーザル方式による手続きを実施するため、次のとおり公告する。 熊本市長 大西 一史1.業務概要(1)業務名横浜国際園芸博覧会 熊本市出展花壇整備業務委託(2)目的本業務は、自然・人・社会が共に持続するための最適解を発信し、持続可能な地域・経済の創造や社会的課題の解決に貢献することを目的として開催される「2027年横浜国際園芸博覧会」(以下、「国際園芸博覧会」という。)における「花・緑出展(屋外出展)」への出展に伴い、熊本市が作成した出展計画及びデザイン図書に基づき、出展花壇の整備や会場内造作物の設置、運営並びに展示終了後の撤去を行うことで、熊本市の魅力や特色ある花と緑を国内外へ発信することを目的とする。 業務にあたっては、出展花壇の施工に必",
-    "status": "open",
+    "status": "soon",
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00373293/3_73293_up_oyrp02dj.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [
       {
         "name": "プロポーザル実施要項（PDF：264.3キロバイト）",
@@ -666,11 +541,11 @@
     ],
     "title": "日本科学未来館 建物管理等業務 一式",
     "summary": "日本科学未来館 建物管理等業務 一式 日本科学未来館 建物管理等業務 一式 要求仕様書(日本科学未来館 建物等管理業務) .zip 入札説明書(日本科学未来館 建物管理等業務) .pdf 各種様式(日本科学未来館 建物管理等業務).zip 提案書作成要領(日本科学未来館 建物等管理業務) .zip 【本公告に関する問い合わせ先】 東京都江東区青海二丁目3番6号 国立研究開発法人科学技術振興機構 日本科学未来館 経営管理室 担当:菅原 南 TEL:03-3570-9217 E-mail:miraikan-keiyaku@jst.go.jp 1.競争入札に付する事項 公告日 令和8年10月15日(木) 公告の種類 一般競争 公告番号 未来-2026-16 契約件名及び数量 日本科学未来館 建物管理等業務 一式 分任契約担当者 経理部調達室長 近藤 章博 契約担当部署 経理部調達室(日本科学未来館担当) 調達種別 役務 調達品目 建物",
-    "status": "open",
+    "status": "soon",
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/22_2026_16.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -703,11 +578,11 @@
     ],
     "title": "新潟県小中学校等統合型校務支援システム参画に係るネットワーク変更作業業務委託（PDF：292KB）",
     "summary": "新潟県小中学校等統合型校務支援システム参画に係るネットワーク変更作業業務委託(PDF:292KB) 一般役053 物品役務入札公告第 号地方自治法(昭和22年法律第67号)第234条第1項の規定により、次のとおり一般競争入札を実施する。 胎内市長 井畑 明彦1 入札に付する事項(1) 件名 新潟県小中学校等統合型校務支援システム参画に係るネットワーク変更作業業務委託(2) 委託場所 胎内市 大川町 地内ほか(3) 委託期間 契約締結の日から令和9年3月31日まで(4) 概要2 予定価格 事後公表3 最低制限価格 設定しない4 入札保証金5 契約保証金6 入札参加資格登録営業品目地域要件実績要件等その他要件単体の業者であること。 この入札に参加しようとする他の者と資本又は人事面において関連がある者でないこと。 7 設計図書の閲覧次のとおり設計書及び添付図面等の閲覧を行う。 閲覧期間 から 正午まで閲覧場所 胎内市役所3階 設計図書",
-    "status": "open",
+    "status": "soon",
     "sourceUrl": "https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/203_koukoku_2026.pdf",
     "sourceName": "新潟県胎内市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "設計図書（PDF：240KB）",
@@ -750,11 +625,11 @@
     ],
     "title": "高知市農業集落排水事業事業計画書作成委託業務（R8-1）",
     "summary": "高知市農業集落排水事業事業計画書作成委託業務(R8-1) 8高水企財第 519号公 告電子入札による事後審査型制限付き一般競争入札を次のとおり行うので、高知市上下水道事業契約規程(昭和47年水道局規程第2号)により準用する高知市契約規則(昭和 40年規則第4号)第5条の規定に基づき公告する。 令和8年 10月 15日高知市上下水道事業管理者 林 充1 入札に付する事項(1)委託業務名 高知市農業集落排水事業事業計画書作成委託業務(R8-1)(2)委託場所 高知市 春野町(3)業務概要 農業集落排水事業事業計画書作成1 対象施設の抽出 1式2 現地調査 1式3 更新整備の検討 1式4 概算事業費・維持管理・ライフサイクル 1式コスト算定5 事業計画書作成 1式(4)履行期間 契約締結の翌日から令和9年3月 15日まで(5)予定価格 事後公表(6)最低制限価格 有(事後公表)※別紙『高知市農業集落排水事業事業計画書作成委託業務(R8",
-    "status": "open",
+    "status": "soon",
     "sourceUrl": "https://www.city.kochi.kochi.jp/uploaded/attachment/184846.pdf",
     "sourceName": "高知県高知市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -785,11 +660,11 @@
     "dentsuSignals": [],
     "title": "令和８年度 有資格業者検索システム改良業務",
     "summary": "令和8年度 有資格業者検索システム改良業務 入 札 公 告次のとおり一般競争入札に付します。 令和 8年10月16日支出負担行為担当官中部地方整備局長 西村 拓1 競争入札に付する事項(1)件 名 令和8年度 有資格業者検索システム改良業務(電子調達システム対象案件)(2)仕様等本案件は、中部地方整備局において現在運用している有資格業者検索システムの改良を実施するものであり、詳細は仕様書による。 (3)納入期限(又は履行期間)契約締結の翌日から令和9年3月31日まで(4)納入場所(又は履行場所)中部地方整備局(5)入札方法落札決定に当たっては、入札書に記載された金額に当該金額の100分の10に相当する額を加算した金額(当該金額に1円未満の端数があるときは、その端数金額を切り捨てた金額とする。)をもって落札価格とするので、入札者は、消費税及び地方消費税に係る課税事業者であるか免税事業者であるかを問わず、見積もった契約希望金額の11",
-    "status": "open",
+    "status": "soon",
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/1x8tdajHyQ20261015_2.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -824,7 +699,7 @@
     "sourceUrl": "https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/system-718.pdf",
     "sourceName": "林野庁",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [
       {
         "name": "入札説明書(PDF : 1,198KB)",
@@ -868,7 +743,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/46_2026_134.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -907,7 +782,7 @@
     "sourceUrl": "https://www.town.tatsuno.lg.jp/material/files/group/3/01_kokoku1003.pdf",
     "sourceName": "長野県辰野町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "2 設計書 (PDFファイル: 116.2KB)",
@@ -955,7 +830,7 @@
     "sourceUrl": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/041/679/01ippannkyousounyuusatukoukoku.pdf",
     "sourceName": "沖縄県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "02入札説明書 （PDF 78.7KB）",
@@ -1016,7 +891,7 @@
     "sourceUrl": "https://www.city.kuwana.lg.jp/documents/13579/koukoku.pdf",
     "sourceName": "三重県桑名市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：157KB）",
@@ -1062,7 +937,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026036485.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "1",
@@ -1104,7 +979,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026036012.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "1",
@@ -1146,7 +1021,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026035906.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "1",
@@ -1188,7 +1063,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026034007.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "1",
@@ -1230,7 +1105,7 @@
     "sourceUrl": "https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/224_koukoku_2026.pdf",
     "sourceName": "新潟県胎内市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "設計図書（PDF：218KB）",
@@ -1272,7 +1147,7 @@
     "sourceUrl": "https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/213_koukoku_2026.pdf",
     "sourceName": "新潟県胎内市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "設計図書（PDF：197KB）",
@@ -1316,7 +1191,7 @@
     "sourceUrl": "https://www.city.shiogama.miyagi.jp/uploaded/life/59169_151989_misc.pdf",
     "sourceName": "宮城県塩竃市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書一式 [PDFファイル／298KB]",
@@ -1360,7 +1235,7 @@
     "sourceUrl": "https://www.city.shiogama.miyagi.jp/uploaded/life/59170_151993_misc.pdf",
     "sourceName": "宮城県塩竃市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書一式 [PDFファイル／276KB]",
@@ -1402,7 +1277,7 @@
     "sourceUrl": "https://www.city.kagoshima.lg.jp/kyoiku/kyoiku/gakusyujoho/nyusatu/koumu/documents/1183koukoku.pdf",
     "sourceName": "鹿児島県鹿児島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "サポート体制一覧表（PDF：120KB）／",
@@ -1444,7 +1319,7 @@
     "sourceUrl": "https://www.city.meguro.tokyo.jp/documents/21220/01_bosyuyoko.pdf",
     "sourceName": "東京都目黒区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "目黒区人事業務委託仕様書（案）（PDF：974KB）",
@@ -1488,7 +1363,7 @@
     "sourceUrl": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/394/koukoku.pdf",
     "sourceName": "岩手県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "02-1_入札説明書 （PDF 219.8KB）",
@@ -1535,7 +1410,7 @@
     "sourceUrl": "https://www.pref.yamanashi.jp/documents/128008/nyusatusetumei.pdf",
     "sourceName": "山梨県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -1572,7 +1447,7 @@
     "sourceUrl": "https://www.city.yokkaichi.mie.jp/new_water/wp/wp-content/uploads/2026/10/D009-1-koukoku1.pdf",
     "sourceName": "三重県四日市市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "［仕様書］",
@@ -1627,7 +1502,7 @@
     "sourceUrl": "https://www.city.kagoshima.lg.jp/soumu/soumu/jousys/koukoku/20261016_network/documents/01_koukoku.pdf",
     "sourceName": "鹿児島県鹿児島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：1,300KB）",
@@ -1669,7 +1544,7 @@
     "sourceUrl": "https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/konsenseibu/attach/pdf/261016-1.pdf",
     "sourceName": "林野庁北海道森林管理局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書等1(PDF : 2,193KB)",
@@ -1715,7 +1590,7 @@
     "sourceUrl": "https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/abasirinanbu/attach/pdf/261019_2-1.pdf",
     "sourceName": "林野庁北海道森林管理局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書等1(PDF : 1,526KB)",
@@ -1761,7 +1636,7 @@
     "sourceUrl": "https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/abasirinanbu/attach/pdf/261019_1-1.pdf",
     "sourceName": "林野庁北海道森林管理局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書等1(PDF : 2,660KB)",
@@ -1812,7 +1687,7 @@
     "sourceUrl": "https://www.city.kasumigaura.lg.jp/data/doc/1792029714_doc_203_0.pdf",
     "sourceName": "茨城県かすみがうら市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -1854,7 +1729,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/36467/koukokubunn.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "実施要領（PDF：266KB）",
@@ -1900,7 +1775,7 @@
     "sourceUrl": "https://www.city.okinawa.okinawa.jp/documents/24666/5zissiyouryou.pdf",
     "sourceName": "沖縄県沖縄市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "特記仕様書（PDF：1,285KB）",
@@ -1947,7 +1822,7 @@
     "sourceUrl": "https://saigata.hosp.go.jp//files/jimubu/bid/healthcheck.pdf?1791967857",
     "sourceName": "官公需情報ポータル",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -1984,7 +1859,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/74687/yoryo.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：329KB）",
@@ -2026,7 +1901,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/74690/yoryo.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：688KB）",
@@ -2068,7 +1943,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/74877/boshuyoryo.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "東部フレンドホール舞台設備操作等業務委託仕様書（PDF：616KB）",
@@ -2111,7 +1986,7 @@
     "sourceUrl": "https://www.pref.yamagata.jp/documents/48802/koukoku.pdf",
     "sourceName": "山形県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [
       {
         "name": "入札説明書（PDF：440KB）",
@@ -2155,7 +2030,7 @@
     "sourceUrl": "https://www.pref.yamagata.jp/documents/54625/01_boshuyoryou.pdf",
     "sourceName": "山形県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "技術提案を求める評価テーマ（PDF：52KB）",
@@ -2221,7 +2096,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/36187/koukokubun.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -2258,7 +2133,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/30835/edogawakukasenjikishisetsuijikanrigyomuitakuboshuyoko.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [
       {
         "name": "江戸川区河川敷施設維持管理業務委託仕様書（河川敷グラウンド：運営）（PDF：1,085KB）",
@@ -2308,7 +2183,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/72442/2026canoe-rugby-boshuyoko.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [
       {
         "name": "江戸川区新左近川親水公園カヌー場運営管理業務委託仕様書（PDF：1,582KB）",
@@ -2355,7 +2230,7 @@
     "sourceUrl": "https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/r8-2kyushokuitaku.files/01_r8-2youkou.pdf",
     "sourceName": "愛媛県松山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -2392,7 +2267,7 @@
     "sourceUrl": "https://www.city.azumino.nagano.jp/uploaded/life/145290_272626_misc.pdf",
     "sourceName": "長野県安曇野市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書 [PDFファイル／833KB]",
@@ -2435,7 +2310,7 @@
     "sourceUrl": "https://www.city.shiroi.chiba.jp/material/files/group/2/02kouboku20261016.pdf",
     "sourceName": "千葉県白井市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -2473,7 +2348,7 @@
     "sourceUrl": "https://www.city.shiroi.chiba.jp/material/files/group/2/01zidouseitokennkousinndann20261016.pdf",
     "sourceName": "千葉県白井市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -2510,7 +2385,7 @@
     "sourceUrl": "https://www.city.kawaguchi.lg.jp/material/files/group/116/zissiyouryou.pdf",
     "sourceName": "埼玉県川口市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "別紙1_仕様書 (PDFファイル: 299.0KB)",
@@ -2552,7 +2427,7 @@
     "sourceUrl": "https://www.city.matsuyama.ehime.jp/shisei/denshinyusatsu/gyoumuitaku/info/r8itaku/citycallcentre.files/boshuyouryou.pdf",
     "sourceName": "愛媛県松山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書（別紙1、1−1、1−2、1−3）（PDF：298KB）",
@@ -2606,7 +2481,7 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e064.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -2649,7 +2524,7 @@
     "sourceUrl": "https://www.city.minato.tokyo.jp/documents/181975/mizube0_boshuyoko.pdf",
     "sourceName": "東京都港区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "（別紙1）仕様書（PDF：355KB）",
@@ -2691,7 +2566,7 @@
     "sourceUrl": "https://www.city.katsuragi.nara.jp/material/files/group/6/7-2-3-2026-1.pdf",
     "sourceName": "奈良県葛城市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -2728,7 +2603,7 @@
     "sourceUrl": "https://www.city.shiroi.chiba.jp/material/files/group/2/01kinnkyuutuuhousouti20261016.pdf",
     "sourceName": "千葉県白井市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -2763,7 +2638,7 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e065.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -2805,7 +2680,7 @@
     "sourceUrl": "https://www.city.funabashi.lg.jp/jigyou/nyusatsu/001/p150593_d/fil/zissiyoryo.pdf",
     "sourceName": "千葉県船橋市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書（ＰＤＦ形式406キロバイト）",
@@ -2850,7 +2725,7 @@
     "sourceUrl": "https://www.city.meguro.tokyo.jp/documents/13874/r9-bosyuyoukou.pdf",
     "sourceName": "東京都目黒区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "共通仕様書（案）学校用（PDF：435KB）",
@@ -2909,7 +2784,7 @@
     "sourceUrl": "https://www.city.takashima.lg.jp/material/files/group/26/zissiyouryou04.pdf",
     "sourceName": "滋賀県高島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "（仮称）高島市新ごみ処理施設整備・運営事業に係る設計施工監理業務委託仕様書 (PDFファイル: 310.1KB)",
@@ -2951,7 +2826,7 @@
     "sourceUrl": "https://lfb.mof.go.jp/tohoku/procurement/20261016nyuusatsukoukoku.pdf",
     "sourceName": "財務省東北財務局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -2988,7 +2863,7 @@
     "sourceUrl": "https://www.town.shintomi.lg.jp/material/files/group/4/01_koukokutoshokan.pdf",
     "sourceName": "宮崎県新富町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "02 仕様書(PDFファイル:329.2KB)",
@@ -3030,7 +2905,7 @@
     "sourceUrl": "https://www.town.tobetsu.hokkaido.jp/uploaded/attachment/31716.pdf",
     "sourceName": "北海道当別町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "想定規模からの法定点検一覧 [PDFファイル／46KB]",
@@ -3144,7 +3019,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/36225/01boshuuyouryou_2.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "01募集要領（PDF：349KB）",
@@ -3186,7 +3061,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/36217/koukokubun.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -3223,7 +3098,7 @@
     "sourceUrl": "https://www.customs.go.jp/kyotsu/chotatsu/nyusatsu/n_tokyo/nyusatsukoukoku20261013.pdf",
     "sourceName": "財務省東京税関",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -3264,7 +3139,7 @@
     "sourceUrl": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
     "sourceName": "環境省",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -3301,7 +3176,7 @@
     "sourceUrl": "https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/17/38761.html",
     "sourceName": "埼玉県春日部市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書(PDFファイル:289.2KB)",
@@ -3351,7 +3226,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/49/yuubinnyuusatsujisshiyouryouR8kodomodokusyo.pdf",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書 (PDFファイル: 351.5KB)",
@@ -3399,7 +3274,7 @@
     "sourceUrl": "https://www.town.mie-kihoku.lg.jp/wp-content/uploads/2026/10/koukokuR8-29.pdf",
     "sourceName": "三重県紀北町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [
       {
         "name": "・仕様書",
@@ -3505,7 +3380,7 @@
     "sourceUrl": "https://www.city.akashi.lg.jp/documents/40520/01_3koukoku.pdf",
     "sourceName": "兵庫県明石市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [
       {
         "name": "仕様書（概要・共通事項）（PDF：1,763KB）",
@@ -3564,7 +3439,7 @@
     "sourceUrl": "https://www.pref.hokkaido.lg.jp/sm/kmc/272397.html",
     "sourceName": "北海道",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [
       {
         "name": "北海道告示第11530号（入札の公告） (PDF 150KB)",
@@ -3618,7 +3493,7 @@
     "sourceUrl": "https://chushikoku.env.go.jp/procure/procure_00259.html",
     "sourceName": "環境省中国四国地方環境事務所",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -3659,7 +3534,7 @@
     "sourceUrl": "https://home.hirosaki-u.ac.jp/shisetsu/wp-content/uploads/sites/67/ekimu0808.pdf",
     "sourceName": "国立大学法人弘前大学",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -3697,7 +3572,7 @@
     "sourceUrl": "https://www.pref.yamanashi.jp/documents/128035/koukoku.pdf",
     "sourceName": "山梨県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：298KB）",
@@ -3740,7 +3615,7 @@
     "sourceUrl": "https://www.city.komoro.lg.jp/material/files/group/4/koukoku22.pdf",
     "sourceName": "長野県小諸市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書 (PDFファイル: 1.3MB)",
@@ -3787,7 +3662,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00372938/3_72938_up_mru8u30r.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "2.金抜設計書（PDF：261.2キロバイト）",
@@ -3855,7 +3730,7 @@
     "sourceUrl": "https://www.pref.hokkaido.lg.jp/sm/kmc/272503.html",
     "sourceName": "北海道",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "北海道告示第11534号（入札の公告） (PDF 135KB)",
@@ -3910,7 +3785,7 @@
     "sourceUrl": "https://www.pref.hokkaido.lg.jp/sm/kmc/272551.html",
     "sourceName": "北海道",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "北海道告示第11539号（入札の公示） (PDF 173KB)",
@@ -3964,7 +3839,7 @@
     "sourceUrl": "https://www.pref.akita.lg.jp/uploads/public/archive_0000099271_00/01_%E5%85%AC%E5%91%8A%E6%96%87.pdf",
     "sourceName": "秋田県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "入札説明書[124KB]",
@@ -4018,7 +3893,7 @@
     "sourceUrl": "https://www.city.chikuma.lg.jp/material/files/group/11/081029-03.pdf",
     "sourceName": "長野県千曲市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -4055,7 +3930,7 @@
     "sourceUrl": "https://www.city.chikuma.lg.jp/material/files/group/11/081029-01.pdf",
     "sourceName": "長野県千曲市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -4093,7 +3968,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00373265/3_73265_520910_up_2xqapp7l.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "02 実施要項（PDF：265.2キロバイト）",
@@ -4144,7 +4019,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00373365/3_73365_521162_up_5yazg1zg.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：278.3キロバイト）",
@@ -4192,7 +4067,7 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e063.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -4230,7 +4105,7 @@
     "sourceUrl": "https://www.police.pref.tokushima.jp/./wp-content/uploads/post48755/u1t20261014ce1ji17.pdf",
     "sourceName": "国家公安委員会（警察庁）徳島県警察",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -4267,7 +4142,7 @@
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202610191.files/8-377_koukoku.pdf",
     "sourceName": "埼玉県狭山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "入札説明書（PDF・82KB）",
@@ -4328,7 +4203,7 @@
     "sourceUrl": "https://www.city.osaka.lg.jp/templates/buppin_nyusatsuanken/cmsfiles/contents/0000689/689170/10nyusatusetumeisho.pdf",
     "sourceName": "大阪府大阪市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "【資料2-1】仕様書（滝川小学校）(PDF形式, 3.35MB)",
@@ -4550,7 +4425,7 @@
     "sourceUrl": "https://www.city.oita.oita.jp/o245/documents/r8koukokubunn.pdf",
     "sourceName": "大分県大分市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "業務委託仕様書（PDF：204KB）",
@@ -4593,7 +4468,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00373281/3_73281_521077_up_sij3yogb.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "02_仕様書（PDF：1.21メガバイト）",
@@ -4636,7 +4511,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00373337/3_73337_up_trw6rmtj.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "01_仕様書（PDF：363.8キロバイト）",
@@ -4682,7 +4557,7 @@
     "sourceUrl": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/102/434/340_tatumaru_keihou.zip",
     "sourceName": "岩手県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -4720,7 +4595,7 @@
     "sourceUrl": "https://www.pref.hokkaido.lg.jp/sm/kmc/272703.html",
     "sourceName": "北海道",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "北海道告示第11545号（入札の公告） (PDF 247KB)",
@@ -4766,7 +4641,7 @@
     "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/life/521994_2997175_misc.pdf",
     "sourceName": "岐阜県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -4803,7 +4678,7 @@
     "sourceUrl": "https://www.hkd.mlit.go.jp/rm/keiyaku/f6h4sv0000000i3g-att/qc4ic8000000035n.pdf",
     "sourceName": "国土交通省北海道開発局留萌開発建設部",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -4840,7 +4715,7 @@
     "sourceUrl": "https://www.hkd.mlit.go.jp/rm/keiyaku/f6h4sv0000000i3g-att/qc4ic8000000034z.pdf",
     "sourceName": "国土交通省北海道開発局留萌開発建設部",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -4877,7 +4752,7 @@
     "sourceUrl": "https://www.hkd.mlit.go.jp/rm/keiyaku/f6h4sv0000000i3g-att/qc4ic8000000034b.pdf",
     "sourceName": "国土交通省北海道開発局留萌開発建設部",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -4919,7 +4794,7 @@
     "sourceUrl": "https://www.city.sakata.lg.jp/shisei/nyusatsu/nyusatsukoukoku/611koukoku.files/611koukoku.pdf",
     "sourceName": "山形県酒田市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：192KB）",
@@ -4961,7 +4836,7 @@
     "sourceUrl": "https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/abasirichubu/attach/pdf/261014-1.pdf",
     "sourceName": "林野庁北海道森林管理局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [
       {
         "name": "仕様書等1(PDF : 439KB)",
@@ -5011,7 +4886,7 @@
     "sourceUrl": "https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/abasirichubu/attach/pdf/261014_2-1.pdf",
     "sourceName": "林野庁北海道森林管理局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [
       {
         "name": "仕様書等1(PDF : 441KB)",
@@ -5061,7 +4936,7 @@
     "sourceUrl": "https://www.city.shiogama.miyagi.jp/uploaded/life/59126_151847_misc.pdf",
     "sourceName": "宮城県塩竃市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "仕様書一式 [PDFファイル／1.29MB]",
@@ -5104,7 +4979,7 @@
     "sourceUrl": "https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/016/943/koukoku2.pdf",
     "sourceName": "静岡県磐田市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:27:34+00:00",
+    "lastChecked": "2026-10-20T01:54:41+00:00",
     "attachments": [
       {
         "name": "建物面積一覧 （PDF 79.1KB）",
@@ -5159,7 +5034,7 @@
     "sourceUrl": "https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/204_koukoku_2026.pdf",
     "sourceName": "新潟県胎内市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "設計図書（PDF：7,086KB）",
@@ -5201,7 +5076,7 @@
     "sourceUrl": "https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/225_koukoku_2026.pdf",
     "sourceName": "新潟県胎内市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "設計図書（PDF：227KB）",
@@ -5243,7 +5118,7 @@
     "sourceUrl": "https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/216_koukoku_2026.pdf",
     "sourceName": "新潟県胎内市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "設計図書（PDF：190KB）",
@@ -5285,7 +5160,7 @@
     "sourceUrl": "https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/210_koukoku_2026.pdf",
     "sourceName": "新潟県胎内市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-10-19T22:26:55+00:00",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
     "attachments": [
       {
         "name": "設計図書（PDF：210KB）",
@@ -5296,5 +5171,130 @@
     "procedureType": "",
     "lgCode": "15",
     "cityCode": "152277"
+  },
+  {
+    "id": "d326d5de3bd2649a69",
+    "area": "近畿",
+    "region": "京都府",
+    "municipality": "京都市",
+    "organization": "京都府京都市",
+    "noticeDate": "2026-10-15",
+    "deadline": "2026-10-19",
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": 392.6,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 12,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "業務委託"
+    ],
+    "title": "令和９年度 固定資産税（償却資産）当初納税通知書等作成業務委託について",
+    "summary": "令和9年度 固定資産税(償却資産)当初納税通知書等作成業務委託について bgcolor=\"#FFFFFF\" leftmargin=\"0\" topmargin=\"0\" marginwidth=\"0\" marginheight=\"0\"> 市長部局 入札公告 以下のとおり入札を行いますので公告します。 公告日:2026.10.15 年度 令和8年度 (2026) 入札番号 451113 入札方式 参加希望型指名競争入札 契約方式 総価契約 案件名称 令和9年度 固定資産税(償却資産)当初納税通知書等作成業務委託について 履行期限 契約の日の翌日から令和 9年 3月31日まで 履行場所 行財政局 市税事務所法人諸税室 予定価格(税抜き) 3,925,680円 入札期間開始日時 2026.10.15 09:00から 入札期間締切日時 2026.10.19 17:00まで 開札日 2026.10.20 開札時間 09:00以降 種目 印刷(",
+    "status": "closed",
+    "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/451113.htm",
+    "sourceName": "京都府京都市",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
+    "attachments": [
+      {
+        "name": "仕様書",
+        "url": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/./451113_12_10131326.pdf"
+      }
+    ],
+    "category": "役務",
+    "procedureType": "一般競争入札",
+    "lgCode": "26",
+    "cityCode": "261009"
+  },
+  {
+    "id": "c656f97885dd00edb0",
+    "area": "九州",
+    "region": "宮崎県",
+    "municipality": "宮崎県",
+    "organization": "宮崎県",
+    "noticeDate": "2026-10-16",
+    "deadline": "2026-10-19",
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 12,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "業務委託"
+    ],
+    "title": "令和8年度情報セキュリティ対策強化業務委託に係る入札公告",
+    "summary": "令和8年度情報セキュリティ対策強化業務委託に係る入札公告 宮崎県:令和8年度情報セキュリティ対策強化業務委託に係る入札公告",
+    "status": "closed",
+    "sourceUrl": "https://www.pref.miyazaki.lg.jp/digital-suishin/kense/chotatsu/20261016122854.html",
+    "sourceName": "宮崎県",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
+    "attachments": [
+      {
+        "name": "入札説明書（PDF：182KB）",
+        "url": "https://www.pref.miyazaki.lg.jp/documents/113316/113316_20261016135407-1.pdf"
+      },
+      {
+        "name": "仕様書（PDF：285KB）",
+        "url": "https://www.pref.miyazaki.lg.jp/documents/113316/80607_20261016125113-1.pdf"
+      }
+    ],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "45",
+    "cityCode": ""
+  },
+  {
+    "id": "06452a633705127a83",
+    "area": "東海",
+    "region": "岐阜県",
+    "municipality": "岐阜県",
+    "organization": "岐阜県",
+    "noticeDate": "2026-10-19",
+    "deadline": "2026-10-19",
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 12,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "業務委託"
+    ],
+    "title": "【建設関連業務】砂委第砂修G号 県単 砂防修繕 砂防堰堤改築等測量設計業務委託",
+    "summary": "【建設関連業務】砂委第砂修G号 県単 砂防修繕 砂防堰堤改築等測量設計業務委託 第1号様式 【事後審査型・地域型(人材育成型)総合評価落札方式】岐阜県美濃土木事務所長 鵜飼 信裕1 一般競争入札に付する業務(1) 砂委第砂修G号工 事 名 工 事 名 県単 砂防修繕 砂防堰堤改築等測量設計業務委託 (電子入札対象案件)(2) 松谷洞川 関市 板取 地内(3) 測量業務 基準点測量 N=4点 現地測量 A=0.007km2路線測量 L=0.17km設計業務 施設設計 N=1式 仮設構造物設計 N=1式(4) 令和9年3月20日限り(5) 9,325,800 円(消費税及び地方消費税を含む)(6) 有(7)(8)2 入札参加資格入札参加資格に関する事項アイウエ オカ キク1 資本関係(ア) 親会社(会社法第2条第4号の親会社をいう。以下同じ。)と子会社の関係にある場合(イ) 親会社を同じくする子会社同士の関係にある場合2 人的関係(",
+    "status": "closed",
+    "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/life/522076_2997474_misc.pdf",
+    "sourceName": "岐阜県",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-10-20T01:53:49+00:00",
+    "attachments": [],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "21",
+    "cityCode": ""
   }
 ]

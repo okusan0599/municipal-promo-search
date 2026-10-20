@@ -2580,7 +2580,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "ほろかないplus第12版",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
   },
@@ -2595,7 +2595,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "ほろかないplus第７版【繁体字】",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
   },
@@ -2625,7 +2625,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "幌加内町スマホアプリ「ほろみんナビ」",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
   },
@@ -4051,7 +4051,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "W/\"6aca5bba-83a4\"",
@@ -6995,29 +6995,29 @@
     "municipalityCode": "462195",
     "url": "https://www.city.ichikikushikino.lg.jp/densan1/r3_proposal_minatoyoriai_kekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:13+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:13+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:13+00:00",
     "coveredYears": [
       2008
     ],
     "sourceType": "result",
     "title": "MINATOよりあいオフィス運営業務委託に係る公募型プロポーザルの選定結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"7216-65a8f391a294d\"",
-    "lastModified": "Thu, 03 Sep 2026 07:37:25 GMT",
-    "contentHash": "fb3f657f9dcc254528010114844a4dab45526c06c32ed50925886324ca0a7abc"
+    "etag": "\"72c8-65ddaabe39ed3\"",
+    "lastModified": "Thu, 15 Oct 2026 05:53:48 GMT",
+    "contentHash": "aef8b7e0d38618b45e0c368625a19f4eb2b83cd5c7e686c547aff862de243127"
   },
   {
     "id": "9fd6dde8a2ec081d",
     "municipalityCode": "462195",
     "url": "https://www.city.ichikikushikino.lg.jp/densan1/r3_proposal_sateraito_kekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:14+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:14+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:14+00:00",
     "coveredYears": [
       2008
     ],
@@ -7026,18 +7026,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"7373-65a8f391896f4\"",
-    "lastModified": "Thu, 03 Sep 2026 07:37:24 GMT",
-    "contentHash": "759e05bc4eb244374e643f3dd40abdd95ce5904515e35ae3d80aa1189eb7851d"
+    "etag": "\"7425-65ddaabe1fcdb\"",
+    "lastModified": "Thu, 15 Oct 2026 05:53:48 GMT",
+    "contentHash": "9ea7ccc66dd838bb128117b6fe11b6028016b4448264a264077f30c6a17c55ca"
   },
   {
     "id": "8074b3111c529ecc",
     "municipalityCode": "462195",
     "url": "https://www.city.ichikikushikino.lg.jp/densan1/r4_proposal_chiikifukushi_kekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:15+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:15+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:15+00:00",
     "coveredYears": [
       2008
     ],
@@ -7046,18 +7046,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"720a-65a8f39203046\"",
-    "lastModified": "Thu, 03 Sep 2026 07:37:25 GMT",
-    "contentHash": "07bc65e05a027b9f8d6c98744958a455170b0f20b0bf9acdb0cc1a6d072b4056"
+    "etag": "\"72bc-65ddaabe6c384\"",
+    "lastModified": "Thu, 15 Oct 2026 05:53:48 GMT",
+    "contentHash": "3f16611ca8d11ab2d67f3b90feb15011accddb46f86f75f4130e2d76bca1e610"
   },
   {
     "id": "ad89249bd88b05a1",
     "municipalityCode": "462195",
     "url": "https://www.city.ichikikushikino.lg.jp/densan1/r4_proposal_minatoyoriai_kekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:15+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:15+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:15+00:00",
     "coveredYears": [
       2008
     ],
@@ -7066,18 +7066,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"7204-65a8f3923f907\"",
-    "lastModified": "Thu, 03 Sep 2026 07:37:25 GMT",
-    "contentHash": "7e80f3f055189de0755659d0781bcb0650e12c8d1d21c6bbd16cc6aded9a0e2d"
+    "etag": "\"72b6-65ddaabe976ed\"",
+    "lastModified": "Thu, 15 Oct 2026 05:53:48 GMT",
+    "contentHash": "65bc5e801a372a915d7f3583d571669be52ea97feeb4be33b563e7fe80d46b16"
   },
   {
     "id": "df9bd9dcd3b0b4c1",
     "municipalityCode": "462195",
     "url": "https://www.city.ichikikushikino.lg.jp/densan1/r4_proposal_web_kekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:16+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:16+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:16+00:00",
     "coveredYears": [
       2008
     ],
@@ -7086,18 +7086,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"71ac-65a8f392116bf\"",
-    "lastModified": "Thu, 03 Sep 2026 07:37:25 GMT",
-    "contentHash": "acf193fbebc2dcbe97c0e18a6bef1632f4c47bb74ca072e70137504db3213fc5"
+    "etag": "\"725e-65ddaabe76f64\"",
+    "lastModified": "Thu, 15 Oct 2026 05:53:48 GMT",
+    "contentHash": "47ca9b17ef28c5a275e35eca88ae83e1f8250a9449e370239565249037ebcdfd"
   },
   {
     "id": "efca74301b55539b",
     "municipalityCode": "462195",
     "url": "https://www.city.ichikikushikino.lg.jp/bunka1/h30_bunkamura_proposal_kekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:17+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:17+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:17+00:00",
     "coveredYears": [
       2008
     ],
@@ -7106,18 +7106,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"768c-65a8f3914a723\"",
-    "lastModified": "Thu, 03 Sep 2026 07:37:24 GMT",
-    "contentHash": "f98c1a7eda7d7a79f35bf5149e80252cbb3b9c64935f14fb536882fbf82fe7ba"
+    "etag": "\"773e-65ddaabddf982\"",
+    "lastModified": "Thu, 15 Oct 2026 05:53:47 GMT",
+    "contentHash": "0ca814f590c2447d75bffddd6f4e076ffaf0a1204401149840c2bbdf2e7d4bc1"
   },
   {
     "id": "fc86d850a3e7ebdc",
     "municipalityCode": "462195",
     "url": "https://www.city.ichikikushikino.lg.jp/densan1/r8/documents/2_tiikihukusikeikaku_katudoukeikaku_kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:18+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:18+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:18+00:00",
     "coveredYears": [
       2026
     ],
@@ -7135,9 +7135,9 @@
     "municipalityCode": "462195",
     "url": "https://www.city.ichikikushikino.lg.jp/zaisei2/shise/nyusatsu/kekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:19+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:19+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:18+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
@@ -7146,7 +7146,7 @@
     "active": true,
     "etag": "\"28b3-64f7465e33c71\"",
     "lastModified": "Wed, 15 Apr 2026 00:00:04 GMT",
-    "contentHash": "117c7bdf1fc75bdbb7281dde5c85946f5fb99d8a55fa4d4ff3a6c0232bae4d6c"
+    "contentHash": "39d49d15f701912172995ed0f5c22adfb813a973ba613e685e212d33b12527e5"
   },
   {
     "id": "283c2f134e7e31db",
@@ -7408,9 +7408,9 @@
     "municipalityCode": "465275",
     "url": "https://www.town.tatsugo.lg.jp/somu/sangyo/nyusatsu-keyaku/nyusatsukekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:19+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:19+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:19+00:00",
     "coveredYears": [
       2008
     ],
@@ -7421,7 +7421,7 @@
     "active": true,
     "etag": "\"313d-65a153db96ea6\"",
     "lastModified": "Fri, 28 Aug 2026 06:05:36 GMT",
-    "contentHash": "da54ddbf854867481aaa481836ac3cc9a890b7a0c7c3f8f2a208109e5c3665ca"
+    "contentHash": "bda7abc8a6aa87561fb6f62c65a3b5d6394500372cfa9835aed1b1697299fc8c"
   },
   {
     "id": "178e5f2adb014549",
@@ -7503,18 +7503,18 @@
     "municipalityCode": "470007",
     "url": "https://www.pref.okinawa.lg.jp/shigoto/nyusatsukeiyaku/1015342/1016066.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:21+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:21+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:22+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果（物品、印刷物、複写サービス、車両用燃料、物品の売払）",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"bf42-65c1b796c64f2\"",
-    "lastModified": "Wed, 23 Sep 2026 00:22:11 GMT",
-    "contentHash": "4c494106814c9bba4f14e9857f0d2433b7ca5f3812dfc0e2c70d751a67c4b145"
+    "etag": "\"bee1-65e3b75a17791\"",
+    "lastModified": "Tue, 20 Oct 2026 01:22:09 GMT",
+    "contentHash": "926c4a3878a7e35eb38f0ce8dfb9f4a0111ed64dc61cc4d719f8034201161c46"
   },
   {
     "id": "c0cdd4e7d35a58c4",
@@ -7536,33 +7536,33 @@
     "municipalityCode": "472085",
     "url": "https://www.city.urasoe.lg.jp/category/bunya/nyusatsu/kekkakohyo/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:23+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:23+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:23+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果公表",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6aaec099-5fd4\"",
-    "lastModified": "Sat, 19 Sep 2026 17:04:25 GMT",
-    "contentHash": "ca78a430b4a08ea492a5b0540b7a36e03bf37a932564ede92ca1e3ce4853bf11"
+    "etag": "W/\"6ad64aaf-5fd4\"",
+    "lastModified": "Mon, 19 Oct 2026 16:51:59 GMT",
+    "contentHash": "9ebede357c6de7946ea1e283a4a1ef34f0d215bd7da127f864201da49a5d77e2"
   },
   {
     "id": "b0b75a5ca20d98e3",
     "municipalityCode": "472085",
     "url": "https://www.city.urasoe.lg.jp/doc/2025050100119/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:24+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:24+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:24+00:00",
     "coveredYears": [
       2025
     ],
     "sourceType": "result",
     "title": "入札結果表【令和７年度】",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "W/\"6a339b29-7360\"",
@@ -7574,13 +7574,13 @@
     "municipalityCode": "472085",
     "url": "https://www.city.urasoe.lg.jp/doc/2025103100110/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:25+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:25+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:25+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果の公表について　　　　　　　　　　　　　　　　　　　　　　【浦添市消防署所施設整備地権者意向調査業務委託（R7）】",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "W/\"6a339b19-6c24\"",
@@ -7592,13 +7592,13 @@
     "municipalityCode": "472085",
     "url": "https://www.city.urasoe.lg.jp/doc/2025121000089/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:26+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:26+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:26+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果の公表について　【消防本部防火シャッター修繕事業】",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "W/\"6a339b0c-6938\"",
@@ -7610,29 +7610,29 @@
     "municipalityCode": "472085",
     "url": "https://www.city.urasoe.lg.jp/doc/2026042800048/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:27+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:27+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:27+00:00",
     "coveredYears": [
       2026
     ],
     "sourceType": "result",
     "title": "入札結果表【令和８年度】",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6aa23cae-6da1\"",
-    "lastModified": "Thu, 10 Sep 2026 05:14:22 GMT",
-    "contentHash": "3b539dbd3b9024b80f2864d937401863c0bdee4be50de8769f9c534435fe1ecb"
+    "etag": "W/\"6ac89720-6e65\"",
+    "lastModified": "Fri, 09 Oct 2026 07:26:24 GMT",
+    "contentHash": "65a6f7c3629311f44ce0260375acc03cce53d9ff1927f83587b7403c5429224d"
   },
   {
     "id": "67512453204ad1f5",
     "municipalityCode": "472085",
     "url": "https://www.city.urasoe.lg.jp/doc/2026081700019/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:27+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:27+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:28+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果および契約内容の公表について【浦添市立小中学校屋内運動場空調整備事前調査・実施設計業務】",
@@ -7843,9 +7843,9 @@
     "municipalityCode": "472115",
     "url": "https://www.city.okinawa.okinawa.jp/documents/24097/sinsakekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:30+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:30+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:29+00:00",
     "coveredYears": [
       2026
     ],
@@ -8133,9 +8133,9 @@
     "municipalityCode": "472123",
     "url": "https://www.city.tomigusuku.lg.jp/shigoto_sangyo/nyusatsu_keiyaku/4/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:32+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:32+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:31+00:00",
     "coveredYears": [
       2018,
       2022
@@ -8145,9 +8145,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6a996720-a589\"",
-    "lastModified": "Thu, 03 Sep 2026 12:25:04 GMT",
-    "contentHash": null
+    "etag": "\"6ad4b527-a589\"",
+    "lastModified": "Sun, 18 Oct 2026 12:01:43 GMT",
+    "contentHash": "65d7a0214c176ea9af11a76484b0bebcbc6b5fffbfd1ce7695f9a5c842bde344"
   },
   {
     "id": "35ae2b0045d169d1",
@@ -8604,9 +8604,9 @@
     "municipalityCode": "442101",
     "url": "https://www.city.kitsuki.lg.jp/sangyobijinesu/nyuusatsu_keiyakujouhou/3/2687.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:33+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:33+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:33+00:00",
     "coveredYears": [
       2018
     ],
@@ -8615,18 +8615,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6a9312ae-9ec9\"",
-    "lastModified": "Sat, 29 Aug 2026 17:11:10 GMT",
-    "contentHash": null
+    "etag": "W/\"6aca7542-9ec9\"",
+    "lastModified": "Sat, 10 Oct 2026 17:26:26 GMT",
+    "contentHash": "6822046eb8a6f828efac4ab76830e67a31d515786affbe23c8c2e2775fde4e7b"
   },
   {
     "id": "d3718586673b8eec",
     "municipalityCode": "442101",
     "url": "https://www.city.kitsuki.lg.jp/sangyobijinesu/nyuusatsu_keiyakujouhou/3/2688.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:34+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:34+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:34+00:00",
     "coveredYears": [
       2024
     ],
@@ -8635,18 +8635,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6a9312af-aead\"",
-    "lastModified": "Sat, 29 Aug 2026 17:11:11 GMT",
-    "contentHash": null
+    "etag": "W/\"6aca7543-aead\"",
+    "lastModified": "Sat, 10 Oct 2026 17:26:27 GMT",
+    "contentHash": "1bbeada96ddd836fa1f1847bf97077ebca4abb338204c3238c51999281d139fc"
   },
   {
     "id": "48543eb4aca6fa79",
     "municipalityCode": "442101",
     "url": "https://www.city.kitsuki.lg.jp/sangyobijinesu/nyuusatsu_keiyakujouhou/3/2689.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:34+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:34+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:34+00:00",
     "coveredYears": [
       2024
     ],
@@ -8655,63 +8655,63 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6a9312b1-b620\"",
-    "lastModified": "Sat, 29 Aug 2026 17:11:13 GMT",
-    "contentHash": null
+    "etag": "W/\"6aca7544-b620\"",
+    "lastModified": "Sat, 10 Oct 2026 17:26:28 GMT",
+    "contentHash": "5cb1b37f1ab2d822527917420959bd91b713a54d043a910716ec757b114edd82"
   },
   {
     "id": "92d09bebdd82c540",
     "municipalityCode": "450006",
     "url": "https://www.pref.miyazaki.lg.jp/documents/104495/104495_20251126161906-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T00:52:35+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T00:52:35+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:36+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果一覧表（PDF：65KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"1030a-645000ebf9092\"",
+    "etag": "\"1030a-645000ebf6f17\"",
     "lastModified": "Tue, 02 Dec 2025 23:00:10 GMT",
-    "contentHash": null
+    "contentHash": "394d03c5e30f552924b873351f989c6bfe6aa0e04550214ae637ae0d00beb28d"
   },
   {
     "id": "47bd744c7a796b61",
     "municipalityCode": "450006",
     "url": "https://www.pref.miyazaki.lg.jp/documents/105153/104495_20251126161906-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T06:11:12+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T06:11:12+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:36+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果一覧表（PDF：65KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"1030a-646cebeedc760\"",
+    "etag": "\"1030a-646cebeedb13c\"",
     "lastModified": "Thu, 25 Dec 2025 23:00:40 GMT",
-    "contentHash": null
+    "contentHash": "394d03c5e30f552924b873351f989c6bfe6aa0e04550214ae637ae0d00beb28d"
   },
   {
     "id": "b64fb1c3cd67825e",
     "municipalityCode": "450006",
     "url": "https://www.pref.miyazaki.lg.jp/documents/109072/109072_20260518105652-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T06:11:12+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T06:11:12+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:37+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果一覧表（PDF：29KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"716b-652ac5739870c\"",
+    "etag": "\"716b-652ac573978b7\"",
     "lastModified": "Mon, 25 May 2026 23:00:11 GMT",
-    "contentHash": null
+    "contentHash": "c0a774ee7d53823d7ed33c67af16f055fd140ddf10dccd3a1f4dd73b53d56111"
   },
   {
     "id": "8506ea2c7dcfedfb",
@@ -8755,10 +8755,10 @@
     "id": "baa37b0f1d5e6ad0",
     "municipalityCode": "450006",
     "url": "https://www.pref.miyazaki.lg.jp/documents/111789/111789_20260818174844-1.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-09-23T06:11:14+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T06:11:14+00:00",
+    "lastFailureAt": "2026-10-20T02:02:37+00:00",
+    "nextCrawlAt": "2026-10-20T14:02:37+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果一覧表（PDF：66KB）",
@@ -8767,52 +8767,53 @@
     "active": true,
     "etag": "\"10705-659d2f5c73b31\"",
     "lastModified": "Mon, 24 Aug 2026 23:01:01 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.pref.miyazaki.lg.jp/documents/111789/111789_20260818174844-1.pdf"
   },
   {
     "id": "5e62aa71edffc47c",
     "municipalityCode": "450006",
     "url": "https://www.pref.miyazaki.lg.jp/documents/99453/99453_20250604135640-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T06:11:15+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T06:11:15+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:38+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果一覧表（PDF：71KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"118d2-637176de32399\"",
+    "etag": "\"118d2-637176de309b1\"",
     "lastModified": "Sun, 08 Jun 2025 23:00:27 GMT",
-    "contentHash": null
+    "contentHash": "055ed5861dfbdc69fd0b0cadea930bf6635312a4674642e46b7e1177fabc1662"
   },
   {
     "id": "95682b840a138489",
     "municipalityCode": "450006",
     "url": "https://www.pref.miyazaki.lg.jp/documents/108421/108421_20260421105414-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T06:11:15+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T06:11:15+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:39+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果（PDF：60KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"ee06-64feec611957f\"",
+    "etag": "\"ee06-64feec611872a\"",
     "lastModified": "Tue, 21 Apr 2026 02:00:04 GMT",
-    "contentHash": null
+    "contentHash": "eb7e36ca632de761ce8b21d3cdb04f97cb0a2cde2be16f4e829fbc996b3b24ab"
   },
   {
     "id": "30e4d76455b015b3",
     "municipalityCode": "432083",
     "url": "https://www.city.yamaga.kumamoto.jp/kiji003590/3_590_12903_up_r2izvdyj.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T06:11:17+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T06:11:17+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:39+00:00",
     "coveredYears": [
       2026
     ],
@@ -8830,9 +8831,9 @@
     "municipalityCode": "432083",
     "url": "https://www.city.yamaga.kumamoto.jp/kiji003590/3_590_12904_up_v1ecdl3m.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T06:11:18+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T06:11:18+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:40+00:00",
     "coveredYears": [
       2026
     ],
@@ -8850,9 +8851,9 @@
     "municipalityCode": "432083",
     "url": "https://www.city.yamaga.kumamoto.jp/kiji003590/3_590_8771_up_070nzl82.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-23T06:11:18+00:00",
+    "lastSuccessAt": "2026-10-20T02:02:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-26T06:11:18+00:00",
+    "nextCrawlAt": "2026-10-23T02:02:41+00:00",
     "coveredYears": [
       2025
     ],
@@ -125165,5 +125166,50 @@
     "etag": null,
     "lastModified": null,
     "contentHash": "8da94c0b9af4ee0713bbb20fcd2086d2a70d8d8c3ccb8f90298cba9dd69169f5"
+  },
+  {
+    "id": "24f5d7c704b790e3",
+    "municipalityCode": "112283",
+    "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24567.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "傍聴要領 [PDFファイル／106KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "49610dafc7188238",
+    "municipalityCode": "112283",
+    "url": "https://www.city.shiki.lg.jp/uploaded/attachment/24568.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "傍聴申込書 [PDFファイル／66KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "24a45ddcfe1c3faa",
+    "municipalityCode": "470007",
+    "url": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/016/066/kekka_ippan_bihin_202601009.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "入札結果（備品）令和8年10月13日更新 （PDF 55.6KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
   }
 ]
