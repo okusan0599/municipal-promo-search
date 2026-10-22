@@ -27812,7 +27812,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-25T01:43:29+00:00"
+    "lastChecked": "2026-10-22T22:33:54+00:00"
   },
   {
     "dedupeKey": "272b155646c8b686e12bbfa1194e51e9072451d7f2dd34455570e2950e515625",
@@ -29327,5 +29327,24 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-22T18:44:28+00:00"
+  },
+  {
+    "dedupeKey": "606ccfc801524facb7225bca4725b46570108f47bb4c8822caa9c0ea2f660f87",
+    "id": "award-f6fea01a3f52236ac9daa8ba",
+    "municipalityCode": "083020",
+    "area": "北関東",
+    "region": "茨城県",
+    "municipality": "茨城町",
+    "organization": "茨城町",
+    "title": "工事等場所",
+    "vendor": "予定価格 (税抜・事前公表)",
+    "awardDate": "2025-05-22",
+    "year": 2025,
+    "sourceUrl": "https://www.town.ibaraki.lg.jp/manage/contents/upload/68536dd784adc.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-22T22:33:50+00:00"
   }
 ]
