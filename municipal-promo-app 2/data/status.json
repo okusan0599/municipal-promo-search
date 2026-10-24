@@ -1,15 +1,15 @@
 {
   "state": "completed",
-  "started_at": "2026-10-24T12:44:36+00:00",
-  "updated_at": "2026-10-24T12:54:55+00:00",
+  "started_at": "2026-10-24T16:40:22+00:00",
+  "updated_at": "2026-10-24T16:48:23+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 112,
     "status": {
       "state": "completed",
-      "started_at": "2026-10-24T12:44:36+00:00",
-      "updated_at": "2026-10-24T12:44:42+00:00",
+      "started_at": "2026-10-24T16:40:23+00:00",
+      "updated_at": "2026-10-24T16:40:28+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
@@ -24,29 +24,29 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 75,
-    "failed": 25,
+    "succeeded": 80,
+    "failed": 20,
     "sourcesAdded": 0,
-    "historySourcesAdded": 8
+    "historySourcesAdded": 22
   },
   "direct": {
     "processed": 50,
-    "succeeded": 50,
-    "failed": 0,
-    "projects": 233,
-    "unchanged": 0,
-    "historySourcesAdded": 174
+    "succeeded": 45,
+    "failed": 5,
+    "projects": 150,
+    "unchanged": 20,
+    "historySourcesAdded": 54
   },
   "history": {
     "processed": 30,
     "succeeded": 30,
     "failed": 0,
-    "awards": 3,
-    "documents": 146,
-    "unchanged": 5
+    "awards": 0,
+    "documents": 173,
+    "unchanged": 1
   },
   "statusNormalized": 0,
-  "historyLinkedProjects": 2,
+  "historyLinkedProjects": 0,
   "coverage": {
     "municipalities": 1788,
     "municipalitiesVisited": 1787,
@@ -55,7 +55,7 @@
     "sources": 6913,
     "projects": 4822,
     "projectsWithDeadline": 1262,
-    "historySources": 7417,
+    "historySources": 7426,
     "historyMunicipalities": 526,
     "historyAwards": 1582,
     "historyLinkedProjects": 529
@@ -68,7 +68,7 @@
     "sources": 6913,
     "projects": 4822,
     "projectsWithDeadline": 1262,
-    "historySources": 7417,
+    "historySources": 7426,
     "historyMunicipalities": 526,
     "historyAwards": 1582,
     "historyLinkedProjects": 529,

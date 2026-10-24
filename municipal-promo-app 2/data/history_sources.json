@@ -15490,7 +15490,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "公表（入札結果など）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -15508,7 +15508,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "東日本大震災に関する情報",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -15523,7 +15523,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果速報",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"6a9fba73-5a45\"",
@@ -15888,7 +15888,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（教育委員会）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"6ace132e-a045\"",
@@ -15928,7 +15928,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（農業委員会事務局）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"6ace1340-9e74\"",
@@ -15946,7 +15946,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -27925,9 +27925,9 @@
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/kanko/kosho/rodokoyo/proposal/zeroc06.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:30+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:30+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:01+00:00",
     "coveredYears": [
       2026
     ],
@@ -27936,18 +27936,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8823-65b097709b08b\"",
-    "lastModified": "Wed, 09 Sep 2026 09:27:50 GMT",
-    "contentHash": "7c8628f5895e1a7a8a8b1b162aefdd5e210e5cb46bd4bca21689d67e30c7fca5"
+    "etag": "\"8823-65e2877bc8d75\"",
+    "lastModified": "Mon, 19 Oct 2026 02:42:40 GMT",
+    "contentHash": "22b2f265140dfff562d07311281ab2c002d4806a3b5187dc979cb135df6c398a"
   },
   {
     "id": "6ce15ea6574b6f2d",
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/kenko/iryo/bositetyoappli.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:33+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:33+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:02+00:00",
     "coveredYears": [
       2023
     ],
@@ -27956,27 +27956,27 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8e24-65bb7cca0d335\"",
-    "lastModified": "Fri, 18 Sep 2026 01:27:10 GMT",
-    "contentHash": "2e3ad9915045ace53dfe8d6a035ac2264460f500fb5755cdb7d1435164911a98"
+    "etag": "\"8e24-65e2878015b1a\"",
+    "lastModified": "Mon, 19 Oct 2026 02:42:45 GMT",
+    "contentHash": "56b4d78d1270209442f620fedff0e554bcab1be97d94a3e649f04093f1d59ad1"
   },
   {
     "id": "443210269365d7c6",
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/kenko/iryo/iryoseisakukento.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:33+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:33+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:03+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "医療介護保健に係る政策検討及び東胆振地域医療介護等広域連携ネットワーク構築支援業務　公募型プロポーザルの実施について【受託候補者を特定しました】",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"90c7-65bb7cca0b7dd\"",
-    "lastModified": "Fri, 18 Sep 2026 01:27:10 GMT",
-    "contentHash": "9f4033543bd1c0ca15483584b2ebdb3a2f6a98485a4a9758d69dcfc5fbf1d423"
+    "etag": "\"90c7-65e2878012852\"",
+    "lastModified": "Mon, 19 Oct 2026 02:42:45 GMT",
+    "contentHash": "69b8f9ae0b9c6c1822caf061f2b9e8e754ad0562b2c2a2361f11977968cc08b0"
   },
   {
     "id": "0c3d68bd5db7e4c1",
@@ -30015,9 +30015,9 @@
     "municipalityCode": "155811",
     "url": "http://www.vill.sekikawa.niigata.jp/file/info/somu/事後評価報告書【155811_新潟県関川村】-2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:43+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:43+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:00+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "総務省地域情報通信基盤整備推進交付金事業における整備計画の事後評価結果",
@@ -30171,9 +30171,9 @@
     "municipalityCode": "034827",
     "url": "https://www.town.yamada.iwate.jp/docs/10175.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:34+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:34+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:04+00:00",
     "coveredYears": [
       2026
     ],
@@ -30183,17 +30183,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 26 Sep 2026 19:05:46 GMT",
-    "contentHash": "7b985d16f462fa6c587677adf48352ce4f50be958a482db0927fa929871b95e6"
+    "lastModified": "Sat, 24 Oct 2026 16:05:41 GMT",
+    "contentHash": "a765a135b523dbaaa13464d6cdf4f36ce976f718a8a56bf25e8b67ff27945cae"
   },
   {
     "id": "8be77e3014eaa312",
     "municipalityCode": "034827",
     "url": "https://www.town.yamada.iwate.jp/docs/10329.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:35+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:35+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:05+00:00",
     "coveredYears": [
       2026
     ],
@@ -30203,17 +30203,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 26 Sep 2026 19:05:57 GMT",
-    "contentHash": "772829c7c3142a963ad8bf72818ef93381b9c6d04f8b2d82100759e030ea6a4d"
+    "lastModified": "Sat, 24 Oct 2026 16:05:48 GMT",
+    "contentHash": "e19ae7b30e55434d98ade92c9e7a702703b16bc5ea597b09f89ff9377c06946c"
   },
   {
     "id": "247ac7366cac3842",
     "municipalityCode": "034827",
     "url": "https://www.town.yamada.iwate.jp/docs/3521.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:36+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:36+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:06+00:00",
     "coveredYears": [
       2021
     ],
@@ -30223,7 +30223,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 26 Sep 2026 19:08:55 GMT",
+    "lastModified": "Sat, 24 Oct 2026 16:08:12 GMT",
     "contentHash": "82e17320c45595af8c000c77b37da7b0f925b5ada562ca75394c9ad9e150407f"
   },
   {
@@ -30231,9 +30231,9 @@
     "municipalityCode": "034827",
     "url": "https://www.town.yamada.iwate.jp/docs/3561.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:37+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:37+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:06+00:00",
     "coveredYears": [
       2021
     ],
@@ -30243,7 +30243,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 26 Sep 2026 19:09:13 GMT",
+    "lastModified": "Sat, 24 Oct 2026 16:08:14 GMT",
     "contentHash": "42a38082124cdb2780b1b64307cffa458fb7522f9ef3fc0e003529cb2b260646"
   },
   {
@@ -30251,9 +30251,9 @@
     "municipalityCode": "034835",
     "url": "https://www.town.iwaizumi.lg.jp/docs/2016080400010/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:38+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:38+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:08+00:00",
     "coveredYears": [
       2016
     ],
@@ -30262,18 +30262,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a9fbacd-6695\"",
-    "lastModified": "Tue, 08 Sep 2026 07:35:41 GMT",
-    "contentHash": "7a07e4eb3e0f1bee071889470e5256490dccec401763eedaefb7dc448c277aa6"
+    "etag": "\"6ad9a984-6721\"",
+    "lastModified": "Thu, 22 Oct 2026 06:13:24 GMT",
+    "contentHash": "348cbcb124d8302c93433b8ac790cacfcf2db402740eb089ff5d23515524c09e"
   },
   {
     "id": "7984c7a17e99eab8",
     "municipalityCode": "034835",
     "url": "https://www.town.iwaizumi.lg.jp/docs/2017050800014/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:39+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:39+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:09+00:00",
     "coveredYears": [
       2017
     ],
@@ -30282,18 +30282,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a9fbacd-6802\"",
-    "lastModified": "Tue, 08 Sep 2026 07:35:41 GMT",
-    "contentHash": "325668395e39a7b62366a1caa12936ae7cb4bebade282590a03fee08bca771dc"
+    "etag": "\"6ad9a984-688e\"",
+    "lastModified": "Thu, 22 Oct 2026 06:13:24 GMT",
+    "contentHash": "78b081d36b9a6b1c64d7abc0c830503027f873eb0bf98be3996f5364b496348f"
   },
   {
     "id": "b94b1bee894498bb",
     "municipalityCode": "034835",
     "url": "https://www.town.iwaizumi.lg.jp/docs/2018041600019/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:40+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:40+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:09+00:00",
     "coveredYears": [
       2018
     ],
@@ -30302,18 +30302,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a9fbacd-66ce\"",
-    "lastModified": "Tue, 08 Sep 2026 07:35:41 GMT",
-    "contentHash": "39df3cf7a9e6ed851654bb0d9aefe8272079ddd6a0b6838d591e4ac0fbf926fd"
+    "etag": "\"6ad9a984-675a\"",
+    "lastModified": "Thu, 22 Oct 2026 06:13:24 GMT",
+    "contentHash": "4d3833ba7475b7eac44400d189e9a28e0f54ba114734f6b58b3b1f2e7061403c"
   },
   {
     "id": "f4e86ecca2468f4f",
     "municipalityCode": "034835",
     "url": "https://www.town.iwaizumi.lg.jp/docs/2019071200019/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:41+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:41+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:10+00:00",
     "coveredYears": [
       2019
     ],
@@ -30322,18 +30322,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a9fbacd-64e8\"",
-    "lastModified": "Tue, 08 Sep 2026 07:35:41 GMT",
-    "contentHash": "a72b5ff7a2d473d4c7c35caad566e8fa831df734ea269a1d60ab684d5b17a329"
+    "etag": "\"6ad9a984-6574\"",
+    "lastModified": "Thu, 22 Oct 2026 06:13:24 GMT",
+    "contentHash": "9d55600c7cad93ba731e5fff59fd3da298760e059f37e6d3f3618ee51e367a79"
   },
   {
     "id": "2118ac062136de11",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/soshikikarasagasu/gikaijimukyoku/4/1/20559.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:43+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:43+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:12+00:00",
     "coveredYears": [
       2025,
       2026
@@ -30343,8 +30343,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5c114-a624\"",
-    "lastModified": "Fri, 25 Sep 2026 00:32:20 GMT",
+    "etag": "\"6ada2e9b-a624\"",
+    "lastModified": "Thu, 22 Oct 2026 15:41:15 GMT",
     "contentHash": "9c5e2b31d58fc556aa5d6e7f5c90426e6b8e3d919aa185eb26214a06d870bcf9"
   },
   {
@@ -30352,9 +30352,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/soshikikarasagasu/gikaijimukyoku/4/1/8527.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:44+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:44+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:12+00:00",
     "coveredYears": [
       2024,
       2025
@@ -30364,8 +30364,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5bfe6-aeed\"",
-    "lastModified": "Fri, 25 Sep 2026 00:27:18 GMT",
+    "etag": "\"6ada2d94-aeed\"",
+    "lastModified": "Thu, 22 Oct 2026 15:36:52 GMT",
     "contentHash": "78ae1201b1a0e2695a2756a84de864f90ebe6e3063986516ce2f973cbbcb2ca9"
   },
   {
@@ -30373,9 +30373,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/2/18791.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:45+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:45+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:13+00:00",
     "coveredYears": [
       2024,
       2025
@@ -30385,8 +30385,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5be02-c807\"",
-    "lastModified": "Fri, 25 Sep 2026 00:19:14 GMT",
+    "etag": "\"6ada2bcd-c807\"",
+    "lastModified": "Thu, 22 Oct 2026 15:29:17 GMT",
     "contentHash": "a29612346f946399d841f9a79cb9fb9b26461729f5142795e61161afa1f34207"
   },
   {
@@ -30394,9 +30394,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/2/20728.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:47+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:47+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:13+00:00",
     "coveredYears": [
       2025,
       2026
@@ -30406,8 +30406,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5be24-c278\"",
-    "lastModified": "Fri, 25 Sep 2026 00:19:48 GMT",
+    "etag": "\"6ada2bea-c278\"",
+    "lastModified": "Thu, 22 Oct 2026 15:29:46 GMT",
     "contentHash": "c14c2324dbb1fe2db9d3c8d569a77c39b8eb0f94f6921e2c69628d73922389db"
   },
   {
@@ -30415,9 +30415,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/2/22507.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:48+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:48+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:14+00:00",
     "coveredYears": [
       2026
     ],
@@ -30426,18 +30426,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5be53-afe9\"",
-    "lastModified": "Fri, 25 Sep 2026 00:20:35 GMT",
-    "contentHash": "97b483cb96c74ec831bb2dd388e966d7fdf0c4df3e03c9eeaa7ac45502d84575"
+    "etag": "\"6ada2c16-b219\"",
+    "lastModified": "Thu, 22 Oct 2026 15:30:30 GMT",
+    "contentHash": "505e2b7a484d2d108254f2cb9b7a91d27bc1179d8c91005428701d9f183b8d4e"
   },
   {
     "id": "60bc7c5e80d3683c",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/4/18467.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:49+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:49+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:14+00:00",
     "coveredYears": [
       2024,
       2025
@@ -30447,8 +30447,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5bdfe-b67e\"",
-    "lastModified": "Fri, 25 Sep 2026 00:19:10 GMT",
+    "etag": "\"6ada2bc9-b67e\"",
+    "lastModified": "Thu, 22 Oct 2026 15:29:13 GMT",
     "contentHash": "10fcf4f71d57c662715ba561db03532c7be822445ed32c4d317788073553df88"
   },
   {
@@ -30456,9 +30456,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/4/20519.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:50+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:50+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:15+00:00",
     "coveredYears": [
       2025,
       2026
@@ -30468,8 +30468,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5be1e-b29c\"",
-    "lastModified": "Fri, 25 Sep 2026 00:19:42 GMT",
+    "etag": "\"6ada2be5-b29c\"",
+    "lastModified": "Thu, 22 Oct 2026 15:29:41 GMT",
     "contentHash": "c3f12dc79b7f379182551f944555e9533cf74d0b792a9e53698b7002a692de38"
   },
   {
@@ -30477,9 +30477,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/4/22326.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:52+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:52+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:16+00:00",
     "coveredYears": [
       2026
     ],
@@ -30488,18 +30488,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5be48-abdd\"",
-    "lastModified": "Fri, 25 Sep 2026 00:20:24 GMT",
-    "contentHash": "3734f0f0d7c0331e21207ef6db2a84a09edcca955cb2a269ec94d0bf6315fca6"
+    "etag": "\"6ada2c0c-ac8f\"",
+    "lastModified": "Thu, 22 Oct 2026 15:30:20 GMT",
+    "contentHash": "5440af5611b77b6759ad41bf579a9bb406318da5569d24ebc6938d21379c1e72"
   },
   {
     "id": "6e57481ea8f235a9",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/5/11962.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:53+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:53+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:16+00:00",
     "coveredYears": [
       2022,
       2023
@@ -30509,8 +30509,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5bdad-c312\"",
-    "lastModified": "Fri, 25 Sep 2026 00:17:49 GMT",
+    "etag": "\"6ada2b7e-c312\"",
+    "lastModified": "Thu, 22 Oct 2026 15:27:58 GMT",
     "contentHash": "a1c36a51059eb2720b58b493a694b50005f5dee576a40483b113b91e1e98b2dc"
   },
   {
@@ -30518,9 +30518,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/5/16800.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:54+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:54+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:17+00:00",
     "coveredYears": [
       2023,
       2024
@@ -30530,8 +30530,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5bde8-bf00\"",
-    "lastModified": "Fri, 25 Sep 2026 00:18:48 GMT",
+    "etag": "\"6ada2bb4-bf00\"",
+    "lastModified": "Thu, 22 Oct 2026 15:28:52 GMT",
     "contentHash": "cbde94cf0764dd836f85adf400bf129c5592622c02e7f744556678e1389fce6b"
   },
   {
@@ -30539,9 +30539,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/5/18821.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:55+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:55+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:17+00:00",
     "coveredYears": [
       2024,
       2025
@@ -30551,8 +30551,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5be03-bfa0\"",
-    "lastModified": "Fri, 25 Sep 2026 00:19:15 GMT",
+    "etag": "\"6ada2bce-bfa0\"",
+    "lastModified": "Thu, 22 Oct 2026 15:29:18 GMT",
     "contentHash": "b02d8c03e6e303c16e39c8726c7acdf7ad90bb7257c89972bed16b40e61f1fdd"
   },
   {
@@ -30560,9 +30560,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/5/20759.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:56+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:56+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:18+00:00",
     "coveredYears": [
       2025,
       2026
@@ -30572,8 +30572,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5be25-c1fd\"",
-    "lastModified": "Fri, 25 Sep 2026 00:19:49 GMT",
+    "etag": "\"6ada2beb-c1fd\"",
+    "lastModified": "Thu, 22 Oct 2026 15:29:47 GMT",
     "contentHash": "651d8777d66c870d6068b74c0c7972d63749f5c4ad6175ff354b5635939e864e"
   },
   {
@@ -30581,9 +30581,9 @@
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/5/22506.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:57+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:57+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:19+00:00",
     "coveredYears": [
       2026
     ],
@@ -30592,18 +30592,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5be53-aea4\"",
-    "lastModified": "Fri, 25 Sep 2026 00:20:35 GMT",
-    "contentHash": "7fe85e5992b3d6160c8f42b957fe5d20243323866b68a6f21f8038fd5977ec50"
+    "etag": "\"6ada2c16-b0e4\"",
+    "lastModified": "Thu, 22 Oct 2026 15:30:30 GMT",
+    "contentHash": "016fbbe9dfc68969d7ea92741acee5e24f391cfd3056faec0080ae56efc12cb1"
   },
   {
     "id": "225ed2d5f436c655",
     "municipalityCode": "042153",
     "url": "https://www.city.osaki.miyagi.jp/shisei/jigyoshamuke/nyusatsu_keiyakujoho/8/17805.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:57+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:57+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:19+00:00",
     "coveredYears": [
       2023
     ],
@@ -30612,8 +30612,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab5bdf3-ab7d\"",
-    "lastModified": "Fri, 25 Sep 2026 00:18:59 GMT",
+    "etag": "\"6ada2bbd-ab7d\"",
+    "lastModified": "Thu, 22 Oct 2026 15:29:01 GMT",
     "contentHash": "3ee18fb1e0caacfcbe6a71a9745d3bebc7558796ce67aac7f4a75de77f9cb2a7"
   },
   {
@@ -30621,9 +30621,9 @@
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/information/2025/12/guidebook-result.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:58+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:58+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:20+00:00",
     "coveredYears": [
       2025,
       2026
@@ -30634,17 +30634,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 18 Sep 2026 05:50:10 GMT",
-    "contentHash": "3a003473f1162edae4f550963e812b6808ef0eadfea50803152a610ad6858c00"
+    "lastModified": "Fri, 23 Oct 2026 07:36:26 GMT",
+    "contentHash": "cf672806b05d3d1555f9ce83a50cb5b82b7240a79ce3a0739dabbbc66677d1b6"
   },
   {
     "id": "ef0220d36931d6ca",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/sangyou/nyusatsu/kekka/puropozaru.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:04:59+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:04:59+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:21+00:00",
     "coveredYears": [
       2026
     ],
@@ -30654,17 +30654,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 18 Sep 2026 06:10:58 GMT",
-    "contentHash": "8e42543aa40b1c0baff06db09f720e4174daa32294a99c0f8791f72aaf777866"
+    "lastModified": "Fri, 23 Oct 2026 07:57:42 GMT",
+    "contentHash": "50894eda23fa4a442e7fcdba91de90613781392ead6d98aff853b25b634397be"
   },
   {
     "id": "9f03bce8f88e0346",
     "municipalityCode": "042161",
     "url": "https://www.tomiya-city.miyagi.jp/sangyou/nyusatsu/kekka/puropozaru3-1.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T20:05:00+00:00",
+    "lastSuccessAt": "2026-10-24T16:48:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T20:05:00+00:00",
+    "nextCrawlAt": "2026-10-27T16:48:22+00:00",
     "coveredYears": [
       2021,
       2026
@@ -30675,8 +30675,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Fri, 18 Sep 2026 06:09:03 GMT",
-    "contentHash": "7da90de5c5668fe61e33612f9ba08145f633cdbfb727b4100e443a0fe4b7df47"
+    "lastModified": "Fri, 23 Oct 2026 07:55:41 GMT",
+    "contentHash": "1026ba5a6ab2549a199a2d4b096b35fc522027321631d747470f71754eb000ae"
   },
   {
     "id": "426f2320535fca0f",
@@ -127707,12 +127707,152 @@
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/89640.html",
     "failureCount": 0,
+    "lastSuccessAt": "2026-10-24T16:47:58+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-10-27T16:47:58+00:00",
+    "coveredYears": [
+      2026
+    ],
+    "sourceType": "result",
+    "title": "建設工事の入札結果（令和8年10月・令和8年11月分）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true,
+    "etag": null,
+    "lastModified": "Sat, 24 Oct 2026 16:04:26 GMT",
+    "contentHash": "2409debc64f381a549d3cb2f9012ab9f6f291aada02b5a793cc23c587eaa02d0"
+  },
+  {
+    "id": "f40d33c8be347135",
+    "municipalityCode": "042153",
+    "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0924_1.pdf",
+    "failureCount": 0,
     "lastSuccessAt": null,
     "lastFailureAt": null,
     "nextCrawlAt": null,
     "coveredYears": [],
-    "sourceType": "result",
-    "title": "建設工事の入札結果（令和8年10月・令和8年11月分）",
+    "sourceType": "result_pdf",
+    "title": "令和8年9月24日入札結果 (PDFファイル: 286.8KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "d7717b2b3c4898d3",
+    "municipalityCode": "042153",
+    "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0909_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年9月9日入札結果 (PDFファイル: 399.7KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "39066649f3c324f6",
+    "municipalityCode": "042153",
+    "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0826_2.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年8月26日入札結果 (PDFファイル: 262.4KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "058f974d2e0262d4",
+    "municipalityCode": "042153",
+    "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0805_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年8月5日入札結果 (PDFファイル: 603.7KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "d674fb9adda10657",
+    "municipalityCode": "042153",
+    "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0722_1.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年7月22日入札結果 (PDFファイル: 666.8KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "a14117da3c0dc021",
+    "municipalityCode": "042153",
+    "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka00909_jousui.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年9月9日入札結果 (PDFファイル: 265.3KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "f3edcda240c32e81",
+    "municipalityCode": "042153",
+    "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0924_jousui_2.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年9月24日入札結果 (PDFファイル: 133.5KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "572b2b11db9d5ef3",
+    "municipalityCode": "042153",
+    "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0826_jousui_2.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年8月26日入札結果 (PDFファイル: 294.9KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "7ec2f442b92f43a2",
+    "municipalityCode": "042153",
+    "url": "https://www.city.osaki.miyagi.jp/material/files/group/5/R08_kekka0805_jousui_2.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年8月5日入札結果 (PDFファイル: 191.1KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true
