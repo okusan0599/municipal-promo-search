@@ -27616,9 +27616,9 @@
     "municipalityCode": "472123",
     "url": "https://www.city.tomigusuku.lg.jp/material/files/group/26/81231291.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T13:19:56+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T13:19:56+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:07+00:00",
     "coveredYears": [
       2021
     ],
@@ -27636,9 +27636,9 @@
     "municipalityCode": "472123",
     "url": "https://www.city.tomigusuku.lg.jp/material/files/group/26/60370577.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:12+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:12+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:07+00:00",
     "coveredYears": [
       2021
     ],
@@ -27656,9 +27656,9 @@
     "municipalityCode": "472123",
     "url": "https://www.city.tomigusuku.lg.jp/material/files/group/26/96420277.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:13+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:13+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:09+00:00",
     "coveredYears": [
       2021
     ],
@@ -27856,18 +27856,18 @@
     "municipalityCode": "142085",
     "url": "https://www.city.zushi.kanagawa.jp/jigyosha/nyusatsu/1004667/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:14+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:14+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:16+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "W/\"a7d3-65c643e7b0ac0\"",
-    "lastModified": "Sat, 26 Sep 2026 15:11:15 GMT",
-    "contentHash": "3b47e5e5cfcde0325f5b54ed75251f534cd2ba47d5cfabe1938edb63ea49c95a"
+    "etag": "W/\"a885-65e94fe7a3cd0\"",
+    "lastModified": "Sat, 24 Oct 2026 12:11:17 GMT",
+    "contentHash": "5d4d85842e7acba80b4280a788fdabcc2ca7a1bc5dc97109d1a8e5452649fd3e"
   },
   {
     "id": "eaeb63e5809bd016",
@@ -27889,36 +27889,36 @@
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/shisei/zaisei/kojikeiyaku/puropozarukekka/20250703.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:15+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:15+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:18+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "苫小牧市地域公共交通計画改訂業務　公募型プロポーザルの実施について【受託候補者を特定しました】",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"9b4c-65b09605678e2\"",
-    "lastModified": "Wed, 09 Sep 2026 09:21:29 GMT",
-    "contentHash": "504749ff6d7aee65104ba50b313e2fe4cea8cbc6775432e3ac41307585dee619"
+    "etag": "\"9b4c-65e28774bc1db\"",
+    "lastModified": "Mon, 19 Oct 2026 02:42:33 GMT",
+    "contentHash": "68458cd92d788df055c42fb78fa2b465dda29ccb9b0f59479c05414542e587ea"
   },
   {
     "id": "d63373d3d9993c0a",
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/shisei/zaisei/kojikeiyaku/puropozarukekka/250703.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:16+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:16+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:19+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "勇払 AI オンデマンド乗合タクシー実証運行業務　公募型プロポーザルの実施について【受託候補者を特定しました】",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"9aa9-65b09605680b2\"",
-    "lastModified": "Wed, 09 Sep 2026 09:21:29 GMT",
-    "contentHash": "d7c52ba6aecced01b152519c7743813884d303074bc0cf8a389935908cc6bf61"
+    "etag": "\"9aa9-65e28774bc9ab\"",
+    "lastModified": "Mon, 19 Oct 2026 02:42:33 GMT",
+    "contentHash": "7b34cc99983e694d0b68378e06071be519172070e8bcbd8089e3b03f1c63fca3"
   },
   {
     "id": "4e5f539e0d507319",
@@ -27933,8 +27933,8 @@
     ],
     "sourceType": "result",
     "title": "令和８年度ゼロカーボン支援コンサルティング事業委託業務に係る公募型プロポーザルの実施について【受託候補者を特定しました】",
-    "discoveryMethod": "procurement_page",
-    "priority": 3,
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true,
     "etag": "\"8823-65b097709b08b\"",
     "lastModified": "Wed, 09 Sep 2026 09:27:50 GMT",
@@ -27953,8 +27953,8 @@
     ],
     "sourceType": "result",
     "title": "苫小牧市子育て支援アプリ導入及び運用・保守業務に係る公募型プロポーザルの実施について　結果公表日：令和５年５月１５日（月）",
-    "discoveryMethod": "procurement_page",
-    "priority": 3,
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true,
     "etag": "\"8e24-65bb7cca0d335\"",
     "lastModified": "Fri, 18 Sep 2026 01:27:10 GMT",
@@ -27971,8 +27971,8 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "医療介護保健に係る政策検討及び東胆振地域医療介護等広域連携ネットワーク構築支援業務　公募型プロポーザルの実施について【受託候補者を特定しました】",
-    "discoveryMethod": "procurement_page",
-    "priority": 3,
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true,
     "etag": "\"90c7-65bb7cca0b7dd\"",
     "lastModified": "Fri, 18 Sep 2026 01:27:10 GMT",
@@ -28508,18 +28508,18 @@
     "municipalityCode": "012149",
     "url": "https://www.city.wakkanai.hokkaido.jp/sangyo/nyusatsukeiyaku/nyusatsukekka/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:18+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:18+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:21+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 17 Sep 2026 01:18:06 GMT",
-    "contentHash": "96511fde89cf797acbd58ce4de4cc1874f593b8eea4c4f201a2ba36a81ca77ec"
+    "lastModified": "Thu, 22 Oct 2026 03:43:26 GMT",
+    "contentHash": "211352766e26a6ffa14a4af00409a2734dbcdf9041633e57bd5968ec55b549da"
   },
   {
     "id": "c50a190032c17ac6",
@@ -28541,109 +28541,109 @@
     "municipalityCode": "012149",
     "url": "https://www.city.wakkanai.hokkaido.jp/sangyo/nyusatsukeiyaku/nyusatsukekka/r02.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:18+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:18+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:21+00:00",
     "coveredYears": [
       2020
     ],
     "sourceType": "result",
     "title": "令和2年度入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 17 Sep 2026 01:18:05 GMT",
-    "contentHash": "ffcc12cae5d37b0875ffbae2d406286046627ee0e9ad63af5588fbea919589e6"
+    "lastModified": "Thu, 22 Oct 2026 03:41:02 GMT",
+    "contentHash": "e651cc4906bbc971077598d6e1d69c14b181cf28159dc9e1f306391ba7519210"
   },
   {
     "id": "5758952127331a33",
     "municipalityCode": "012149",
     "url": "https://www.city.wakkanai.hokkaido.jp/sangyo/nyusatsukeiyaku/nyusatsukekka/r03.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:19+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:19+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:22+00:00",
     "coveredYears": [
       2021
     ],
     "sourceType": "result",
     "title": "令和3年度入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 17 Sep 2026 01:18:05 GMT",
-    "contentHash": "f9051561784066efa05e98c083dfccbe73664463cff5b969069adae59ad7452b"
+    "lastModified": "Thu, 22 Oct 2026 03:41:03 GMT",
+    "contentHash": "74087809a5c524037cc31884ad74143110828d7c5b5bbabd428454c84640c9f4"
   },
   {
     "id": "b21ca354690bf994",
     "municipalityCode": "012149",
     "url": "https://www.city.wakkanai.hokkaido.jp/sangyo/nyusatsukeiyaku/nyusatsukekka/r05.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:20+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:20+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:23+00:00",
     "coveredYears": [
       2023
     ],
     "sourceType": "result",
     "title": "令和5年度入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 17 Sep 2026 01:18:06 GMT",
-    "contentHash": "4348238099ffc126a23f68e3f4484e96d1020a78e491496a01dd3dc916caa194"
+    "lastModified": "Thu, 22 Oct 2026 03:43:26 GMT",
+    "contentHash": "6fa8c47802fdcd16f043024b10d213498827eb66c28131f52b67d2d06e9f9429"
   },
   {
     "id": "4680584302abd08f",
     "municipalityCode": "012149",
     "url": "https://www.city.wakkanai.hokkaido.jp/sangyo/nyusatsukeiyaku/nyusatsukekka/r06.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:21+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:21+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:24+00:00",
     "coveredYears": [
       2024
     ],
     "sourceType": "result",
     "title": "令和6年度入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 17 Sep 2026 01:18:05 GMT",
-    "contentHash": "406ffa3726fecb78b51414c8bb5f02a5f0225f84756b816a4a51e4c3e9fd7e70"
+    "lastModified": "Thu, 22 Oct 2026 03:41:43 GMT",
+    "contentHash": "68327650287b2fe1159b27ad1f072153e80effdcfa05b5b7921a2561cfa3ca65"
   },
   {
     "id": "c9704b965f347268",
     "municipalityCode": "012149",
     "url": "https://www.city.wakkanai.hokkaido.jp/sangyo/nyusatsukeiyaku/nyusatsukekka/r07.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:21+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:21+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:25+00:00",
     "coveredYears": [
       2025
     ],
     "sourceType": "result",
     "title": "令和7年度入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 17 Sep 2026 01:18:04 GMT",
-    "contentHash": "1aa5aad3c0f9c46a593891500e73adf5da0ffd6670bfad424f6746c57d3f5ead"
+    "lastModified": "Thu, 22 Oct 2026 03:40:57 GMT",
+    "contentHash": "f323755562861a45c2fba0d67032dad8ac91189b8cf2b5ff24b2ed4d9e67fb9c"
   },
   {
     "id": "8992e8b36e972335",
     "municipalityCode": "012149",
     "url": "https://www.city.wakkanai.hokkaido.jp/sangyo/nyusatsukeiyaku/nyusatsukekka/r4kekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:22+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:22+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:26+00:00",
     "coveredYears": [
       2022
     ],
@@ -28653,8 +28653,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 17 Sep 2026 01:18:04 GMT",
-    "contentHash": "744d60947a6019c6be08fec3ff254dca96d2b3b9a5edf6881ec5e544fad3f884"
+    "lastModified": "Thu, 22 Oct 2026 03:40:59 GMT",
+    "contentHash": "443dab694d2fa1c6457979643d7a49afbcb01ae94541ae80df337313b6cf467c"
   },
   {
     "id": "2455b60d4a7c2fe8",
@@ -29231,9 +29231,9 @@
     "municipalityCode": "143839",
     "url": "https://www.town.manazuru.kanagawa.jp/material/files/group/36/koubogatapuropo_hyouka_senteikekka20240522.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:24+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:24+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:28+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "公募型プロポーザル方式による業者選定の評価及び候補者選定結果等の公表について(PDFファイル:26.2KB)",
@@ -29354,9 +29354,9 @@
     "municipalityCode": "151009",
     "url": "https://www.city.niigata.lg.jp/business/keiyaku/keiyaku_top/buppin-kekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:24+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:24+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:30+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札・契約結果",
@@ -29364,17 +29364,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 26 Sep 2026 15:00:49 GMT",
-    "contentHash": "fd37bdaab4cb2724b7653fc45dca24f0b0b3d18aa676bd75b9591b3c6d0d1621"
+    "lastModified": "Sat, 24 Oct 2026 11:57:05 GMT",
+    "contentHash": "6b05fce0375b8a30c62a149a9880ae0592d0a8afdd2e8b0360f983dbff6e273e"
   },
   {
     "id": "df12aa789cc4c1d6",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/sangyo_business/nyusatsu_keiyaku/buppinkonyu_gyomuitaku/2/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:26+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:26+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:32+00:00",
     "coveredYears": [
       2024
     ],
@@ -29383,18 +29383,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6aa11420-d4bc\"",
-    "lastModified": "Wed, 09 Sep 2026 08:09:04 GMT",
-    "contentHash": "ae60a36dbc5dc3d71784a02012784046d942b26d97ca3f1c7486d0860af66eab"
+    "etag": "\"6ad85d9b-d4bc\"",
+    "lastModified": "Wed, 21 Oct 2026 06:37:15 GMT",
+    "contentHash": "2e71c17ff143fae5c1ccbfc4ff38f2e929e098f55f7806407ab9e75b852d2fab"
   },
   {
     "id": "2e2b649234bd12f8",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/sangyo_business/nyusatsu_keiyaku/kensetsukoji_kensetsuconsultant/3/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:27+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:27+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:32+00:00",
     "coveredYears": [
       2019
     ],
@@ -29403,8 +29403,8 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6a9f90a6-d029\"",
-    "lastModified": "Tue, 08 Sep 2026 04:35:50 GMT",
+    "etag": "\"6ad6a814-d029\"",
+    "lastModified": "Mon, 19 Oct 2026 23:30:28 GMT",
     "contentHash": "9e60408bdc40de7e3772e5946ba3500935e959d7d187b5ead55ca2fcb4504972"
   },
   {
@@ -29412,9 +29412,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/sangyo_business/nyusatsu_keiyaku/proposal/1/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:28+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:28+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:34+00:00",
     "coveredYears": [
       2024
     ],
@@ -29423,9 +29423,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6a92f997-c61a\"",
-    "lastModified": "Sat, 29 Aug 2026 15:24:07 GMT",
-    "contentHash": null
+    "etag": "\"6ad85a9d-c61a\"",
+    "lastModified": "Wed, 21 Oct 2026 06:24:29 GMT",
+    "contentHash": "f79970705fddffde3c62fffe835d1512599ab181ee206ead639705cd32bd88d5"
   },
   {
     "id": "c9a0bcd51b92debd",
@@ -29477,9 +29477,9 @@
     "municipalityCode": "152081",
     "url": "https://www.city.ojiya.niigata.jp/site/nyusatsu/nyusatu-r8kekka-buppin.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:29+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:29+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:35+00:00",
     "coveredYears": [
       2026
     ],
@@ -29488,18 +29488,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"85cb-65c65ca3778d1\"",
-    "lastModified": "Sat, 26 Sep 2026 17:01:54 GMT",
-    "contentHash": "01f51a8efb2c71d4997d7cc5961b9482d51efd8697b1ba4362854033114fa672"
+    "etag": "\"877f-65e94dcdc28d0\"",
+    "lastModified": "Sat, 24 Oct 2026 12:01:53 GMT",
+    "contentHash": "30eb0128fd940301626977050ba918504de7a1bc3ff99b68e295daace71c3c11"
   },
   {
     "id": "4d310e99390edfe5",
     "municipalityCode": "152081",
     "url": "https://www.city.ojiya.niigata.jp/site/nyusatsu/nyusatu-r8kekka-kensetu.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:30+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:30+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:36+00:00",
     "coveredYears": [
       2026
     ],
@@ -29508,9 +29508,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"8702-65c65ca2c22b4\"",
-    "lastModified": "Sat, 26 Sep 2026 17:01:53 GMT",
-    "contentHash": "81245d816f1fcfc4e4c60998cb65afabfed08650b31b65e223025fa71cfeb3aa"
+    "etag": "\"8832-65e94dcbbff19\"",
+    "lastModified": "Sat, 24 Oct 2026 12:01:51 GMT",
+    "contentHash": "d4a0708a218a24ae49476fc8140951e35a7ff037264ef7796799f109940f81e2"
   },
   {
     "id": "ae8ad57e30f8607d",
@@ -29523,7 +29523,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -29540,7 +29540,7 @@
     ],
     "sourceType": "result",
     "title": "令和5年度",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true,
     "etag": "\"8840-65cf1c2ccfe3d\"",
@@ -29560,7 +29560,7 @@
     ],
     "sourceType": "result",
     "title": "令和5年度",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true,
     "etag": "\"8aa4-65cf1c2d844ba\"",
@@ -29580,7 +29580,7 @@
     ],
     "sourceType": "result",
     "title": "令和6年度",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true,
     "etag": "\"86dc-65cf1c3201211\"",
@@ -29872,9 +29872,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/sangyo_business/nyusatsu_keiyaku/6317.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:32+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:32+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:39+00:00",
     "coveredYears": [
       2020
     ],
@@ -29883,71 +29883,72 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6aaceeb5-c627\"",
-    "lastModified": "Fri, 18 Sep 2026 07:56:37 GMT",
-    "contentHash": "07a0eb3b34505834ae3d2bdeb768f2cb26befa60cc0057189ca503cd245a981e"
+    "etag": "\"6ad9c6a6-c627\"",
+    "lastModified": "Thu, 22 Oct 2026 08:17:42 GMT",
+    "contentHash": "911280081ded720bf9feb242c2c755f0e3ad5d13d3ca3fe65783b2e0a414e4c6"
   },
   {
     "id": "a313de2c3860759f",
     "municipalityCode": "155811",
     "url": "http://www.vill.sekikawa.niigata.jp/politics/11/3191/26fa3d01ab2e/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:33+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:33+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:41+00:00",
     "coveredYears": [
       2025,
       2026
     ],
     "sourceType": "result",
     "title": "タブレット端末の利活用検討及び関川村次期防災無線システム更新工事発注者支援業務委託の公募型プロポーザル審査結果の公表(令和7年8月)",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"d5604c7d11feb36a12394146f6dfaf45\"",
-    "lastModified": "Fri, 25 Sep 2026 07:57:23 GMT",
-    "contentHash": "0d9db773985e2419c3216b1d15f1fc3cc99232caed97013bddab63d5dbfdce51"
+    "etag": "\"92608caa2a1b0dcc7453032bbdc4de1e\"",
+    "lastModified": "Fri, 23 Oct 2026 08:42:10 GMT",
+    "contentHash": "689181a19ab1f486eb87665f6710ce6d6d15419613fb91c97fe8cd26e29b32ce"
   },
   {
     "id": "8774e1fef669ad2d",
     "municipalityCode": "155811",
     "url": "http://www.vill.sekikawa.niigata.jp/politics/11/3191/3430/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:34+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:34+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:43+00:00",
     "coveredYears": [
       2021,
+      2022,
       2026
     ],
     "sourceType": "result",
     "title": "「(仮称)関川村健康増進施設プロポーザル審査結果の公表について」(令和3年2月）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"2303efca8a0aa39405c59ad3e3ebaa0b\"",
-    "lastModified": "Fri, 25 Sep 2026 07:57:24 GMT",
-    "contentHash": "2dba46377566393b0784d0706128adcf94d79357b6573190ebf6c63d91c562b4"
+    "etag": "\"fe558ece0f60893fa3373097d8d99412\"",
+    "lastModified": "Fri, 23 Oct 2026 08:42:11 GMT",
+    "contentHash": "fc362fb01bf16e9fc21a8c9bd1b64d28299a7efcab557e158be5e84f17f7ffcb"
   },
   {
     "id": "300d5465d23574f0",
     "municipalityCode": "155811",
     "url": "http://www.vill.sekikawa.niigata.jp/politics/11/3191/4218/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:35+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:35+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:45+00:00",
     "coveredYears": [
       2026
     ],
     "sourceType": "result",
     "title": "道の駅関川第４工区　公募型プロポーザル審査結果の公表について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"110d89c6538a427d4a81b9fdb8601e7b\"",
-    "lastModified": "Fri, 25 Sep 2026 07:57:25 GMT",
-    "contentHash": "942d3455fb23f0711499a2c597113c93e153b4865f642f52e44dfb5f4e9dcf55"
+    "etag": "\"29d90f48a15f206fbf17b793f9ae2aff\"",
+    "lastModified": "Fri, 23 Oct 2026 08:42:14 GMT",
+    "contentHash": "7ac3636e99f3eb3d18e67dc2e176b98327228dd2e8176c3b9075f4175b6fa4c1"
   },
   {
     "id": "9095e4a1f2f6ab0a",
@@ -29960,7 +29961,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "地方行政サービス改革の取組状況等(令和2年4月1日現在)",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -30062,9 +30063,9 @@
     "municipalityCode": "382078",
     "url": "https://www.city.ozu.ehime.jp/uploaded/attachment/48452.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:36+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:36+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:46+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "大洲市民文化会館新築工事に係る入札結果の公表について [PDFファイル／225KB]",
@@ -30080,9 +30081,9 @@
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/list116-704.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:38+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:38+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:48+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "工事の入札結果（R4年度分）",
@@ -30090,17 +30091,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 26 Sep 2026 17:16:13 GMT",
-    "contentHash": "a88b2a9f8361c97eea6a975596da3cc11baea8cddef3c9d6e704793d755cb055"
+    "lastModified": "Sat, 24 Oct 2026 12:46:06 GMT",
+    "contentHash": "3507bb5baab06ec67c19f480463ba0f7740a67abe82a7709412eb0e3321c0921"
   },
   {
     "id": "ef0416670a91e0be",
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/list116-714.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:39+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:39+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:50+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "工事の入札結果（R5年度分）",
@@ -30108,17 +30109,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 26 Sep 2026 17:16:13 GMT",
-    "contentHash": "b5f5105e9c6f22dec3d096be66fcee7edc47db4fe409b54d2c80c8f1fe249547"
+    "lastModified": "Sat, 24 Oct 2026 12:46:06 GMT",
+    "contentHash": "2e82d37add0660160b034fed544982372a5af6efc94f25e6bc0f3b5a5f07b850"
   },
   {
     "id": "f570404fe81c465d",
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/list116-752.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:40+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:40+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:51+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "工事の入札結果（R6年度分）",
@@ -30126,17 +30127,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 26 Sep 2026 17:16:13 GMT",
-    "contentHash": "9ec8a95c01139d34a9fb57d20cc1e58e3cabd2b9eea107ba3a0324319e48b449"
+    "lastModified": "Sat, 24 Oct 2026 12:46:06 GMT",
+    "contentHash": "312f07208cb23ba4be58b2256c03a82fdc904bcb6fc51e0a53448d958d407250"
   },
   {
     "id": "297257d726ce1ea4",
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/list116-784.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:41+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:41+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:52+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "工事の入札結果（R7年度分）",
@@ -30144,17 +30145,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 26 Sep 2026 17:16:13 GMT",
-    "contentHash": "b01a23a2a8956ea0d42f3d3d0210561adae18dbc93d44e98a2b07c22676b5eed"
+    "lastModified": "Sat, 24 Oct 2026 12:46:06 GMT",
+    "contentHash": "3d2118616ead06bd6ec73e2b8a0ca410b7d64035148698e297a2d1bcc96cbe20"
   },
   {
     "id": "10501f2ae868ff7a",
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/list116-802.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-26T17:22:42+00:00",
+    "lastSuccessAt": "2026-10-24T12:54:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-09-29T17:22:42+00:00",
+    "nextCrawlAt": "2026-10-27T12:54:54+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "工事の入札結果（R8年度分）",
@@ -30162,8 +30163,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 26 Sep 2026 17:16:13 GMT",
-    "contentHash": "55141a13571738d55c423dc528cc3857d61068dd53ead3f0ee16033d27ca11ca"
+    "lastModified": "Sat, 24 Oct 2026 12:46:06 GMT",
+    "contentHash": "ff0de968969f59604dc724344c8d52c57ac409937edcb99c83a47b49a41622b2"
   },
   {
     "id": "b03cbdf3dd82d35c",
@@ -99995,7 +99996,7 @@
     ],
     "sourceType": "result",
     "title": "渡邉邸展示パネル等制作業務公募型プロポーザル審査結果の公表(令和8年9月)",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "W/\"14d77dd1dd6032629a9dbd8b846ecd79\"",
@@ -127699,6 +127700,21 @@
     "title": "牛舎川河川浚渫工事",
     "discoveryMethod": "procurement_page",
     "priority": 3,
+    "active": true
+  },
+  {
+    "id": "c934bfe3e59d09a6",
+    "municipalityCode": "452025",
+    "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/89640.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "建設工事の入札結果（令和8年10月・令和8年11月分）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true
   }
 ]

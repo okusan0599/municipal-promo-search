@@ -17052,7 +17052,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-26T17:22:35+00:00"
+    "lastChecked": "2026-10-24T12:54:44+00:00"
   },
   {
     "dedupeKey": "9d524fcd9cdc436fc4062958b4065fdec5adff696bc32a6481d3996548cda09d",
@@ -29365,5 +29365,43 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-23T18:36:39+00:00"
+  },
+  {
+    "dedupeKey": "fddf5faa3a9fc1ea9cb3c7f2609dfa90a5bc4cc18243af5e7be6ece842357edc",
+    "id": "award-cafbfbede74efdc8bf4ea9ed",
+    "municipalityCode": "155811",
+    "area": "甲信越",
+    "region": "新潟県",
+    "municipality": "関川村",
+    "organization": "関川村",
+    "title": "「タブレット端末の利活用検討及び関川村次期防災無線システム更新工事発注者支援業務委託」",
+    "vendor": "アバナード株式会社(76.6点/100点) 参加提案者の",
+    "awardDate": "2025-08-05",
+    "year": 2025,
+    "sourceUrl": "http://www.vill.sekikawa.niigata.jp/politics/11/3191/26fa3d01ab2e/index.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-24T12:54:41+00:00"
+  },
+  {
+    "dedupeKey": "2e5da32a70fb3ef0ea3265fedc7e7c4a8c61cdf31b81b057bd7bfb7423282e13",
+    "id": "award-f16e4de6e44679807e2fd43e",
+    "municipalityCode": "155811",
+    "area": "甲信越",
+    "region": "新潟県",
+    "municipality": "関川村",
+    "organization": "関川村",
+    "title": "「(仮称)関川村健康増進施設 新築工事」",
+    "vendor": "名 大和リース株式会社 (74.11点/100点) 参加提案者の",
+    "awardDate": "2022-05-16",
+    "year": 2022,
+    "sourceUrl": "http://www.vill.sekikawa.niigata.jp/politics/11/3191/3430/index.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-24T12:54:43+00:00"
   }
 ]
