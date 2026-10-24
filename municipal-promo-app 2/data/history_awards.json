@@ -17131,7 +17131,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-27T01:40:13+00:00"
+    "lastChecked": "2026-10-24T22:40:13+00:00"
   },
   {
     "dedupeKey": "9ddd4e616657fd1802eb193a3115ab651cafa25f182a7523a9dfcce84c027172",
@@ -29479,5 +29479,28 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-24T19:42:40+00:00"
+  },
+  {
+    "dedupeKey": "2049a421a5e43d2d8a43645afa0917b6eba6da9013cf7fb4219aeb4696d6c0bd",
+    "id": "award-1c43e593c8b98b4f94c7f21c",
+    "municipalityCode": "182087",
+    "area": "北陸",
+    "region": "福井県",
+    "municipality": "あわら市",
+    "organization": "あわら市",
+    "title": "【審査結果】新郷小学校利活用基本計画策定業務 公募型プロポーザルの実施について",
+    "vendor": "有限会社設計工房顕塾 参加事業者数 1者",
+    "awardDate": "2023-07-14",
+    "year": 2026,
+    "sourceUrl": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0106/p013481.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [
+      "consulting_strategy"
+    ],
+    "dentsuCategoryLabels": [
+      "コンサル・戦略策定"
+    ],
+    "lastChecked": "2026-10-24T22:40:06+00:00"
   }
 ]
