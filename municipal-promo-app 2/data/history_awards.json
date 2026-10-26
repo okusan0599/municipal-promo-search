@@ -17262,7 +17262,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-29T05:58:09+00:00"
+    "lastChecked": "2026-10-26T20:42:39+00:00"
   },
   {
     "dedupeKey": "612eb2f2ad810b533373bac94a3463865f21b4343daf52261e6954fafa8f67b9",
@@ -29540,5 +29540,43 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-25T06:27:37+00:00"
+  },
+  {
+    "dedupeKey": "6e3cccea1f304cd76b2603bf98a4998497401a821087036f8e203e0c725d1cc4",
+    "id": "award-590f583ecb0ffcaa6cab84a1",
+    "municipalityCode": "262145",
+    "area": "近畿",
+    "region": "京都府",
+    "municipality": "木津川市",
+    "organization": "木津川市",
+    "title": "(工事・業 務名等)及び番号 種別 概要 (工事・業務等概要) 工期又は履 行等期限",
+    "vendor": "は、 コンビニ交付システムの構築事 業者であり、 当システムに精通しており、 当該業務を適正かつ迅速に実施できる業 者は他になく競争入札に適さないため。 7 市民年金 課 京都市中京区三条通烏丸 西入御倉町85番地1 烏 丸ビル7F",
+    "awardDate": "2013-05-31",
+    "year": 2013,
+    "sourceUrl": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/96/20140115-170536.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-26T20:42:14+00:00"
+  },
+  {
+    "dedupeKey": "b1bec10144af606b3a35b1b197499444c7e2f618e4a61409b911bad5d97d8dd1",
+    "id": "award-eedae91e15038494c1e32ae6",
+    "municipalityCode": "262145",
+    "area": "近畿",
+    "region": "京都府",
+    "municipality": "木津川市",
+    "organization": "木津川市",
+    "title": "(工事・業 務名等)及び番号R 種別R 概要R (工事・業務等概要)R 工期又は履 行等期限R",
+    "vendor": "は、当市の公的個人認証システム の開発・導入を行い、、当システムにのハードウ ェア、ソフトウェア、ネットワーク構成等に精通しており、 当該業務を適正かつ迅速に実施できる業者は 他になく競争入札に適さないため。R R R 7R 市民年金課R 大",
+    "awardDate": "2016-02-29",
+    "year": 2015,
+    "sourceUrl": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/96/20160315-102632.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-26T20:42:17+00:00"
   }
 ]
