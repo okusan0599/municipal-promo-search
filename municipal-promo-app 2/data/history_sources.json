@@ -13609,7 +13609,7 @@
     ],
     "sourceType": "result",
     "title": "設計図書・入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -15490,7 +15490,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "公表（入札結果など）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -15508,7 +15508,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "東日本大震災に関する情報",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -15888,7 +15888,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（教育委員会）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"6ace132e-a045\"",
@@ -15928,7 +15928,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（農業委員会事務局）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"6ace1340-9e74\"",
@@ -16848,7 +16848,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -17166,7 +17166,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -38127,9 +38127,9 @@
     "municipalityCode": "242021",
     "url": "https://www.city.yokkaichi.lg.jp/www/contents/1584420353691/files/3.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T01:50:45+00:00",
+    "lastSuccessAt": "2026-10-26T01:25:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T01:50:45+00:00",
+    "nextCrawlAt": "2026-10-29T01:25:53+00:00",
     "coveredYears": [
       2020
     ],
@@ -38147,9 +38147,9 @@
     "municipalityCode": "242021",
     "url": "https://www.city.yokkaichi.lg.jp/www/contents/1598222418203/files/1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:53:57+00:00",
+    "lastSuccessAt": "2026-10-26T01:25:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:53:57+00:00",
+    "nextCrawlAt": "2026-10-29T01:25:55+00:00",
     "coveredYears": [
       2020
     ],
@@ -38167,9 +38167,9 @@
     "municipalityCode": "242021",
     "url": "https://www.city.yokkaichi.lg.jp/www/contents/1598224920377/files/2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:53:58+00:00",
+    "lastSuccessAt": "2026-10-26T01:25:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:53:58+00:00",
+    "nextCrawlAt": "2026-10-29T01:25:56+00:00",
     "coveredYears": [
       2020
     ],
@@ -38187,9 +38187,9 @@
     "municipalityCode": "242021",
     "url": "https://www.city.yokkaichi.lg.jp/www/contents/1598225118023/files/3.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:53:59+00:00",
+    "lastSuccessAt": "2026-10-26T01:25:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:53:59+00:00",
+    "nextCrawlAt": "2026-10-29T01:25:58+00:00",
     "coveredYears": [
       2020
     ],
@@ -38207,9 +38207,9 @@
     "municipalityCode": "242021",
     "url": "https://www.city.yokkaichi.lg.jp/www/contents/1608617905145/files/1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:00+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:00+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:00+00:00",
     "coveredYears": [
       2021
     ],
@@ -38227,9 +38227,9 @@
     "municipalityCode": "242021",
     "url": "https://www.city.yokkaichi.lg.jp/www/contents/1608618913359/files/1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:01+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:01+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:02+00:00",
     "coveredYears": [
       2021
     ],
@@ -38247,9 +38247,9 @@
     "municipalityCode": "242021",
     "url": "https://www.city.yokkaichi.lg.jp/www/contents/1608619260976/files/1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:02+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:02+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:04+00:00",
     "coveredYears": [
       2021
     ],
@@ -38267,9 +38267,9 @@
     "municipalityCode": "242021",
     "url": "https://www.city.yokkaichi.lg.jp/www/contents/1639994034282/files/1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:02+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:02+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:04+00:00",
     "coveredYears": [
       2021,
       2023
@@ -38288,9 +38288,9 @@
     "municipalityCode": "242021",
     "url": "https://www.city.yokkaichi.lg.jp/www/contents/1639994534561/files/1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:03+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:03+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:05+00:00",
     "coveredYears": [
       2021,
       2023
@@ -38309,9 +38309,9 @@
     "municipalityCode": "242021",
     "url": "https://www.city.yokkaichi.lg.jp/www/contents/1640078881245/files/1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:04+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:04+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:06+00:00",
     "coveredYears": [
       2021,
       2023
@@ -38435,54 +38435,54 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/shisei/jigyousya/nyusatsu/hacchu/1016042/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:07+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:07+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:08+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約の結果公表（物品・印刷）",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "W/\"1d0a0-65c868f58db0d\"",
-    "lastModified": "Mon, 28 Sep 2026 08:07:40 GMT",
-    "contentHash": "4a7c38461e0b891541398f0e1ea801ed48a5910544e7893c335f614fa3abbac5"
+    "etag": "W/\"1d2ec-65eb31e2a6969\"",
+    "lastModified": "Mon, 26 Oct 2026 00:07:38 GMT",
+    "contentHash": "f4cb94eb61daa537275cbe625c138922cf0e15076cccea156bfdf71674741c50"
   },
   {
     "id": "12f145c6f6ee0df1",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/shisei/jigyousya/nyusatsu/hacchu/1016051/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:09+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:09+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:09+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約の結果公表（建設工事・測量コンサル）",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "W/\"1ca91-65c868f556c1f\"",
-    "lastModified": "Mon, 28 Sep 2026 08:07:40 GMT",
-    "contentHash": "0968cce4c64f0f74214b8e058d3211a107b22289c249c08996e30de59af336d4"
+    "etag": "W/\"1ccdd-65eb31e270e04\"",
+    "lastModified": "Mon, 26 Oct 2026 00:07:38 GMT",
+    "contentHash": "2c6e6a068d97eec1f0d9b3a196b05166cef94b7c9c4a6d1b7dbb98e45b535219"
   },
   {
     "id": "726b1d114990742a",
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/shisei/jigyousya/nyusatsu/hacchu/1016052/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:10+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:10+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:12+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約の結果公表（役務）",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "W/\"1ce2d-65c868f5c4613\"",
-    "lastModified": "Mon, 28 Sep 2026 08:07:40 GMT",
-    "contentHash": "c1cf04fca82063c9aa53144eec5f7ad4664de4962814b29c42d9786211b86182"
+    "etag": "W/\"1d079-65eb31e2dc8b6\"",
+    "lastModified": "Mon, 26 Oct 2026 00:07:38 GMT",
+    "contentHash": "a5c8738241e5fc1422edad4f10e6ea6ba99d02823bd8d03835df40acf7854ccc"
   },
   {
     "id": "7543ea956bdd3158",
@@ -38579,9 +38579,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202604.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:12+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:12+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:14+00:00",
     "coveredYears": [
       2026
     ],
@@ -38591,17 +38591,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 27 Sep 2026 15:00:23 GMT",
-    "contentHash": "8007b84d934b1ca9a5cd00b70279514eeed2989c261fe97014ce2e047295b95e"
+    "lastModified": "Sun, 25 Oct 2026 15:00:22 GMT",
+    "contentHash": "2ddda1c2fca04641efb2011c98634e61c55b74c689080f038a6bc8f918113238"
   },
   {
     "id": "c23d3cce2d15a4ec",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202605.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:12+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:12+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:14+00:00",
     "coveredYears": [
       2026
     ],
@@ -38611,17 +38611,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 27 Sep 2026 15:00:23 GMT",
-    "contentHash": "a4fb5f4b8855e109b2295ba0b79e715fa8656d5d4a54d04220f2d8d249242e49"
+    "lastModified": "Sun, 25 Oct 2026 15:00:22 GMT",
+    "contentHash": "26903043fe0cec6d63edf86a506b3ab471d208c1942bb7ad3744d4954b56a346"
   },
   {
     "id": "d305fbcc3079ae79",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202606.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:13+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:13+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:15+00:00",
     "coveredYears": [
       2026
     ],
@@ -38631,17 +38631,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 27 Sep 2026 15:00:23 GMT",
-    "contentHash": "419826ab3bba3a47f32c57efd4087911d4615edde13895c0c52b1e99ba3ae7c8"
+    "lastModified": "Sun, 25 Oct 2026 15:00:22 GMT",
+    "contentHash": "dc3644bc81586f1ddab6295a74b9c76259b8bfbb93d41406e88e211da2a9ac2d"
   },
   {
     "id": "6dd57ee2459c67b5",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202607.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:14+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:14+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:16+00:00",
     "coveredYears": [
       2026
     ],
@@ -38651,17 +38651,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 27 Sep 2026 15:00:23 GMT",
-    "contentHash": "35be398aaed07b5b2ab9ce064db5d5775004886cef963e06c1e33d8893866a3f"
+    "lastModified": "Sun, 25 Oct 2026 15:00:22 GMT",
+    "contentHash": "9fb23d9bf36f155befce2f2574c4196103d8ed98c82fc1d0dd58bed34a8c0871"
   },
   {
     "id": "0880f82d37315e91",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202608.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:14+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:14+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:16+00:00",
     "coveredYears": [
       2026
     ],
@@ -38671,17 +38671,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 27 Sep 2026 15:00:23 GMT",
-    "contentHash": "5fdc645d31be87d6ac8859dfc7cf32e573b66e4e4d99ac3a89c7b77b808a5efa"
+    "lastModified": "Sun, 25 Oct 2026 15:00:22 GMT",
+    "contentHash": "491e7caa370783cf6a6b2242ac1070a79887d85d2a8a8b73793c177ae101fb37"
   },
   {
     "id": "3ca9d75b07cea5aa",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202609.files/20260904.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:15+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:15+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:17+00:00",
     "coveredYears": [
       2026
     ],
@@ -38699,9 +38699,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202609.files/20260903.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:15+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:15+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:18+00:00",
     "coveredYears": [
       2026
     ],
@@ -38719,9 +38719,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202609.files/20260902.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:16+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:16+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:18+00:00",
     "coveredYears": [
       2026
     ],
@@ -38770,27 +38770,27 @@
     "municipalityCode": "082112",
     "url": "https://www.city.joso.lg.jp/data/doc/1730075963_doc_167_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:17+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:17+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:21+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "04_選定要領 [PDF形式／246.49KB]",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"3d9f1-62c5a4bd67122\"",
-    "lastModified": "Thu, 23 Jan 2025 07:09:51 GMT",
-    "contentHash": null
+    "etag": "W/\"3d9f1-65cd60fe64d60\"",
+    "lastModified": "Fri, 02 Oct 2026 06:58:39 GMT",
+    "contentHash": "43840df9f22b25bda6be0f6e76a5b12ac0b3586f3ea96dd5a3bbfbefb382018b"
   },
   {
     "id": "22afe0a02f1848d4",
     "municipalityCode": "082112",
     "url": "https://www.city.joso.lg.jp/data/doc/1745473098_doc_134_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:18+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:18+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:21+00:00",
     "coveredYears": [
       2025
     ],
@@ -38799,18 +38799,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"801a-64d44f4e34d60\"",
-    "lastModified": "Wed, 18 Mar 2026 04:33:41 GMT",
-    "contentHash": null
+    "etag": "W/\"801a-65cd4da53c0c0\"",
+    "lastModified": "Fri, 02 Oct 2026 05:32:06 GMT",
+    "contentHash": "a58d305783498470363b3a1a355ed79ea1e864e2c85841697ae7f6a9568f6caf"
   },
   {
     "id": "c8cda57b30c4dcfe",
     "municipalityCode": "082112",
     "url": "https://www.city.joso.lg.jp/data/doc/1748503696_doc_134_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:19+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:19+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:23+00:00",
     "coveredYears": [
       2025
     ],
@@ -38819,18 +38819,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"b3767-64d44f4e44378\"",
-    "lastModified": "Wed, 18 Mar 2026 04:33:41 GMT",
-    "contentHash": null
+    "etag": "W/\"b3767-65cd4da54ab20\"",
+    "lastModified": "Fri, 02 Oct 2026 05:32:06 GMT",
+    "contentHash": "de9b1db059e018e5b4aa56a6ee18e36e5b68d543677120bb22d2b50290877663"
   },
   {
     "id": "110f5308f3501432",
     "municipalityCode": "082112",
     "url": "https://www.city.joso.lg.jp/data/doc/1750925350_doc_134_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:19+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:19+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:23+00:00",
     "coveredYears": [
       2025
     ],
@@ -38839,18 +38839,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"b9c88-64d44f4e52608\"",
-    "lastModified": "Wed, 18 Mar 2026 04:33:42 GMT",
-    "contentHash": null
+    "etag": "W/\"b9c88-65cd4da5589c8\"",
+    "lastModified": "Fri, 02 Oct 2026 05:32:06 GMT",
+    "contentHash": "ccf6055e283857b7a5581bf83348340b37068b13d3914206a03b615491739ea6"
   },
   {
     "id": "6788848cbde40d65",
     "municipalityCode": "082112",
     "url": "https://www.city.joso.lg.jp/data/doc/1753344280_doc_134_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:20+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:20+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:24+00:00",
     "coveredYears": [
       2025
     ],
@@ -38859,18 +38859,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"a836b-64d44f4e63f48\"",
-    "lastModified": "Wed, 18 Mar 2026 04:33:42 GMT",
-    "contentHash": null
+    "etag": "W/\"a836b-65cd4da567810\"",
+    "lastModified": "Fri, 02 Oct 2026 05:32:06 GMT",
+    "contentHash": "77eda893d480ac42fcc8a605edd8a31ed0e511d6f1d3c2b63775abe445c87b62"
   },
   {
     "id": "99986370f6d22bb4",
     "municipalityCode": "082112",
     "url": "https://www.city.joso.lg.jp/data/doc/1756369210_doc_134_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:20+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:20+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:25+00:00",
     "coveredYears": [
       2025,
       2026
@@ -38880,18 +38880,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"95bff-64d44f4e74118\"",
-    "lastModified": "Wed, 18 Mar 2026 04:33:42 GMT",
-    "contentHash": null
+    "etag": "W/\"95bff-65cd4da5756b8\"",
+    "lastModified": "Fri, 02 Oct 2026 05:32:06 GMT",
+    "contentHash": "7862ea759dc67b912ff8ab787549fdf93948e8e9cb8f2087b7eca2273f855766"
   },
   {
     "id": "56f66bf79bd56673",
     "municipalityCode": "082112",
     "url": "https://www.city.joso.lg.jp/data/doc/1773807050_doc_134_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:21+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-01T08:54:21+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:25+00:00",
     "coveredYears": [
       2026
     ],
@@ -38900,9 +38900,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"15ee7-64d44f4ee9fd0\"",
-    "lastModified": "Wed, 18 Mar 2026 04:33:42 GMT",
-    "contentHash": null
+    "etag": "W/\"15ee7-65cd4da5eec20\"",
+    "lastModified": "Fri, 02 Oct 2026 05:32:06 GMT",
+    "contentHash": "5491e8edc8fe758f5883fd563d319cafd9e0b378fb0a719dfb42c4ae064f7807"
   },
   {
     "id": "f0b8d2817ba0c940",
@@ -47929,10 +47929,10 @@
     "id": "a26d720eacf7b84c",
     "municipalityCode": "332020",
     "url": "https://www.city.kurashiki.okayama.jp/business/contract/1013065/1014308/1026453.html",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-09T19:58:55+00:00",
-    "lastFailureAt": "2026-09-30T16:07:03+00:00",
-    "nextCrawlAt": "2026-10-01T04:07:03+00:00",
+    "lastFailureAt": "2026-10-26T01:25:54+00:00",
+    "nextCrawlAt": "2026-10-27T01:25:54+00:00",
     "coveredYears": [
       2026
     ],
@@ -54617,9 +54617,9 @@
     "municipalityCode": "406058",
     "url": "https://www.town-kawasaki.com/jigyoshamuke/nyusatsu/1657",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-28T08:54:09+00:00",
+    "lastSuccessAt": "2026-10-26T01:26:11+00:00",
     "lastFailureAt": "2026-09-10T19:57:19+00:00",
-    "nextCrawlAt": "2026-10-01T08:54:09+00:00",
+    "nextCrawlAt": "2026-10-29T01:26:11+00:00",
     "coveredYears": [
       2019
     ],
@@ -54631,7 +54631,7 @@
     "lastError": "HTTPSConnectionPool(host='www.town-kawasaki.com', port=443): Max retries exceeded with url: /jigyoshamuke/nyusatsu/1657 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.town-kawasaki.com', port=443) at 0x7fcc5f5e7590>, 'Connection to www.town-kawasaki.com timed out. (connect timeout=12)'))",
     "etag": null,
     "lastModified": null,
-    "contentHash": "82db8c9797e77ccb18a83167d7d0ca8bc4c91deb4a327b3208da07a5476b489e"
+    "contentHash": "1453599d205fc7f2fc1af63298ab98d44dfa76d58c116eea4c43601b9f4b1f63"
   },
   {
     "id": "de6956704f732828",
