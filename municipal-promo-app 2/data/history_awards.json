@@ -17281,7 +17281,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-09-29T05:58:16+00:00"
+    "lastChecked": "2026-10-27T00:42:44+00:00"
   },
   {
     "dedupeKey": "a245f09fbaaaef8f3a4b920a3f8876d7b998b23814e779584f96b33d2ec0b52b",
@@ -29578,5 +29578,24 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-26T20:42:17+00:00"
+  },
+  {
+    "dedupeKey": "c04f8c820ca6dceebdd96fb349a2747e5006a85ff7cbabaa08aa4762cec37909",
+    "id": "award-5d550bf3468eb9a18ffbabda",
+    "municipalityCode": "262145",
+    "area": "近畿",
+    "region": "京都府",
+    "municipality": "木津川市",
+    "organization": "木津川市",
+    "title": "随意契約の公表(建設部及び水道事業分を除く)(平成25年3月31日締結分まで) (PDF, 180.87KB)",
+    "vendor": "であり、工事調整 等に関しても遅延なく行えるため 平成24年度 随意契約結果(建設部及び水道事業分を除く) 平成25年3月31日現在 2 / 3 ページ 担 当 課 契約の相手方 (",
+    "awardDate": "2012-05-16",
+    "year": 2012,
+    "sourceUrl": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/98/20130628-104727.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-27T00:42:28+00:00"
   }
 ]

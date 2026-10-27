@@ -4051,7 +4051,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"6aca5bba-83a4\"",
@@ -26413,7 +26413,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果（物品・委託契約）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -26431,7 +26431,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "以前の情報（入札結果 物品・委託契約）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -26449,7 +26449,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果（工事契約）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -26467,7 +26467,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "以前の情報（入札結果 工事契約）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -26485,7 +26485,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約一覧（物品・委託契約）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -26515,7 +26515,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約一覧（工事契約）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -27895,7 +27895,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "苫小牧市地域公共交通計画改訂業務　公募型プロポーザルの実施について【受託候補者を特定しました】",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"9b4c-65e28774bc1db\"",
@@ -27913,7 +27913,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "勇払 AI オンデマンド乗合タクシー実証運行業務　公募型プロポーザルの実施について【受託候補者を特定しました】",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"9aa9-65e28774bc9ab\"",
@@ -27933,8 +27933,8 @@
     ],
     "sourceType": "result",
     "title": "令和８年度ゼロカーボン支援コンサルティング事業委託業務に係る公募型プロポーザルの実施について【受託候補者を特定しました】",
-    "discoveryMethod": "result_archive_link",
-    "priority": 1,
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
     "active": true,
     "etag": "\"8823-65e2877bc8d75\"",
     "lastModified": "Mon, 19 Oct 2026 02:42:40 GMT",
@@ -27953,8 +27953,8 @@
     ],
     "sourceType": "result",
     "title": "苫小牧市子育て支援アプリ導入及び運用・保守業務に係る公募型プロポーザルの実施について　結果公表日：令和５年５月１５日（月）",
-    "discoveryMethod": "result_archive_link",
-    "priority": 1,
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
     "active": true,
     "etag": "\"8e24-65e2878015b1a\"",
     "lastModified": "Mon, 19 Oct 2026 02:42:45 GMT",
@@ -27971,8 +27971,8 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "医療介護保健に係る政策検討及び東胆振地域医療介護等広域連携ネットワーク構築支援業務　公募型プロポーザルの実施について【受託候補者を特定しました】",
-    "discoveryMethod": "result_archive_link",
-    "priority": 1,
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
     "active": true,
     "etag": "\"90c7-65e2878012852\"",
     "lastModified": "Mon, 19 Oct 2026 02:42:45 GMT",
@@ -41459,9 +41459,9 @@
     "municipalityCode": "094111",
     "url": "https://www.town.tochigi-nakagawa.lg.jp/manage/contents/upload/6a06a15f1720d.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:14+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:14+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:42+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "旧健武小学校貸付に関する公募型プロポーザル方式による選定結果について(pdf 68 KB)",
@@ -41477,9 +41477,9 @@
     "municipalityCode": "102083",
     "url": "https://www.city.shibukawa.lg.jp/manage/contents/upload/6875df39ca89a.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:16+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:16+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:44+00:00",
     "coveredYears": [
       2025
     ],
@@ -41497,9 +41497,9 @@
     "municipalityCode": "102083",
     "url": "https://www.city.shibukawa.lg.jp/manage/contents/upload/68e767602ed3f.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:17+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:17+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:45+00:00",
     "coveredYears": [
       2025
     ],
@@ -41517,9 +41517,9 @@
     "municipalityCode": "102083",
     "url": "https://www.city.shibukawa.lg.jp/manage/contents/upload/68e87575e3e91.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:18+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:18+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:46+00:00",
     "coveredYears": [
       2025
     ],
@@ -41537,9 +41537,9 @@
     "municipalityCode": "102083",
     "url": "https://www.city.shibukawa.lg.jp/manage/contents/upload/68e875c33a208.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:19+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:19+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:46+00:00",
     "coveredYears": [
       2025
     ],
@@ -41557,9 +41557,9 @@
     "municipalityCode": "102083",
     "url": "https://www.city.shibukawa.lg.jp/manage/contents/upload/695efbbb1c572.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:19+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:19+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:47+00:00",
     "coveredYears": [
       2025
     ],
@@ -41577,9 +41577,9 @@
     "municipalityCode": "102083",
     "url": "https://www.city.shibukawa.lg.jp/manage/contents/upload/6a50444e5433f.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:20+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:20+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:48+00:00",
     "coveredYears": [
       2026
     ],
@@ -41597,9 +41597,9 @@
     "municipalityCode": "102083",
     "url": "https://www.city.shibukawa.lg.jp/manage/contents/upload/6a50446da7274.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:21+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:21+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:49+00:00",
     "coveredYears": [
       2026
     ],
@@ -41617,109 +41617,109 @@
     "municipalityCode": "294268",
     "url": "https://www.town.koryo.nara.jp/0000005480.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:22+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:22+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:51+00:00",
     "coveredYears": [
       2022
     ],
     "sourceType": "result",
-    "title": "令和4年度　一般競争入札結果 [2023年3月1日]",
+    "title": "令和4年度　一般競争入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Mon, 28 Sep 2026 15:00:39 GMT",
-    "contentHash": "73a60288a11eef55d673facea0a2acac8e5f96cc1301b451d9f7d7afde309e5a"
+    "lastModified": "Mon, 26 Oct 2026 15:00:38 GMT",
+    "contentHash": "d2bb2e2f1267eaeb473f7780f247ee5394f7e3df357b282c51c0ccae7006f66f"
   },
   {
     "id": "70b63197d41fa1c7",
     "municipalityCode": "294268",
     "url": "https://www.town.koryo.nara.jp/0000006158.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:23+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:23+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:52+00:00",
     "coveredYears": [
       2023
     ],
     "sourceType": "result",
-    "title": "令和5年度　一般競争入札結果 [2023年12月14日]",
+    "title": "令和5年度　一般競争入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Mon, 28 Sep 2026 15:00:49 GMT",
-    "contentHash": "2b879d993b308c9e0a9bdc180a4add3112c3c3e94bf52c05175ac998ffdb0e5d"
+    "lastModified": "Mon, 26 Oct 2026 15:00:48 GMT",
+    "contentHash": "237b1862979c32ddc3c41052e6810944beed247fea548a1d92336f6d73ee0621"
   },
   {
     "id": "66a7d19ae9a8cf76",
     "municipalityCode": "294268",
     "url": "https://www.town.koryo.nara.jp/0000006856.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:23+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:23+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:52+00:00",
     "coveredYears": [
       2024
     ],
     "sourceType": "result",
-    "title": "令和6年度　一般競争入札結果 [2025年3月3日]",
+    "title": "令和6年度　一般競争入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Mon, 28 Sep 2026 15:01:11 GMT",
-    "contentHash": "b6fea7f4bb3057f461b5ba6848da2e11caea6eda2c0a0b8eee85c02378349bed"
+    "lastModified": "Mon, 26 Oct 2026 15:01:09 GMT",
+    "contentHash": "a840ee6c063a1f4f8d33720e510d177a014ee1955b29c577673603ec14e4a6bf"
   },
   {
     "id": "aced5c9b1106a518",
     "municipalityCode": "294268",
     "url": "https://www.town.koryo.nara.jp/0000007438.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:24+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:24+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:53+00:00",
     "coveredYears": [
       2025
     ],
     "sourceType": "result",
-    "title": "令和7年度　一般競争入札結果 [2025年8月26日]",
+    "title": "令和7年度　一般競争入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Mon, 28 Sep 2026 15:01:03 GMT",
-    "contentHash": "0ff34e0c501e2e6fef1a489589a7d34b4e96f80ba038037e314df07b11467614"
+    "lastModified": "Mon, 26 Oct 2026 15:01:01 GMT",
+    "contentHash": "4c829d698f6f7e40af202cf2e3e1496b9be39cad8cd5a888018f77b3eadb865e"
   },
   {
     "id": "f1f85888f02f1ddc",
     "municipalityCode": "294268",
     "url": "https://www.town.koryo.nara.jp/0000007941.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:24+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:24+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:54+00:00",
     "coveredYears": [
       2026
     ],
     "sourceType": "result",
-    "title": "令和8年度　一般競争入札結果 [2026年6月18日]",
+    "title": "令和8年度　一般競争入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Mon, 28 Sep 2026 15:01:07 GMT",
-    "contentHash": "0dd362487d3d2dd8f976812331b14815411bc47ad6730c30fe4a5250465a09a5"
+    "lastModified": "Mon, 26 Oct 2026 15:01:06 GMT",
+    "contentHash": "5ff2a76846b4ec78e490431b7b53a626c16b4c27c932d9567525e4a5bf4b6f82"
   },
   {
     "id": "18d77bc22d357e6c",
     "municipalityCode": "294268",
     "url": "https://www.town.koryo.nara.jp/0000004685.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-09-29T05:58:25+00:00",
+    "lastSuccessAt": "2026-10-27T00:42:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-02T05:58:25+00:00",
+    "nextCrawlAt": "2026-10-30T00:42:54+00:00",
     "coveredYears": [
       2021
     ],
@@ -41729,8 +41729,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Mon, 28 Sep 2026 15:00:55 GMT",
-    "contentHash": "ecce6c50648eb980e9ca93305b79eb20b474874a0b2ca975994e45bf8474e984"
+    "lastModified": "Mon, 26 Oct 2026 15:00:53 GMT",
+    "contentHash": "d371201d96d29dba93d227ed23b4624f26031d7e6655756275aa7eae24c37aec"
   },
   {
     "id": "f41065a26aea1d5a",
@@ -41744,7 +41744,7 @@
       2022
     ],
     "sourceType": "result",
-    "title": "令和4年度　指名競争入札結果 [2023年3月10日]",
+    "title": "令和4年度　指名競争入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
@@ -41764,7 +41764,7 @@
       2023
     ],
     "sourceType": "result",
-    "title": "令和5年度　指名競争入札結果 [2024年4月4日]",
+    "title": "令和5年度　指名競争入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
@@ -41784,7 +41784,7 @@
       2024
     ],
     "sourceType": "result",
-    "title": "令和6年度　指名競争入札結果 [2025年3月3日]",
+    "title": "令和6年度　指名競争入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
@@ -41804,7 +41804,7 @@
       2025
     ],
     "sourceType": "result",
-    "title": "令和7年度　指名競争入札結果 [2026年2月13日]",
+    "title": "令和7年度　指名競争入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
@@ -68889,120 +68889,161 @@
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/98/20130628-104727.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:28+00:00",
+    "coveredYears": [
+      2012,
+      2013
+    ],
     "sourceType": "result_pdf",
     "title": "随意契約の公表（建設部及び水道事業分を除く）（平成25年3月31日締結分まで） (PDF, 180.87KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Wed, 06 Aug 2025 00:10:24 GMT",
+    "contentHash": "b55ba132e9e45368d5dfe3a063581c2a41dc314629f6b48a29ee94d07b3596a8"
   },
   {
     "id": "23098e5a110e6e27",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/669/20170928-153934.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:29+00:00",
+    "coveredYears": [
+      2017
+    ],
     "sourceType": "result_pdf",
     "title": "マチオモイ部における随意契約結果(平成29年3月31日締結分まで) (PDF, 124.52KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 14 Aug 2025 06:55:11 GMT",
+    "contentHash": "78d44c5e21538fd7d0fd456b055da2055410ca34d751219227d8dd2427d908a5"
   },
   {
     "id": "fd6b0c7482e0065e",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/669/20180525-114610.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:30+00:00",
+    "coveredYears": [
+      2018
+    ],
     "sourceType": "result_pdf",
     "title": "マチオモイ部における随意契約結果(平成30年3月31日締結分まで) (PDF, 233.71KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 14 Aug 2025 06:55:10 GMT",
+    "contentHash": "e118c6ebbdb0c31089a4725d2cf5f5817805392135b26423fc3cd0b988eb7b4f"
   },
   {
     "id": "96ef49ec97c401b2",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/669/20190624-162516.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:31+00:00",
+    "coveredYears": [
+      2019
+    ],
     "sourceType": "result_pdf",
     "title": "マチオモイ部における随意契約結果（平成31年3月31日締結分まで） (PDF, 136.46KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 14 Aug 2025 06:55:10 GMT",
+    "contentHash": "af12aba3f2951aa4012750bcfdab882acb6f919bd98bb84e2ee87f142a460f0d"
   },
   {
     "id": "ca2b74f213db9ab4",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/669/20200618-172753.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:33+00:00",
+    "coveredYears": [
+      2020
+    ],
     "sourceType": "result_pdf",
     "title": "マチオモイ部における随意契約結果（令和2年3月31日締結分まで） (PDF, 203.82KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 14 Aug 2025 06:55:09 GMT",
+    "contentHash": "6dcde1eebbda3a3cb861d812323fcc5ad6ce140af2ab2a0e3b53622b13ad5d10"
   },
   {
     "id": "0e08d76c133d0aaf",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/669/20211004-111750.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:34+00:00",
+    "coveredYears": [
+      2021
+    ],
     "sourceType": "result_pdf",
     "title": "マチオモイ部における随意契約結果（令和3年3月1日締結分まで） (PDF, 211.27KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 14 Aug 2025 06:55:09 GMT",
+    "contentHash": "f4dc1fc89548a497862bebb127d5436be48de0e2d17c314ad80acdc8d0b035b8"
   },
   {
     "id": "779bfeda04a1324e",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/670/20250613-084503.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:35+00:00",
+    "coveredYears": [
+      2025
+    ],
     "sourceType": "result_pdf",
     "title": "企画戦略部における随意契約結果（令和7年2月28日締結分まで） (PDF, 215.06KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Wed, 30 Sep 2026 15:00:14 GMT",
+    "contentHash": "8ed7e4328145dbe2fd0459907760f140a169c7afb2e40c0a19cc97724ff162e3"
   },
   {
     "id": "2d745ee537cfd9f5",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/670/20260331.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:36+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "企画戦略部における随意契約の公表（令和8年3月31日締結分まで） (PDF, 215.98KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Wed, 30 Sep 2026 15:00:14 GMT",
+    "contentHash": "1d7d42dd8ba577ca295a2834dbdfc58c0f611a425f8b3b037a0886fd44f72b00"
   },
   {
     "id": "852d5e51ced18b88",
@@ -69024,45 +69065,60 @@
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/671/20140814-132549.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:36+00:00",
+    "coveredYears": [
+      2013
+    ],
     "sourceType": "result_pdf",
     "title": "市長公室における随意契約の公表（平成25年2月28日締結分まで） (PDF, 210.01KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 14 Aug 2025 07:06:06 GMT",
+    "contentHash": "9c8a1a15abde39ce7cbe80e9e27fe9a829e070c9a02fe6283b131148e64dabac"
   },
   {
     "id": "f4ac2fbf28a139d0",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/671/20150731-171652.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:37+00:00",
+    "coveredYears": [
+      2015
+    ],
     "sourceType": "result_pdf",
     "title": "市長公室における随意契約の公表（平成27年2月28日締結分まで） (PDF, 174.49KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 14 Aug 2025 07:06:05 GMT",
+    "contentHash": "f067323c777c37321233002b956307efb97269f9f849efdeae1c0bcddfd65b7f"
   },
   {
     "id": "adfe8d209c4edda9",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/671/20150731-171852.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:38+00:00",
+    "coveredYears": [
+      2015
+    ],
     "sourceType": "result_pdf",
     "title": "市長公室における随意契約の公表（平成27年5月31日締結分まで） (PDF, 162.31KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 14 Aug 2025 07:06:05 GMT",
+    "contentHash": "fded857a49db6500e2006c28183e11c09bb979bc6bb8ec4bc701ba8432e4322d"
   },
   {
     "id": "14b7556bcfb7aae4",
@@ -128726,74 +128782,99 @@
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/97/202608310.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:39+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "総務部における随意契約の公表（令和8年8月31日締結分まで） (PDF, 96.49KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Tue, 06 Oct 2026 00:13:40 GMT",
+    "contentHash": "807c7317b3ce0424592a1eab8a16df1cb7632348c2d57bfc522c33222ddfcd24"
   },
   {
     "id": "a515e0af81938b11",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/669/20240704-113413.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:39+00:00",
+    "coveredYears": [
+      2024
+    ],
     "sourceType": "result_pdf",
     "title": "マチオモイ部における随意契約結果（令和6年3月31日締結分まで） (PDF, 267.12KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 14 Aug 2025 06:55:03 GMT",
+    "contentHash": "16eefb06b24f1ff9ecad009cb4c9918e477abc82d3ebd7704dea912762c9e774"
   },
   {
     "id": "ab15c59adc9dd36d",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/669/20230630-171436.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:40+00:00",
+    "coveredYears": [
+      2023
+    ],
     "sourceType": "result_pdf",
     "title": "マチオモイ部における随意契約結果（令和5年3月1日締結分まで） (PDF, 241.67KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 14 Aug 2025 06:55:03 GMT",
+    "contentHash": "254da7766733b8b2a6ab9586141b9cb76aaf3423bed18eff9b55bc88517bdc64"
   },
   {
     "id": "fdd52736ae083c73",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/669/20211223-084333.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:40+00:00",
+    "coveredYears": [
+      2021
+    ],
     "sourceType": "result_pdf",
     "title": "マチオモイ部における随意契約結果（令和3年11月30日締結分まで） (PDF, 219.17KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Thu, 14 Aug 2025 06:55:05 GMT",
+    "contentHash": "e22dfaa32a7efb834d880f6c86739d7a7b3e4ffe543968cb5abe646b6a2a00f8"
   },
   {
     "id": "5bbf84f45e20f3a8",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/670/20261001.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-10-27T00:42:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-10-30T00:42:40+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "企画戦略部における随意契約の公表（令和8年8月31日締結分まで）_ (PDF, 199.82KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": null,
+    "lastModified": "Wed, 30 Sep 2026 15:00:14 GMT",
+    "contentHash": "0e40a7ac1f3dd6fd64d18fe3d71422a7b53287edebf74dcc9fcd41b8b6addc40"
   }
 ]
