@@ -1,22 +1,22 @@
 {
   "state": "completed",
-  "started_at": "2026-10-28T18:54:24+00:00",
-  "updated_at": "2026-10-28T19:04:25+00:00",
+  "started_at": "2026-10-28T23:17:18+00:00",
+  "updated_at": "2026-10-28T23:24:08+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
-    "count": 112,
+    "count": 111,
     "status": {
       "state": "completed",
-      "started_at": "2026-10-28T18:54:25+00:00",
-      "updated_at": "2026-10-28T18:54:30+00:00",
+      "started_at": "2026-10-28T23:17:18+00:00",
+      "updated_at": "2026-10-28T23:17:23+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
-      "count": 112,
+      "count": 111,
       "errors": [],
       "current_query": null,
-      "raw_hits_sum": 4573,
+      "raw_hits_sum": 4598,
       "lookback_days": 180,
       "cache_minutes": 30,
       "message": "APIから最新候補を取得しました。元公示は各案件リンクで確認してください。"
@@ -24,38 +24,38 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 82,
-    "failed": 18,
-    "sourcesAdded": 1,
-    "historySourcesAdded": 29
+    "succeeded": 75,
+    "failed": 25,
+    "sourcesAdded": 0,
+    "historySourcesAdded": 26
   },
   "direct": {
     "processed": 50,
-    "succeeded": 48,
-    "failed": 2,
-    "projects": 143,
+    "succeeded": 41,
+    "failed": 9,
+    "projects": 93,
     "unchanged": 13,
-    "historySourcesAdded": 170
+    "historySourcesAdded": 95
   },
   "history": {
     "processed": 30,
-    "succeeded": 29,
-    "failed": 1,
-    "awards": 2,
-    "documents": 88,
-    "unchanged": 7
+    "succeeded": 30,
+    "failed": 0,
+    "awards": 3,
+    "documents": 43,
+    "unchanged": 3
   },
   "statusNormalized": 0,
-  "historyLinkedProjects": 10,
+  "historyLinkedProjects": 32,
   "coverage": {
     "municipalities": 1788,
     "municipalitiesVisited": 1787,
     "municipalityCoverageRate": 99.9,
     "municipalitiesWithSources": 1485,
     "sources": 6914,
-    "projects": 4909,
-    "projectsWithDeadline": 1311,
-    "historySources": 7499,
+    "projects": 4940,
+    "projectsWithDeadline": 1330,
+    "historySources": 7506,
     "historyMunicipalities": 526,
     "historyAwards": 1592,
     "historyLinkedProjects": 533
@@ -66,14 +66,14 @@
     "municipalityCoverageRate": 99.9,
     "municipalitiesWithSources": 1485,
     "sources": 6914,
-    "projects": 4909,
-    "projectsWithDeadline": 1311,
-    "historySources": 7499,
+    "projects": 4940,
+    "projectsWithDeadline": 1330,
+    "historySources": 7506,
     "historyMunicipalities": 526,
     "historyAwards": 1592,
     "historyLinkedProjects": 533,
-    "officialDirectProjects": 3833,
-    "kkjPrimaryProjects": 1076
+    "officialDirectProjects": 3841,
+    "kkjPrimaryProjects": 1099
   },
   "errors": [],
   "message": "GitHub Actionsで全国自治体公式サイト・過去実績・官公需APIを分割収集しています。"
