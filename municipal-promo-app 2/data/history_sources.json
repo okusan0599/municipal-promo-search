@@ -25455,7 +25455,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -49233,17 +49233,17 @@
     "municipalityCode": "350001",
     "url": "https://www.pref.yamaguchi.lg.jp/soshiki/97/361527.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:47+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:47+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:00+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "県立美術館空調用ポンプ更新工事の入札結果について",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"558b-65cbc5f0dfbe2\"",
-    "lastModified": "Thu, 01 Oct 2026 00:19:38 GMT",
+    "etag": "\"558b-65ef14cdec7e5\"",
+    "lastModified": "Thu, 29 Oct 2026 02:18:50 GMT",
     "contentHash": "3cd93293a7f317cee8aa7d8efdac2c22d55f9631043d33a52feb99485cc162c3"
   },
   {
@@ -49401,9 +49401,9 @@
     "municipalityCode": "355020",
     "url": "https://www.town.abu.lg.jp/17368/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:48+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:48+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:01+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "2026年8月10日（月） お知らせ 洪水ハザードマップ作成業務 公募型プロポーザル結果について",
@@ -49412,16 +49412,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "aa4217fd99fe709e1622b7a263b6917c84e8695c7ca887933c15979d6d4b689a"
+    "contentHash": "614f429e2729b44f1280ef26d1f0ad41e90944f0de2fd86e8bd7bd7f7333890e"
   },
   {
     "id": "7d01ce126443be85",
     "municipalityCode": "355020",
     "url": "https://www.town.abu.lg.jp/17227/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:49+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:49+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:02+00:00",
     "coveredYears": [
       2026
     ],
@@ -49432,16 +49432,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "4f79cf4eac4fb0f5754f53b433ff6cc4ad9b8330c56b5bc0dee3277b9b0e2e54"
+    "contentHash": "12d79a83b16b7c57dad4cfcd069f9454452db2050d627ace145df23a99867d1d"
   },
   {
     "id": "c11fbea41efb211b",
     "municipalityCode": "355020",
     "url": "https://www.town.abu.lg.jp/17350/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:49+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:49+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:03+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "2026年7月31日（金） お知らせ 阿武町福賀地区 第一次産業の担い手確保のための 町営住宅建設事業プロポーザル審査結果について",
@@ -49450,16 +49450,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "be386c8d906e1a118ed9d32d4c269afed5349fbe1e4ea2dc4ece47b19b6edf54"
+    "contentHash": "fa6a031591261c9e302f870b62e917523f89a0df385ecfca8c54e0b390f058dd"
   },
   {
     "id": "563fcdc92d63265d",
     "municipalityCode": "121002",
     "url": "https://www.city.chiba.jp/business/hatchu/nyusatsujoho/kohyo/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:50+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:50+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:03+00:00",
     "coveredYears": [
       2008
     ],
@@ -49537,9 +49537,9 @@
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R7kekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:51+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:51+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:04+00:00",
     "coveredYears": [
       2019,
       2025
@@ -49550,17 +49550,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 01 Oct 2026 00:23:43 GMT",
-    "contentHash": "6ac7ecb149e4bbca638c9d2c0352fe323b27d6c27f1e58d7d88370a74c822bd2"
+    "lastModified": "Thu, 29 Oct 2026 02:00:12 GMT",
+    "contentHash": "ae8a79978157cd4a3ba312ab9b13659a33f21235c6149cb3f949b3928c915818"
   },
   {
     "id": "d4d736646ca352d0",
     "municipalityCode": "122076",
     "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R8kekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:51+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:51+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:05+00:00",
     "coveredYears": [
       2019,
       2026
@@ -49571,8 +49571,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 01 Oct 2026 00:23:43 GMT",
-    "contentHash": "89275dfb1157ca569dcb3f0fb2284210eab5b7596ace00b9b201629d1a2e9d65"
+    "lastModified": "Thu, 29 Oct 2026 02:00:12 GMT",
+    "contentHash": "2b326a29a7fa7f93c2b310967fdc4cad70778e1bfeb8e0a7fe7373782b09c748"
   },
   {
     "id": "7b9975cb1f228dd4",
@@ -49624,9 +49624,9 @@
     "municipalityCode": "122297",
     "url": "https://www.city.sodegaura.lg.jp/soshiki/kanzai/nyuusatukekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:52+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:52+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:06+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果を公表します",
@@ -49634,8 +49634,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 30 Sep 2026 20:01:18 GMT",
-    "contentHash": "04f0abef4f4eb8c52224ef15e32af1693b0e6378e5af253937eefff0d0c65d7b"
+    "lastModified": "Wed, 28 Oct 2026 20:00:37 GMT",
+    "contentHash": "63cf253194101a2bd4ae37eb60fc9ca3da6b1adaa6a60c7b0b51c5962ba28853"
   },
   {
     "id": "632c8568c8a7c22c",
@@ -49721,9 +49721,9 @@
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2018021500056/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:53+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:53+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:06+00:00",
     "coveredYears": [
       2017,
       2018
@@ -49742,9 +49742,9 @@
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2018042500059/file_contents/h31031520.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:54+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:54+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:07+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "コピー用紙購入（単価契約）[PDF：61.2KB]",
@@ -49760,9 +49760,9 @@
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2018042500059/file_contents/h31031506.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:54+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:54+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:08+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "国保多古中央病院感染性医療廃棄物処理業務委託（単価契約）[PDF：59.8KB]",
@@ -49778,9 +49778,9 @@
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2018042500059/file_contents/h31031507.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:55+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:55+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:08+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "寝具等賃貸借（長期継続契約） [PDF：55.1KB]",
@@ -49796,9 +49796,9 @@
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2018042500059/file_contents/h31031510.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:55+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:55+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:09+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "多古第一小学校（旧第二小学区）スクールバス運行管理業務委託（長期継続契約）[PDF：60.3KB]",
@@ -49814,9 +49814,9 @@
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2018042500059/file_contents/h31031516.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:56+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:56+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:09+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "水道用次亜塩素酸ナトリウム購入（単価契約）[PDF：61KB]",
@@ -49832,9 +49832,9 @@
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2019042300014/file_contents/r1031306.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:57+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:57+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:10+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "国保多古中央病院感染性医療廃棄物処理業務委託（単価契約）[PDF：61.2KB]",
@@ -49850,9 +49850,9 @@
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2019042300014/file_contents/r1031307.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:57+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:57+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:10+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "多古町病児保育施設機械警備業務委託（長期継続契約）[PDF：61.8KB]",
@@ -49868,9 +49868,9 @@
     "municipalityCode": "123471",
     "url": "https://www.town.tako.chiba.jp/docs/2019042300014/file_contents/r1031315.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:58+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:58+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:11+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "水道用次亜塩素酸ナトリウム購入（単価契約）[PDF：63.2KB]",
@@ -113473,9 +113473,9 @@
     "municipalityCode": "272302",
     "url": "https://www.city.katano.osaka.jp/docs/2026042800017/file_contents/800525.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:44+00:00",
+    "lastSuccessAt": "2026-10-29T02:39:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:44+00:00",
+    "nextCrawlAt": "2026-11-01T02:39:57+00:00",
     "coveredYears": [
       2026
     ],
@@ -113484,8 +113484,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab9c9ec-2821e\"",
-    "lastModified": "Mon, 28 Sep 2026 01:59:08 GMT",
+    "etag": "\"6ac5b5f7-2821e\"",
+    "lastModified": "Wed, 07 Oct 2026 03:01:11 GMT",
     "contentHash": "3bbfcdcf48bf2f52edfc32a80be955145edc58f227d2a1f4dbf4e7e58330f044"
   },
   {
@@ -113493,9 +113493,9 @@
     "municipalityCode": "272302",
     "url": "https://www.city.katano.osaka.jp/docs/2026042800017/file_contents/800625.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:45+00:00",
+    "lastSuccessAt": "2026-10-29T02:39:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:45+00:00",
+    "nextCrawlAt": "2026-11-01T02:39:57+00:00",
     "coveredYears": [
       2026
     ],
@@ -113504,8 +113504,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab9c9ec-259ac\"",
-    "lastModified": "Mon, 28 Sep 2026 01:59:08 GMT",
+    "etag": "\"6ac5b5f7-259ac\"",
+    "lastModified": "Wed, 07 Oct 2026 03:01:11 GMT",
     "contentHash": "924444475e63ada061e2c4cd950665f951bdc50ef06e32786c6148213b45dbd7"
   },
   {
@@ -113513,9 +113513,9 @@
     "municipalityCode": "272302",
     "url": "https://www.city.katano.osaka.jp/docs/2026042800017/file_contents/80428.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:46+00:00",
+    "lastSuccessAt": "2026-10-29T02:39:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:46+00:00",
+    "nextCrawlAt": "2026-11-01T02:39:58+00:00",
     "coveredYears": [
       2026
     ],
@@ -113524,8 +113524,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab9c9ec-433a9\"",
-    "lastModified": "Mon, 28 Sep 2026 01:59:08 GMT",
+    "etag": "\"6ac5b5f7-433a9\"",
+    "lastModified": "Wed, 07 Oct 2026 03:01:11 GMT",
     "contentHash": "6d2624f0fba19d3baf21a2c5cf2dec61595839d9ea9f55abe403e48d5fea9666"
   },
   {
@@ -113533,9 +113533,9 @@
     "municipalityCode": "272302",
     "url": "https://www.city.katano.osaka.jp/docs/2026042800017/file_contents/80724.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:46+00:00",
+    "lastSuccessAt": "2026-10-29T02:39:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:46+00:00",
+    "nextCrawlAt": "2026-11-01T02:39:59+00:00",
     "coveredYears": [
       2026
     ],
@@ -113544,8 +113544,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab9c9ec-3fb64\"",
-    "lastModified": "Mon, 28 Sep 2026 01:59:08 GMT",
+    "etag": "\"6ac5b5f8-3fb64\"",
+    "lastModified": "Wed, 07 Oct 2026 03:01:12 GMT",
     "contentHash": "7c9140a3ad045563db5c102b61b3ef33c8c72c7d73d317c051a682f4cba68ec1"
   },
   {
@@ -113553,9 +113553,9 @@
     "municipalityCode": "272302",
     "url": "https://www.city.katano.osaka.jp/docs/2026042800017/file_contents/80825.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T00:43:47+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T00:43:47+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:00+00:00",
     "coveredYears": [
       2026
     ],
@@ -113564,8 +113564,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab9c9ec-2811d\"",
-    "lastModified": "Mon, 28 Sep 2026 01:59:08 GMT",
+    "etag": "\"6ac5b5f8-2811d\"",
+    "lastModified": "Wed, 07 Oct 2026 03:01:12 GMT",
     "contentHash": "32740cd08e938a88e7e08b0b17a18c02c3dd49c15ba8e61e754e531b0c32dbe2"
   },
   {
@@ -113648,9 +113648,9 @@
     "municipalityCode": "423084",
     "url": "https://www.town.togitsu.nagasaki.jp/material/files/group/4/nyuusatsukekka-202608.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T07:20:32+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T07:20:32+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:12+00:00",
     "coveredYears": [
       2026
     ],
@@ -113661,7 +113661,7 @@
     "active": true,
     "etag": "\"6a94ce3e-6b03e\"",
     "lastModified": "Mon, 31 Aug 2026 00:43:42 GMT",
-    "contentHash": "8b6ef82c17dd10760fc31209c35ffa4b1c8b5bf5daa9bef65ccd07c69f04d947"
+    "contentHash": null
   },
   {
     "id": "acf0f17217dd5e86",
@@ -113728,9 +113728,9 @@
     "municipalityCode": "423084",
     "url": "https://www.town.togitsu.nagasaki.jp/material/files/group/4/nyuusatsukekka-202408_2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T07:20:33+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T07:20:33+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:12+00:00",
     "coveredYears": [
       2024
     ],
@@ -113741,7 +113741,7 @@
     "active": true,
     "etag": "\"66ce6d74-c8e70\"",
     "lastModified": "Wed, 28 Aug 2024 00:21:08 GMT",
-    "contentHash": "7d141b13d833536fd3937bf3fc03ae127d5ab312e1b52c21f590e916f536a315"
+    "contentHash": null
   },
   {
     "id": "253f01929900ee6e",
@@ -113808,9 +113808,9 @@
     "municipalityCode": "423084",
     "url": "https://www.town.togitsu.nagasaki.jp/material/files/group/4/nyuusatsukekka-202508.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T07:20:34+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T07:20:34+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:13+00:00",
     "coveredYears": [
       2025
     ],
@@ -113821,7 +113821,7 @@
     "active": true,
     "etag": "\"68afea8a-cfc38\"",
     "lastModified": "Thu, 28 Aug 2025 05:35:06 GMT",
-    "contentHash": "50f23c322b515d65e38c8c047d9d9977fe9675a4d08d6066c8f5110879e7ce13"
+    "contentHash": null
   },
   {
     "id": "bb8aa893e0fac49a",
@@ -113888,9 +113888,9 @@
     "municipalityCode": "423084",
     "url": "https://www.town.togitsu.nagasaki.jp/material/files/group/4/nyuusatsukekka-202308.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T07:20:36+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T07:20:36+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:13+00:00",
     "coveredYears": [
       2023
     ],
@@ -113901,61 +113901,61 @@
     "active": true,
     "etag": "\"64eda4a0-ffac8\"",
     "lastModified": "Tue, 29 Aug 2023 07:56:16 GMT",
-    "contentHash": "345e915234c66577983fe79b9032330d8240e7f6af0fb409a0b136ad878bb7e7"
+    "contentHash": null
   },
   {
     "id": "b7e96c616d16e7df",
     "municipalityCode": "272078",
     "url": "https://www.city.takatsuki.osaka.jp/site/nyusatsu-keiyaku/list40-213.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T07:20:37+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T07:20:37+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:15+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果（契約検査課発注の建設工事等）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"9a2d-65cc1fdf1b629\"",
-    "lastModified": "Thu, 01 Oct 2026 07:01:59 GMT",
-    "contentHash": "4d0ff4b532e914d95dd06b4e1d805686f627dc7fdd42a928e03f341f4a18f66c"
+    "etag": "\"99c4-65ef178062363\"",
+    "lastModified": "Thu, 29 Oct 2026 02:30:54 GMT",
+    "contentHash": "1f5f1ff26a66e6f669d0aea15aba6d52e73d9b5cdc32b21073b0ca4d65a626ba"
   },
   {
     "id": "83c48375e920f109",
     "municipalityCode": "272078",
     "url": "https://www.city.takatsuki.osaka.jp/site/nyusatsu-keiyaku/list40-214.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T07:20:38+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T07:20:38+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:15+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果（水道部発注の建設工事等）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"ac63-65cc1fdf2a472\"",
-    "lastModified": "Thu, 01 Oct 2026 07:01:59 GMT",
-    "contentHash": "a212a3d1a07dfc0806eecf863c54adc4eed12ebc0e1e6bc7cf642864025cbc3c"
+    "etag": "\"acfd-65ef17806e2cc\"",
+    "lastModified": "Thu, 29 Oct 2026 02:30:54 GMT",
+    "contentHash": "f26e34e2f2d2407c6537881f02a27d4e29f2aa3781e1bae580e7fc513363e39a"
   },
   {
     "id": "61cbc0e986d38a8b",
     "municipalityCode": "272078",
     "url": "https://www.city.takatsuki.osaka.jp/site/nyusatsu-keiyaku/list41-219.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T07:20:39+00:00",
+    "lastSuccessAt": "2026-10-29T02:40:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T07:20:39+00:00",
+    "nextCrawlAt": "2026-11-01T02:40:16+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果（契約検査課発注の物品）",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"a427-65cc1fdf720e6\"",
-    "lastModified": "Thu, 01 Oct 2026 07:01:59 GMT",
-    "contentHash": "2c9c932601f5c8f70025cf08534938d215c2491f87b2b8a468def0767543f5b5"
+    "etag": "\"a498-65ef1780b8e20\"",
+    "lastModified": "Thu, 29 Oct 2026 02:30:54 GMT",
+    "contentHash": "afcb50324dae05f19bdbcf579586f7932a300fbd2a372445de1150c0ea2d8420"
   },
   {
     "id": "8552bddbc27a54f3",
@@ -113968,7 +113968,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果（教育委員会発注の物品）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"a5dd-65cc1fdf8af58\"",
@@ -113986,7 +113986,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果（市長部局（契約検査課以外）発注の物品）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"8cb9-65cc1fdf7d497\"",
@@ -129241,7 +129241,7 @@
     ],
     "sourceType": "result",
     "title": "2026年10月27日（火） お知らせ 令和８年度阿武町ホームページリニューアル業務委託 公募型プロポーザル選定結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -129384,12 +129384,47 @@
     "municipalityCode": "272302",
     "url": "https://www.city.katano.osaka.jp/docs/2026042800017/file_contents/80925.pdf",
     "failureCount": 0,
+    "lastSuccessAt": "2026-10-29T02:39:56+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-11-01T02:39:56+00:00",
+    "coveredYears": [
+      2026
+    ],
+    "sourceType": "result_pdf",
+    "title": "令和8年9月25日入札結果[PDF：134KB]",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true,
+    "etag": "\"6ac5b5f8-21745\"",
+    "lastModified": "Wed, 07 Oct 2026 03:01:12 GMT",
+    "contentHash": "3ab1c1a90f0660b0d041a349534158700f1d3c8334172587718a9551c870cf3d"
+  },
+  {
+    "id": "9f3d88b47ad0ee1d",
+    "municipalityCode": "212024",
+    "url": "https://www.city.ogaki.lg.jp/0000071151.html",
+    "failureCount": 0,
     "lastSuccessAt": null,
     "lastFailureAt": null,
     "nextCrawlAt": null,
     "coveredYears": [],
-    "sourceType": "result_pdf",
-    "title": "令和8年9月25日入札結果[PDF：134KB]",
+    "sourceType": "result",
+    "title": "大垣西インターチェンジ周辺まちづくり事業調査業務委託に関するプロポーザルの結果公表について",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "253d6b7c5589b545",
+    "municipalityCode": "122076",
+    "url": "https://www.city.matsudo.chiba.jp/jigyosya/nyuusatu_keiyaku/kekka/R8kekka/R8-ippan-simo-sokury.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "令和8年度　下半期　一般競争入札結果（測量・コンサルタント）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true
