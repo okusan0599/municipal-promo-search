@@ -42529,9 +42529,9 @@
     "municipalityCode": "282073",
     "url": "https://www.city.itami.lg.jp/SOSIKI/SOMU/KEIYAKU/KEIYAKU/ITAKU_NYUSATU_KEKKA/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-02T00:58:27+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-05T00:58:27+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:35+00:00",
     "coveredYears": [
       2025
     ],
@@ -42540,18 +42540,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6abccc2b-b5dc\"",
-    "lastModified": "Wed, 30 Sep 2026 08:45:31 GMT",
-    "contentHash": "5be2761eb103d053bd6d17be54469697b275c5a34460c66e26e7fbcbf6eb0087"
+    "etag": "W/\"6ae2cb08-b5dc\"",
+    "lastModified": "Thu, 29 Oct 2026 04:26:48 GMT",
+    "contentHash": "717c13ba1f6fb80a9759d53c17a1676fe36146612759f648fed416217b077ceb"
   },
   {
     "id": "407853aa8fa25f0f",
     "municipalityCode": "282073",
     "url": "https://www.city.itami.lg.jp/SOSIKI/SOMU/KEIYAKU/KEIYAKU/KOZI_NYUSATU_KEKKA/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-02T00:58:28+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-05T00:58:28+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:36+00:00",
     "coveredYears": [
       2025
     ],
@@ -42560,9 +42560,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6abccc2b-b568\"",
-    "lastModified": "Wed, 30 Sep 2026 08:45:31 GMT",
-    "contentHash": "3816ca0fa5ee2a3ae3c597075750d8f448d1b9d79ca1eaee631042758e55bae0"
+    "etag": "W/\"6ae2cae8-b568\"",
+    "lastModified": "Thu, 29 Oct 2026 04:26:16 GMT",
+    "contentHash": "9d87fb569b4a3f882058e337c44a57dce7d28145465be84558f4c812b71c3b43"
   },
   {
     "id": "5f6dbc5c7dcd5b3d",
@@ -50615,7 +50615,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"6ae37a52-3032\"",
@@ -50627,9 +50627,9 @@
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/4801478.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:13+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:13+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:15+00:00",
     "coveredYears": [
       2020,
       2025,
@@ -50637,41 +50637,41 @@
     ],
     "sourceType": "result",
     "title": "令和7年度 入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6abeb504-7602\"",
-    "lastModified": "Thu, 01 Oct 2026 19:31:16 GMT",
-    "contentHash": "5b6b876fe7ddda9ee8327b74de49e9e9bb04026d41119982baf34dbe564ffabb"
+    "etag": "\"6ae3baab-754d\"",
+    "lastModified": "Thu, 29 Oct 2026 21:29:15 GMT",
+    "contentHash": "5e5210960fcc8af57736b36bcdcab94f4aca3e6edb15a1dc186d35f3258b90f3"
   },
   {
     "id": "1b514327ce58723f",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/4911175.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:14+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:14+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:16+00:00",
     "coveredYears": [
       2025
     ],
     "sourceType": "result",
     "title": "令和７年度（仮）防災センター新築工事基本・実施設計業務公募型プロポーザル審査会における審査結果（事業者特定）について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6abeb510-61ca\"",
-    "lastModified": "Thu, 01 Oct 2026 19:31:28 GMT",
-    "contentHash": "52e0f17eb8cc2391855014ea2c92e3fc696b2252432e593721384e81228a2c7d"
+    "etag": "\"6ae3bab8-6234\"",
+    "lastModified": "Thu, 29 Oct 2026 21:29:28 GMT",
+    "contentHash": "fd3160f7ae7e969b077b111c215ac4c86b1df87dfbfae80c3147ac9aa957dcba"
   },
   {
     "id": "09184580ab08ad79",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/4921139.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:14+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:14+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:16+00:00",
     "coveredYears": [
       2025
     ],
@@ -50680,81 +50680,81 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6abeb511-5e73\"",
-    "lastModified": "Thu, 01 Oct 2026 19:31:29 GMT",
-    "contentHash": "146269da940dbc2808ee4bb1440668354269b097252e35b4684b99295730c272"
+    "etag": "\"6ae3bac0-5eeb\"",
+    "lastModified": "Thu, 29 Oct 2026 21:29:36 GMT",
+    "contentHash": "8d672868514b0b662928185d606d6ba34a1abfaf87a2e3966e011ca7e134edc4"
   },
   {
     "id": "b430e0faa09e2ce6",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/5664124.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:15+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:15+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:17+00:00",
     "coveredYears": [
       2022,
       2026
     ],
     "sourceType": "result",
     "title": "令和8年度美波町グローバル人材育成業務　公募型プロポーザル審査結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6abeb54b-5c77\"",
-    "lastModified": "Thu, 01 Oct 2026 19:32:27 GMT",
-    "contentHash": "031fc5f9c20057812a8f8dd12166bc983d92faa3de3b3b651c08ea62e04bf05d"
+    "etag": "\"6ae3baf6-5c78\"",
+    "lastModified": "Thu, 29 Oct 2026 21:30:30 GMT",
+    "contentHash": "ef6d1be3cc514bb89b08563b7d0788d210de379a3569cf41ce1b73fbf9a7aa49"
   },
   {
     "id": "fbc3dc2cd6779697",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/5664226.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:16+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:16+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:18+00:00",
     "coveredYears": [
       2022,
       2026
     ],
     "sourceType": "result",
     "title": "令和8年度美波町「デュアルスクール」推進事業コーディネート・サポート強化業務公募型プロポーザル審査結果について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6abeb54c-5f71\"",
-    "lastModified": "Thu, 01 Oct 2026 19:32:28 GMT",
-    "contentHash": "09f5a5edd3a2c27d5788f7caff5baf8ec14b375addafec4a7bc9c7b4b1f1746e"
+    "etag": "\"6ae3baf7-5f8d\"",
+    "lastModified": "Thu, 29 Oct 2026 21:30:31 GMT",
+    "contentHash": "89a8ccd3d6c07cc52d4fdcd4c5c977af5e867fb80e7d714af67ebf1987724f2c"
   },
   {
     "id": "82fcf8bbb9468d93",
     "municipalityCode": "363871",
     "url": "https://www.town.minami.lg.jp/docs/6057777.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:16+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:16+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:18+00:00",
     "coveredYears": [
       2020,
       2026
     ],
     "sourceType": "result",
     "title": "令和8年度 入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6abeb58f-7564\"",
-    "lastModified": "Thu, 01 Oct 2026 19:33:35 GMT",
-    "contentHash": "cc5d03880a2e3c0a3a59cc9c4e4151e68ed109c9721c791bcc2235454606aa41"
+    "etag": "\"6ae3bb3c-7536\"",
+    "lastModified": "Thu, 29 Oct 2026 21:31:40 GMT",
+    "contentHash": "ff6cf99a6c2223e599fa11899a52a2ee7fda74b8557c53131900869537478506"
   },
   {
     "id": "89ea99692a4d0cab",
     "municipalityCode": "364029",
     "url": "https://www.town.kitajima.lg.jp/docs/4665639.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:19+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:19+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:20+00:00",
     "coveredYears": [
       2024,
       2025,
@@ -50762,21 +50762,21 @@
     ],
     "sourceType": "result",
     "title": "○入札結果に関すること（建設工事等）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6abec170-3bc4\"",
-    "lastModified": "Thu, 01 Oct 2026 20:24:16 GMT",
-    "contentHash": "8c3a16e5b726aec099c3094686516a8b6ac7570c960e716931bb927d06d9838d"
+    "etag": "\"6ae3b8a8-3c18\"",
+    "lastModified": "Thu, 29 Oct 2026 21:20:40 GMT",
+    "contentHash": "56df7bf155d88120af4c8b6bedc5f55c82393d5a96527eef6b61f92ee65be1c5"
   },
   {
     "id": "f7844bade0408294",
     "municipalityCode": "364029",
     "url": "https://www.town.kitajima.lg.jp/docs/5882084.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:19+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:19+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:21+00:00",
     "coveredYears": [
       2026
     ],
@@ -50785,18 +50785,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6abec1da-61e7\"",
-    "lastModified": "Thu, 01 Oct 2026 20:26:02 GMT",
-    "contentHash": "d0857fa9e9ddc5d88722638cf5392f60ece5b96a7119e41450b0f3fc0fe9b0be"
+    "etag": "\"6ae3b908-66b4\"",
+    "lastModified": "Thu, 29 Oct 2026 21:22:16 GMT",
+    "contentHash": "a72ac2a93f9bc500da1d270e50fff2fb988b479e95a19afe093663c7de875fab"
   },
   {
     "id": "fe94b1d7bcb3f49f",
     "municipalityCode": "364029",
     "url": "https://www.town.kitajima.lg.jp/docs/6078239.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:20+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:20+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:22+00:00",
     "coveredYears": [
       2026
     ],
@@ -50805,22 +50805,22 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6abec1e3-3d9d\"",
-    "lastModified": "Thu, 01 Oct 2026 20:26:11 GMT",
-    "contentHash": "bb9024fb11024f73f3438c94840182e568cb75acc78356da119f69c32029678b"
+    "etag": "\"6ae3b911-3c7f\"",
+    "lastModified": "Thu, 29 Oct 2026 21:22:25 GMT",
+    "contentHash": "4bf531682bbc52da84075171ed5fbd9e6f123b8f4129a6777ab42ce6bd877dab"
   },
   {
     "id": "e391f3f0e91f1c1d",
     "municipalityCode": "364894",
     "url": "https://www.town.higashimiyoshi.lg.jp/fs/1/7/6/1/9/3/_/627____.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:22+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:22+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:24+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "審査結果.pdf (PDF 129KB)",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"5d199e41-205be\"",
@@ -50838,7 +50838,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "1.【実施要項】(PDF 181KB)",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -50853,7 +50853,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "2.【仕様書】(PDF 185KB)",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -50868,7 +50868,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "3.【その他】提出書類作成要領(PDF 94KB)",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -50883,7 +50883,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "4.評価基準表.pdf (PDF 64.9KB)",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -50937,27 +50937,27 @@
     "municipalityCode": "364894",
     "url": "https://www.town.higashimiyoshi.lg.jp/docs/703312.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:23+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:23+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:25+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "東みよし町庁舎分館新築工事設計業務委託公募プロポーザル結果",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6abebe3d-462a\"",
-    "lastModified": "Thu, 01 Oct 2026 20:10:37 GMT",
-    "contentHash": "30bded1033825ece3642dbc2c442e13bfa018f4eb9afd15bf4d0161d48fbfab2"
+    "etag": "\"6ae3b5ab-467f\"",
+    "lastModified": "Thu, 29 Oct 2026 21:07:55 GMT",
+    "contentHash": "a8bae0ec5d3f21d0afdac078c94c313b45c68c566186cfb8372f7a7b1e42d53a"
   },
   {
     "id": "4de7ffb4e0c542d3",
     "municipalityCode": "364894",
     "url": "https://www.town.higashimiyoshi.lg.jp/docs/525.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:23+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:23+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:25+00:00",
     "coveredYears": [
       2018,
       2019,
@@ -50969,18 +50969,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6abebde9-de0b\"",
-    "lastModified": "Thu, 01 Oct 2026 20:09:13 GMT",
-    "contentHash": "6ff921e7e1f0be4bf6e51435e17a9accc9ed7a9f176b65a89ed2011b2e4507ac"
+    "etag": "\"6ae3b57a-df29\"",
+    "lastModified": "Thu, 29 Oct 2026 21:07:06 GMT",
+    "contentHash": "0128743aa62d23ec3e41546eee70d770a146a268285f82f744de1863d3c02e08"
   },
   {
     "id": "f4fc46cbcad39dcc",
     "municipalityCode": "364894",
     "url": "https://www.town.higashimiyoshi.lg.jp/docs/5802550.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:24+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:24+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:26+00:00",
     "coveredYears": [
       2026
     ],
@@ -50989,18 +50989,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6abebe18-4f69\"",
-    "lastModified": "Thu, 01 Oct 2026 20:10:00 GMT",
-    "contentHash": "c2734f8385ecd837d718bd89731ce8ee6746815ad9d852001d8c41c05a051b67"
+    "etag": "\"6ae3b58e-54de\"",
+    "lastModified": "Thu, 29 Oct 2026 21:07:26 GMT",
+    "contentHash": "c5d9d94348c93158b037dd4d45282531d6645452080c7691f4c2af1b79cc2125"
   },
   {
     "id": "b5a839786d880304",
     "municipalityCode": "372021",
     "url": "https://www.city.marugame.lg.jp/page/24362.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:25+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:25+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:27+00:00",
     "coveredYears": [
       2026
     ],
@@ -51010,17 +51010,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 01 Oct 2026 20:02:22 GMT",
-    "contentHash": "78d912a09aac69806d00711a040531b52ee505370b56b0e4803c9bde777798bc"
+    "lastModified": "Thu, 29 Oct 2026 21:02:21 GMT",
+    "contentHash": "09b12b0d9d6a2bd77795d453a7baf745501627a86ecb6969d531352d51a298bc"
   },
   {
     "id": "eb147bbf726d509d",
     "municipalityCode": "372021",
     "url": "https://www.city.marugame.lg.jp/page/24425.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:26+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:26+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:28+00:00",
     "coveredYears": [
       2026
     ],
@@ -51030,17 +51030,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 01 Oct 2026 20:02:22 GMT",
-    "contentHash": "b12d6b3db9ddeb42e6fdd1715f17632dab866da537d3646155c673c7e05caa48"
+    "lastModified": "Thu, 29 Oct 2026 21:02:21 GMT",
+    "contentHash": "89c9e5a3333509f6d82abd0579dc70b9f07fc3e57912fc580c8e90e84c15649d"
   },
   {
     "id": "03bff5d836d5ed95",
     "municipalityCode": "372021",
     "url": "https://www.city.marugame.lg.jp/page/3025.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:27+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:27+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:28+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "丸亀競走場ナイターレース照明用電力設備賃貸借に係る公募型プロポーザル選定結果書",
@@ -51048,17 +51048,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 01 Oct 2026 20:00:28 GMT",
-    "contentHash": "20cf1b465804802f2c6c1e382bb7dc7659f5b5fb178c0c5759552cd9633b889c"
+    "lastModified": "Thu, 29 Oct 2026 22:00:27 GMT",
+    "contentHash": "d1caeed522bdebe8c219565ead76ec76362f18e6b8db6ec9b7d32e77f3202c33"
   },
   {
     "id": "097b7889543ad3fc",
     "municipalityCode": "372021",
     "url": "https://www.city.marugame.lg.jp/page/34646.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:27+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:27+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:29+00:00",
     "coveredYears": [
       2025
     ],
@@ -51068,17 +51068,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 01 Oct 2026 20:02:10 GMT",
-    "contentHash": "da90559ce4d1db5608210039d4f7eb06a2e2b1cac6bf33b3c9dcaa3727720563"
+    "lastModified": "Thu, 29 Oct 2026 21:02:08 GMT",
+    "contentHash": "d087e3c69c1ddae48de35812952b8f9d9bc806e0e5698a2a96652e951b8c65b4"
   },
   {
     "id": "0e086780da68178d",
     "municipalityCode": "372021",
     "url": "https://www.city.marugame.lg.jp/page/35124.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:28+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:28+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:30+00:00",
     "coveredYears": [
       2025
     ],
@@ -51088,17 +51088,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 01 Oct 2026 20:02:16 GMT",
-    "contentHash": "32fb7330be12c6bf2dc9dc118cdca649b0d196ddb485534c33974ba6c828dc0d"
+    "lastModified": "Thu, 29 Oct 2026 21:02:14 GMT",
+    "contentHash": "3be093d79112ac40264ea13507745b899df7ae905ab8a9f8b8a13a10970c5686"
   },
   {
     "id": "ddef385c85eb84f7",
     "municipalityCode": "372021",
     "url": "https://www.city.marugame.lg.jp/page/43099.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:29+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:29+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:30+00:00",
     "coveredYears": [
       2026
     ],
@@ -51108,17 +51108,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 01 Oct 2026 20:02:28 GMT",
-    "contentHash": "1e901f8bc6bdbeaeffcf238cb77a0109b530687e3639005e754935bcac6313bc"
+    "lastModified": "Thu, 29 Oct 2026 21:02:34 GMT",
+    "contentHash": "7990e82dbfbf0f4f027636e30d72ca5c277b6f636402a1f5a34b5a52cd638db8"
   },
   {
     "id": "a07ad73a66adc404",
     "municipalityCode": "372021",
     "url": "https://www.city.marugame.lg.jp/page/43702.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:29+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:29+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:31+00:00",
     "coveredYears": [
       2026
     ],
@@ -51128,17 +51128,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 01 Oct 2026 20:02:29 GMT",
-    "contentHash": "ed5ac1a97fdd4d58ab74a97564cafe49866282d1dc838a658b3741c34b0e2b29"
+    "lastModified": "Thu, 29 Oct 2026 21:02:32 GMT",
+    "contentHash": "ffbf961c568a88adb4b9d40f929c6b6f38dbdacd7f7b834fc9715f4b95fabd77"
   },
   {
     "id": "d5a1f9088646f181",
     "municipalityCode": "372021",
     "url": "https://www.city.marugame.lg.jp/site/nihonjoseikaigi-marugame/43407.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:30+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:30+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:32+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "日本女性会議2027丸亀大会ホームページ制作等業務委託に係る公募型プロポーザルの審査結果",
@@ -51146,17 +51146,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 01 Oct 2026 20:02:22 GMT",
-    "contentHash": "dd2ded24cdd60866703c8f43ef83269b2f7c3f7ce42941e88abf16390e51022a"
+    "lastModified": "Thu, 29 Oct 2026 21:02:20 GMT",
+    "contentHash": "d84b73a90361090ececf4fe41fb33e5e5ee4d748008b17e1a93e8dbb15aab6fc"
   },
   {
     "id": "12464b65984e1ddc",
     "municipalityCode": "372048",
     "url": "https://www.city.zentsuji.kagawa.jp/site/nyuusatu-keiyakujyouhou/tokuteizuiikeiyaku.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:32+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:32+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:33+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "特定随意契約の発注見通し及び契約結果の公表",
@@ -51164,17 +51164,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 01 Oct 2026 20:01:08 GMT",
-    "contentHash": "12570fef771c72e2e5763e1d1d6b88744971577c06e643eb401a679482f6f61d"
+    "lastModified": "Thu, 29 Oct 2026 22:00:43 GMT",
+    "contentHash": "1fedf772eca9ed6474d3c0d8200d374732b9cf3d156bef246dc29c96631dbc37"
   },
   {
     "id": "470633751efc1a51",
     "municipalityCode": "372056",
     "url": "https://www.city.kanonji.kagawa.jp/life/13/87/289/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:33+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:33+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:34+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札・契約結果",
@@ -51182,8 +51182,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 01 Oct 2026 20:30:36 GMT",
-    "contentHash": "e11d5ec8c03f125c8e00925d559785c1ba5a085c50ba01766ddc7e4fa36e85c0"
+    "lastModified": "Thu, 29 Oct 2026 22:00:39 GMT",
+    "contentHash": "b42b8da565e4fd3bbe4b8f1c6178c78d3e0bbcd622511c7d2705558eb99ac92d"
   },
   {
     "id": "450cd6539123f042",
@@ -51236,7 +51236,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "建設工事等の入札結果　建設工事（総務部総務課）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -51254,7 +51254,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "建設工事等の入札結果　測量・建設コンサル等（総務部総務課）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -75510,7 +75510,7 @@
       2020
     ],
     "sourceType": "result",
-    "title": "令和２年度北島町建設工事等入札結果",
+    "title": "令和2年度北島町建設工事等入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
@@ -75530,7 +75530,7 @@
       2021
     ],
     "sourceType": "result",
-    "title": "令和３年度北島町建設工事等入札結果",
+    "title": "令和3年度北島町建設工事等入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
@@ -75550,7 +75550,7 @@
       2022
     ],
     "sourceType": "result",
-    "title": "令和４年度北島町建設工事等入札結果",
+    "title": "令和4年度北島町建設工事等入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
@@ -75570,7 +75570,7 @@
       2023
     ],
     "sourceType": "result",
-    "title": "令和５年度北島町建設工事等入札結果",
+    "title": "令和5年度北島町建設工事等入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
@@ -75590,7 +75590,7 @@
       2024
     ],
     "sourceType": "result",
-    "title": "令和６年度北島町建設工事等入札結果",
+    "title": "令和6年度北島町建設工事等入札結果",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
@@ -114514,9 +114514,9 @@
     "municipalityCode": "064289",
     "url": "https://www.town.shonai.lg.jp/kanko/events/furawashow/norin0220241121180518685.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:10+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:10+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:12+00:00",
     "coveredYears": [
       2025
     ],
@@ -114525,9 +114525,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"118746-721b-65cc20a54bbc0\"",
-    "lastModified": "Thu, 01 Oct 2026 07:05:27 GMT",
-    "contentHash": "aaba1463462a220834044d63d76ed3fe658611285806a7c238f39fbe1333f9ec"
+    "etag": "\"118752-72cd-65d134940a8c0\"",
+    "lastModified": "Mon, 05 Oct 2026 08:01:15 GMT",
+    "contentHash": "e015ac99f6cb06e8ccfa77b64d3b8a27051f99915b194a85fca0f0b62e1d931b"
   },
   {
     "id": "0e3da170458142c9",
@@ -114774,17 +114774,17 @@
     "municipalityCode": "064289",
     "url": "https://www.town.shonai.lg.jp/business/nyusatsu/kekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-01T20:33:11+00:00",
+    "lastSuccessAt": "2026-10-29T22:02:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-04T20:33:11+00:00",
+    "nextCrawlAt": "2026-11-01T22:02:14+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"9bc29-5020-65ccd47a04200\"",
-    "lastModified": "Thu, 01 Oct 2026 20:30:00 GMT",
+    "etag": "\"9bdd2-5020-65f01cd0c3800\"",
+    "lastModified": "Thu, 29 Oct 2026 22:00:00 GMT",
     "contentHash": "2039e3aedcac224653b9599014d91d037c4f84e4318afb62c971dfe6faef0ab8"
   },
   {
@@ -129668,5 +129668,147 @@
     "etag": null,
     "lastModified": "Thu, 29 Oct 2026 01:00:39 GMT",
     "contentHash": "9464530b6e676c7e8746f6e5a6acd4c3e4fcb7dcaf378ac7978957a7fc4ee18d"
+  },
+  {
+    "id": "d4aaaf830e3d0425",
+    "municipalityCode": "172049",
+    "url": "https://www.city.wajima.ishikawa.jp/article/2026032600016/file_contents/260918_kouji-zuikei.pdf",
+    "failureCount": 1,
+    "lastSuccessAt": null,
+    "lastFailureAt": "2026-10-29T22:02:07+00:00",
+    "nextCrawlAt": "2026-10-30T10:02:07+00:00",
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "随意契約結果及び契約の内容（門前西部エリア整備工事／260918）[PDF：58.7KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "lastError": "HTTPSConnectionPool(host='www.city.wajima.ishikawa.jp', port=443): Max retries exceeded with url: /article/2026032600016/file_contents/260918_kouji-zuikei.pdf (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.city.wajima.ishikawa.jp', port=443) at 0x7fca46228e30>, 'Connection to www.city.wajima.ishikawa.jp timed out. (connect timeout=12)'))"
+  },
+  {
+    "id": "438d4032806881e5",
+    "municipalityCode": "172049",
+    "url": "https://www.city.wajima.ishikawa.jp/article/2026032600016/file_contents/261007_kouji-zuikei.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-29T22:02:08+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-11-01T22:02:08+00:00",
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "随意契約結果及び契約の内容（門前西部エリア整備工事／261007）[PDF：54.7KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "\"6ae04887-daa0\"",
+    "lastModified": "Tue, 27 Oct 2026 06:45:27 GMT",
+    "contentHash": "22b2351d39ba1a1c02bfd998f659bb70c16244849319c70a583d6a6999b49783"
+  },
+  {
+    "id": "c650c81904047782",
+    "municipalityCode": "172049",
+    "url": "https://www.city.wajima.ishikawa.jp/article/2026032600016/file_contents/261015_kouji-zuikei.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-10-29T22:02:09+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-11-01T22:02:09+00:00",
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "随意契約結果及び契約の内容（輪島西部エリア整備工事／261015）[PDF：220KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "\"6ae04885-370e9\"",
+    "lastModified": "Tue, 27 Oct 2026 06:45:25 GMT",
+    "contentHash": "92ec88f22a1de196d375abb26473f6a857e89e2fed894a44e59a8d103fde72bc"
+  },
+  {
+    "id": "b081a4101262bfe8",
+    "municipalityCode": "363871",
+    "url": "https://www.town.minami.lg.jp/docs/2056247.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "令和2年度 入札結果",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "0b7bad3e59176282",
+    "municipalityCode": "363871",
+    "url": "https://www.town.minami.lg.jp/docs/2353609.html",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "令和4年度 入札結果",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "d546983433681c0b",
+    "municipalityCode": "364894",
+    "url": "https://www.town.higashimiyoshi.lg.jp/fs/6/4/3/9/7/7/_/%E4%BB%A4%E5%92%8C8%E5%B9%B410%E6%9C%8827%E6%97%A5%E9%96%8B%E6%9C%AD%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8(%E4%BC%81%E7%94%BB%E8%AA%B2).pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年10月27日開札入札結果表(企画課) (PDF 146KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "c5cafd3b6e2acb1d",
+    "municipalityCode": "364894",
+    "url": "https://www.town.higashimiyoshi.lg.jp/fs/6/4/3/4/5/6/_/%E4%BB%A4%E5%92%8C8%E5%B9%B410%E6%9C%8819%E6%97%A5%E9%96%8B%E6%9C%AD%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8(%E5%85%A5%E6%9C%AD%E5%BE%8C%E5%AF%A9%E6%9F%BB%E6%96%B9%E5%BC%8F%E4%B8%80%E8%88%AC%E7%AB%B6%E4%BA%89%E5%85%A5%E6%9C%AD(%E7%B7%8F%E5%90%88%E8%A9%95%E4%BE%A1%E8%90%BD%E6%9C%AD%E6%96%B9%E5%BC%8F)).pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年10月19日開札入札結果表(入札後審査方式一般競争入札(総合評価落札方式)) (PDF 130KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "f09a07955aa5fd31",
+    "municipalityCode": "364894",
+    "url": "https://www.town.higashimiyoshi.lg.jp/fs/6/4/2/9/8/9/_/%E4%BB%A4%E5%92%8C8%E5%B9%B410%E6%9C%8814%E6%97%A5%E9%96%8B%E6%9C%AD%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8(%E5%BB%BA%E8%A8%AD%E8%AA%B2%E3%83%BB%E5%AD%A6%E6%A0%A1%E6%95%99%E8%82%B2%E8%AA%B2).pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年10月14日開札入札結果表(建設課・学校教育課) (PDF 187KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "855332fa7c5f2bbd",
+    "municipalityCode": "372021",
+    "url": "https://www.city.marugame.lg.jp/uploaded/attachment/28764.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "8月契約締結分 [PDFファイル／87KB]",
+    "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
   }
 ]
