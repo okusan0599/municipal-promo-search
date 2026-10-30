@@ -20045,7 +20045,7 @@
     "dentsuCategoryLabels": [
       "コンサル・戦略策定"
     ],
-    "lastChecked": "2026-10-02T00:58:50+00:00"
+    "lastChecked": "2026-10-30T02:11:33+00:00"
   },
   {
     "dedupeKey": "b8d1a37d9d5742c4058b704e8fe1daf10b3fbc635d6c33045ebf4903244232fd",
@@ -20070,7 +20070,7 @@
       "コンサル・戦略策定",
       "観光・地域ブランディング"
     ],
-    "lastChecked": "2026-10-02T00:58:50+00:00"
+    "lastChecked": "2026-10-30T02:11:34+00:00"
   },
   {
     "dedupeKey": "58f55d4d5e5925cd6decaa90aad670ef6f1512e91970824335a7068274b531fc",
@@ -29965,5 +29965,24 @@
       "Web・アプリ・デジタルサービス"
     ],
     "lastChecked": "2026-10-29T22:02:18+00:00"
+  },
+  {
+    "dedupeKey": "b0417e77baf33fff2087c8277107209ad9bbf51c0932d713646435cda10b20a0",
+    "id": "award-21b3e738ee3ed1693e97cc8b",
+    "municipalityCode": "364894",
+    "area": "四国",
+    "region": "徳島県",
+    "municipality": "東みよし町",
+    "organization": "東みよし町",
+    "title": "納入場所 履行期限(予定) 物品価格",
+    "vendor": "第 1 回 入 札 金 額 (消費税含まず) 年度 入 札 結 果 表 主 幹 課 ~ 物品番号",
+    "awardDate": "2026-10-27",
+    "year": 2026,
+    "sourceUrl": "https://www.town.higashimiyoshi.lg.jp/fs/6/4/3/9/7/7/_/%E4%BB%A4%E5%92%8C8%E5%B9%B410%E6%9C%8827%E6%97%A5%E9%96%8B%E6%9C%AD%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E8%A1%A8(%E4%BC%81%E7%94%BB%E8%AA%B2).pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-10-30T02:11:07+00:00"
   }
 ]
