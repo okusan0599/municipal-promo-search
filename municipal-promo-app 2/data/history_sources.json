@@ -29360,7 +29360,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札・契約結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -29380,7 +29380,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（物品購入・業務委託）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"6ad85d9b-d4bc\"",
@@ -29505,7 +29505,7 @@
     ],
     "sourceType": "result",
     "title": "令和8年度　入札結果（建設工事等）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"8832-65e94dcbbff19\"",
@@ -29539,9 +29539,9 @@
       2023
     ],
     "sourceType": "result",
-    "title": "令和5年度",
-    "discoveryMethod": "procurement_page",
-    "priority": 3,
+    "title": "令和5年度　入札結果（物品入札）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true,
     "etag": "\"8840-65cf1c2ccfe3d\"",
     "lastModified": "Sat, 03 Oct 2026 16:01:25 GMT",
@@ -29559,9 +29559,9 @@
       2023
     ],
     "sourceType": "result",
-    "title": "令和5年度",
-    "discoveryMethod": "procurement_page",
-    "priority": 3,
+    "title": "令和5年度　入札結果（建設工事等）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true,
     "etag": "\"8aa4-65cf1c2d844ba\"",
     "lastModified": "Sat, 03 Oct 2026 16:01:26 GMT",
@@ -29579,9 +29579,9 @@
       2024
     ],
     "sourceType": "result",
-    "title": "令和6年度",
-    "discoveryMethod": "procurement_page",
-    "priority": 3,
+    "title": "令和6年度　入札結果（物品入札）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true,
     "etag": "\"86dc-65cf1c3201211\"",
     "lastModified": "Sat, 03 Oct 2026 16:01:30 GMT",
@@ -29599,9 +29599,9 @@
       2024
     ],
     "sourceType": "result",
-    "title": "令和6年度",
-    "discoveryMethod": "procurement_page",
-    "priority": 3,
+    "title": "令和6年度　入札結果（建設工事等）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true,
     "etag": "\"8aec-65cf1c33f64f4\"",
     "lastModified": "Sat, 03 Oct 2026 16:01:32 GMT",
@@ -29619,9 +29619,9 @@
       2025
     ],
     "sourceType": "result",
-    "title": "令和7年度",
-    "discoveryMethod": "procurement_page",
-    "priority": 3,
+    "title": "令和7年度　入札結果（物品入札）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true,
     "etag": "\"88c0-65cf1c3cec123\"",
     "lastModified": "Sat, 03 Oct 2026 16:01:42 GMT",
@@ -40402,7 +40402,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "与謝野町地域こどもの生活支援強化事業委託業務要領（PDF形式：148KB）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -40417,7 +40417,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "【仕様書】与謝野町地域こどもの生活支援強化事業委託業務（PDF形式：140KB）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -55930,9 +55930,9 @@
     "municipalityCode": "012149",
     "url": "https://www.city.wakkanai.hokkaido.jp/files/00019000/00019006/r07-koujikekka-070617.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:53:55+00:00",
+    "lastSuccessAt": "2026-10-31T22:41:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:53:55+00:00",
+    "nextCrawlAt": "2026-11-03T22:41:54+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "一覧",
@@ -55948,9 +55948,9 @@
     "municipalityCode": "012149",
     "url": "https://www.city.wakkanai.hokkaido.jp/files/00016200/00016284/r04-koujikekka-040412.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:53:57+00:00",
+    "lastSuccessAt": "2026-10-31T22:41:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:53:57+00:00",
+    "nextCrawlAt": "2026-11-03T22:41:55+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "一覧",
@@ -55966,9 +55966,9 @@
     "municipalityCode": "012149",
     "url": "https://www.city.wakkanai.hokkaido.jp/files/00016200/00016284/r04-koujikekka-040419.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:53:57+00:00",
+    "lastSuccessAt": "2026-10-31T22:41:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:53:57+00:00",
+    "nextCrawlAt": "2026-11-03T22:41:55+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "一覧",
@@ -55984,9 +55984,9 @@
     "municipalityCode": "012149",
     "url": "https://www.city.wakkanai.hokkaido.jp/files/00016200/00016284/r04-koujikekka-040426.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:53:58+00:00",
+    "lastSuccessAt": "2026-10-31T22:41:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:53:58+00:00",
+    "nextCrawlAt": "2026-11-03T22:41:56+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "一覧",
@@ -56002,9 +56002,9 @@
     "municipalityCode": "012149",
     "url": "https://www.city.wakkanai.hokkaido.jp/files/00016200/00016284/r04-koujikekka-040517.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:53:58+00:00",
+    "lastSuccessAt": "2026-10-31T22:41:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:53:58+00:00",
+    "nextCrawlAt": "2026-11-03T22:41:57+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "一覧",
@@ -56020,9 +56020,9 @@
     "municipalityCode": "012149",
     "url": "https://www.city.wakkanai.hokkaido.jp/files/00016200/00016284/r04-koujikekka-040524.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:53:59+00:00",
+    "lastSuccessAt": "2026-10-31T22:41:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:53:59+00:00",
+    "nextCrawlAt": "2026-11-03T22:41:57+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "一覧",
@@ -56038,9 +56038,9 @@
     "municipalityCode": "151009",
     "url": "https://www.city.niigata.lg.jp/business/keiyaku/keiyaku_top/buppin-kekka/gyoumuitakukekka07.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:00+00:00",
+    "lastSuccessAt": "2026-10-31T22:41:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:00+00:00",
+    "nextCrawlAt": "2026-11-03T22:41:58+00:00",
     "coveredYears": [
       2025
     ],
@@ -56051,16 +56051,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 02 Oct 2026 07:58:46 GMT",
-    "contentHash": "8230680a1a619110bc517c7a808aea8d6c4aa049dfc95bd5f8d68dd25207bb70"
+    "contentHash": null
   },
   {
     "id": "6df56e16626cf996",
     "municipalityCode": "151009",
     "url": "https://www.city.niigata.lg.jp/business/keiyaku/keiyaku_top/buppin-kekka/itakukanendo/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:01+00:00",
+    "lastSuccessAt": "2026-10-31T22:41:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:01+00:00",
+    "nextCrawlAt": "2026-11-03T22:41:59+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "業務委託入札・契約結果（過年度）",
@@ -56068,7 +56068,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 03 Oct 2026 11:00:05 GMT",
+    "lastModified": "Sat, 31 Oct 2026 19:01:01 GMT",
     "contentHash": "6a7a8e5f2c075c8e2edd398d98bb8aa876b36a83bcf448f3ff2023f238b73c48"
   },
   {
@@ -56076,9 +56076,9 @@
     "municipalityCode": "151009",
     "url": "https://www.city.niigata.lg.jp/business/keiyaku/keiyaku_top/buppin-kekka/keiyaku20150702.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:02+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:02+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:00+00:00",
     "coveredYears": [
       2009
     ],
@@ -56089,16 +56089,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 02 Oct 2026 07:58:46 GMT",
-    "contentHash": "a892a0d11f5943676e2531424d5a3994f7fd18e7870962c0fa6de730dbfe327e"
+    "contentHash": null
   },
   {
     "id": "098076bbe918d95c",
     "municipalityCode": "151009",
     "url": "https://www.city.niigata.lg.jp/business/keiyaku/keiyaku_top/buppin-kekka/keiyaku2024.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:02+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:02+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:01+00:00",
     "coveredYears": [
       2024
     ],
@@ -56109,16 +56109,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 02 Oct 2026 07:58:46 GMT",
-    "contentHash": "439b49a502c627828eedadf2df96d19f10a1d26b52033842c5e08bff90cd5bcd"
+    "contentHash": null
   },
   {
     "id": "7c42cb3dd80b524e",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/sangyo_business/nyusatsu_keiyaku/buppinkonyu_gyomuitaku/2/42508.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:03+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:03+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:03+00:00",
     "coveredYears": [
       2024,
       2025
@@ -56128,18 +56128,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a881132-1f662\"",
-    "lastModified": "Fri, 21 Aug 2026 08:49:54 GMT",
-    "contentHash": null
+    "etag": "\"6ae1b9e1-1f65e\"",
+    "lastModified": "Wed, 28 Oct 2026 09:01:21 GMT",
+    "contentHash": "292197da318b41cd97a3e088ad2f9c974dc8c1d36b614e811571371496cc30fa"
   },
   {
     "id": "f27d8bdc63572a39",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/sangyo_business/nyusatsu_keiyaku/buppinkonyu_gyomuitaku/2/45501.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:04+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:04+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:04+00:00",
     "coveredYears": [
       2025,
       2026
@@ -56149,18 +56149,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a8811bc-fb57\"",
-    "lastModified": "Fri, 21 Aug 2026 08:52:12 GMT",
-    "contentHash": null
+    "etag": "\"6ae1ba73-fb53\"",
+    "lastModified": "Wed, 28 Oct 2026 09:03:47 GMT",
+    "contentHash": "d9bbad619ee97796ca392e7aa18b811914eda9822378d98139303c2e50f378b8"
   },
   {
     "id": "d307ea74c5ef1014",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/sangyo_business/nyusatsu_keiyaku/buppinkonyu_gyomuitaku/2/46912.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:05+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:05+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:05+00:00",
     "coveredYears": [
       2025
     ],
@@ -56169,18 +56169,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a881215-db86\"",
-    "lastModified": "Fri, 21 Aug 2026 08:53:41 GMT",
-    "contentHash": null
+    "etag": "\"6ae1bad3-db82\"",
+    "lastModified": "Wed, 28 Oct 2026 09:05:23 GMT",
+    "contentHash": "987ea90bb7732630bf12da44b1a1f5fc06d4eef3d63e637b9f8d48cb04b441df"
   },
   {
     "id": "05130a6a8144a756",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/sangyo_business/nyusatsu_keiyaku/buppinkonyu_gyomuitaku/2/47192.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:06+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:06+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:06+00:00",
     "coveredYears": [
       2025
     ],
@@ -56189,18 +56189,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a881226-dc51\"",
-    "lastModified": "Fri, 21 Aug 2026 08:53:58 GMT",
-    "contentHash": null
+    "etag": "\"6ae1baf6-dc4d\"",
+    "lastModified": "Wed, 28 Oct 2026 09:05:58 GMT",
+    "contentHash": "bdd42530e6ce3c8566ed11789cc07bc8d14d758026ed8ab52288553bda0c49f7"
   },
   {
     "id": "b79c9b8c37b2d3d0",
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/sangyo_business/nyusatsu_keiyaku/buppinkonyu_gyomuitaku/2/47222.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:07+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:07+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:07+00:00",
     "coveredYears": [
       2025
     ],
@@ -56209,54 +56209,54 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6a88122b-da4c\"",
-    "lastModified": "Fri, 21 Aug 2026 08:54:03 GMT",
-    "contentHash": null
+    "etag": "\"6ae1bafb-da48\"",
+    "lastModified": "Wed, 28 Oct 2026 09:06:03 GMT",
+    "contentHash": "2e2eedf7ee03004c21578e4b7685a4eb836decd5abb4c5fb11036a7da0a2c635"
   },
   {
     "id": "43608abe68661a04",
     "municipalityCode": "152081",
     "url": "https://www.city.ojiya.niigata.jp/life/4/20/390/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:08+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:08+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:08+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果（物品入札）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"5b39-65cee3001cc39\"",
-    "lastModified": "Sat, 03 Oct 2026 11:45:37 GMT",
-    "contentHash": "9f7ca4d660cbdcf03452d02dc8ea01d478768dd18c0716e97c71aed2ecf7d832"
+    "etag": "\"5c6a-65f2a75e270ac\"",
+    "lastModified": "Sat, 31 Oct 2026 22:30:31 GMT",
+    "contentHash": "d2653534532ce4a5af96546375e05d9821094f81fa4bf3eb9fba71d514938251"
   },
   {
     "id": "a262cee42868d749",
     "municipalityCode": "152081",
     "url": "https://www.city.ojiya.niigata.jp/life/4/20/70/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:09+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:09+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:09+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果（建設工事等）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"5b6b-65cee30010505\"",
-    "lastModified": "Sat, 03 Oct 2026 11:45:37 GMT",
-    "contentHash": "9e3cf79794c4a9dfc717ac16cae8cd1c36e16c1c06754261b52fe43ddb657665"
+    "etag": "\"5c9d-65f2a75e1d857\"",
+    "lastModified": "Sat, 31 Oct 2026 22:30:31 GMT",
+    "contentHash": "6f6771e820c843b1e5f9682d5458501c9cab65fa200cae8f1afdbd59a3078624"
   },
   {
     "id": "b5d66638ff73f730",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/soshiki/zaimuka/nyusatsu_keiyaku/nyusatsu_kekka/10051.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:10+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:10+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:11+00:00",
     "coveredYears": [
       2022,
       2023
@@ -56266,18 +56266,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6aabb473-13964\"",
-    "lastModified": "Thu, 17 Sep 2026 09:35:47 GMT",
-    "contentHash": "28099b54068820a4eb24e08730320e2f95b09db694e3f00008a2ca7e856339c1"
+    "etag": "\"6ad9a310-13962\"",
+    "lastModified": "Thu, 22 Oct 2026 05:45:52 GMT",
+    "contentHash": "2acc74a501d42cffa2aeb91ff4e59bec102382aa7c4e0b774244033142cd6d19"
   },
   {
     "id": "dc439676c6cf1ac4",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/soshiki/zaimuka/nyusatsu_keiyaku/nyusatsu_kekka/11326.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:11+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:11+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:12+00:00",
     "coveredYears": [
       2023,
       2024
@@ -56287,18 +56287,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6aabb4b9-13354\"",
-    "lastModified": "Thu, 17 Sep 2026 09:36:57 GMT",
-    "contentHash": "55949155c8d9ddebccddde78332859e7c473896676f58e26fee95900240eac96"
+    "etag": "\"6ad9a339-13352\"",
+    "lastModified": "Thu, 22 Oct 2026 05:46:33 GMT",
+    "contentHash": "8b803b94ee99b36792ebfdea0aa991aeba32f5bbcd5dea51512ccb75ec3ad2fe"
   },
   {
     "id": "bf273c25c8148ce8",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/soshiki/zaimuka/nyusatsu_keiyaku/nyusatsu_kekka/12837.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T11:54:13+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T11:54:13+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:14+00:00",
     "coveredYears": [
       2024,
       2025
@@ -56308,18 +56308,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6aabb512-10c28\"",
-    "lastModified": "Thu, 17 Sep 2026 09:38:26 GMT",
-    "contentHash": "e979eff7261866c374a14829df796ef61710930f4ed3ed8dd3da7b808058f829"
+    "etag": "\"6ad9a374-10c26\"",
+    "lastModified": "Thu, 22 Oct 2026 05:47:32 GMT",
+    "contentHash": "7e0954b1adb36c9ea0154359b91624a00d31f08378f60ed6cdee148b117cbc47"
   },
   {
     "id": "ec032ca835e9d8e6",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/soshiki/zaimuka/nyusatsu_keiyaku/nyusatsu_kekka/14319.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T16:37:44+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T16:37:44+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:20+00:00",
     "coveredYears": [
       2025,
       2026
@@ -56329,18 +56329,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6aabb55e-10a9a\"",
-    "lastModified": "Thu, 17 Sep 2026 09:39:42 GMT",
-    "contentHash": "fee3e7d82ae5887baa75c43c07dcc7eff2a5fe102d8e420e044b38c581b8b687"
+    "etag": "\"6ad9a3a2-10a98\"",
+    "lastModified": "Thu, 22 Oct 2026 05:48:18 GMT",
+    "contentHash": "1f3a01acd849a8ace0bcb63ec00c2c1e691936df0134fdb8cd74aabfc8d9bdb6"
   },
   {
     "id": "92327d89c9a1ca0a",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/soshiki/zaimuka/nyusatsu_keiyaku/nyusatsu_kekka/15716.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T16:37:46+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T16:37:46+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:21+00:00",
     "coveredYears": [
       2026
     ],
@@ -56349,18 +56349,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6abdedc7-ec9c\"",
-    "lastModified": "Thu, 01 Oct 2026 05:21:11 GMT",
-    "contentHash": "0176dcc17aae2703980cb011941edc18d5885cc349d136ffda4798675959a41a"
+    "etag": "\"6ae2c997-f1d7\"",
+    "lastModified": "Thu, 29 Oct 2026 04:20:39 GMT",
+    "contentHash": "d59c6fd245e2a2cab3a7a45c3a84f0882239a584dafe66a87c43045ad54a71e7"
   },
   {
     "id": "d1f514141bff9e65",
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/list116.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T16:37:47+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T16:37:47+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:23+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
@@ -56368,7 +56368,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 03 Oct 2026 16:04:28 GMT",
+    "lastModified": "Sat, 31 Oct 2026 22:04:14 GMT",
     "contentHash": "b87528b5e4e8ae63367378505c4647f90c90b6b45b88fe2e068fa438580faaee"
   },
   {
@@ -56376,9 +56376,9 @@
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/54316.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T16:37:48+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T16:37:48+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:24+00:00",
     "coveredYears": [
       2023
     ],
@@ -56388,7 +56388,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 03 Oct 2026 16:02:17 GMT",
+    "lastModified": "Sat, 31 Oct 2026 22:02:07 GMT",
     "contentHash": "c6241434c8812c93999fad3012af4d30e8d9907232f3c2456bce41b29881b384"
   },
   {
@@ -56396,9 +56396,9 @@
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/55657.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T16:37:49+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T16:37:49+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:25+00:00",
     "coveredYears": [
       2023
     ],
@@ -56408,7 +56408,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 03 Oct 2026 16:02:19 GMT",
+    "lastModified": "Sat, 31 Oct 2026 22:02:09 GMT",
     "contentHash": "9e5d5e98606225c23bbace2afcefbe914db66a22d33631e48f1486fe10f66c02"
   },
   {
@@ -56416,9 +56416,9 @@
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/56897.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T16:37:51+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T16:37:51+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:26+00:00",
     "coveredYears": [
       2023
     ],
@@ -56428,7 +56428,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 03 Oct 2026 16:02:22 GMT",
+    "lastModified": "Sat, 31 Oct 2026 22:02:12 GMT",
     "contentHash": "c6debbe0d45bde19d3dcd9e2b3a979af22cdf1fb25c7d289a77278da53aec0a3"
   },
   {
@@ -56436,9 +56436,9 @@
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/58464.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T16:37:52+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T16:37:52+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:27+00:00",
     "coveredYears": [
       2023
     ],
@@ -56448,7 +56448,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 03 Oct 2026 16:02:24 GMT",
+    "lastModified": "Sat, 31 Oct 2026 22:02:14 GMT",
     "contentHash": "2b77d32f0f7783db7c5541b04ac7d0d134e2b1dfe679b45094623b4b522f7fe7"
   },
   {
@@ -56456,9 +56456,9 @@
     "municipalityCode": "452025",
     "url": "https://www.city.miyakonojo.miyazaki.jp/site/keiyaku/59920.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T16:37:53+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T16:37:53+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:28+00:00",
     "coveredYears": [
       2023,
       2024
@@ -56469,7 +56469,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 03 Oct 2026 16:02:27 GMT",
+    "lastModified": "Sat, 31 Oct 2026 22:02:17 GMT",
     "contentHash": "5e8013f8471a0d9952b8ea3f2228a7e3d6bcf9e114a9a20c6e78f40d06f10630"
   },
   {
@@ -118096,9 +118096,9 @@
     "municipalityCode": "264652",
     "url": "https://www.town.yosano.lg.jp/parenting/child-and-single-parent-welfare/child-welfare/entry_1232/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T16:37:34+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T16:37:34+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:15+00:00",
     "coveredYears": [
       2027
     ],
@@ -118108,26 +118108,26 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Mon, 28 Sep 2026 23:30:03 GMT",
-    "contentHash": "dc158e4acadf24ea8c28f40581b653486b68fc7e8510f7bb3c7d9b27da677dd6"
+    "lastModified": "Wed, 28 Oct 2026 05:04:41 GMT",
+    "contentHash": "31fb23ca7f2aeec386efb688bd98ac96892473c2e9ff396aab2d9d6a89e7f01d"
   },
   {
     "id": "31fe4255b0af082d",
     "municipalityCode": "222241",
     "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/nyuusatsukekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-03T16:37:36+00:00",
+    "lastSuccessAt": "2026-10-31T22:42:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-06T16:37:36+00:00",
+    "nextCrawlAt": "2026-11-03T22:42:19+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果公表",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"60ae-65c344fc74bfe\"",
-    "lastModified": "Thu, 24 Sep 2026 06:00:06 GMT",
-    "contentHash": "b2fda436f772f360ecad75afe5b98136eacdc19dc42a9e08ed320623668e0344"
+    "etag": "\"6201-65edc1594d053\"",
+    "lastModified": "Wed, 28 Oct 2026 01:00:08 GMT",
+    "contentHash": "b37fd4563f13901e3897608f715cbd2b868f8e2e3d99695c89345f0cc75d6999"
   },
   {
     "id": "0507ac73389c6d1b",
@@ -131398,5 +131398,140 @@
     "etag": "\"1fa61-65dc1361b7034\"",
     "lastModified": "Tue, 13 Oct 2026 23:31:18 GMT",
     "contentHash": "0b39fe41f66e40b77bef9c20855666ea44ae08ee1100ad3bff50922da1ddb694"
+  },
+  {
+    "id": "e64528020a6e62f8",
+    "municipalityCode": "012301",
+    "url": "https://www.city.noboribetsu.lg.jp/docs/2026070100011/file_contents/tenpo.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "一覧はこちら[PDF：86.4KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "80c400fb5a009b44",
+    "municipalityCode": "222241",
+    "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/kami1002.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年10月2日執行紙入札結果（PDF：60KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "44a31cee36d19d34",
+    "municipalityCode": "222241",
+    "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/kami1014.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年10月14日紙執行入札結果（PDF：74KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "00b7cd3a9201e1f0",
+    "municipalityCode": "222241",
+    "url": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/kami1027.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年10月27日紙執行入札結果（PDF：75KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "387f386197569e8b",
+    "municipalityCode": "152234",
+    "url": "https://www.city.agano.niigata.jp/material/files/group/6/20261015kekka.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年10月15日執行分 (PDFファイル: 173.2KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "4a0b9837b5c62ae9",
+    "municipalityCode": "152234",
+    "url": "https://www.city.agano.niigata.jp/material/files/group/6/result261029.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年10月29日執行分 (PDFファイル: 200.7KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "8637f466dc3e54c8",
+    "municipalityCode": "152234",
+    "url": "https://www.city.agano.niigata.jp/material/files/group/6/result261028.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年10月28日執行分 (PDFファイル: 81.0KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "af562dbe482522a8",
+    "municipalityCode": "152234",
+    "url": "https://www.city.agano.niigata.jp/material/files/group/6/result261022.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年10月22日執行分 (PDFファイル: 518.3KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "2b0b126ee2a7ce44",
+    "municipalityCode": "152234",
+    "url": "https://www.city.agano.niigata.jp/material/files/group/6/result261021.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年10月21日執行分 (PDFファイル: 134.2KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
   }
 ]
