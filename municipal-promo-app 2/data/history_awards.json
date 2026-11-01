@@ -20250,7 +20250,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-10-03T16:38:15+00:00"
+    "lastChecked": "2026-11-01T02:29:54+00:00"
   },
   {
     "dedupeKey": "0344259af840bfa5084ffe51ea870d492592b8830d8b5af6b0c05d298dac7412",
@@ -33934,5 +33934,62 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-10-31T07:12:23+00:00"
+  },
+  {
+    "dedupeKey": "323fc12c1b69daa930a8ca145c6f0b6aa521b999b0eb951b7a73899ed7f408c9",
+    "id": "award-3b7630ef4d60b35c04cd070b",
+    "municipalityCode": "222241",
+    "area": "東海",
+    "region": "静岡県",
+    "municipality": "菊川市",
+    "organization": "菊川市",
+    "title": "令和8年10月2日執行紙入札結果(PDF:60KB)",
+    "vendor": "入札価格×10/100) \\66,000 契 約 金 額 \\726,000 入札番号",
+    "awardDate": "2026-10-02",
+    "year": 2026,
+    "sourceUrl": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/kami1002.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-11-01T02:29:15+00:00"
+  },
+  {
+    "dedupeKey": "803877b3e19a7b6090baae548066d88aea16125554a1c88c1b4f406fd112a1a1",
+    "id": "award-7e0321400e2a82a7d15f9852",
+    "municipalityCode": "222241",
+    "area": "東海",
+    "region": "静岡県",
+    "municipality": "菊川市",
+    "organization": "菊川市",
+    "title": "令和8年10月14日紙執行入札結果(PDF:74KB)",
+    "vendor": "入札価格×10/100) \\75,800 契 約 金 額 \\833,800 入札番号",
+    "awardDate": "2026-10-14",
+    "year": 2026,
+    "sourceUrl": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/kami1014.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-11-01T02:29:15+00:00"
+  },
+  {
+    "dedupeKey": "35d0e09fd517da32a24336dcc96e90bfe8d223109d276a0ebfeb97f482f8c285",
+    "id": "award-d4c6b4384e3acbb20f9a5821",
+    "municipalityCode": "222241",
+    "area": "東海",
+    "region": "静岡県",
+    "municipality": "菊川市",
+    "organization": "菊川市",
+    "title": "令和8年10月27日紙執行入札結果(PDF:75KB)",
+    "vendor": "入札価格×10/100) \\68,100 契 約 金 額 \\749,100 入札番号",
+    "awardDate": "2026-10-27",
+    "year": 2026,
+    "sourceUrl": "https://www.city.kikugawa.shizuoka.jp/zaisei/documents/kami1027.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-11-01T02:29:16+00:00"
   }
 ]
