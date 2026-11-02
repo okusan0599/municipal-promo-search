@@ -1,15 +1,15 @@
 {
   "state": "completed",
-  "started_at": "2026-11-02T07:44:54+00:00",
-  "updated_at": "2026-11-02T07:54:41+00:00",
+  "started_at": "2026-11-02T18:29:54+00:00",
+  "updated_at": "2026-11-02T18:39:38+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 111,
     "status": {
       "state": "completed",
-      "started_at": "2026-11-02T07:44:55+00:00",
-      "updated_at": "2026-11-02T07:45:00+00:00",
+      "started_at": "2026-11-02T18:29:55+00:00",
+      "updated_at": "2026-11-02T18:30:00+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
@@ -24,29 +24,29 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 82,
-    "failed": 18,
-    "sourcesAdded": 1,
-    "historySourcesAdded": 15
+    "succeeded": 86,
+    "failed": 14,
+    "sourcesAdded": 0,
+    "historySourcesAdded": 31
   },
   "direct": {
     "processed": 50,
-    "succeeded": 45,
-    "failed": 5,
-    "projects": 136,
-    "unchanged": 2,
-    "historySourcesAdded": 137
+    "succeeded": 43,
+    "failed": 7,
+    "projects": 177,
+    "unchanged": 14,
+    "historySourcesAdded": 107
   },
   "history": {
     "processed": 30,
-    "succeeded": 29,
-    "failed": 1,
-    "awards": 0,
-    "documents": 16,
-    "unchanged": 23
+    "succeeded": 30,
+    "failed": 0,
+    "awards": 1,
+    "documents": 45,
+    "unchanged": 3
   },
   "statusNormalized": 0,
-  "historyLinkedProjects": 4,
+  "historyLinkedProjects": 0,
   "coverage": {
     "municipalities": 1788,
     "municipalitiesVisited": 1787,
@@ -55,7 +55,7 @@
     "sources": 6916,
     "projects": 5052,
     "projectsWithDeadline": 1384,
-    "historySources": 7663,
+    "historySources": 7664,
     "historyMunicipalities": 529,
     "historyAwards": 1811,
     "historyLinkedProjects": 541
@@ -68,7 +68,7 @@
     "sources": 6916,
     "projects": 5052,
     "projectsWithDeadline": 1384,
-    "historySources": 7663,
+    "historySources": 7664,
     "historyMunicipalities": 529,
     "historyAwards": 1811,
     "historyLinkedProjects": 541,
