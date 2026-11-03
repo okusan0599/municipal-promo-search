@@ -16848,7 +16848,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -60825,9 +60825,9 @@
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p013319.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-04T23:24:30+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-07T23:24:30+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:35+00:00",
     "coveredYears": [
       2023
     ],
@@ -60836,18 +60836,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"611e4e93b54dd1:0\"",
-    "lastModified": "Sun, 04 Oct 2026 20:06:59 GMT",
-    "contentHash": "694748090b091c032c897efd1f498c2c0c2b9e18ea583f265ff2bd67ab65bf3c"
+    "etag": "\"79c0c19ed6add1:0\"",
+    "lastModified": "Mon, 02 Nov 2026 17:10:45 GMT",
+    "contentHash": "8d82d871ece0152e3930654ecc71a2413b800395267b3d3c908b7f089ff09455"
   },
   {
     "id": "bee680429dff6dca",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p014161.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-04T23:24:31+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-07T23:24:31+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:36+00:00",
     "coveredYears": [
       2024
     ],
@@ -60856,18 +60856,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"e2984daa4054dd1:0\"",
-    "lastModified": "Sun, 04 Oct 2026 20:41:00 GMT",
-    "contentHash": "927acf51717b367125fb5fa7552dabff88affaaedc4ef56afbd466dffb64e64b"
+    "etag": "\"ee7e9123ef6add1:0\"",
+    "lastModified": "Mon, 02 Nov 2026 17:25:21 GMT",
+    "contentHash": "6def64a388a57940395f08a1ff6d87c107901672770fdfb95ef937339625c58c"
   },
   {
     "id": "08cd82cd659daaf6",
     "municipalityCode": "182087",
     "url": "https://www.city.awara.lg.jp/mokuteki/industry/industry01/industry0103/p015022.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-04T23:24:32+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-07T23:24:32+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:39+00:00",
     "coveredYears": [
       2025
     ],
@@ -60876,9 +60876,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"12be73bb4554dd1:0\"",
-    "lastModified": "Sun, 04 Oct 2026 21:17:16 GMT",
-    "contentHash": "96d192fbb8440073bef930ef7bdacc651e3c801711dfbcd98a754cc664b6fe64"
+    "etag": "\"c58b7645f16add1:0\"",
+    "lastModified": "Mon, 02 Nov 2026 17:40:37 GMT",
+    "contentHash": "84bae08ed4287d721fb49ad0f65e5398ec63859342c03a171b1da37c36ed2fbc"
   },
   {
     "id": "c369b18c65260129",
@@ -61005,9 +61005,9 @@
     "municipalityCode": "072109",
     "url": "https://www.city.nihonmatsu.lg.jp/shigoto_sangyo/nyu_keiyaku/nyu_kekka/n_kekka_buppin_r7/page012986.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-04T23:24:33+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-07T23:24:33+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:40+00:00",
     "coveredYears": [
       2025
     ],
@@ -61025,9 +61025,9 @@
     "municipalityCode": "072109",
     "url": "https://www.city.nihonmatsu.lg.jp/shigoto_sangyo/nyu_keiyaku/nyu_kekka/n_kekka_buppin_r7/page013049.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-04T23:24:34+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-07T23:24:34+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:41+00:00",
     "coveredYears": [
       2025
     ],
@@ -61045,9 +61045,9 @@
     "municipalityCode": "072109",
     "url": "https://www.city.nihonmatsu.lg.jp/shigoto_sangyo/nyu_keiyaku/nyu_kekka/n_kekka_buppin_r7/page013123.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-04T23:24:36+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-07T23:24:36+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:41+00:00",
     "coveredYears": [
       2025
     ],
@@ -61065,9 +61065,9 @@
     "municipalityCode": "072109",
     "url": "https://www.city.nihonmatsu.lg.jp/shigoto_sangyo/nyu_keiyaku/nyu_kekka/n_kekka_buppin_r8/page013968.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-04T23:24:37+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-07T23:24:37+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:42+00:00",
     "coveredYears": [
       2026
     ],
@@ -61078,16 +61078,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "906cc83feb05e0bab441d28cb94d8869f1a3ce28b5591567f993853f978e801d"
+    "contentHash": "f79ce965a6867b645f0d7c980881605d9b5109a87b3b88f26cd29f29698ec2ac"
   },
   {
     "id": "818d19ce69a4406e",
     "municipalityCode": "072109",
     "url": "https://www.city.nihonmatsu.lg.jp/shigoto_sangyo/nyu_keiyaku/nyu_kekka/n_kekka_buppin_r8/page014070.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:34+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:34+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:45+00:00",
     "coveredYears": [
       2026
     ],
@@ -61098,16 +61098,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "c4b34f86e4ba39ba1f0d1bd85997f58cfcf42bde1bcdab880095efe1c9d84faa"
+    "contentHash": "5e2428415e3d14dbee2ba697dd9f1dcb6e9eb36b48428e7ebd492ffa1d8cab5b"
   },
   {
     "id": "add8592eb120f6f8",
     "municipalityCode": "072109",
     "url": "https://www.city.nihonmatsu.lg.jp/shigoto_sangyo/nyu_keiyaku/nyu_kekka/n_kekka_ekimu_r7/page012936.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:35+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:35+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:46+00:00",
     "coveredYears": [
       2025
     ],
@@ -61125,9 +61125,9 @@
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1730159149_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:37+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:37+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:47+00:00",
     "coveredYears": [
       2024
     ],
@@ -61145,9 +61145,9 @@
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1730159153_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:38+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:38+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:48+00:00",
     "coveredYears": [
       2024
     ],
@@ -61165,9 +61165,9 @@
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1731645178_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:39+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:39+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:48+00:00",
     "coveredYears": [
       2024
     ],
@@ -61185,9 +61185,9 @@
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1731645182_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:40+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:40+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:49+00:00",
     "coveredYears": [
       2024
     ],
@@ -61205,9 +61205,9 @@
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1734574578_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:41+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:41+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:50+00:00",
     "coveredYears": [
       2024
     ],
@@ -61225,9 +61225,9 @@
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1749455411_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:42+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:42+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:50+00:00",
     "coveredYears": [
       2025
     ],
@@ -61245,9 +61245,9 @@
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1754529860_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:43+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:43+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:51+00:00",
     "coveredYears": [
       2025
     ],
@@ -61265,9 +61265,9 @@
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1754529868_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:44+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:44+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:51+00:00",
     "coveredYears": [
       2025
     ],
@@ -61285,9 +61285,9 @@
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1754529864_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:45+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:45+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:52+00:00",
     "coveredYears": [
       2025
     ],
@@ -61305,9 +61305,9 @@
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1756873172_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:46+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:46+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:52+00:00",
     "coveredYears": [
       2025
     ],
@@ -61325,9 +61325,9 @@
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1776733912_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:47+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:47+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:53+00:00",
     "coveredYears": [
       2025
     ],
@@ -61336,18 +61336,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"163e0-6596f111cc21c\"",
-    "lastModified": "Wed, 19 Aug 2026 23:50:23 GMT",
-    "contentHash": null
+    "etag": "\"163e0-65e2ea2df13e3\"",
+    "lastModified": "Mon, 19 Oct 2026 10:04:14 GMT",
+    "contentHash": "6bafa9c53c5148c1dc82c82dbd7e6ab25cf488b7d2f8090de6edf5abbffd41e6"
   },
   {
     "id": "b2b1d7176173c853",
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1785389871_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:47+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:47+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:54+00:00",
     "coveredYears": [
       2026
     ],
@@ -61356,18 +61356,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"4de18-6596f111cc21c\"",
-    "lastModified": "Wed, 19 Aug 2026 23:50:23 GMT",
-    "contentHash": null
+    "etag": "\"4de18-65e2ea2df13e3\"",
+    "lastModified": "Mon, 19 Oct 2026 10:04:14 GMT",
+    "contentHash": "6b6d4564dd405d8f3bdedba05fcea4f2871e9e7903f42ec599dc3008dd5a9ec7"
   },
   {
     "id": "7ed47331a57ae661",
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1785389882_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:48+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:48+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:55+00:00",
     "coveredYears": [
       2026
     ],
@@ -61376,18 +61376,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"551df-6596f111cc21c\"",
-    "lastModified": "Wed, 19 Aug 2026 23:50:23 GMT",
-    "contentHash": null
+    "etag": "\"551df-65e2ea2df17cb\"",
+    "lastModified": "Mon, 19 Oct 2026 10:04:14 GMT",
+    "contentHash": "93f443ffd1e4bc35c865c3cceccd77de61e67c6430aa65044ebbb496dd0271cd"
   },
   {
     "id": "94a130ccea67f2c1",
     "municipalityCode": "074641",
     "url": "https://www.vill.izumizaki.fukushima.jp/data/doc/1786585955_doc_10_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:49+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:49+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:55+00:00",
     "coveredYears": [
       2026
     ],
@@ -61396,18 +61396,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"16eff-6596f111cc21c\"",
-    "lastModified": "Wed, 19 Aug 2026 23:50:23 GMT",
-    "contentHash": null
+    "etag": "\"16eff-65e2ea2df17cb\"",
+    "lastModified": "Mon, 19 Oct 2026 10:04:14 GMT",
+    "contentHash": "00de8af581084bf30e28cf03777ae4de31675fd81622f9b2ec51d760ef40c767"
   },
   {
     "id": "15ef09093d14e7a5",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/files/00010200/00010231/%E4%BB%A4%E5%92%8C5%E5%B9%B44%E6%9C%8825%E6%97%A5%E2%91%A1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:51+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:51+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:57+00:00",
     "coveredYears": [
       2023
     ],
@@ -61425,9 +61425,9 @@
     "municipalityCode": "473251",
     "url": "https://www.town.kadena.okinawa.jp/info/n9051.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:53+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:53+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:58+00:00",
     "coveredYears": [
       2026
     ],
@@ -61437,8 +61437,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 13 Sep 2026 01:05:55 GMT",
-    "contentHash": "911d6d00ce53c894e23d3fa28eecf15d0291457d5ea8c9828551176f612a6567"
+    "lastModified": "Thu, 08 Oct 2026 05:19:00 GMT",
+    "contentHash": "941f6db3422aa1f8e15739d13809730d0efdc10f8f26d9426ecb8419f5a2bf6d"
   },
   {
     "id": "3d9b6ddcd4b20629",
@@ -61505,9 +61505,9 @@
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/files/00011000/00011087/04231430.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:54+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:54+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:59+00:00",
     "coveredYears": [
       2024
     ],
@@ -118995,9 +118995,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa6nyusatsu/Zaimu0120250305132.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:29+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:29+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:43+00:00",
     "coveredYears": [
       2025
     ],
@@ -119007,17 +119007,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 04 Oct 2026 15:00:04 GMT",
-    "contentHash": "cb8b6bfd7b7cdc2bc97820b78f18fcc3e80492058d94e7dd2ba3e36d25daedb8"
+    "lastModified": "Mon, 02 Nov 2026 15:00:03 GMT",
+    "contentHash": "c52e350eda1b4ee9b046e708a76f5893ed13ee57984399044761a4a0536d81dc"
   },
   {
     "id": "f796ddcf5502775e",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa6nyusatsu/Zaimu0120250318162.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:31+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:31+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:44+00:00",
     "coveredYears": [
       2025
     ],
@@ -119027,17 +119027,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 04 Oct 2026 15:00:04 GMT",
-    "contentHash": "48c8dc3720c9dfe55f8114b82cbd247e73803c37261992b4ca98ea483de15122"
+    "lastModified": "Mon, 02 Nov 2026 15:00:04 GMT",
+    "contentHash": "6fe3a8144ffb6ea18a193885a5e8e4ff945e665907c1d01f8ac45a26078d1c36"
   },
   {
     "id": "c7175776a0118981",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa6nyusatsu/Zaimu0120250327091.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:32+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:32+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:44+00:00",
     "coveredYears": [
       2025
     ],
@@ -119047,17 +119047,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sun, 04 Oct 2026 15:00:04 GMT",
-    "contentHash": "ea71f3c4e5ec1c660ce049b23ed3ffdcfb63104120941b167ebf05c509abb022"
+    "lastModified": "Mon, 02 Nov 2026 15:00:03 GMT",
+    "contentHash": "502cca9c8e5fd368dc137bc127c15e1b06d8ec528f24b77a0fda27aa73504708"
   },
   {
     "id": "d5535f168bb04612",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/reiwa5/Zaimu0120230725144.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-05T02:14:33+00:00",
+    "lastSuccessAt": "2026-11-03T09:48:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-08T02:14:33+00:00",
+    "nextCrawlAt": "2026-11-06T09:48:45+00:00",
     "coveredYears": [
       2023
     ],
@@ -119067,8 +119067,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 26 Sep 2026 15:00:03 GMT",
-    "contentHash": "bd8c70d9d979711bd01e484db88f2ede430d94ef02a4ed6034613e2b69279e69"
+    "lastModified": "Mon, 02 Nov 2026 15:00:02 GMT",
+    "contentHash": "7090ee5dd0c69dc23f9cbdbe6321e55b3e63271fba9f119bc2088507473e8524"
   },
   {
     "id": "0c8d98ff3681a271",
