@@ -18922,7 +18922,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果一覧",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -34647,7 +34647,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"6addebe2-5303\"",
@@ -34722,7 +34722,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果・各種選定結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"5936-65ea689feff61\"",
@@ -35006,7 +35006,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -37351,7 +37351,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"9389-65d130d3c815d-gzip\"",
@@ -37554,7 +37554,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果・契約結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"7c60-65eb0885c5027\"",
@@ -65149,9 +65149,9 @@
     "municipalityCode": "075418",
     "url": "https://www.town.hirono.fukushima.jp/_res/projects/default_project/_page_/001/004/121/r5.4.26.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:27+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:27+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:11+00:00",
     "coveredYears": [
       2023
     ],
@@ -65169,9 +65169,9 @@
     "municipalityCode": "075418",
     "url": "https://www.town.hirono.fukushima.jp/_res/projects/default_project/_page_/001/004/121/r5.4.3.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:28+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:28+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:11+00:00",
     "coveredYears": [
       2023
     ],
@@ -65189,9 +65189,9 @@
     "municipalityCode": "075418",
     "url": "https://www.town.hirono.fukushima.jp/_res/projects/default_project/_page_/001/004/121/r5.5.24.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:29+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:29+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:12+00:00",
     "coveredYears": [
       2023
     ],
@@ -65209,9 +65209,9 @@
     "municipalityCode": "075418",
     "url": "https://www.town.hirono.fukushima.jp/_res/projects/default_project/_page_/001/004/121/r6.3.19.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:30+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:30+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:13+00:00",
     "coveredYears": [
       2024
     ],
@@ -65229,9 +65229,9 @@
     "municipalityCode": "075418",
     "url": "https://www.town.hirono.fukushima.jp/_res/projects/default_project/_page_/001/004/121/r6.2.21.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:31+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:31+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:14+00:00",
     "coveredYears": [
       2024
     ],
@@ -65249,9 +65249,9 @@
     "municipalityCode": "075418",
     "url": "https://www.town.hirono.fukushima.jp/_res/projects/default_project/_page_/001/004/121/r5.9.27.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:32+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:32+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:14+00:00",
     "coveredYears": [
       2023
     ],
@@ -65269,9 +65269,9 @@
     "municipalityCode": "082074",
     "url": "https://www.city.yuki.lg.jp/sangyou-machizukuri/nyuusatsu-keiyaku/kekka/r04/page008203.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:34+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:34+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:16+00:00",
     "coveredYears": [
       2022
     ],
@@ -65289,9 +65289,9 @@
     "municipalityCode": "082074",
     "url": "https://www.city.yuki.lg.jp/data/doc/1658902943_doc_19_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:34+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:34+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:17+00:00",
     "coveredYears": [
       2022
     ],
@@ -65309,9 +65309,9 @@
     "municipalityCode": "082074",
     "url": "https://www.city.yuki.lg.jp/data/doc/1658902939_doc_19_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:35+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:35+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:17+00:00",
     "coveredYears": [
       2022
     ],
@@ -65329,9 +65329,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2024/12/18/00505308984/00505308984.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:36+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:36+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:17+00:00",
     "coveredYears": [
       2024,
       2025
@@ -65341,18 +65341,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"19d5b-65d130d38d9c1-gzip\"",
-    "lastModified": "Mon, 05 Oct 2026 07:44:27 GMT",
-    "contentHash": "cf6521c27a6afd9814d322f16a87913b63ddf800c41f574f08a3eca6d8ebf7fc"
+    "etag": "\"19d5b-65f06e8583bdd-gzip\"",
+    "lastModified": "Fri, 30 Oct 2026 04:05:32 GMT",
+    "contentHash": "6d2495624e77270b4b120e21f19138c0e7db99ca6d9aeb67762c4204022cd6b9"
   },
   {
     "id": "e43e0a1a8b2216b1",
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2026/06/18/00708042460/00708042460.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:37+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:37+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:18+00:00",
     "coveredYears": [
       2026
     ],
@@ -65361,18 +65361,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"12207-65d130d3111e6-gzip\"",
-    "lastModified": "Mon, 05 Oct 2026 07:44:27 GMT",
-    "contentHash": "ec8af346b0b84f9ff97d64668e4ff9a52e794f3b271edf06706f7e2af5a952d6"
+    "etag": "\"133d1-65f06e8504c94-gzip\"",
+    "lastModified": "Fri, 30 Oct 2026 04:05:32 GMT",
+    "contentHash": "b45df9169e86519d03eada7e8d06604eca28e7749714e3002a11966c46a71611"
   },
   {
     "id": "d60078d7f2168247",
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2021/01/22/00088/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:37+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:37+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:18+00:00",
     "coveredYears": [
       2021
     ],
@@ -65381,18 +65381,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"a90c-65d130d2dddb9-gzip\"",
-    "lastModified": "Mon, 05 Oct 2026 07:44:27 GMT",
-    "contentHash": "d43fd1f1e1446e4d7639c6bea17c3921a89e1b3d02acdea97fbf7f6246b2fc0e"
+    "etag": "\"a90c-65f06e84d3f50-gzip\"",
+    "lastModified": "Fri, 30 Oct 2026 04:05:32 GMT",
+    "contentHash": "57deaaf8137c9aff8812b2cbbe7987773f10fdd5b28410b97fdecbd6d7ec3297"
   },
   {
     "id": "75a46aee6e83eeab",
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2021/04/23/00048/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:38+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:38+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:19+00:00",
     "coveredYears": [
       2021
     ],
@@ -65401,18 +65401,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"a275-65d130d62f534-gzip\"",
-    "lastModified": "Mon, 05 Oct 2026 07:44:30 GMT",
-    "contentHash": "0602f903aedc12ac46f07ef4c615beec202ed5fcd32ccffdc136d05b47ac5518"
+    "etag": "\"a275-65f06e881bd0c-gzip\"",
+    "lastModified": "Fri, 30 Oct 2026 04:05:35 GMT",
+    "contentHash": "9fc7be29cde6d47e2730650c5be447144112395b6280afc80e4c77319d7ba1ce"
   },
   {
     "id": "e3ca41e8027946f4",
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/00125.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:39+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:39+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:20+00:00",
     "coveredYears": [
       2023
     ],
@@ -65421,18 +65421,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"12746-65d130d58203b-gzip\"",
-    "lastModified": "Mon, 05 Oct 2026 07:44:29 GMT",
-    "contentHash": "e5a15afbe540f9b8ccf54ff40db064d9aa8851e057e336cf2c0fad0762b75b30"
+    "etag": "\"12746-65f06e8770ea0-gzip\"",
+    "lastModified": "Fri, 30 Oct 2026 04:05:34 GMT",
+    "contentHash": "7208df56b0222d1ee0fe0b8b072d9ead603f151dca482156126c3082145581bc"
   },
   {
     "id": "7f77dd6a228f3f1a",
     "municipalityCode": "232050",
     "url": "https://www.city.handa.lg.jp/jigyosha/nyusatsu/1003677/1005210/1003678.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:40+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:40+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:21+00:00",
     "coveredYears": [
       2022
     ],
@@ -65441,18 +65441,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8907-65d34d498eed9\"",
-    "lastModified": "Wed, 07 Oct 2026 00:02:26 GMT",
-    "contentHash": "5666922e4a430d32e3e5534dd5a828380090ddc8c7059936aada803069952296"
+    "etag": "\"895d-65f88daadcee1\"",
+    "lastModified": "Thu, 05 Nov 2026 15:07:29 GMT",
+    "contentHash": "aa556e29a83efd9256015dad98922a04f484d926433b7eed6986f09ca763338c"
   },
   {
     "id": "bf26eb7a3e2b1680",
     "municipalityCode": "232050",
     "url": "https://www.city.handa.lg.jp/jigyosha/nyusatsu/1003677/1005210/1003679.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:41+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:41+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:22+00:00",
     "coveredYears": [
       2021
     ],
@@ -65461,18 +65461,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"88ce-65d34d4995081\"",
-    "lastModified": "Wed, 07 Oct 2026 00:02:26 GMT",
-    "contentHash": "c4c4d9458d10b4bee844a9f9adacf249a30f34da9309dbae318d19b3a6b0462f"
+    "etag": "\"8924-65f88daae2ca1\"",
+    "lastModified": "Thu, 05 Nov 2026 15:07:29 GMT",
+    "contentHash": "be5c74047e2bda44c614eab08e5b55ffd5914dcec3d523c07783ccbb7e70dcdc"
   },
   {
     "id": "6bb445b4c4e643db",
     "municipalityCode": "232050",
     "url": "https://www.city.handa.lg.jp/jigyosha/nyusatsu/1003677/1005210/1007896.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T00:55:42+00:00",
+    "lastSuccessAt": "2026-11-05T18:56:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T00:55:42+00:00",
+    "nextCrawlAt": "2026-11-08T18:56:23+00:00",
     "coveredYears": [
       2023
     ],
@@ -65481,9 +65481,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8909-65d34d4988d31\"",
-    "lastModified": "Wed, 07 Oct 2026 00:02:26 GMT",
-    "contentHash": "7b3c97cc7ed389ff12e24ae06416f7779618dffe8c1ce7aebfce2c1618f742ba"
+    "etag": "\"895f-65f88daad6d39\"",
+    "lastModified": "Thu, 05 Nov 2026 15:07:29 GMT",
+    "contentHash": "91aa220c204b60ccd740fb6c41ff4aed3be51639e79ffc831a2126618ca9d763"
   },
   {
     "id": "00dd080bd59a8a28",
@@ -72730,10 +72730,10 @@
     "id": "4d6d32ae9bc0aef6",
     "municipalityCode": "330001",
     "url": "https://www.pref.okayama.jp/uploaded/life/1055596_10227955_misc.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:15+00:00",
-    "lastFailureAt": "2026-10-09T16:29:59+00:00",
-    "nextCrawlAt": "2026-10-10T04:29:59+00:00",
+    "lastFailureAt": "2026-11-05T18:56:25+00:00",
+    "nextCrawlAt": "2026-11-06T18:56:25+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "公募型プロポーザル結果の公表  [PDFファイル／47KB]",
@@ -72847,10 +72847,10 @@
     "id": "f741d777d71c97d5",
     "municipalityCode": "342041",
     "url": "https://www.city.mihara.hiroshima.jp/site/keiyakuka/koujikekka28.html",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:20+00:00",
-    "lastFailureAt": "2026-10-09T16:30:05+00:00",
-    "nextCrawlAt": "2026-10-10T04:30:05+00:00",
+    "lastFailureAt": "2026-11-05T18:56:26+00:00",
+    "nextCrawlAt": "2026-11-06T18:56:26+00:00",
     "coveredYears": [
       2016
     ],
@@ -72868,10 +72868,10 @@
     "id": "eb22bdbbe3abcdbc",
     "municipalityCode": "342041",
     "url": "https://www.city.mihara.hiroshima.jp/site/keiyakuka/koujikekka29.html",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:20+00:00",
-    "lastFailureAt": "2026-10-09T16:30:05+00:00",
-    "nextCrawlAt": "2026-10-10T04:30:05+00:00",
+    "lastFailureAt": "2026-11-05T18:56:26+00:00",
+    "nextCrawlAt": "2026-11-06T18:56:26+00:00",
     "coveredYears": [
       2017
     ],
@@ -72889,10 +72889,10 @@
     "id": "12fef577392a73dd",
     "municipalityCode": "342041",
     "url": "https://www.city.mihara.hiroshima.jp/site/keiyakuka/koujikekka30.html",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:21+00:00",
-    "lastFailureAt": "2026-10-09T16:30:06+00:00",
-    "nextCrawlAt": "2026-10-10T04:30:06+00:00",
+    "lastFailureAt": "2026-11-05T18:56:27+00:00",
+    "nextCrawlAt": "2026-11-06T18:56:27+00:00",
     "coveredYears": [
       2018
     ],
@@ -72910,10 +72910,10 @@
     "id": "a616c0e224451cc0",
     "municipalityCode": "342041",
     "url": "https://www.city.mihara.hiroshima.jp/site/keiyakuka/koujikekka31.html",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:22+00:00",
-    "lastFailureAt": "2026-10-09T16:30:06+00:00",
-    "nextCrawlAt": "2026-10-10T04:30:06+00:00",
+    "lastFailureAt": "2026-11-05T18:56:27+00:00",
+    "nextCrawlAt": "2026-11-06T18:56:27+00:00",
     "coveredYears": [
       2019
     ],
@@ -72971,10 +72971,10 @@
     "id": "4aaf3653ba54b2a1",
     "municipalityCode": "342041",
     "url": "https://www.city.mihara.hiroshima.jp/site/keiyakuka/104998.html",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:24+00:00",
-    "lastFailureAt": "2026-10-09T16:30:08+00:00",
-    "nextCrawlAt": "2026-10-10T04:30:08+00:00",
+    "lastFailureAt": "2026-11-05T18:56:28+00:00",
+    "nextCrawlAt": "2026-11-06T18:56:28+00:00",
     "coveredYears": [
       2020
     ],
@@ -73081,10 +73081,10 @@
     "id": "a34611d1437a3c59",
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/92441_260063_misc.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:28+00:00",
-    "lastFailureAt": "2026-10-09T16:30:11+00:00",
-    "nextCrawlAt": "2026-10-10T04:30:11+00:00",
+    "lastFailureAt": "2026-11-05T18:56:29+00:00",
+    "nextCrawlAt": "2026-11-06T18:56:29+00:00",
     "coveredYears": [
       2025
     ],
@@ -73102,10 +73102,10 @@
     "id": "c2a973bf9f948ed6",
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/92441_260064_misc.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:29+00:00",
-    "lastFailureAt": "2026-10-09T16:30:12+00:00",
-    "nextCrawlAt": "2026-10-10T04:30:12+00:00",
+    "lastFailureAt": "2026-11-05T18:56:29+00:00",
+    "nextCrawlAt": "2026-11-06T18:56:29+00:00",
     "coveredYears": [
       2025
     ],
@@ -73123,10 +73123,10 @@
     "id": "37ff9c436abeb163",
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/92441_260065_misc.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:29+00:00",
-    "lastFailureAt": "2026-10-09T16:30:12+00:00",
-    "nextCrawlAt": "2026-10-10T04:30:12+00:00",
+    "lastFailureAt": "2026-11-05T18:56:30+00:00",
+    "nextCrawlAt": "2026-11-06T18:56:30+00:00",
     "coveredYears": [
       2025
     ],
@@ -73144,10 +73144,10 @@
     "id": "919528f4c566ec58",
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/92441_260066_misc.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:30+00:00",
-    "lastFailureAt": "2026-10-09T16:30:13+00:00",
-    "nextCrawlAt": "2026-10-10T04:30:13+00:00",
+    "lastFailureAt": "2026-11-05T18:56:30+00:00",
+    "nextCrawlAt": "2026-11-06T18:56:30+00:00",
     "coveredYears": [
       2025
     ],
@@ -73165,10 +73165,10 @@
     "id": "10b9c23b39abb0e6",
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/92441_260067_misc.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:31+00:00",
-    "lastFailureAt": "2026-10-09T16:30:13+00:00",
-    "nextCrawlAt": "2026-10-10T04:30:13+00:00",
+    "lastFailureAt": "2026-11-05T18:56:31+00:00",
+    "nextCrawlAt": "2026-11-06T18:56:31+00:00",
     "coveredYears": [
       2026
     ],
@@ -73186,10 +73186,10 @@
     "id": "f9af8191fc7665f1",
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/92441_260072_misc.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:32+00:00",
-    "lastFailureAt": "2026-10-09T16:30:14+00:00",
-    "nextCrawlAt": "2026-10-10T04:30:14+00:00",
+    "lastFailureAt": "2026-11-05T18:56:31+00:00",
+    "nextCrawlAt": "2026-11-06T18:56:31+00:00",
     "coveredYears": [
       2026
     ],
@@ -73207,10 +73207,10 @@
     "id": "fb02a05091e46847",
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/92441_260068_misc.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:33+00:00",
-    "lastFailureAt": "2026-10-09T16:30:14+00:00",
-    "nextCrawlAt": "2026-10-10T04:30:14+00:00",
+    "lastFailureAt": "2026-11-05T18:56:32+00:00",
+    "nextCrawlAt": "2026-11-06T18:56:32+00:00",
     "coveredYears": [
       2026
     ],
@@ -132555,6 +132555,21 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "告示　矢板市被災者支援システム導入業務 [PDFファイル／185KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "1e344ac7b90f5084",
+    "municipalityCode": "231002",
+    "url": "https://www.city.nagoya.jp/result/search.html?cx=009336591895518755915%3As0eezlix3ya&ie=UTF-8&q=%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E3%82%A8%E3%83%B3%E3%82%B6&siteurl=www.city.nagoya.jp%2Fkids%2Fabout%2F1026857%2F1026861.html&ref=www.city.nagoya.jp%2Fkids%2Fabout%2F1026857%2Findex.html&ss=1364j936704j7",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "インフルエンザ",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
