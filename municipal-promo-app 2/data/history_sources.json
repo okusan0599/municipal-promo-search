@@ -13609,7 +13609,7 @@
     ],
     "sourceType": "result",
     "title": "設計図書・入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -47830,7 +47830,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果等の公表",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"12f9e-65eeafef59844\"",
@@ -67672,10 +67672,10 @@
     "id": "41b3d28ffd599f91",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd455553521f.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:07+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:07+00:00",
+    "lastFailureAt": "2026-11-06T21:43:04+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:04+00:00",
     "coveredYears": [
       2012
     ],
@@ -67686,16 +67686,17 @@
     "active": true,
     "etag": "\"12b8d-5b63db3103f40\"",
     "lastModified": "Sat, 12 Dec 2020 05:29:57 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd455553521f.pdf"
   },
   {
     "id": "b9bacb780235ef58",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd45555d5ea7.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:07+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:07+00:00",
+    "lastFailureAt": "2026-11-06T21:43:05+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:05+00:00",
     "coveredYears": [
       2012
     ],
@@ -67706,16 +67707,17 @@
     "active": true,
     "etag": "\"b17b-5b63db3103f40\"",
     "lastModified": "Sat, 12 Dec 2020 05:29:57 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd45555d5ea7.pdf"
   },
   {
     "id": "dff02a96f457f1e0",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555610caf.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:08+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:08+00:00",
+    "lastFailureAt": "2026-11-06T21:43:06+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:06+00:00",
     "coveredYears": [
       2012,
       2014
@@ -67727,16 +67729,17 @@
     "active": true,
     "etag": "\"146ed-5b63db31f8180\"",
     "lastModified": "Sat, 12 Dec 2020 05:29:58 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555610caf.pdf"
   },
   {
     "id": "b1e42f495030ae82",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555631fec.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:09+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:09+00:00",
+    "lastFailureAt": "2026-11-06T21:43:06+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:06+00:00",
     "coveredYears": [
       2012
     ],
@@ -67747,16 +67750,17 @@
     "active": true,
     "etag": "\"c849-5b63db31f8180\"",
     "lastModified": "Sat, 12 Dec 2020 05:29:58 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555631fec.pdf"
   },
   {
     "id": "3204a3efb7910d89",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555665eef.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:09+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:09+00:00",
+    "lastFailureAt": "2026-11-06T21:43:07+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:07+00:00",
     "coveredYears": [
       2012
     ],
@@ -67767,16 +67771,17 @@
     "active": true,
     "etag": "\"10c48-5b63db31f8180\"",
     "lastModified": "Sat, 12 Dec 2020 05:29:58 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555665eef.pdf"
   },
   {
     "id": "f790e7f39b36fd8f",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555d59fb8.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:10+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:10+00:00",
+    "lastFailureAt": "2026-11-06T21:43:08+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:08+00:00",
     "coveredYears": [
       2013
     ],
@@ -67787,16 +67792,17 @@
     "active": true,
     "etag": "\"1346e-5b63db38a5140\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:05 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555d59fb8.pdf"
   },
   {
     "id": "aa2f83418be2231e",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555d7d52a.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:10+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:10+00:00",
+    "lastFailureAt": "2026-11-06T21:43:08+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:08+00:00",
     "coveredYears": [
       2013
     ],
@@ -67807,16 +67813,17 @@
     "active": true,
     "etag": "\"c3a1-5b63db38a5140\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:05 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555d7d52a.pdf"
   },
   {
     "id": "5caf16129a193c77",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555da3afe.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:11+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:11+00:00",
+    "lastFailureAt": "2026-11-06T21:43:09+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:09+00:00",
     "coveredYears": [
       2013
     ],
@@ -67827,16 +67834,17 @@
     "active": true,
     "etag": "\"d65f-5b63db38a5140\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:05 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555da3afe.pdf"
   },
   {
     "id": "1749f5923dcb8004",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555de45c5.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:12+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:12+00:00",
+    "lastFailureAt": "2026-11-06T21:43:10+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:10+00:00",
     "coveredYears": [
       2013
     ],
@@ -67847,16 +67855,17 @@
     "active": true,
     "etag": "\"c017-5b63db38a5140\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:05 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555de45c5.pdf"
   },
   {
     "id": "ca835428aef507ef",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555e3076b.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:12+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:12+00:00",
+    "lastFailureAt": "2026-11-06T21:43:10+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:10+00:00",
     "coveredYears": [
       2013
     ],
@@ -67867,16 +67876,17 @@
     "active": true,
     "etag": "\"be8c-5b63db3999380\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:06 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4555e3076b.pdf"
   },
   {
     "id": "12ee30c33af9e136",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd45568c1c72.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:13+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:13+00:00",
+    "lastFailureAt": "2026-11-06T21:43:11+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:11+00:00",
     "coveredYears": [
       2014
     ],
@@ -67887,16 +67897,17 @@
     "active": true,
     "etag": "\"1920c-5b63db4322a00\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:16 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd45568c1c72.pdf"
   },
   {
     "id": "fb6f61338a1f2fb5",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd45568dfd66.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:13+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:13+00:00",
+    "lastFailureAt": "2026-11-06T21:43:12+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:12+00:00",
     "coveredYears": [
       2014
     ],
@@ -67907,16 +67918,17 @@
     "active": true,
     "etag": "\"ad95-5b63db4322a00\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:16 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd45568dfd66.pdf"
   },
   {
     "id": "4fde4215cd894c0b",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd455690a9e7.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:14+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:14+00:00",
+    "lastFailureAt": "2026-11-06T21:43:12+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:12+00:00",
     "coveredYears": [
       2014
     ],
@@ -67927,16 +67939,17 @@
     "active": true,
     "etag": "\"b43b-5b63db4416c40\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:17 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd455690a9e7.pdf"
   },
   {
     "id": "e45bb055ce74623c",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd455692d8a8.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:14+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:14+00:00",
+    "lastFailureAt": "2026-11-06T21:43:13+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:13+00:00",
     "coveredYears": [
       2014
     ],
@@ -67947,16 +67960,17 @@
     "active": true,
     "etag": "\"bb05-5b63db4416c40\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:17 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd455692d8a8.pdf"
   },
   {
     "id": "be411c592af089b5",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd455694b49a.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:15+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:15+00:00",
+    "lastFailureAt": "2026-11-06T21:43:14+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:14+00:00",
     "coveredYears": [
       2013,
       2014
@@ -67968,16 +67982,17 @@
     "active": true,
     "etag": "\"c73e-5b63db4416c40\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:17 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd455694b49a.pdf"
   },
   {
     "id": "5530e3e8a605d1b3",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4557004568.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:16+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:16+00:00",
+    "lastFailureAt": "2026-11-06T21:43:14+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:14+00:00",
     "coveredYears": [
       2015
     ],
@@ -67988,16 +68003,17 @@
     "active": true,
     "etag": "\"1d123-5b63db4ac3c00\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:24 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4557004568.pdf"
   },
   {
     "id": "3979c61082d892a0",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4557028221.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:16+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:16+00:00",
+    "lastFailureAt": "2026-11-06T21:43:15+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:15+00:00",
     "coveredYears": [
       2015
     ],
@@ -68008,16 +68024,17 @@
     "active": true,
     "etag": "\"cab4-5b63db4ac3c00\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:24 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4557028221.pdf"
   },
   {
     "id": "b2d31b37f3b9f56f",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4557050ddd.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:17+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:17+00:00",
+    "lastFailureAt": "2026-11-06T21:43:16+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:16+00:00",
     "coveredYears": [
       2015
     ],
@@ -68028,16 +68045,17 @@
     "active": true,
     "etag": "\"e048-5b63db4ac3c00\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:24 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd4557050ddd.pdf"
   },
   {
     "id": "133c3717732e7b07",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd455707a20f.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:17+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:17+00:00",
+    "lastFailureAt": "2026-11-06T21:43:16+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:16+00:00",
     "coveredYears": [
       2014,
       2015
@@ -68049,16 +68067,17 @@
     "active": true,
     "etag": "\"14e6a-5b63db4ac3c00\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:24 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd455707a20f.pdf"
   },
   {
     "id": "c7ddbc0e27d610ba",
     "municipalityCode": "083020",
     "url": "https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd45570d4dba.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-08T02:12:19+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:19+00:00",
+    "lastFailureAt": "2026-11-06T21:43:17+00:00",
+    "nextCrawlAt": "2026-11-07T09:43:17+00:00",
     "coveredYears": [
       2015
     ],
@@ -68069,16 +68088,17 @@
     "active": true,
     "etag": "\"cc4c-5b63db4ac3c00\"",
     "lastModified": "Sat, 12 Dec 2020 05:30:24 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.town.ibaraki.lg.jp/manage/contents/upload/5fd45570d4dba.pdf"
   },
   {
     "id": "fffb360d40ee9dbf",
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/soshiki/zaisei_keiyaku/gyomu/nyusatsu_keiyaku/nyusatsu/nyusatsukekka/1321.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T02:12:21+00:00",
+    "lastSuccessAt": "2026-11-06T21:43:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:21+00:00",
+    "nextCrawlAt": "2026-11-09T21:43:19+00:00",
     "coveredYears": [
       2021,
       2022
@@ -68088,18 +68108,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6abdcb14-19a17\"",
-    "lastModified": "Thu, 01 Oct 2026 02:53:08 GMT",
-    "contentHash": "a2e7ef8df013a3f3e88c9b3100e1c935192323f4b162d3620aad7e0d6c5dd5bf"
+    "etag": "W/\"6ae60be8-19a13\"",
+    "lastModified": "Sat, 31 Oct 2026 15:40:24 GMT",
+    "contentHash": "e2fc5b11f525f2025c7c6336ebc867b94986eedc34fe9f75ca6b73c4e8690e7b"
   },
   {
     "id": "1a7acc3ec5d8c542",
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/soshiki/zaisei_keiyaku/gyomu/nyusatsu_keiyaku/nyusatsu/nyusatsukekka/2317.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T02:12:21+00:00",
+    "lastSuccessAt": "2026-11-06T21:43:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:21+00:00",
+    "nextCrawlAt": "2026-11-09T21:43:20+00:00",
     "coveredYears": [
       2020,
       2021,
@@ -68110,18 +68130,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6abdcb89-16a6e\"",
-    "lastModified": "Thu, 01 Oct 2026 02:55:05 GMT",
-    "contentHash": "6239eda8a8b2bc13bec3d662d9920e241a9c8eccdd7a6e133a4bdd14a00afd64"
+    "etag": "W/\"6ae60c64-16a6a\"",
+    "lastModified": "Sat, 31 Oct 2026 15:42:28 GMT",
+    "contentHash": "b9d9c75011058077427c11400f306f93f89f6b5da707cb102b6c2ee7f93d36a8"
   },
   {
     "id": "4f9cac6cf8577916",
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/soshiki/zaisei_keiyaku/gyomu/nyusatsu_keiyaku/nyusatsu/nyusatsukekka/2630.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T02:12:22+00:00",
+    "lastSuccessAt": "2026-11-06T21:43:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:22+00:00",
+    "nextCrawlAt": "2026-11-09T21:43:21+00:00",
     "coveredYears": [
       2020,
       2024
@@ -68131,18 +68151,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6abdcbb0-199ad\"",
-    "lastModified": "Thu, 01 Oct 2026 02:55:44 GMT",
-    "contentHash": "4429c1df9542604528b32ff42752432abe8ef9f13eef892cf858639d1b8df22c"
+    "etag": "W/\"6ae60c8f-199a9\"",
+    "lastModified": "Sat, 31 Oct 2026 15:43:11 GMT",
+    "contentHash": "de15da92c6a59e65a336a00ed995cb78e19718b4aef3dedc825f94677db2f9d2"
   },
   {
     "id": "e90e5536a8a6dd76",
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/soshiki/zaisei_keiyaku/gyomu/nyusatsu_keiyaku/nyusatsu/nyusatsukekka/5204.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T02:12:23+00:00",
+    "lastSuccessAt": "2026-11-06T21:43:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:23+00:00",
+    "nextCrawlAt": "2026-11-09T21:43:21+00:00",
     "coveredYears": [
       2022,
       2023
@@ -68152,18 +68172,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6abdcc0a-23a09\"",
-    "lastModified": "Thu, 01 Oct 2026 02:57:14 GMT",
-    "contentHash": "50291708e9447c8d10fe7e6237abf09e347d137ce27308c38124849467a3db76"
+    "etag": "W/\"6ae60ceb-23a05\"",
+    "lastModified": "Sat, 31 Oct 2026 15:44:43 GMT",
+    "contentHash": "6d7fa7af503b0fee70e7c85d23d4ada41e8100faa61db001faeb1ac169fcc98e"
   },
   {
     "id": "fabb75982486e72f",
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/soshiki/zaisei_keiyaku/gyomu/nyusatsu_keiyaku/nyusatsu/nyusatsukekka/6789.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T02:12:23+00:00",
+    "lastSuccessAt": "2026-11-06T21:43:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:23+00:00",
+    "nextCrawlAt": "2026-11-09T21:43:22+00:00",
     "coveredYears": [
       2023,
       2024
@@ -68173,18 +68193,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6abdcc46-2c5ca\"",
-    "lastModified": "Thu, 01 Oct 2026 02:58:14 GMT",
-    "contentHash": "03edc4ad3c160c64c5eef036d3198862cc9d5ede0e7a212e5e4e7d550c3dad4f"
+    "etag": "W/\"6ae60d28-2c5c6\"",
+    "lastModified": "Sat, 31 Oct 2026 15:45:44 GMT",
+    "contentHash": "1c969b79660474e0398e2f6c86ad42b1756fd86a0348c12ff3bd9723f6eac0b3"
   },
   {
     "id": "7d6e8a2c65a3e5d4",
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/92/result_R8_25.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T02:12:25+00:00",
+    "lastSuccessAt": "2026-11-06T21:43:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:25+00:00",
+    "nextCrawlAt": "2026-11-09T21:43:23+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "市道灰原線道路整備工事(PDFファイル:77.9KB)",
@@ -68200,9 +68220,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/92/result_R8_23.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T02:12:25+00:00",
+    "lastSuccessAt": "2026-11-06T21:43:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:25+00:00",
+    "nextCrawlAt": "2026-11-09T21:43:25+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "市道保山線外1線配水管改良工事(PDFファイル:85.6KB)",
@@ -70304,7 +70324,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "プロポーザル参加資格審査結果 PDF形式 ：46.8ＫＢ",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"bb2d-5e0e80e822d00-gzip\"",
@@ -70322,7 +70342,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "小田原市下水道管路包括的維持管理業務事業者の選定に関する優先交渉権者の決定について PDF形式 ：83.9ＫＢ",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"14f80-5e550f00bc1c0-gzip\"",
@@ -70340,7 +70360,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "01_募集要項 PDF形式 ：620ＫＢ",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -70355,7 +70375,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "要求水準書 PDF形式 ：5.7ＭＢ",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -118604,7 +118624,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "応募資格審査結果 PDF形式 ：49.1ＫＢ",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"c44b-65c8782d9968c-gzip\"",
@@ -120279,9 +120299,9 @@
     "municipalityCode": "032034",
     "url": "https://www.city.ofunato.iwate.jp/archive/p20261003083304",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T02:12:04+00:00",
+    "lastSuccessAt": "2026-11-06T21:43:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:04+00:00",
+    "nextCrawlAt": "2026-11-09T21:43:00+00:00",
     "coveredYears": [
       2026
     ],
@@ -120292,25 +120312,27 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "a9dc899d4e32ebb8723bd5e4710e5a0297e395d22098b90a04719ea99a587a87"
+    "contentHash": "f41e3b2e4efbd7698c7c2472c4a15f95c937fb72af833be445f1d435c50490fb"
   },
   {
     "id": "a28e06f2f3191d79",
     "municipalityCode": "142069",
     "url": "https://www.city.odawara.kanagawa.jp/field/c-planning/sewer/sewer/p33068.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T02:12:04+00:00",
+    "lastSuccessAt": "2026-11-06T21:43:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:04+00:00",
-    "coveredYears": [],
+    "nextCrawlAt": "2026-11-09T21:43:02+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result",
     "title": "小田原市下水道施設包括的維持管理業務に関する公募型プロポーザル【応募資格審査結果】",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"24b2e-65d1bdf348112-gzip\"",
-    "lastModified": "Mon, 05 Oct 2026 18:15:50 GMT",
-    "contentHash": "a8db3003c89d88ee5c9ec8b1f62a891f1c524ca591dc774bbf364dc97459e88e"
+    "etag": "\"24bf3-65f775e89ac86-gzip\"",
+    "lastModified": "Wed, 04 Nov 2026 18:15:52 GMT",
+    "contentHash": "620899c2b0688f716ae17beb2a5f3b5c4e08e1858546179e63ddeb7ed23b650c"
   },
   {
     "id": "44952083428fe4e8",
@@ -132698,6 +132720,54 @@
     "title": "質問の回答書（１１月２日掲載） [PDFファイル／193KB]",
     "discoveryMethod": "procurement_page",
     "priority": 3,
+    "active": true
+  },
+  {
+    "id": "a87004f756fbceb3",
+    "municipalityCode": "330001",
+    "url": "https://www.pref.okayama.jp/site/321/1064528.html",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-11-06T21:42:57+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-11-09T21:42:57+00:00",
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "岡山県立美術館で使用する電気の調達に係る一般競争入札(条件付)に係る入札結果について",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "\"4dcc-65fa057d398fa\"",
+    "lastModified": "Fri, 06 Nov 2026 19:08:53 GMT",
+    "contentHash": "120ebc71445bbba562020cc767bba2b3070c2a9b0dc6675ba8d872bd91d13041"
+  },
+  {
+    "id": "cef54b19e152a58b",
+    "municipalityCode": "330001",
+    "url": "https://www.pref.okayama.jp/uploaded/life/1064528_10319074_misc.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "岡山県立美術館　一般競争入札情報(実施結果)  [PDFファイル／51KB]",
+    "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "795ec059c0c961de",
+    "municipalityCode": "142069",
+    "url": "https://www.city.odawara.kanagawa.jp/global-image/units/755510/1-20261015173800_b6ad090e8bc00a.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "技術的対話結果 PDF形式 ：116.5ＫＢ",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true
   }
 ]
