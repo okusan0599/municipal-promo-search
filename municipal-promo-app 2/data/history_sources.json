@@ -37351,7 +37351,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"9389-65d130d3c815d-gzip\"",
@@ -65490,9 +65490,9 @@
     "municipalityCode": "232050",
     "url": "https://www.city.handa.lg.jp/jigyosha/nyusatsu/1003677/1005210/1009874.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:25:57+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:25:57+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:12+00:00",
     "coveredYears": [
       2024
     ],
@@ -65501,18 +65501,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8921-65d3ab2b1f127\"",
-    "lastModified": "Wed, 07 Oct 2026 07:02:27 GMT",
-    "contentHash": "78bc679165d73b2b11c1ef12a76c76c08b4d25db4b62dc3ca25db1643375ca49"
+    "etag": "\"8977-65f9054009435\"",
+    "lastModified": "Fri, 06 Nov 2026 00:02:29 GMT",
+    "contentHash": "973ad32fd0316d33f5e311a95327127799fa2c4ca7d4c74e219d96a654939839"
   },
   {
     "id": "5a65817e7e753bf6",
     "municipalityCode": "232050",
     "url": "https://www.city.handa.lg.jp/jigyosha/nyusatsu/1003677/1005210/1012141.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:25:58+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:25:58+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:13+00:00",
     "coveredYears": [
       2025
     ],
@@ -65521,9 +65521,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"7a82-65d3ab2b18b97\"",
-    "lastModified": "Wed, 07 Oct 2026 07:02:27 GMT",
-    "contentHash": "bafd977b7d0286ee7fed30a8542497946c2f81f2243495bd053eccdd96a45a95"
+    "etag": "\"7ad8-65f9054003675\"",
+    "lastModified": "Fri, 06 Nov 2026 00:02:29 GMT",
+    "contentHash": "04a194cf91c98aa57cf1b4ceb932b357a838fddf11974f4731491c12078fbbee"
   },
   {
     "id": "70c2ad47e6d7881f",
@@ -65650,9 +65650,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/042/011zuii_buppin202504-202506.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:00+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:00+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:14+00:00",
     "coveredYears": [
       2025
     ],
@@ -65670,9 +65670,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/042/01zuii_buppin202507-202509-2.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:00+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:00+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:15+00:00",
     "coveredYears": [
       2025
     ],
@@ -65690,9 +65690,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/042/uii_buppin202401_202403.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:01+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:01+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:16+00:00",
     "coveredYears": [
       2023
     ],
@@ -65710,9 +65710,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/042/zuii_buppin202304_202306_.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:02+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:02+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:16+00:00",
     "coveredYears": [
       2023
     ],
@@ -65730,9 +65730,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/042/zuii_buppin202307_202309.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:02+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:02+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:17+00:00",
     "coveredYears": [
       2023
     ],
@@ -65918,9 +65918,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/051/2.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:03+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:03+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:17+00:00",
     "coveredYears": [
       2024
     ],
@@ -65938,9 +65938,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/051/zuii_koji202304_202306.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:04+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:04+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:18+00:00",
     "coveredYears": [
       2023
     ],
@@ -65958,9 +65958,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/051/zuii_koji202307_202309.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:04+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:04+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:19+00:00",
     "coveredYears": [
       2023
     ],
@@ -65978,9 +65978,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/051/zuii_koji202310_202312.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:05+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:05+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:19+00:00",
     "coveredYears": [
       2023
     ],
@@ -65998,9 +65998,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/051/zuii_koji202407_202409.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:05+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:05+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:20+00:00",
     "coveredYears": [
       2024
     ],
@@ -66018,9 +66018,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/052/01zuii_ekimu202504-202506.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:06+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:06+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:20+00:00",
     "coveredYears": [
       2025
     ],
@@ -66038,9 +66038,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/052/zuii_ekimu202304_2023062.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:07+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:07+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:21+00:00",
     "coveredYears": [
       2023
     ],
@@ -66058,9 +66058,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/052/zuii_ekimu202307_2023092.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:07+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:07+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:22+00:00",
     "coveredYears": [
       2023
     ],
@@ -66078,9 +66078,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/052/zuii_ekimu202310_2023122.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:08+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:08+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:22+00:00",
     "coveredYears": [
       2023
     ],
@@ -66098,9 +66098,9 @@
     "municipalityCode": "242039",
     "url": "https://www.city.ise.mie.jp/_res/projects/default_project/_page_/001/016/052/zuii_ekimu202401_202403.xlsx",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:08+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:08+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:23+00:00",
     "coveredYears": [
       2023
     ],
@@ -66118,9 +66118,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202604.files/20260430.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:12+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:12+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:26+00:00",
     "coveredYears": [
       2026
     ],
@@ -66138,9 +66138,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202604.files/20260428.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:13+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:13+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:27+00:00",
     "coveredYears": [
       2026
     ],
@@ -66158,9 +66158,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202604.files/20260424.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:13+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:13+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:28+00:00",
     "coveredYears": [
       2026
     ],
@@ -66178,9 +66178,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202604.files/20260421.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:14+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:14+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:29+00:00",
     "coveredYears": [
       2026
     ],
@@ -66198,9 +66198,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202604.files/20260417.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:15+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:15+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:30+00:00",
     "coveredYears": [
       2026
     ],
@@ -66218,9 +66218,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202605.files/20260529.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:15+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:15+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:31+00:00",
     "coveredYears": [
       2026
     ],
@@ -66238,9 +66238,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202605.files/20260528.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:16+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:16+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:32+00:00",
     "coveredYears": [
       2026
     ],
@@ -66258,9 +66258,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202605.files/20260527yet2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:17+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:17+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:33+00:00",
     "coveredYears": [
       2026
     ],
@@ -66278,9 +66278,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202605.files/20260526.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:17+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:17+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:33+00:00",
     "coveredYears": [
       2026
     ],
@@ -66298,9 +66298,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202605.files/20260525.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:18+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:18+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:34+00:00",
     "coveredYears": [
       2026
     ],
@@ -66318,9 +66318,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202606.files/20260630.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:19+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:19+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:35+00:00",
     "coveredYears": [
       2026
     ],
@@ -66338,9 +66338,9 @@
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202606.files/20260626.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-07T07:26:19+00:00",
+    "lastSuccessAt": "2026-11-06T00:33:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-10T07:26:19+00:00",
+    "nextCrawlAt": "2026-11-09T00:33:35+00:00",
     "coveredYears": [
       2026
     ],
@@ -73228,10 +73228,10 @@
     "id": "c6b8616e172b467a",
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/92441_260069_misc.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-14T23:21:34+00:00",
-    "lastFailureAt": "2026-10-09T16:30:15+00:00",
-    "nextCrawlAt": "2026-10-10T04:30:15+00:00",
+    "lastFailureAt": "2026-11-06T00:33:11+00:00",
+    "nextCrawlAt": "2026-11-07T00:33:11+00:00",
     "coveredYears": [
       2026
     ],
@@ -132570,6 +132570,66 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "インフルエンザ",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "a6b0f8c338c2551d",
+    "municipalityCode": "075477",
+    "url": "https://www.town.namie.fukushima.jp/uploaded/attachment/25759.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "質問回答書 [PDFファイル／124KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "9a159507bc056dbf",
+    "municipalityCode": "075477",
+    "url": "https://www.town.namie.fukushima.jp/uploaded/attachment/25760.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "（参考）浪江町下水道施設_過年度電気使用量 [PDFファイル／357KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "37968b969a1c1419",
+    "municipalityCode": "075477",
+    "url": "https://www.town.namie.fukushima.jp/uploaded/life/45417_208167_misc.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "公募型プロポーザル実施要領  [PDFファイル／575KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "a86f0ebcf2b1fdca",
+    "municipalityCode": "075477",
+    "url": "https://www.town.namie.fukushima.jp/uploaded/life/45417_208168_misc.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "公告文  [PDFファイル／207KB]",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
