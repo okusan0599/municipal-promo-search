@@ -39493,7 +39493,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "W/\"6abee9fd-aa3f\"",
@@ -68238,9 +68238,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/92/result_R8_22.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T02:12:26+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T02:12:26+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:30+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "市道東中学校線配水管改良工事(PDFファイル:97.7KB)",
@@ -68256,9 +68256,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/92/result_R8_21.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:34+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:34+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:33+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "鳥羽中央公園園路整備工事(PDFファイル:92.5KB)",
@@ -68274,9 +68274,9 @@
     "municipalityCode": "242110",
     "url": "https://www.city.toba.mie.jp/material/files/group/92/result_R8_20.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:35+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:35+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:35+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "市道杉ケ瀬北山線支線1号道路改良工事(PDFファイル:92KB)",
@@ -68292,9 +68292,9 @@
     "municipalityCode": "242144",
     "url": "https://www.city.inabe.mie.jp/sangyo/nyusatsu/nyusatsukekka/1007831/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:38+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:38+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:39+00:00",
     "coveredYears": [
       2019
     ],
@@ -68303,18 +68303,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"45fd-65d4fb8373d11\"",
-    "lastModified": "Thu, 08 Oct 2026 08:07:14 GMT",
-    "contentHash": "2b0bdfbd34354d2daffb9d57a2b50c4782098a80fba18654a596d13678835b5f"
+    "etag": "\"45fd-65fa55c69cb04\"",
+    "lastModified": "Sat, 07 Nov 2026 01:08:04 GMT",
+    "contentHash": "7596f5b62c82b76e8b63e1ec6f316851a474f68ad95d29a0ad2e834205337896"
   },
   {
     "id": "c04a40c5c8c12f1d",
     "municipalityCode": "242144",
     "url": "https://www.city.inabe.mie.jp/sangyo/nyusatsu/nyusatsukekka/1009593/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:39+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:39+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:40+00:00",
     "coveredYears": [
       2020
     ],
@@ -68323,18 +68323,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"45eb-65d4fb8350a8e\"",
-    "lastModified": "Thu, 08 Oct 2026 08:07:14 GMT",
-    "contentHash": "f80d243a1fc3f2cf91bf6494f295d1811db42741e7daa6a8d537330ddcd9d251"
+    "etag": "\"45eb-65fa55c66dcff\"",
+    "lastModified": "Sat, 07 Nov 2026 01:08:04 GMT",
+    "contentHash": "470b8c642d4a507919bc9155b3f593106bcef9c9b1a22a73e3f50abf3419c5b9"
   },
   {
     "id": "fce913b49a0c040d",
     "municipalityCode": "242144",
     "url": "https://www.city.inabe.mie.jp/sangyo/nyusatsu/nyusatsukekka/1010682/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:39+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:39+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:41+00:00",
     "coveredYears": [
       2021
     ],
@@ -68343,18 +68343,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"45eb-65d4fb8332dfc\"",
-    "lastModified": "Thu, 08 Oct 2026 08:07:14 GMT",
-    "contentHash": "3fa164be8b451b626bbf5c7d8b595fd166da3ff84ffac933a28e76a67648b6c2"
+    "etag": "\"45eb-65fa55c644cba\"",
+    "lastModified": "Sat, 07 Nov 2026 01:08:04 GMT",
+    "contentHash": "6111dd073c6653b1900d9100149bcfc62de59b0881debfb247efa5263ae509f1"
   },
   {
     "id": "07a6242175777a46",
     "municipalityCode": "242144",
     "url": "https://www.city.inabe.mie.jp/sangyo/nyusatsu/nyusatsukekka/1012268/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:40+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:40+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:43+00:00",
     "coveredYears": [
       2022
     ],
@@ -68363,18 +68363,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"45eb-65d4fb830ff62\"",
-    "lastModified": "Thu, 08 Oct 2026 08:07:14 GMT",
-    "contentHash": "b2229112a78d0822d2d3d303ee61b13214cddfe2186ba44df2f94bad14f9dcd0"
+    "etag": "\"45eb-65fa55c61147c\"",
+    "lastModified": "Sat, 07 Nov 2026 01:08:04 GMT",
+    "contentHash": "61c91321d85b4f1c334354400cf6a7dd689b3bb6e04c877cf9ec2aaaf39accd7"
   },
   {
     "id": "5a8afc4b6bc9d765",
     "municipalityCode": "242144",
     "url": "https://www.city.inabe.mie.jp/sangyo/nyusatsu/nyusatsukekka/1013138/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:41+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:41+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:44+00:00",
     "coveredYears": [
       2023
     ],
@@ -68383,18 +68383,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"45f1-65d4fb82e05a7\"",
-    "lastModified": "Thu, 08 Oct 2026 08:07:14 GMT",
-    "contentHash": "ee850c37b8e1a11c99ad66543f7a48e94514e39ac6b1f340e82da90473b5f5cf"
+    "etag": "\"45f1-65fa55c5d24a4\"",
+    "lastModified": "Sat, 07 Nov 2026 01:08:04 GMT",
+    "contentHash": "92bb0db32695ab3ba317f8826b6d00f2bc27665080e63a92c8a1cc1b92613261"
   },
   {
     "id": "9bc13d77bc8e7cca",
     "municipalityCode": "243248",
     "url": "https://www.town.toin.lg.jp/material/files/group/1/R7zuikeikekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:43+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:43+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:49+00:00",
     "coveredYears": [
       2025
     ],
@@ -68412,9 +68412,9 @@
     "municipalityCode": "243248",
     "url": "https://www.town.toin.lg.jp/material/files/group/1/R7henkoukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:44+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:44+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:50+00:00",
     "coveredYears": [
       2025
     ],
@@ -68432,9 +68432,9 @@
     "municipalityCode": "243248",
     "url": "https://www.town.toin.lg.jp/gyosei/nyusatsu_keiyaku/2/4/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:44+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:44+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:51+00:00",
     "coveredYears": [
       2024
     ],
@@ -68443,18 +68443,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6abeea29-b62b\"",
-    "lastModified": "Thu, 01 Oct 2026 23:18:01 GMT",
-    "contentHash": "05a5468a13f1da6a7001431a641ba9ae2b7167c8d5349be261bba6dc8502cbef"
+    "etag": "W/\"6aea7e74-b627\"",
+    "lastModified": "Wed, 04 Nov 2026 00:38:12 GMT",
+    "contentHash": "17fc14666ba3c5c9d3ac0ac55a1d92d5a2ea17de4ac54945c1f406edd419339a"
   },
   {
     "id": "80bd32f724a6d558",
     "municipalityCode": "243248",
     "url": "https://www.town.toin.lg.jp/gyosei/nyusatsu_keiyaku/2/4709.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:45+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:45+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:52+00:00",
     "coveredYears": [
       2024,
       2025
@@ -68464,18 +68464,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6abeec0d-a8ef\"",
-    "lastModified": "Thu, 01 Oct 2026 23:26:05 GMT",
-    "contentHash": "0e7789ea305d64499f63aaaaccc3e378b44ab4fb1bfdf6260e5db585f13d9bf5"
+    "etag": "W/\"6aea802b-a8eb\"",
+    "lastModified": "Wed, 04 Nov 2026 00:45:31 GMT",
+    "contentHash": "a3a97b670bce561e39c05db538187a53c4e436e0eb8e945480c6f063232e60d5"
   },
   {
     "id": "adff03eebf9ea993",
     "municipalityCode": "243248",
     "url": "https://www.town.toin.lg.jp/gyosei/nyusatsu_keiyaku/2/5/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:46+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:46+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:52+00:00",
     "coveredYears": [
       2020,
       2024
@@ -68485,18 +68485,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6abeea29-b5ec\"",
-    "lastModified": "Thu, 01 Oct 2026 23:18:01 GMT",
-    "contentHash": "d20c1d728f430a96922d357f28545048bc0307833e78682dff091da88c31601a"
+    "etag": "W/\"6aea7e74-b5e8\"",
+    "lastModified": "Wed, 04 Nov 2026 00:38:12 GMT",
+    "contentHash": "094db9a37cfcf4ae7794d4f4835b0a9c10302796acc009294dcd21d98e14dc6e"
   },
   {
     "id": "0a812b42c3de1151",
     "municipalityCode": "243248",
     "url": "https://www.town.toin.lg.jp/gyosei/nyusatsu_keiyaku/2/6/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:46+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:46+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:53+00:00",
     "coveredYears": [
       2021,
       2024
@@ -68506,18 +68506,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6abeea28-b400\"",
-    "lastModified": "Thu, 01 Oct 2026 23:18:00 GMT",
-    "contentHash": "e396a9d6ca1804fedafc0bb9c296eaea7776c7014510e5029d53457a78be517c"
+    "etag": "W/\"6aea7e73-b3fc\"",
+    "lastModified": "Wed, 04 Nov 2026 00:38:11 GMT",
+    "contentHash": "488ed6b16dce3825cdbc745e82d16d0aaedd409091d57f6fb889c69903c9d4b6"
   },
   {
     "id": "2559ce7ad008e054",
     "municipalityCode": "243248",
     "url": "https://www.town.toin.lg.jp/gyosei/nyusatsu_keiyaku/2/7/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:47+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:47+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:54+00:00",
     "coveredYears": [
       2022,
       2024
@@ -68527,18 +68527,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6abeea28-b4f6\"",
-    "lastModified": "Thu, 01 Oct 2026 23:18:00 GMT",
-    "contentHash": "b63f56ff98432f60831735ba52f6fc9627b63e828ef4594414657ae5c35cd51e"
+    "etag": "W/\"6aea7e73-b4f2\"",
+    "lastModified": "Wed, 04 Nov 2026 00:38:11 GMT",
+    "contentHash": "3baf566106f0a059b1e92a5a99f9a869a530ed253dabbc7233786176e33ba542"
   },
   {
     "id": "858cac7a1005a8b5",
     "municipalityCode": "252085",
     "url": "https://www.city.ritto.lg.jp/soshiki/somubu/zaisei/keiyakukensa/nyusatujouhou/yuubinnnyuusatukekka/10646.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:48+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:48+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:57+00:00",
     "coveredYears": [
       2024
     ],
@@ -68548,17 +68548,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Tue, 06 Oct 2026 01:33:33 GMT",
-    "contentHash": "0881330761a51039b3a4677bc3c92c95c74e6b5f9077f8494591c9d8dd643b11"
+    "lastModified": "Thu, 15 Oct 2026 02:40:09 GMT",
+    "contentHash": "e714013b61966bb81be66be84a46700131a7e1f439158e3e601c568077159c6c"
   },
   {
     "id": "1472167827e96dac",
     "municipalityCode": "252085",
     "url": "https://www.city.ritto.lg.jp/soshiki/somubu/zaisei/keiyakukensa/nyusatujouhou/yuubinnnyuusatukekka/18284.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:49+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:49+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:58+00:00",
     "coveredYears": [
       2026
     ],
@@ -68568,17 +68568,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Tue, 06 Oct 2026 01:36:18 GMT",
-    "contentHash": "d0bd1b0d96c14835ea5a9068ffa977e3c7ae7dc91e8eabc75d68bb7edb4c7868"
+    "lastModified": "Thu, 15 Oct 2026 02:42:43 GMT",
+    "contentHash": "7cb3edb23df94ef0887e64ed68312fdd87973bbcb0827f252a1a3ec638366996"
   },
   {
     "id": "d1cc6fe556e632b9",
     "municipalityCode": "252085",
     "url": "https://www.city.ritto.lg.jp/soshiki/somubu/zaisei/keiyakukensa/nyusatujouhou/yuubinnnyuusatukekka/reiwanananenndokekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:50+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:50+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:59+00:00",
     "coveredYears": [
       2025,
       2026
@@ -68589,17 +68589,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Tue, 06 Oct 2026 01:35:49 GMT",
-    "contentHash": "9e69993d60c3ef78f8f9b1675ef61adae2c5e0baa95d7874f20c5a470cf48cb7"
+    "lastModified": "Thu, 15 Oct 2026 02:42:16 GMT",
+    "contentHash": "91940f331a9d5d92b93207ddae20add75d1a2709adb061ad7052cc99728c53d7"
   },
   {
     "id": "1f8f91a519c2364d",
     "municipalityCode": "260002",
     "url": "https://www.pref.kyoto.jp/sisan/news/documents/nyuusatsukekkahoukokusho.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:51+00:00",
+    "lastSuccessAt": "2026-11-07T02:14:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:51+00:00",
+    "nextCrawlAt": "2026-11-10T02:14:01+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果（PDF：82KB）",
@@ -68681,9 +68681,9 @@
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/95/08.04-01-R7-167-2-1-3kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:54+00:00",
+    "lastSuccessAt": "2026-11-07T02:14:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:54+00:00",
+    "nextCrawlAt": "2026-11-10T02:14:04+00:00",
     "coveredYears": [
       2025
     ],
@@ -68694,16 +68694,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 01 Oct 2026 00:00:02 GMT",
-    "contentHash": "4d3dad23147278e3e7ccd06dc38b769e01b30cea7e1939e349df77d3e766cc12"
+    "contentHash": null
   },
   {
     "id": "c194ee4a7593a410",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/95/20250623-150806.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:56+00:00",
+    "lastSuccessAt": "2026-11-07T02:14:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:56+00:00",
+    "nextCrawlAt": "2026-11-10T02:14:05+00:00",
     "coveredYears": [
       2024
     ],
@@ -68714,16 +68714,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 01 Oct 2026 00:00:02 GMT",
-    "contentHash": "491cce18fe4cb15ccf6a54f706227d6723b81af22bce8e31fc45ed2182775e08"
+    "contentHash": null
   },
   {
     "id": "e24f542601433442",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/95/20240322-095734.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:57+00:00",
+    "lastSuccessAt": "2026-11-07T02:14:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:57+00:00",
+    "nextCrawlAt": "2026-11-10T02:14:06+00:00",
     "coveredYears": [
       2023
     ],
@@ -68734,16 +68734,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 01 Oct 2026 00:00:02 GMT",
-    "contentHash": "7b34d198bc0a35aa21fd5c42f7cd361e8c2712d9e28d5eeba5c8d00322424269"
+    "contentHash": null
   },
   {
     "id": "0d89a2b7e16b293f",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/95/20230629-095459.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:58+00:00",
+    "lastSuccessAt": "2026-11-07T02:14:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:58+00:00",
+    "nextCrawlAt": "2026-11-10T02:14:08+00:00",
     "coveredYears": [
       2022
     ],
@@ -68754,7 +68754,7 @@
     "active": true,
     "etag": null,
     "lastModified": "Thu, 01 Oct 2026 00:00:02 GMT",
-    "contentHash": "0560ec704247ffb37bcc04c0b4a004e78fd9a34a745f3e43b04530d436f70014"
+    "contentHash": null
   },
   {
     "id": "c39e12e21995c325",
@@ -68841,9 +68841,9 @@
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/97/20260331.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:15:01+00:00",
+    "lastSuccessAt": "2026-11-07T02:14:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:15:01+00:00",
+    "nextCrawlAt": "2026-11-10T02:14:09+00:00",
     "coveredYears": [
       2026
     ],
@@ -68854,16 +68854,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 06 Oct 2026 00:13:40 GMT",
-    "contentHash": "a343d6fd6d822669dcc90c1b51afb956ee7327fef3e7e7dbe4c9b925eb7e8050"
+    "contentHash": null
   },
   {
     "id": "acc6dc9cc6a7c363",
     "municipalityCode": "262145",
     "url": "https://www.city.kizugawa.lg.jp/cmsfiles/contents/0000000/97/20251009-110339.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:15:03+00:00",
+    "lastSuccessAt": "2026-11-07T02:14:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:15:03+00:00",
+    "nextCrawlAt": "2026-11-10T02:14:10+00:00",
     "coveredYears": [
       2025
     ],
@@ -68874,7 +68874,7 @@
     "active": true,
     "etag": null,
     "lastModified": "Tue, 06 Oct 2026 00:13:40 GMT",
-    "contentHash": "850f651c22f1d5efba66d54de3fa34640142e16a67d6b296c8e071dabb6a0f78"
+    "contentHash": null
   },
   {
     "id": "f0c1ddbdef816fbd",
@@ -120339,9 +120339,9 @@
     "municipalityCode": "142069",
     "url": "https://www.city.odawara.kanagawa.jp/global-image/units/744093/1-20260731111939_b6a6c063b0c232.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:29+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:29+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:30+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "03_事業者選定基準 PDF形式 ：426.8ＫＢ",
@@ -120350,16 +120350,16 @@
     "active": true,
     "etag": "\"6ab4a-657ded21287ca-gzip\"",
     "lastModified": "Fri, 31 Jul 2026 02:19:39 GMT",
-    "contentHash": "0b67c0250ff6cb4a42682ec624e606a20d442af4f15ee35b84c92e1beb25dd07"
+    "contentHash": null
   },
   {
     "id": "9d496fb0206fba35",
     "municipalityCode": "142069",
     "url": "https://www.city.odawara.kanagawa.jp/global-image/units/744249/1-20260731112449_b6a6c07716b942.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:29+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:29+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:31+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "02_募集要項及び要求水準等に関する質問書（事業者選定基準）（質問書様式３） PDF形式 ：76.7ＫＢ",
@@ -120368,16 +120368,16 @@
     "active": true,
     "etag": "\"132b0-657dee492b880-gzip\"",
     "lastModified": "Fri, 31 Jul 2026 02:24:49 GMT",
-    "contentHash": "b64c4a2377131038b7aa91c283ef684918e1285ed8fa7063b23d848a86c27833"
+    "contentHash": null
   },
   {
     "id": "d1252537e7c7772b",
     "municipalityCode": "142069",
     "url": "https://www.city.odawara.kanagawa.jp/global-image/units/545336/1-20220803161125.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-08T09:14:31+00:00",
+    "lastSuccessAt": "2026-11-07T02:13:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-11T09:14:31+00:00",
+    "nextCrawlAt": "2026-11-10T02:13:31+00:00",
     "coveredYears": [
       2022
     ],
@@ -120388,7 +120388,7 @@
     "active": true,
     "etag": "\"b692c-5e550f0e16140-gzip\"",
     "lastModified": "Wed, 03 Aug 2022 07:11:25 GMT",
-    "contentHash": "03ec54d8f592e8877ff03f261233103153fc24498b6b34490fbb4c8ffda7045c"
+    "contentHash": null
   },
   {
     "id": "a54bffde99718fe2",
@@ -132760,14 +132760,37 @@
     "municipalityCode": "142069",
     "url": "https://www.city.odawara.kanagawa.jp/global-image/units/755510/1-20261015173800_b6ad090e8bc00a.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-11-07T02:13:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-11-10T02:13:24+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "技術的対話結果 PDF形式 ：116.5ＫＢ",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"1d1eb-65ddcf723c9f5-gzip\"",
+    "lastModified": "Thu, 15 Oct 2026 08:38:00 GMT",
+    "contentHash": "dfe08715b15ad3a6dce09913beffbe4ee00fd7e9273939c0031b3957b5053a2e"
+  },
+  {
+    "id": "305831cb50e60efb",
+    "municipalityCode": "384011",
+    "url": "https://www.town.masaki.ehime.jp/uploaded/attachment/25541.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-11-07T02:13:25+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-11-10T02:13:25+00:00",
+    "coveredYears": [
+      2026
+    ],
+    "sourceType": "result_pdf",
+    "title": "審査結果 [PDFファイル／61KB]",
+    "discoveryMethod": "procurement_page",
+    "priority": 1,
+    "active": true,
+    "etag": "\"f0c3-65f4977cfec95\"",
+    "lastModified": "Mon, 02 Nov 2026 11:30:07 GMT",
+    "contentHash": "b6c687bb29c2914add9a5b7a70d87f4465d893ecec98a79913e3ee2bc9171abe"
   }
 ]
