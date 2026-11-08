@@ -22694,7 +22694,7 @@
     "dentsuCategoryLabels": [
       "コンサル・戦略策定"
     ],
-    "lastChecked": "2026-10-10T01:56:41+00:00"
+    "lastChecked": "2026-11-08T19:00:34+00:00"
   },
   {
     "dedupeKey": "f605d5074357d489b58dd3c4fac3f31b2d685be296204b71543e1df2f8032e13",
@@ -34067,5 +34067,42 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-11-07T08:59:39+00:00"
+  },
+  {
+    "dedupeKey": "d259bbfbed1e8a5a61297735c54f10d0d7c0f7490f8ff273b50c04cfd300c27c",
+    "id": "award-e3f3bf06ee1b189d45cb19e3",
+    "municipalityCode": "294241",
+    "area": "近畿",
+    "region": "奈良県",
+    "municipality": "上牧町",
+    "organization": "上牧町",
+    "title": "令和8年度 入札結果 (PDFファイル: 219.7KB)",
+    "vendor": "予定価格",
+    "year": 2026,
+    "sourceUrl": "https://www.town.kanmaki.nara.jp/material/files/group/4/20261015nyuusatukekkaitirann.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-11-08T19:00:19+00:00"
+  },
+  {
+    "dedupeKey": "3d8701477adf090a1279ffa033f9b12b6eea892a62ac40906e3a02770809506a",
+    "id": "award-0bb10dbb6a9c1fa6ce29cf8e",
+    "municipalityCode": "294241",
+    "area": "近畿",
+    "region": "奈良県",
+    "municipality": "上牧町",
+    "organization": "上牧町",
+    "title": "令和8年度 入札結果・契約情報公表書及び入札結果公表書(令和8年10月5日実施分) (PDFファイル: 219.3KB)",
+    "vendor": "の氏名 株式会社ユイテック 代表取締役 森 康成",
+    "awardDate": "2026-10-05",
+    "year": 2026,
+    "sourceUrl": "https://www.town.kanmaki.nara.jp/material/files/group/4/20261015nyuusatukekkakouhyousyo.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-11-08T19:00:20+00:00"
   }
 ]

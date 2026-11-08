@@ -18922,7 +18922,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果一覧",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -50491,7 +50491,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"6ae378ae-66d0\"",
@@ -74475,9 +74475,9 @@
     "municipalityCode": "303411",
     "url": "https://www.town.katsuragi.wakayama.jp/050/070/010/2024-1021-1627-52.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-09T21:51:27+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-12T21:51:27+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:21+00:00",
     "coveredYears": [
       2024
     ],
@@ -74495,9 +74495,9 @@
     "municipalityCode": "303411",
     "url": "https://www.town.katsuragi.wakayama.jp/050/070/010/2024-1024-0933-16.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:31+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:31+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:24+00:00",
     "coveredYears": [
       2024
     ],
@@ -74515,9 +74515,9 @@
     "municipalityCode": "303411",
     "url": "https://www.town.katsuragi.wakayama.jp/050/070/010/2024-1024-0945-16.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:32+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:32+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:25+00:00",
     "coveredYears": [
       2024
     ],
@@ -74535,9 +74535,9 @@
     "municipalityCode": "303411",
     "url": "https://www.town.katsuragi.wakayama.jp/050/070/010/2024-1224-0851-30.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:32+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:32+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:25+00:00",
     "coveredYears": [
       2024
     ],
@@ -74555,9 +74555,9 @@
     "municipalityCode": "303411",
     "url": "https://www.town.katsuragi.wakayama.jp/050/070/010/2025-0203-1706-40.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:33+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:33+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:26+00:00",
     "coveredYears": [
       2025
     ],
@@ -74575,9 +74575,9 @@
     "municipalityCode": "303411",
     "url": "https://www.town.katsuragi.wakayama.jp/050/070/010/2025-0723-1116-20.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:34+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:34+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:26+00:00",
     "coveredYears": [
       2025
     ],
@@ -74595,9 +74595,9 @@
     "municipalityCode": "362034",
     "url": "https://www.city.komatsushima.lg.jp/fs/6/2/8/9/3/0/_/%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C(%E4%BB%A4%E5%92%8C8%E5%B9%B44%E6%9C%8827%E6%97%A5%E9%96%8B%E6%9C%AD).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:35+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:35+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:28+00:00",
     "coveredYears": [
       2026
     ],
@@ -74615,9 +74615,9 @@
     "municipalityCode": "362034",
     "url": "https://www.city.komatsushima.lg.jp/fs/6/3/0/7/2/4/_/%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C(%E4%BB%A4%E5%92%8C8%E5%B9%B45%E6%9C%8819%E6%97%A5%E9%96%8B%E6%9C%AD).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:36+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:36+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:29+00:00",
     "coveredYears": [
       2026
     ],
@@ -74635,9 +74635,9 @@
     "municipalityCode": "362034",
     "url": "https://www.city.komatsushima.lg.jp/fs/6/3/1/2/2/4/_/%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C(%E4%BB%A4%E5%92%8C8%E5%B9%B45%E6%9C%8827%E6%97%A5%E9%96%8B%E6%9C%AD).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:37+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:37+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:29+00:00",
     "coveredYears": [
       2026
     ],
@@ -74655,9 +74655,9 @@
     "municipalityCode": "362034",
     "url": "https://www.city.komatsushima.lg.jp/fs/6/3/4/0/9/8/_/%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C(%E4%BB%A4%E5%92%8C8%E5%B9%B46%E6%9C%8826%E6%97%A5%E9%96%8B%E6%9C%AD).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:37+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:37+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:30+00:00",
     "coveredYears": [
       2026
     ],
@@ -74675,9 +74675,9 @@
     "municipalityCode": "362034",
     "url": "https://www.city.komatsushima.lg.jp/fs/6/3/6/6/0/5/_/%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C(%E4%BB%A4%E5%92%8C8%E5%B9%B47%E6%9C%8827%E6%97%A5%E9%96%8B%E6%9C%AD).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:38+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:38+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:30+00:00",
     "coveredYears": [
       2026
     ],
@@ -74695,9 +74695,9 @@
     "municipalityCode": "362034",
     "url": "https://www.city.komatsushima.lg.jp/fs/6/3/9/4/1/0/_/%E5%AF%A9%E6%9F%BB%E7%B5%90%E6%9E%9C(1).pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:39+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:39+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:31+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "審査結果(PDF 31.8KB)",
@@ -74713,9 +74713,9 @@
     "municipalityCode": "362034",
     "url": "https://www.city.komatsushima.lg.jp/docs/nyuusatukekka2020.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:39+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:39+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:32+00:00",
     "coveredYears": [
       2020
     ],
@@ -74724,18 +74724,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac992cf-78e8\"",
-    "lastModified": "Sat, 10 Oct 2026 01:20:15 GMT",
-    "contentHash": "35247faf8be8ddf7f369d5b599a1902485af70883d01de66e70587d522e834fa"
+    "etag": "\"6af0a0ba-7939\"",
+    "lastModified": "Sun, 08 Nov 2026 16:18:02 GMT",
+    "contentHash": "7b19f263d153aa53e747f6552d3691c2407e3120256e85c7b9e9e37ced9e0f02"
   },
   {
     "id": "360c563e9894a3d0",
     "municipalityCode": "362034",
     "url": "https://www.city.komatsushima.lg.jp/docs/nyuusatukekka2021.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:40+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:40+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:32+00:00",
     "coveredYears": [
       2021
     ],
@@ -74744,18 +74744,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac992d2-76ab\"",
-    "lastModified": "Sat, 10 Oct 2026 01:20:18 GMT",
-    "contentHash": "a4b075e7abe6faa778f11ed9f168533a09b4cb28497e8411d4544a3a69d02fa1"
+    "etag": "\"6af0a0be-76fc\"",
+    "lastModified": "Sun, 08 Nov 2026 16:18:06 GMT",
+    "contentHash": "3479b54c01d4c74a40d8e7e17f63483c071e5eb130ca87a7bebec48629147e7a"
   },
   {
     "id": "979da10b9b0b7e65",
     "municipalityCode": "362034",
     "url": "https://www.city.komatsushima.lg.jp/docs/2658140.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:41+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:41+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:33+00:00",
     "coveredYears": [
       2022
     ],
@@ -74764,18 +74764,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac98ff0-73d3\"",
-    "lastModified": "Sat, 10 Oct 2026 01:08:00 GMT",
-    "contentHash": "0049f6e3f0999d60decf8767116d4df050bb65cbd7615faf924213b3222ae9a3"
+    "etag": "\"6af09e34-7410\"",
+    "lastModified": "Sun, 08 Nov 2026 16:07:16 GMT",
+    "contentHash": "54b00a44cfc8fe58018e4872d4493aaf41b175048cf5d4fad7ba9d16164b2789"
   },
   {
     "id": "a8733cb8aedfe418",
     "municipalityCode": "362034",
     "url": "https://www.city.komatsushima.lg.jp/docs/2776897.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:41+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:41+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:34+00:00",
     "coveredYears": [
       2023
     ],
@@ -74784,9 +74784,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac99023-6b71\"",
-    "lastModified": "Sat, 10 Oct 2026 01:08:51 GMT",
-    "contentHash": "b6f03305fb06c7ef422f713edbbda3dda32ee31dc102b5576aa081870e38b2e1"
+    "etag": "\"6af09e5f-6bae\"",
+    "lastModified": "Sun, 08 Nov 2026 16:07:59 GMT",
+    "contentHash": "8e4ce0f8e8338b4b256b1144aa6b3ee81cbf34847c423730f4891c10a8b752fe"
   },
   {
     "id": "3a5cec0ed33284f6",
@@ -74853,9 +74853,9 @@
     "municipalityCode": "362069",
     "url": "https://www.city.awa.lg.jp/docs/2026080300029/file_contents/nyuusatsukekkahyou.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:43+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:43+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:35+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "小型動力ポンプ付積載車入札結果表[PDF：92.9KB]",
@@ -74886,9 +74886,9 @@
     "municipalityCode": "362069",
     "url": "https://www.city.awa.lg.jp/docs/2026060500029/file_contents/R080529-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:44+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:44+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:36+00:00",
     "coveredYears": [
       2026
     ],
@@ -74897,8 +74897,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab9bfea-1c23e\"",
-    "lastModified": "Mon, 28 Sep 2026 01:16:26 GMT",
+    "etag": "\"6ae291a1-1c23e\"",
+    "lastModified": "Thu, 29 Oct 2026 00:21:53 GMT",
     "contentHash": "2a439875072900ffe5b263f6d92f64a5e80f1585999d75e098e7849c87eab7d2"
   },
   {
@@ -74906,9 +74906,9 @@
     "municipalityCode": "362069",
     "url": "https://www.city.awa.lg.jp/docs/2026060500029/file_contents/R080529-2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:45+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:45+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:37+00:00",
     "coveredYears": [
       2026
     ],
@@ -74917,8 +74917,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab9bfea-1ae9d\"",
-    "lastModified": "Mon, 28 Sep 2026 01:16:26 GMT",
+    "etag": "\"6ae291a1-1ae9d\"",
+    "lastModified": "Thu, 29 Oct 2026 00:21:53 GMT",
     "contentHash": "e7e1d0e140fc7eef3df39c1cbe269188bb98fcfe949b056b28a1eccef8783517"
   },
   {
@@ -74926,9 +74926,9 @@
     "municipalityCode": "362069",
     "url": "https://www.city.awa.lg.jp/docs/2026060500029/file_contents/R080529-3.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:45+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:45+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:37+00:00",
     "coveredYears": [
       2026
     ],
@@ -74937,8 +74937,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab9bfea-12909\"",
-    "lastModified": "Mon, 28 Sep 2026 01:16:26 GMT",
+    "etag": "\"6ae291a1-12909\"",
+    "lastModified": "Thu, 29 Oct 2026 00:21:53 GMT",
     "contentHash": "9867553936c343cf7ea2c8930022c3495756b8b66d70a2cb5f77561c46a3db19"
   },
   {
@@ -74946,9 +74946,9 @@
     "municipalityCode": "362069",
     "url": "https://www.city.awa.lg.jp/docs/2026060500029/file_contents/R080529-4.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:46+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:46+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:38+00:00",
     "coveredYears": [
       2026
     ],
@@ -74957,8 +74957,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab9bfea-bd7c\"",
-    "lastModified": "Mon, 28 Sep 2026 01:16:26 GMT",
+    "etag": "\"6ae291a1-bd7c\"",
+    "lastModified": "Thu, 29 Oct 2026 00:21:53 GMT",
     "contentHash": "a80e61af53a9be7417813cc8a44123ce9918a7aa3b8f0b86adf13771d79ca3c1"
   },
   {
@@ -74966,9 +74966,9 @@
     "municipalityCode": "362069",
     "url": "https://www.city.awa.lg.jp/docs/2026060500029/file_contents/R080623-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:47+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:47+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:39+00:00",
     "coveredYears": [
       2026
     ],
@@ -74977,8 +74977,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ab9bfea-2090f\"",
-    "lastModified": "Mon, 28 Sep 2026 01:16:26 GMT",
+    "etag": "\"6ae291a1-2090f\"",
+    "lastModified": "Thu, 29 Oct 2026 00:21:53 GMT",
     "contentHash": "fdad0a9ca480fdbf2629cffc6ac01601cae8a93e8409aa4a7ffadb0bff6bb1ce"
   },
   {
@@ -75001,9 +75001,9 @@
     "municipalityCode": "272035",
     "url": "https://www.city.toyonaka.osaka.jp/jigyosya/proposal/kekka/reiwa8/R8schoolLED.files/senteikekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:49+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:49+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:41+00:00",
     "coveredYears": [
       2026
     ],
@@ -120825,9 +120825,9 @@
     "municipalityCode": "294241",
     "url": "https://www.town.kanmaki.nara.jp/material/files/group/4/20260724nyuusatukekkakouhyousyo.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:28+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:28+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:21+00:00",
     "coveredYears": [
       2026
     ],
@@ -120838,16 +120838,16 @@
     "active": true,
     "etag": "\"6a62c0c5-29672\"",
     "lastModified": "Fri, 24 Jul 2026 01:32:53 GMT",
-    "contentHash": "66d57840019f58dcfbadf58f199a70c73288429bb4146ab5fdc3f695994ccd0f"
+    "contentHash": null
   },
   {
     "id": "323d1e76e5d6b1fa",
     "municipalityCode": "294241",
     "url": "https://www.town.kanmaki.nara.jp/material/files/group/4/2026087nyuusatukekkakouhyousyo.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:29+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:29+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:22+00:00",
     "coveredYears": [
       2026
     ],
@@ -120858,16 +120858,16 @@
     "active": true,
     "etag": "\"6ac45ed6-267f3\"",
     "lastModified": "Tue, 06 Oct 2026 02:37:10 GMT",
-    "contentHash": "a3ecb3a8d7bc11561ab527891c1f6f24f6e15c6ae09a6726e5d2440e9daf1c92"
+    "contentHash": null
   },
   {
     "id": "b7b68f4e42e505be",
     "municipalityCode": "294241",
     "url": "https://www.town.kanmaki.nara.jp/material/files/group/4/20260918nyuusatukekkaitirann.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-10T01:56:30+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:30+00:00",
+    "lastFailureAt": "2026-11-08T19:00:23+00:00",
+    "nextCrawlAt": "2026-11-09T07:00:23+00:00",
     "coveredYears": [
       2026
     ],
@@ -120878,16 +120878,17 @@
     "active": true,
     "etag": "\"6ab1bbd4-35848\"",
     "lastModified": "Mon, 21 Sep 2026 23:20:52 GMT",
-    "contentHash": "596c448240425f1a35212ac857f8e5e90945bd56f6054217c136233ae43a567c"
+    "contentHash": "596c448240425f1a35212ac857f8e5e90945bd56f6054217c136233ae43a567c",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.kanmaki.nara.jp/material/files/group/4/20260918nyuusatukekkaitirann.pdf"
   },
   {
     "id": "af0994fc44068262",
     "municipalityCode": "294241",
     "url": "https://www.town.kanmaki.nara.jp/material/files/group/4/20260918nyuusatukekkakouhyousyo.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T01:56:30+00:00",
+    "lastSuccessAt": "2026-11-08T19:00:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T01:56:30+00:00",
+    "nextCrawlAt": "2026-11-11T19:00:24+00:00",
     "coveredYears": [
       2026
     ],
@@ -120898,7 +120899,7 @@
     "active": true,
     "etag": "\"6ab1c0fe-3170a\"",
     "lastModified": "Mon, 21 Sep 2026 23:42:54 GMT",
-    "contentHash": "978511b0ca0db1cbd2420b2126523b590420e69081b6879a95beb016208ab8c4"
+    "contentHash": null
   },
   {
     "id": "3dc3c0b284a43a7a",
@@ -133286,44 +133287,57 @@
     "municipalityCode": "342106",
     "url": "https://www.city.shobara.hiroshima.jp/main/buppinkekkaR808.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-11-08T19:00:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-11-11T19:00:17+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "102KB",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"198ba-65e3aaf27d000\"",
+    "lastModified": "Tue, 20 Oct 2026 00:26:40 GMT",
+    "contentHash": "f4a82c5a12a5bf2302ae62dbdcd1e48f81cc3e00812b246802bab64fd09b5c8d"
   },
   {
     "id": "fa1427e65079e3dc",
     "municipalityCode": "294241",
     "url": "https://www.town.kanmaki.nara.jp/material/files/group/4/20261015nyuusatukekkaitirann.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-11-08T19:00:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-11-11T19:00:19+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年度 入札結果 (PDFファイル: 219.7KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6ad15f59-36e9e\"",
+    "lastModified": "Thu, 15 Oct 2026 23:18:49 GMT",
+    "contentHash": "817587c9592a30e79f2a53772259fa6aa71d36b970899e0d3b5f81d8b419db50"
   },
   {
     "id": "fc22d9dedd64782a",
     "municipalityCode": "294241",
     "url": "https://www.town.kanmaki.nara.jp/material/files/group/4/20261015nyuusatukekkakouhyousyo.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-11-08T19:00:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-11-11T19:00:20+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年度 入札結果・契約情報公表書及び入札結果公表書(令和8年10月5日実施分) (PDFファイル: 219.3KB)",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"6ad16311-36d2c\"",
+    "lastModified": "Thu, 15 Oct 2026 23:34:41 GMT",
+    "contentHash": "db494871d625ab58341c672145a1eacc6e56d7794a6682f6e79766fa39f84785"
   }
 ]
