@@ -16542,7 +16542,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "シルバー人材センター等に関する随意契約の公表",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -19606,7 +19606,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果の公表",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"6ad96890-3f57\"",
@@ -19624,7 +19624,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果等の公表",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"6ad968a9-773a\"",
@@ -54255,7 +54255,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札・プロポーザル結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"4a6b-65f1d76f6fcbd\"",
@@ -70324,7 +70324,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "プロポーザル参加資格審査結果 PDF形式 ：46.8ＫＢ",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"bb2d-5e0e80e822d00-gzip\"",
@@ -70342,7 +70342,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "小田原市下水道管路包括的維持管理業務事業者の選定に関する優先交渉権者の決定について PDF形式 ：83.9ＫＢ",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"14f80-5e550f00bc1c0-gzip\"",
@@ -70360,7 +70360,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "01_募集要項 PDF形式 ：620ＫＢ",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -70375,7 +70375,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "要求水準書 PDF形式 ：5.7ＭＢ",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -77540,9 +77540,9 @@
     "municipalityCode": "392014",
     "url": "https://www.city.kochi.kochi.jp/uploaded/attachment/157099.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T20:16:41+00:00",
+    "lastSuccessAt": "2026-11-10T04:47:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T20:16:41+00:00",
+    "nextCrawlAt": "2026-11-13T04:47:56+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "審査結果はこちら [PDFファイル／180KB]",
@@ -77573,9 +77573,9 @@
     "municipalityCode": "374041",
     "url": "https://www.town.tadotsu.kagawa.jp/shigoto_sangyo/nyusatsu_keiyaku/nyusatsukekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T20:16:42+00:00",
+    "lastSuccessAt": "2026-11-10T04:47:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T20:16:42+00:00",
+    "nextCrawlAt": "2026-11-13T04:47:56+00:00",
     "coveredYears": [
       2022
     ],
@@ -77584,9 +77584,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6ac58b91-ac21\"",
-    "lastModified": "Wed, 07 Oct 2026 00:00:17 GMT",
-    "contentHash": "8d8830564fc29bdafa5c8ffc160aa7574aacf2df668d85cbcae25c5ff43f8efe"
+    "etag": "W/\"6aebc733-af73\"",
+    "lastModified": "Thu, 05 Nov 2026 00:00:51 GMT",
+    "contentHash": "8c2d2452348bb6933d2c8d93311c27c1dfa3c77eabbb5e1ce02cca66a1ea0b08"
   },
   {
     "id": "2a50ede774af7782",
@@ -77713,60 +77713,60 @@
     "municipalityCode": "402028",
     "url": "https://www.city.omuta.lg.jp/list00178.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T20:16:45+00:00",
+    "lastSuccessAt": "2026-11-10T04:47:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T20:16:45+00:00",
+    "nextCrawlAt": "2026-11-13T04:47:59+00:00",
     "coveredYears": [
       2011
     ],
     "sourceType": "result",
     "title": "入札結果表(工事)",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"975dc75e1f52dd1:0\"",
-    "lastModified": "Fri, 02 Oct 2026 03:37:37 GMT",
-    "contentHash": "16944603ef5ab5abe5c3e3631a541d3d4dc42dd6d17b0005590a0a4b57a8edc9"
+    "etag": "\"dded157eb370dd1:0\"",
+    "lastModified": "Tue, 10 Nov 2026 01:33:30 GMT",
+    "contentHash": "a008bcb4424b04e42bdd6b6d791633b313cb6b1bcfd16fb077fd30af1452470b"
   },
   {
     "id": "9627a1cb927944f5",
     "municipalityCode": "402028",
     "url": "https://www.city.omuta.lg.jp/list00179.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T20:16:46+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T20:16:46+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:00+00:00",
     "coveredYears": [
       2011
     ],
     "sourceType": "result",
     "title": "入札結果表(業務委託)",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"b4478919456dd1:0\"",
-    "lastModified": "Wed, 07 Oct 2026 02:32:29 GMT",
-    "contentHash": "df0f56aee02c13f1aa24e01e47c440c072a834c63ff455bc853667ad361b64eb"
+    "etag": "\"4745cbeab6ddd1:0\"",
+    "lastModified": "Fri, 06 Nov 2026 05:00:29 GMT",
+    "contentHash": "32d3c9cdc19a7cf36b967ea77aeec5366a7b7528ad27a282a7b27c22d07a4617"
   },
   {
     "id": "259c20b8a2053f86",
     "municipalityCode": "402028",
     "url": "https://www.city.omuta.lg.jp/list00180.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T20:16:47+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T20:16:47+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:01+00:00",
     "coveredYears": [
       2011
     ],
     "sourceType": "result",
     "title": "入札結果表(物品)",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"b1b84da65c44dd1:0\"",
-    "lastModified": "Mon, 14 Sep 2026 15:21:00 GMT",
-    "contentHash": null
+    "etag": "\"e451f42c56cdd1:0\"",
+    "lastModified": "Thu, 05 Nov 2026 01:30:36 GMT",
+    "contentHash": "9a5d6768ee01c4212c8eb00f71f3d8ca505c21df46101b91d4e487a9f33ab32c"
   },
   {
     "id": "2439a1f282a90074",
@@ -77779,7 +77779,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "特定随意契約の公表",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -77863,9 +77863,9 @@
     "municipalityCode": "402028",
     "url": "https://www.city.omuta.lg.jp/kiji00321592/3_21592_130991_up_mub168mc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T20:16:47+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T20:16:47+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:01+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "03.別紙 最優先交渉権者協議要領（PDF：177.6キロバイト）",
@@ -77926,9 +77926,9 @@
     "municipalityCode": "402028",
     "url": "https://www.city.omuta.lg.jp/kiji00317476/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T20:16:48+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T20:16:48+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:02+00:00",
     "coveredYears": [
       2011,
       2023,
@@ -77939,18 +77939,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"81d026645d44dd1:0\"",
-    "lastModified": "Mon, 14 Sep 2026 15:26:19 GMT",
-    "contentHash": null
+    "etag": "\"1ebcb63fa760dd1:0\"",
+    "lastModified": "Tue, 20 Oct 2026 15:25:33 GMT",
+    "contentHash": "ec3fb0c7ab1ff66fb2d62ede66adfbcd31648fd996f28fd9ce961f4c79a1149a"
   },
   {
     "id": "1dbe1f1c1f459a74",
     "municipalityCode": "402028",
     "url": "https://www.city.omuta.lg.jp/kiji00320124/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T20:16:49+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T20:16:49+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:03+00:00",
     "coveredYears": [
       2011
     ],
@@ -77959,18 +77959,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"f8beca25d44dd1:0\"",
-    "lastModified": "Mon, 14 Sep 2026 15:28:03 GMT",
-    "contentHash": null
+    "etag": "\"7a90746ea760dd1:0\"",
+    "lastModified": "Tue, 20 Oct 2026 15:26:51 GMT",
+    "contentHash": "f15fda1f32fb46dcf88eab25f1bc766752b3205aaf733ad104c85e545610423f"
   },
   {
     "id": "6c937b0ad2702dd8",
     "municipalityCode": "402028",
     "url": "https://www.city.omuta.lg.jp/kiji00320364/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T20:16:49+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T20:16:49+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:04+00:00",
     "coveredYears": [
       2011,
       2025
@@ -77980,18 +77980,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"fb2528ab5d44dd1:0\"",
-    "lastModified": "Mon, 14 Sep 2026 15:28:18 GMT",
-    "contentHash": null
+    "etag": "\"f9c2777aa760dd1:0\"",
+    "lastModified": "Tue, 20 Oct 2026 15:27:12 GMT",
+    "contentHash": "95f26975734fdd6135e25196a509792250cd118d29fed96b4894de5bb6b272ca"
   },
   {
     "id": "7c842a836967bf98",
     "municipalityCode": "402028",
     "url": "https://www.city.omuta.lg.jp/kiji00320434/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T20:16:50+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T20:16:50+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:04+00:00",
     "coveredYears": [
       2011,
       2025
@@ -78001,18 +78001,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"5d5531ad5d44dd1:0\"",
-    "lastModified": "Mon, 14 Sep 2026 15:28:21 GMT",
-    "contentHash": null
+    "etag": "\"19ee647ea760dd1:0\"",
+    "lastModified": "Tue, 20 Oct 2026 15:27:18 GMT",
+    "contentHash": "79ed6432f70da96cc1b178c66dca38e60714a3001d2c6105519c945cfb725125"
   },
   {
     "id": "b3bbee392a701a89",
     "municipalityCode": "402028",
     "url": "https://www.city.omuta.lg.jp/kiji00320747/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:44:54+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:44:54+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:06+00:00",
     "coveredYears": [
       2011,
       2025
@@ -78022,18 +78022,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"cffb6bb75d44dd1:0\"",
-    "lastModified": "Mon, 14 Sep 2026 15:28:39 GMT",
-    "contentHash": null
+    "etag": "\"7c2c668ba760dd1:0\"",
+    "lastModified": "Tue, 20 Oct 2026 15:27:40 GMT",
+    "contentHash": "dc6f06a95640877696c31026a690cdca2d2970f9ccfc047284b5ca0443d75016"
   },
   {
     "id": "44428739671d95f0",
     "municipalityCode": "402028",
     "url": "https://www.city.omuta.lg.jp/kiji00321074/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:44:54+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:44:54+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:07+00:00",
     "coveredYears": [
       2011,
       2025,
@@ -78044,18 +78044,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"b48d94c45d44dd1:0\"",
-    "lastModified": "Mon, 14 Sep 2026 15:29:01 GMT",
-    "contentHash": null
+    "etag": "\"b147795a760dd1:0\"",
+    "lastModified": "Tue, 20 Oct 2026 15:27:57 GMT",
+    "contentHash": "a8b91934820389205bcbace01ab0507f46c66e79cd01b5802e6c800f1cd7f395"
   },
   {
     "id": "24a1d2fcd423023b",
     "municipalityCode": "402028",
     "url": "https://www.city.omuta.lg.jp/kiji00321380/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:44:55+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:44:55+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:08+00:00",
     "coveredYears": [
       2011,
       2026
@@ -78065,9 +78065,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"837cd8d65d44dd1:0\"",
-    "lastModified": "Mon, 14 Sep 2026 15:29:31 GMT",
-    "contentHash": null
+    "etag": "\"f9dc9b6a760dd1:0\"",
+    "lastModified": "Tue, 20 Oct 2026 15:28:52 GMT",
+    "contentHash": "047fcd0e4b82de2c18749de804329ce31de19032eb5e58824dd62514971c35ab"
   },
   {
     "id": "e85090ef9c2f20eb",
@@ -78089,9 +78089,9 @@
     "municipalityCode": "422100",
     "url": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/koji_hatchu/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:44:56+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:44:56+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:09+00:00",
     "coveredYears": [
       2024
     ],
@@ -78100,18 +78100,18 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac74a1b-b631\"",
-    "lastModified": "Thu, 08 Oct 2026 07:45:31 GMT",
-    "contentHash": "0ace744a424c20a7a83e9a41090fd2f604a3380d501b30c7edf7f1912a6a421e"
+    "etag": "\"6af257ad-b62d\"",
+    "lastModified": "Mon, 09 Nov 2026 23:30:53 GMT",
+    "contentHash": "94862adda786bd40be6513f17db3137c7d815a085989ca080b4fdf3dcc013a6e"
   },
   {
     "id": "5711f10830b9cff3",
     "municipalityCode": "422100",
     "url": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/nyusatsukoukoku_1/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:44:56+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:09+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:44:56+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:09+00:00",
     "coveredYears": [
       2025
     ],
@@ -78120,9 +78120,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac6dab5-b314\"",
-    "lastModified": "Wed, 07 Oct 2026 23:50:13 GMT",
-    "contentHash": "9afca462e9f135df9b9fd63012d3507bc5c67aa2f8193984b83ca47829492485"
+    "etag": "\"6aeacddd-b310\"",
+    "lastModified": "Wed, 04 Nov 2026 06:17:01 GMT",
+    "contentHash": "88acb3866642dac26ae72ad8219b008f7774ee790990b2629c76797290e397ba"
   },
   {
     "id": "7060e47fbf0fe28d",
@@ -78234,9 +78234,9 @@
     "municipalityCode": "393860",
     "url": "https://www.town.ino.kochi.jp/gikai/pdf/kaigi_2606.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:44:57+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:44:57+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:11+00:00",
     "coveredYears": [
       2026
     ],
@@ -78245,18 +78245,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6155e-654704bd46ae2\"",
-    "lastModified": "Wed, 17 Jun 2026 10:12:25 GMT",
-    "contentHash": null
+    "etag": "\"6155e-65e69c4a44d62\"",
+    "lastModified": "Thu, 22 Oct 2026 08:37:03 GMT",
+    "contentHash": "541aee1b80b90d7b2197396d0ae982fd1e25b547466fedc60e7d0994e463e9f5"
   },
   {
     "id": "6a0bfb4fa8dbb748",
     "municipalityCode": "393860",
     "url": "https://www.town.ino.kochi.jp/gikai/pdf/kaigi_2602.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:44:58+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:44:58+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:12+00:00",
     "coveredYears": [
       2026
     ],
@@ -78265,18 +78265,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6f01a-64d4c919d7899\"",
-    "lastModified": "Wed, 18 Mar 2026 13:38:36 GMT",
-    "contentHash": null
+    "etag": "\"6f01a-65e69c4a0caef\"",
+    "lastModified": "Thu, 22 Oct 2026 08:37:03 GMT",
+    "contentHash": "06c9acf822f07020f58ce561c0563408c253d850d404486576573ae71b5575d9"
   },
   {
     "id": "d3893dde65a73ec9",
     "municipalityCode": "393860",
     "url": "https://www.town.ino.kochi.jp/gikai/pdf/kaigi_2601.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:44:58+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:44:58+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:12+00:00",
     "coveredYears": [
       2026
     ],
@@ -78285,18 +78285,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"14a53-6496de10939d0\"",
-    "lastModified": "Wed, 28 Jan 2026 07:42:16 GMT",
-    "contentHash": null
+    "etag": "\"14a53-65e69c49d40ad\"",
+    "lastModified": "Thu, 22 Oct 2026 08:37:03 GMT",
+    "contentHash": "06c90d87bfbbc2022f5f0f33694b56e224f35662d319e9cae33c24dfc19a1658"
   },
   {
     "id": "89c853a8c286031f",
     "municipalityCode": "393860",
     "url": "https://www.town.ino.kochi.jp/pdf/post19281_3.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:44:59+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:44:59+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:13+00:00",
     "coveredYears": [
       2026
     ],
@@ -78305,18 +78305,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"2944e-656b794c7ff80\"",
-    "lastModified": "Thu, 16 Jul 2026 10:05:35 GMT",
-    "contentHash": null
+    "etag": "\"2944e-65e6b0d5ac282\"",
+    "lastModified": "Thu, 22 Oct 2026 10:08:58 GMT",
+    "contentHash": "f5ef4a95521042915139f97d38864223435fbcfa067e2c6e3e09e5d37d7f9e9c"
   },
   {
     "id": "77caf0fdbddf5e30",
     "municipalityCode": "400009",
     "url": "https://www.pref.fukuoka.lg.jp/bid-info/r7joukasouijikanrikekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:01+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:01+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:15+00:00",
     "coveredYears": [
       2025,
       2026
@@ -78326,18 +78326,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"e807-65d7fccfe8942\"",
-    "lastModified": "Sat, 10 Oct 2026 17:29:01 GMT",
-    "contentHash": "d3ec433e8a9fdb9adea13362697939b465037be6d17024b6317d996e95cf43f2"
+    "etag": "\"e807-65fdb41f87a7b\"",
+    "lastModified": "Mon, 09 Nov 2026 17:26:09 GMT",
+    "contentHash": "f3b35ea224d3647f44be67793179f9a98eb0107be154609dfae4cc624897d526"
   },
   {
     "id": "29d157bc611597e1",
     "municipalityCode": "400009",
     "url": "https://www.pref.fukuoka.lg.jp/bid-info/r7joukasouijikanrikekkanyusatsu.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:01+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:01+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:15+00:00",
     "coveredYears": [
       2025
     ],
@@ -78346,18 +78346,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"e7ef-65d7fbe47a89c\"",
-    "lastModified": "Sat, 10 Oct 2026 17:24:54 GMT",
-    "contentHash": "d949167a7b9a86d264f1823df2e8116f665ed0c498a5f0e2c2ac795ef1844623"
+    "etag": "\"e7ef-65fdb36e287ec\"",
+    "lastModified": "Mon, 09 Nov 2026 17:23:03 GMT",
+    "contentHash": "bfbdc9c509b20390f780d0eb4fa518dfc2a95640a51b1ec51eb7b1693358bbb1"
   },
   {
     "id": "8667ee5b2aa2f399",
     "municipalityCode": "400009",
     "url": "https://www.pref.fukuoka.lg.jp/bid-info/simulation-soft-contract-bid-result.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:02+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:02+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:16+00:00",
     "coveredYears": [
       2026
     ],
@@ -78366,36 +78366,36 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"eb50-65d7fc82ec710\"",
-    "lastModified": "Sat, 10 Oct 2026 17:27:41 GMT",
-    "contentHash": "81fb2d28cfab4646ed62fa7b1ca13ddc58e530531f3fad4471e8f234dce4bcbd"
+    "etag": "\"eb50-65fdb3e8a611b\"",
+    "lastModified": "Mon, 09 Nov 2026 17:25:11 GMT",
+    "contentHash": "e411d1f2841062879c3c783debb5c6cd7f5009e872176267afb6a6ed404716ae"
   },
   {
     "id": "fdc570272ca43c75",
     "municipalityCode": "400009",
     "url": "https://www.pref.fukuoka.lg.jp/contents/doboku-printer-kekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:02+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:02+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:17+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果の公表について（土木情報システムに係る大判プリンタの賃貸借及び保守業務）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"f996-65d7fbabd4c2f\"",
-    "lastModified": "Sat, 10 Oct 2026 17:23:55 GMT",
-    "contentHash": "c8e6d48526f8f8bb5a31453ec0f8ff7f7840cb2746b69605ca8a1ab796a4caff"
+    "etag": "\"f996-65fdb345d272e\"",
+    "lastModified": "Mon, 09 Nov 2026 17:22:21 GMT",
+    "contentHash": "b83ea0cceaabad52f6c6d8d22ab98b94e6ca12f1973520cca5f13bd07c774748"
   },
   {
     "id": "c1307efb21d4e73e",
     "municipalityCode": "400009",
     "url": "https://www.pref.fukuoka.lg.jp/contents/kouyoushaninnihokennkekka2026.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:03+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:03+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:17+00:00",
     "coveredYears": [
       2026
     ],
@@ -78404,9 +78404,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"fb04-65d7fc7cd7e16\"",
-    "lastModified": "Sat, 10 Oct 2026 17:27:34 GMT",
-    "contentHash": "96354fe7ecf72b801bc5a1622d110717735556722b9c7eacead8f40e880e6866"
+    "etag": "\"fb04-65fdb3e41d0eb\"",
+    "lastModified": "Mon, 09 Nov 2026 17:25:07 GMT",
+    "contentHash": "fe54ce61eabd7add257c3e66262b507873d4e4b161c1741ee055327934181af7"
   },
   {
     "id": "7a468ad70956011e",
@@ -78533,9 +78533,9 @@
     "municipalityCode": "402311",
     "url": "https://www.city.nakagawa.lg.jp/uploaded/attachment/31300.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:04+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:04+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:19+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "指定管理者労働条件審査業務委託 [PDFファイル／46KB]",
@@ -78686,9 +78686,9 @@
     "municipalityCode": "402311",
     "url": "https://www.city.nakagawa.lg.jp/soshiki/47/nyusatukekka-buppinekimu06.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:05+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:05+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:19+00:00",
     "coveredYears": [
       2024
     ],
@@ -78697,18 +78697,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"640f-65d8491346fb5\"",
-    "lastModified": "Sat, 10 Oct 2026 23:10:13 GMT",
-    "contentHash": "e559724110e7506601721707fd2c909d05ee8402efcd5d01f1d838b146805796"
+    "etag": "\"640f-65fe44142c57c\"",
+    "lastModified": "Tue, 10 Nov 2026 04:10:12 GMT",
+    "contentHash": "0923d1d78ebb1f8301a9547c1efc133fcae31efca1697c21fad8ca3103a81ef4"
   },
   {
     "id": "f97de7c3fc89dd5d",
     "municipalityCode": "402311",
     "url": "https://www.city.nakagawa.lg.jp/soshiki/47/nyusatukekka-itaku06.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:06+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:06+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:20+00:00",
     "coveredYears": [
       2024
     ],
@@ -78717,9 +78717,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"b4fa-65d849134351e\"",
-    "lastModified": "Sat, 10 Oct 2026 23:10:13 GMT",
-    "contentHash": "26059a27669d4b81e733b0fc524635a22e9e7373d8b5bbc5fdb210c7062179b6"
+    "etag": "\"b4fa-65fe441428ecc\"",
+    "lastModified": "Tue, 10 Nov 2026 04:10:12 GMT",
+    "contentHash": "20dd529fb908a4b8650674dc0cc60ddadd66dfed0214867c60f0d710672ec2e5"
   },
   {
     "id": "15fff6f64a2ebe9b",
@@ -78741,18 +78741,18 @@
     "municipalityCode": "072036",
     "url": "https://www.city.koriyama.lg.jp/site/keiyakuportal/25472.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:08+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:08+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:23+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "健康長寿課所管のその他の業務委託の入札結果",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"ed30-65d8484c3736e\"",
-    "lastModified": "Sat, 10 Oct 2026 23:06:44 GMT",
-    "contentHash": "bb04943635c1920f34e7c902f533f44189495f0eb785044a870c9e5e2970144a"
+    "etag": "\"ef79-65fe43464af65\"",
+    "lastModified": "Tue, 10 Nov 2026 04:06:36 GMT",
+    "contentHash": "f650954edf11a38f3f7a9270d52e297a0fdf70d97864df1e6d09bf671bc93829"
   },
   {
     "id": "cc8ab297af651e67",
@@ -78774,18 +78774,18 @@
     "municipalityCode": "010006",
     "url": "https://www.pref.hokkaido.lg.jp/sm/kmc/a0006/b04/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:08+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:08+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:23+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果等の公表",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"6acacbf6-3fa3\"",
-    "lastModified": "Sat, 10 Oct 2026 23:36:22 GMT",
-    "contentHash": "ec28b3016feb84e48a3d2001a3fa7d275756f623b6a9a915f3111209eaff851b"
+    "etag": "\"6af2a1d1-3fa3\"",
+    "lastModified": "Tue, 10 Nov 2026 04:47:13 GMT",
+    "contentHash": "7202c975ae6abb86c3d2e907f1c20db523334716a075b175b6e09bb33faaf78d"
   },
   {
     "id": "5d246d9d5da53c3f",
@@ -118630,7 +118630,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "応募資格審査結果 PDF形式 ：49.1ＫＢ",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"c44b-65c8782d9968c-gzip\"",
@@ -121347,18 +121347,18 @@
     "municipalityCode": "012360",
     "url": "https://www.city.hokuto.hokkaido.jp/docs/22015.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:44:52+00:00",
+    "lastSuccessAt": "2026-11-10T04:48:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:44:52+00:00",
+    "nextCrawlAt": "2026-11-13T04:48:06+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "【審査結果】新函館北斗駅前市有地（商業用街区）売却に係る立地企業公募型プロポーザル",
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"666d-65d699c5e161c\"",
-    "lastModified": "Fri, 09 Oct 2026 15:00:36 GMT",
-    "contentHash": "8b8d0c6d9a45d5de42f5e3d7fbcc0d1e5b450c72cf1f955c5f830c6c554ab6ea"
+    "etag": "\"65c5-65fd78bdc2665\"",
+    "lastModified": "Mon, 09 Nov 2026 13:00:29 GMT",
+    "contentHash": "30b9cdd07171cc2e3e093417374773f19705d54c3e02f8eb4b6b860402006eb1"
   },
   {
     "id": "24d8e81c349bb007",
@@ -134226,5 +134226,20 @@
     "etag": "\"6aed9fad-2192b\"",
     "lastModified": "Fri, 06 Nov 2026 09:36:45 GMT",
     "contentHash": "b5cb174cb53e6fee63dcf72de2096196d50d58b89b1c53976f09bba5db7e2b29"
+  },
+  {
+    "id": "fa836600bd173dbf",
+    "municipalityCode": "073679",
+    "url": "https://www.town.tadami.lg.jp/asahi_clinic/2026/11/06/9922ebc34941060b47791cc23f87320a.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "実施要領",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
   }
 ]
