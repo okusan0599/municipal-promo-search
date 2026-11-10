@@ -37554,7 +37554,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果・契約結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"7c60-65eb0885c5027\"",
@@ -39493,7 +39493,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"6abee9fd-aa3f\"",
@@ -79586,9 +79586,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/soshiki/zaimuka/nyusatsu_keiyaku/nyusatsu_kekka/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:56+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:56+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:36+00:00",
     "coveredYears": [
       2020
     ],
@@ -79597,18 +79597,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac741b0-c6b3\"",
-    "lastModified": "Thu, 08 Oct 2026 07:09:36 GMT",
-    "contentHash": "27e2ea3fdad1af95c1d830a4f98cce188af5c8a45a97199cc276885a5a7ad2db"
+    "etag": "\"6aed8f88-c6fe\"",
+    "lastModified": "Fri, 06 Nov 2026 08:27:52 GMT",
+    "contentHash": "084655c7b0ac183ffc5e059811b6bd509100b5cb1ca745b9662c076b36e67404"
   },
   {
     "id": "1bade55318a698e0",
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/220707-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:57+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:57+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:37+00:00",
     "coveredYears": [
       2022
     ],
@@ -79626,9 +79626,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/220728-.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:58+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:58+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:38+00:00",
     "coveredYears": [
       2022
     ],
@@ -79646,9 +79646,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/220825-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:59+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:59+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:39+00:00",
     "coveredYears": [
       2022
     ],
@@ -79666,9 +79666,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/220901-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:05:00+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:05:00+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:40+00:00",
     "coveredYears": [
       2022
     ],
@@ -79686,9 +79686,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyusatsukekka230119.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:05:01+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:05:01+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:41+00:00",
     "coveredYears": [
       2023
     ],
@@ -79706,9 +79706,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/221215.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:05:02+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:05:02+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:41+00:00",
     "coveredYears": [
       2022
     ],
@@ -79726,9 +79726,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyusatsukekka221013.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:05:03+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:05:03+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:42+00:00",
     "coveredYears": [
       2022
     ],
@@ -79746,9 +79746,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyusatsukekka_220922.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:05:03+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:05:03+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:43+00:00",
     "coveredYears": [
       2022
     ],
@@ -79766,9 +79766,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/220915.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:05:04+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:05:04+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:44+00:00",
     "coveredYears": [
       2022
     ],
@@ -79786,9 +79786,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuastsukekka_gesui10.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T13:09:02+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T13:09:02+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:53+00:00",
     "coveredYears": [
       2023
     ],
@@ -79806,9 +79806,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuatsukekka_2308010.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T13:09:03+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T13:09:03+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:53+00:00",
     "coveredYears": [
       2023
     ],
@@ -79826,9 +79826,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuatsukekka_23080300.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T13:09:04+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T13:09:04+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:54+00:00",
     "coveredYears": [
       2023
     ],
@@ -79846,9 +79846,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyusatsukekka_sogohyoka230803.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T13:09:05+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T13:09:05+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:54+00:00",
     "coveredYears": [
       2023
     ],
@@ -79866,9 +79866,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuusatukekka_060328.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T13:09:05+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T13:09:05+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:55+00:00",
     "coveredYears": [
       2024
     ],
@@ -79886,9 +79886,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuusatukekka_060321.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T13:09:06+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T13:09:06+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:55+00:00",
     "coveredYears": [
       2024
     ],
@@ -79906,9 +79906,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuusatukekka_060314.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T13:09:07+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T13:09:07+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:56+00:00",
     "coveredYears": [
       2024
     ],
@@ -79926,9 +79926,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyusatsukekka_060307.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T13:09:07+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T13:09:07+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:56+00:00",
     "coveredYears": [
       2024
     ],
@@ -79946,9 +79946,9 @@
     "municipalityCode": "152234",
     "url": "https://www.city.agano.niigata.jp/material/files/group/6/nyuusatukekka_060222.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T13:09:08+00:00",
+    "lastSuccessAt": "2026-11-10T21:01:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T13:09:08+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:57+00:00",
     "coveredYears": [
       2024
     ],
@@ -87419,10 +87419,10 @@
     "id": "755b6647d555958c",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/R7-5nyuusatu.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-17T22:21:08+00:00",
-    "lastFailureAt": "2026-10-13T22:59:56+00:00",
-    "nextCrawlAt": "2026-10-14T10:59:56+00:00",
+    "lastFailureAt": "2026-11-10T21:01:45+00:00",
+    "nextCrawlAt": "2026-11-11T21:01:45+00:00",
     "coveredYears": [
       2025
     ],
@@ -87440,10 +87440,10 @@
     "id": "7f69b24e6933ad0f",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/R7-6nyuusatu.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-17T22:21:08+00:00",
-    "lastFailureAt": "2026-10-13T22:59:57+00:00",
-    "nextCrawlAt": "2026-10-14T10:59:57+00:00",
+    "lastFailureAt": "2026-11-10T21:01:46+00:00",
+    "nextCrawlAt": "2026-11-11T21:01:46+00:00",
     "coveredYears": [
       2025
     ],
@@ -87461,10 +87461,10 @@
     "id": "03bbb6ce4f816c8b",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/R7-7nyuusatu.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-17T22:21:09+00:00",
-    "lastFailureAt": "2026-10-13T22:59:58+00:00",
-    "nextCrawlAt": "2026-10-14T10:59:58+00:00",
+    "lastFailureAt": "2026-11-10T21:01:47+00:00",
+    "nextCrawlAt": "2026-11-11T21:01:47+00:00",
     "coveredYears": [
       2025
     ],
@@ -87482,10 +87482,10 @@
     "id": "94ba04ec56ea2371",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/R7-8nyuusatu.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-17T22:21:10+00:00",
-    "lastFailureAt": "2026-10-13T22:59:59+00:00",
-    "nextCrawlAt": "2026-10-14T10:59:59+00:00",
+    "lastFailureAt": "2026-11-10T21:01:48+00:00",
+    "nextCrawlAt": "2026-11-11T21:01:48+00:00",
     "coveredYears": [
       2025
     ],
@@ -87503,10 +87503,10 @@
     "id": "5cc96f440be3b931",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/r7-10nyuusatsu.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-17T22:21:10+00:00",
-    "lastFailureAt": "2026-10-13T23:00:00+00:00",
-    "nextCrawlAt": "2026-10-14T11:00:00+00:00",
+    "lastFailureAt": "2026-11-10T21:01:49+00:00",
+    "nextCrawlAt": "2026-11-11T21:01:49+00:00",
     "coveredYears": [
       2025
     ],
@@ -87524,10 +87524,10 @@
     "id": "814a651646d3c2d9",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/r8-7nyuusatu.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-17T22:21:11+00:00",
-    "lastFailureAt": "2026-10-13T23:00:01+00:00",
-    "nextCrawlAt": "2026-10-14T11:00:01+00:00",
+    "lastFailureAt": "2026-11-10T21:01:49+00:00",
+    "nextCrawlAt": "2026-11-11T21:01:49+00:00",
     "coveredYears": [
       2026
     ],
@@ -87545,10 +87545,10 @@
     "id": "9417fdd3e4f118e1",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/r8-6nyuusatu.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-17T22:21:11+00:00",
-    "lastFailureAt": "2026-10-13T23:00:02+00:00",
-    "nextCrawlAt": "2026-10-14T11:00:02+00:00",
+    "lastFailureAt": "2026-11-10T21:01:50+00:00",
+    "nextCrawlAt": "2026-11-11T21:01:50+00:00",
     "coveredYears": [
       2026
     ],
@@ -87566,10 +87566,10 @@
     "id": "abf56fad44358af0",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/r8-5nyuusatsu.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-17T22:21:12+00:00",
-    "lastFailureAt": "2026-10-13T23:00:02+00:00",
-    "nextCrawlAt": "2026-10-14T11:00:02+00:00",
+    "lastFailureAt": "2026-11-10T21:01:51+00:00",
+    "nextCrawlAt": "2026-11-11T21:01:51+00:00",
     "coveredYears": [
       2026
     ],
@@ -87587,10 +87587,10 @@
     "id": "ab89b1973215cba2",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/r8-3nyuusatu.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-17T22:21:13+00:00",
-    "lastFailureAt": "2026-10-13T23:00:03+00:00",
-    "nextCrawlAt": "2026-10-14T11:00:03+00:00",
+    "lastFailureAt": "2026-11-10T21:01:52+00:00",
+    "nextCrawlAt": "2026-11-11T21:01:52+00:00",
     "coveredYears": [
       2025,
       2026
@@ -87609,10 +87609,10 @@
     "id": "dee951cb6921cbf2",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/material/files/group/3/r8-2nyuusatsu.pdf",
-    "failureCount": 1,
+    "failureCount": 2,
     "lastSuccessAt": "2026-09-17T22:21:13+00:00",
-    "lastFailureAt": "2026-10-13T23:00:04+00:00",
-    "nextCrawlAt": "2026-10-14T11:00:04+00:00",
+    "lastFailureAt": "2026-11-10T21:01:52+00:00",
+    "nextCrawlAt": "2026-11-11T21:01:52+00:00",
     "coveredYears": [
       2025,
       2026
@@ -95634,10 +95634,10 @@
     "id": "17de19836dc4775c",
     "municipalityCode": "203840",
     "url": "https://www.town.iijima.lg.jp/nyusatsu/5106.html",
-    "failureCount": 2,
+    "failureCount": 3,
     "lastSuccessAt": null,
-    "lastFailureAt": "2026-10-13T09:40:34+00:00",
-    "nextCrawlAt": "2026-10-14T09:40:34+00:00",
+    "lastFailureAt": "2026-11-10T21:01:45+00:00",
+    "nextCrawlAt": "2026-11-13T21:01:45+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果等",
