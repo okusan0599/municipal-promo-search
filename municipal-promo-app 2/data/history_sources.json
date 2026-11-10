@@ -29523,7 +29523,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -29540,7 +29540,7 @@
     ],
     "sourceType": "result",
     "title": "令和5年度",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true,
     "etag": "\"8970-65f2d6802a605\"",
@@ -29560,7 +29560,7 @@
     ],
     "sourceType": "result",
     "title": "令和5年度",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true,
     "etag": "\"8bd4-65f2d6817893f\"",
@@ -29580,7 +29580,7 @@
     ],
     "sourceType": "result",
     "title": "令和6年度",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true,
     "etag": "\"880c-65f2d68753b9a\"",
@@ -78792,9 +78792,9 @@
     "municipalityCode": "402311",
     "url": "https://www.city.nakagawa.lg.jp/uploaded/attachment/31855.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:09+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:09+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:41+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "審査結果 [PDFファイル／58KB]",
@@ -78930,27 +78930,27 @@
     "municipalityCode": "142085",
     "url": "https://www.city.zushi.kanagawa.jp/jigyosha/nyusatsu/1004667/1004668/1004674.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:11+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:11+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:42+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "4年度4月入札結果情報",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"7108-65d7de0cb9f00\"",
-    "lastModified": "Sat, 10 Oct 2026 15:11:24 GMT",
-    "contentHash": "c5cfac1640fbea24efd714006ad55e8b4fb2c7e61b61b1bf26c67e8c3198b203"
+    "etag": "W/\"714a-65febcfc93785\"",
+    "lastModified": "Tue, 10 Nov 2026 13:11:08 GMT",
+    "contentHash": "1b3f938ebbed799880c66fc01db1a61aa06a24c9061f9dc69eb300d74a2f1a7e"
   },
   {
     "id": "c4d7caae0c72a95f",
     "municipalityCode": "012131",
     "url": "https://www.city.tomakomai.hokkaido.jp/files/00070500/00070598/kekkakouhyou.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:12+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:12+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:43+00:00",
     "coveredYears": [
       2026
     ],
@@ -78959,8 +78959,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"133d8-65d26745f083d\"",
-    "lastModified": "Tue, 06 Oct 2026 06:53:22 GMT",
+    "etag": "\"133d8-65f95c4f2bb4f\"",
+    "lastModified": "Fri, 06 Nov 2026 06:31:59 GMT",
     "contentHash": "eff68cdbc1505d864379df02b73332bd8172ed27674bed047d005432867b4c0c"
   },
   {
@@ -79043,9 +79043,9 @@
     "municipalityCode": "100005",
     "url": "https://www.pref.gunma.jp/site/nyuusatsu/774533.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:13+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:13+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:44+00:00",
     "coveredYears": [
       2026
     ],
@@ -79055,8 +79055,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Sat, 10 Oct 2026 17:16:57 GMT",
-    "contentHash": "238cc82b83cb70cf32a8d12a4593a8159123358cd895d15e80955cb6d5046a6c"
+    "lastModified": "Mon, 09 Nov 2026 17:15:49 GMT",
+    "contentHash": "95d7293599e09ab2de4d0030e5d42ca922e39bc79ee484325ce06bd5cf1f7b01"
   },
   {
     "id": "db4348b8ef292a8e",
@@ -79078,9 +79078,9 @@
     "municipalityCode": "151009",
     "url": "https://www.city.niigata.lg.jp/business/keiyaku/keiyaku_top/buppin-kekka/itakukanendo/keiyaku2021.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:15+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:15+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:45+00:00",
     "coveredYears": [
       2021
     ],
@@ -79091,16 +79091,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 02 Oct 2026 07:58:46 GMT",
-    "contentHash": "7aaf852d05fe118cf656c6b51a97bfed59a5bb35ec9956565cc4d042fd28edb7"
+    "contentHash": null
   },
   {
     "id": "22392747edc63d8c",
     "municipalityCode": "151009",
     "url": "https://www.city.niigata.lg.jp/business/keiyaku/keiyaku_top/buppin-kekka/itakukanendo/keiyaku2022.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:15+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:15+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:46+00:00",
     "coveredYears": [
       2022
     ],
@@ -79111,16 +79111,16 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 02 Oct 2026 07:58:46 GMT",
-    "contentHash": "c0062db6c80f30a597a3a11d9f407d1e7fe164d776b94f75f0c1b637feaeb1be"
+    "contentHash": null
   },
   {
     "id": "95af07009e0767f7",
     "municipalityCode": "151009",
     "url": "https://www.city.niigata.lg.jp/business/keiyaku/keiyaku_top/buppin-kekka/itakukanendo/keiyaku2023.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:16+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:16+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:46+00:00",
     "coveredYears": [
       2023
     ],
@@ -79131,7 +79131,7 @@
     "active": true,
     "etag": null,
     "lastModified": "Fri, 02 Oct 2026 07:58:46 GMT",
-    "contentHash": "2193b7b055d2dc7b7c90fbe54cc3a7b6e46d9717f2a761143d985d5d3dc879c8"
+    "contentHash": null
   },
   {
     "id": "c0b8a5f435a8354e",
@@ -79153,9 +79153,9 @@
     "municipalityCode": "151009",
     "url": "https://www.city.niigata.lg.jp/business/keiyaku/keiyaku_top/buppin-kekka/keiyaku20150702.files/buppin_manyual_kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:17+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:17+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:47+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "操作マニュアル（入札情報公開システム）（PDF：499KB）",
@@ -79186,9 +79186,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/060408_nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-10T23:45:18+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-13T23:45:18+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:48+00:00",
     "coveredYears": [
       2024
     ],
@@ -79206,9 +79206,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070116nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:38+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:38+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:49+00:00",
     "coveredYears": [
       2025
     ],
@@ -79226,9 +79226,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070130nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:39+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:39+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:51+00:00",
     "coveredYears": [
       2025
     ],
@@ -79246,9 +79246,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070213nyuusatukekka2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:40+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:40+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:52+00:00",
     "coveredYears": [
       2025
     ],
@@ -79266,9 +79266,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070228nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:41+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:41+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:52+00:00",
     "coveredYears": [
       2025
     ],
@@ -79286,9 +79286,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070312nyuusatukekka2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:42+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:42+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:53+00:00",
     "coveredYears": [
       2025
     ],
@@ -79306,9 +79306,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070408nyuusatukekka1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:43+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:43+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:54+00:00",
     "coveredYears": [
       2025
     ],
@@ -79326,9 +79326,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070422nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:43+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:43+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:54+00:00",
     "coveredYears": [
       2025
     ],
@@ -79346,9 +79346,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070520nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:44+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:44+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:55+00:00",
     "coveredYears": [
       2025
     ],
@@ -79366,9 +79366,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070603nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:44+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:44+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:55+00:00",
     "coveredYears": [
       2025
     ],
@@ -79386,9 +79386,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070617nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:45+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:45+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:56+00:00",
     "coveredYears": [
       2025
     ],
@@ -79406,9 +79406,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/081029nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:45+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:45+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:56+00:00",
     "coveredYears": [
       2026
     ],
@@ -79426,9 +79426,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/071216nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:46+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:46+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:57+00:00",
     "coveredYears": [
       2025
     ],
@@ -79446,9 +79446,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/071118nyuusatukekka2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:47+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:47+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:57+00:00",
     "coveredYears": [
       2025
     ],
@@ -79466,9 +79466,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/071007nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:47+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:47+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:58+00:00",
     "coveredYears": [
       2025
     ],
@@ -79486,9 +79486,9 @@
     "municipalityCode": "152056",
     "url": "https://www.city.kashiwazaki.lg.jp/material/files/group/10/070909nyuusatukekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:48+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:58+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:48+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:58+00:00",
     "coveredYears": [
       2025
     ],
@@ -79506,9 +79506,9 @@
     "municipalityCode": "152081",
     "url": "https://www.city.ojiya.niigata.jp/site/nyusatsu/nyusatu-r2kekka-buppin.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:50+00:00",
+    "lastSuccessAt": "2026-11-10T13:41:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:50+00:00",
+    "nextCrawlAt": "2026-11-13T13:41:00+00:00",
     "coveredYears": [
       2020
     ],
@@ -79517,18 +79517,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8927-65d8a4ec28864\"",
-    "lastModified": "Sun, 11 Oct 2026 06:01:08 GMT",
-    "contentHash": "9b0f44ada5b454e5ee126f30afc12058fb7fbc98f3e8e60182c6789b215c813e"
+    "etag": "\"8a57-65febac7ec87d\"",
+    "lastModified": "Tue, 10 Nov 2026 13:01:16 GMT",
+    "contentHash": "6963789345ae05e225701cd21d2cfec8d5f47fa7ff83f327dbd291e273b7bb79"
   },
   {
     "id": "ebdfefccc65bc00d",
     "municipalityCode": "152081",
     "url": "https://www.city.ojiya.niigata.jp/site/nyusatsu/nyusatu-r3kekka-buppin.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:51+00:00",
+    "lastSuccessAt": "2026-11-10T13:41:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:51+00:00",
+    "nextCrawlAt": "2026-11-13T13:41:00+00:00",
     "coveredYears": [
       2021
     ],
@@ -79537,18 +79537,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"8538-65d8a4eff3266\"",
-    "lastModified": "Sun, 11 Oct 2026 06:01:12 GMT",
-    "contentHash": "83840befb438b9e89b0e8ad32276e924030ef5182df23c77b558fef20a544fd1"
+    "etag": "\"8668-65febacb9ff6d\"",
+    "lastModified": "Tue, 10 Nov 2026 13:01:20 GMT",
+    "contentHash": "d5d6b6103dc50c95687fbdf77a35391a6f4384fd2af7508901989465cfd2bb89"
   },
   {
     "id": "e613573e085057bc",
     "municipalityCode": "152081",
     "url": "https://www.city.ojiya.niigata.jp/site/nyusatsu/nyusatu-r7kekka-kensetu.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:52+00:00",
+    "lastSuccessAt": "2026-11-10T13:41:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:52+00:00",
+    "nextCrawlAt": "2026-11-13T13:41:01+00:00",
     "coveredYears": [
       2025
     ],
@@ -79557,18 +79557,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"88fa-65d8a50cdf962\"",
-    "lastModified": "Sun, 11 Oct 2026 06:01:42 GMT",
-    "contentHash": "c75ffb2a813f85b5503cb3c9b41eb6ad9cf1e0e56a9f610395e6f116f9333afa"
+    "etag": "\"8a2a-65febaed36e19\"",
+    "lastModified": "Tue, 10 Nov 2026 13:01:55 GMT",
+    "contentHash": "d28bf688b6d9337bd5f1cc94b86cb8c9ffbae1181a53fa7c6d7142d19d8b043f"
   },
   {
     "id": "72545757cc08a5b3",
     "municipalityCode": "152081",
     "url": "https://www.city.ojiya.niigata.jp/soshiki/kikakuseisaku/nyusatu-r2kekka-kensetu.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:53+00:00",
+    "lastSuccessAt": "2026-11-10T13:41:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:53+00:00",
+    "nextCrawlAt": "2026-11-13T13:41:02+00:00",
     "coveredYears": [
       2020
     ],
@@ -79577,9 +79577,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"53ba-65d8a4eca489b\"",
-    "lastModified": "Sun, 11 Oct 2026 06:01:09 GMT",
-    "contentHash": "63e2742623f45980a22560748507138298d6fd450099d59c2cf2f97a65d8a13f"
+    "etag": "\"54ea-65febac861b56\"",
+    "lastModified": "Tue, 10 Nov 2026 13:01:16 GMT",
+    "contentHash": "5dd81ba3faa928e21c6bf4b6a8c0e05027ef56adf3ccdbcf7d9aa7eae08f3451"
   },
   {
     "id": "234e100ec967b6db",
@@ -121365,9 +121365,9 @@
     "municipalityCode": "400009",
     "url": "https://www.pref.fukuoka.lg.jp/uploaded/attachment/298542.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-11T06:04:38+00:00",
+    "lastSuccessAt": "2026-11-10T13:40:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-14T06:04:38+00:00",
+    "nextCrawlAt": "2026-11-13T13:40:51+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果表 [PDFファイル／142KB]",
@@ -134239,6 +134239,174 @@
     "sourceType": "result_pdf",
     "title": "実施要領",
     "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "f27205c39fe7c5a4",
+    "municipalityCode": "285013",
+    "url": "https://www.town.sayo.lg.jp/cms-sypher/www/event/detail.jsp?id=11622",
+    "failureCount": 0,
+    "lastSuccessAt": "2026-11-10T13:40:39+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-11-13T13:40:39+00:00",
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "第45回佐用郡美術展　審査結果",
+    "discoveryMethod": "link_discovery",
+    "priority": 1,
+    "active": true,
+    "etag": null,
+    "lastModified": null,
+    "contentHash": "e3243a88153e8a23513284e6a3bb715c17ea21edac27c341ac87e97e2f9b7fa0"
+  },
+  {
+    "id": "0008abb62660c796",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Camera_1106_mitumori.xlsx",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "見積書(Excel)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "0dab6d2635a0b699",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Camera_1106_setumei.PDF",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "説明書(PDF)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "493b36f1b4fdabe0",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Camera_1106_shiyou.PDF",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "仕様書(PDF)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "89962316be9a9d83",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Flag_1106_mitumori.xlsx",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "見積書(Excel)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "2c42b8b989992782",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Flag_1106_setumei.PDF",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "説明書(PDF)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "50ba60cedc16e11e",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Flag_1106_shiyou.PDF",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "仕様書(PDF)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "55502de79e0a3607",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Flag_1106_shiyou2.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "仕様書別紙(PDF)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "768a911adcfc6b40",
+    "municipalityCode": "342033",
+    "url": "https://www.city.takehara.lg.jp/material/files/group/4/Kodomo_1106_mitumori.xlsx",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "見積書(Excel)",
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "ad36e80285c52171",
+    "municipalityCode": "285013",
+    "url": "https://www.town.sayo.lg.jp/cms-sypher/www/life/result.jsp?life_genre=022",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "生涯学習",
+    "discoveryMethod": "result_archive_link",
+    "priority": 3,
+    "active": true
+  },
+  {
+    "id": "aea619886d83b71e",
+    "municipalityCode": "285013",
+    "url": "https://www.town.sayo.lg.jp/cms-sypher/www/tour/result.jsp?life_genre=029",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result",
+    "title": "文化・芸術",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   }
