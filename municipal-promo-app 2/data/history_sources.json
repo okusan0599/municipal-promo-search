@@ -19588,7 +19588,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"6ad9673a-6b1e\"",
@@ -37351,7 +37351,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"9389-65d130d3c815d-gzip\"",
@@ -42903,7 +42903,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"3ffe-65ecc2a101534\"",
@@ -74116,7 +74116,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "田辺中央体育館大規模改修事業に係る優先交渉者の選定結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -85096,9 +85096,9 @@
     "municipalityCode": "173614",
     "url": "https://www.town.tsubata.lg.jp/uploaded/attachment/7062.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:08+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:08+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:40+00:00",
     "coveredYears": [
       2026
     ],
@@ -85116,9 +85116,9 @@
     "municipalityCode": "173614",
     "url": "https://www.town.tsubata.lg.jp/uploaded/attachment/7114.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:09+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:09+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:40+00:00",
     "coveredYears": [
       2026
     ],
@@ -85136,9 +85136,9 @@
     "municipalityCode": "173614",
     "url": "https://www.town.tsubata.lg.jp/uploaded/attachment/7175.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:09+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:09+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:41+00:00",
     "coveredYears": [
       2026
     ],
@@ -85156,9 +85156,9 @@
     "municipalityCode": "173614",
     "url": "https://www.town.tsubata.lg.jp/uploaded/attachment/7260.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:10+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:10+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:42+00:00",
     "coveredYears": [
       2026
     ],
@@ -85176,9 +85176,9 @@
     "municipalityCode": "173614",
     "url": "https://www.town.tsubata.lg.jp/uploaded/attachment/7970.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:10+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:10+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:42+00:00",
     "coveredYears": [
       2026
     ],
@@ -85196,9 +85196,9 @@
     "municipalityCode": "173614",
     "url": "https://www.town.tsubata.lg.jp/uploaded/attachment/7877.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:11+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:11+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:43+00:00",
     "coveredYears": [
       2026
     ],
@@ -85216,9 +85216,9 @@
     "municipalityCode": "173614",
     "url": "https://www.town.tsubata.lg.jp/uploaded/attachment/7850.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:11+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:11+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:43+00:00",
     "coveredYears": [
       2026
     ],
@@ -85236,9 +85236,9 @@
     "municipalityCode": "173614",
     "url": "https://www.town.tsubata.lg.jp/uploaded/attachment/7741.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:12+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:12+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:44+00:00",
     "coveredYears": [
       2026
     ],
@@ -85256,9 +85256,9 @@
     "municipalityCode": "173614",
     "url": "https://www.town.tsubata.lg.jp/uploaded/attachment/7693.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:13+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:13+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:45+00:00",
     "coveredYears": [
       2026
     ],
@@ -85276,9 +85276,9 @@
     "municipalityCode": "082074",
     "url": "https://www.city.yuki.lg.jp/data/doc/1661926454_doc_19_0.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:13+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:13+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:47+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "⑫R4 小中学校教職員用パソコン賃借（長期継続契約） [PDF形式／95.21KB]",
@@ -85294,9 +85294,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2023/06/01/0038528/0038528.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:15+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:15+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:48+00:00",
     "coveredYears": [
       2022,
       2023
@@ -85306,18 +85306,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"144f1-65d130d616ea5-gzip\"",
-    "lastModified": "Mon, 05 Oct 2026 07:44:30 GMT",
-    "contentHash": "b2558ebc0b3561281da61c605f2f9257bac11f0e29535a8d7a5d2ebd75207806"
+    "etag": "\"144f1-65f06e87ffd44-gzip\"",
+    "lastModified": "Fri, 30 Oct 2026 04:05:35 GMT",
+    "contentHash": "75b58c102882dc38c8199114a7d4e8ed994165d7a105d65c3f10c2566766602f"
   },
   {
     "id": "134faab58d1b86a6",
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2024/12/18/00505308984/files/zuikei-07-2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:15+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:15+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:49+00:00",
     "coveredYears": [
       2024,
       2025
@@ -85336,9 +85336,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2024/12/18/00505308984/files/zuikei-07-17.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:16+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:16+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:50+00:00",
     "coveredYears": [
       2024,
       2025
@@ -85357,9 +85357,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2024/12/18/00505308984/files/kkekka-07-203-222.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:17+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:17+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:51+00:00",
     "coveredYears": [
       2024
     ],
@@ -85377,9 +85377,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2024/12/18/00505308984/files/kkekka-07-204-223.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:18+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:18+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:52+00:00",
     "coveredYears": [
       2024
     ],
@@ -85397,9 +85397,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2024/12/18/00505308984/files/zuikei-07-83-348.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:18+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:18+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:52+00:00",
     "coveredYears": [
       2024,
       2025
@@ -85418,9 +85418,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2026/05/13/00708042325/files/z-8-33-B.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:20+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:20+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:54+00:00",
     "coveredYears": [
       2026
     ],
@@ -85438,9 +85438,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2026/05/13/00708042325/files/z-8-53-B.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:20+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:20+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:55+00:00",
     "coveredYears": [
       2026
     ],
@@ -85458,9 +85458,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2026/05/13/00708042325/files/z-8-1-B.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:20+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:20+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:55+00:00",
     "coveredYears": [
       2026
     ],
@@ -85478,9 +85478,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2026/05/13/00708042325/files/z-8-3-B.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:21+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:21+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:56+00:00",
     "coveredYears": [
       2026
     ],
@@ -85498,9 +85498,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2026/05/13/00708042325/files/z-8-45-B.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:22+00:00",
+    "lastSuccessAt": "2026-11-12T21:04:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:22+00:00",
+    "nextCrawlAt": "2026-11-15T21:04:57+00:00",
     "coveredYears": [
       2026
     ],
@@ -85518,9 +85518,9 @@
     "municipalityCode": "030007",
     "url": "https://www.pref.iwate.jp/kensei/nyuusatsu/compe/kekka/1101902.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T02:13:25+00:00",
+    "lastSuccessAt": "2026-11-12T21:05:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T02:13:25+00:00",
+    "nextCrawlAt": "2026-11-15T21:05:00+00:00",
     "coveredYears": [
       2026
     ],
@@ -85529,18 +85529,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"22838-65dae92392767\"",
-    "lastModified": "Tue, 13 Oct 2026 01:16:59 GMT",
-    "contentHash": "4acd51ee7a8a096ef61f0864d893965d261be9d1d6d7411d12dba05df39f7916"
+    "etag": "W/\"22c5d-66015d87f8f0e\"",
+    "lastModified": "Thu, 12 Nov 2026 15:20:03 GMT",
+    "contentHash": "1623b68abd25a47317fe48ad69d1b75dd3817f93e81d954c276758ada896114c"
   },
   {
     "id": "f6f8fda976b7570d",
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/itakuR5-7-68.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T09:40:36+00:00",
+    "lastSuccessAt": "2026-11-12T21:05:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T09:40:36+00:00",
+    "nextCrawlAt": "2026-11-15T21:05:01+00:00",
     "coveredYears": [
       2023
     ],
@@ -85558,9 +85558,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/itakuR5-7-56.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T09:40:36+00:00",
+    "lastSuccessAt": "2026-11-12T21:05:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T09:40:36+00:00",
+    "nextCrawlAt": "2026-11-15T21:05:02+00:00",
     "coveredYears": [
       2023
     ],
@@ -85578,9 +85578,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/itakuR5-4-5.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T09:40:37+00:00",
+    "lastSuccessAt": "2026-11-12T21:05:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T09:40:37+00:00",
+    "nextCrawlAt": "2026-11-15T21:05:02+00:00",
     "coveredYears": [
       2023
     ],
@@ -85598,9 +85598,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/chintaishakuR5-4-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T09:40:38+00:00",
+    "lastSuccessAt": "2026-11-12T21:05:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T09:40:38+00:00",
+    "nextCrawlAt": "2026-11-15T21:05:03+00:00",
     "coveredYears": [
       2023
     ],
@@ -85618,9 +85618,9 @@
     "municipalityCode": "232041",
     "url": "https://www.city.seto.aichi.jp/docs/2023/03/27/00125/files/koujiR5-4-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T09:40:39+00:00",
+    "lastSuccessAt": "2026-11-12T21:05:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T09:40:39+00:00",
+    "nextCrawlAt": "2026-11-15T21:05:04+00:00",
     "coveredYears": [
       2023
     ],
@@ -85638,9 +85638,9 @@
     "municipalityCode": "282120",
     "url": "https://www.city.ako.lg.jp/soumu/keiyaku/nyuusatsujouhoukekkamitooshi.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T09:40:40+00:00",
+    "lastSuccessAt": "2026-11-12T21:05:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T09:40:40+00:00",
+    "nextCrawlAt": "2026-11-15T21:05:05+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札情報・入札結果・工事発注見通し",
@@ -85687,9 +85687,9 @@
     "municipalityCode": "010006",
     "url": "https://www.pref.hokkaido.lg.jp/hf/kst/197479.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T09:40:40+00:00",
+    "lastSuccessAt": "2026-11-12T21:05:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T09:40:40+00:00",
+    "nextCrawlAt": "2026-11-15T21:05:06+00:00",
     "coveredYears": [
       2024
     ],
@@ -85698,9 +85698,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6acdfafd-534f\"",
-    "lastModified": "Tue, 13 Oct 2026 09:33:49 GMT",
-    "contentHash": "94d75c9b5c7534ac1b55ca530a63c4def7f9d06ef3bc36d6c952de482d0a7300"
+    "etag": "\"6af629cf-534f\"",
+    "lastModified": "Thu, 12 Nov 2026 21:04:15 GMT",
+    "contentHash": "28d293e172b4ade6b5f951f55043b2f498d235e2ea4be9736f001ef675f25330"
   },
   {
     "id": "3dd09a87c5fdd9ae",
@@ -121709,9 +121709,9 @@
     "municipalityCode": "100005",
     "url": "https://www.pref.gunma.jp/site/nyuusatsu/778146.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-13T09:40:33+00:00",
+    "lastSuccessAt": "2026-11-12T21:05:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-16T09:40:33+00:00",
+    "nextCrawlAt": "2026-11-15T21:05:01+00:00",
     "coveredYears": [
       2027
     ],
@@ -121720,9 +121720,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"722c812e\"",
-    "lastModified": "Mon, 12 Oct 2026 17:17:50 GMT",
-    "contentHash": "ca29d493ff66025221e7a8c904312c30fbd8fc100dad4d72c2b7b5350f6a8c8d"
+    "etag": null,
+    "lastModified": "Thu, 12 Nov 2026 17:16:33 GMT",
+    "contentHash": "2c92ecc7af1f181665eded7675262233d4822b3d3f60f909672a868906c61c69"
   },
   {
     "id": "a1cf4943a1326abd",
