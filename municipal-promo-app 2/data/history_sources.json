@@ -26252,7 +26252,7 @@
     ],
     "sourceType": "result",
     "title": "公共施設予約システム更改・運用保守業務にかかる公募型プロポーザルの審査結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"57bc-65e2a7899e13c\"",
@@ -26270,7 +26270,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "終了したもの・選定結果",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"4c67-65e8ba208cd4d\"",
@@ -26310,8 +26310,8 @@
     ],
     "sourceType": "result",
     "title": "台東区低所得世帯エアコン購入費助成事業の優先交渉権者が決定しました。",
-    "discoveryMethod": "result_archive_link",
-    "priority": 1,
+    "discoveryMethod": "procurement_page",
+    "priority": 3,
     "active": true,
     "etag": "W/\"587b-65e2a78993d2c\"",
     "lastModified": "Mon, 19 Oct 2026 05:06:05 GMT",
@@ -48315,7 +48315,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"4cda-65eeafa40ec45\"",
@@ -48353,7 +48353,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"4ab0-65eeaf7e35a9b\"",
@@ -48371,7 +48371,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "随意契約締結状況",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -48386,7 +48386,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札・見積合わせ結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -89016,9 +89016,9 @@
     "municipalityCode": "263664",
     "url": "https://www.town.seika.kyoto.jp/jigyosha/nyusatsu/2/2/30371.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:56:56+00:00",
+    "lastSuccessAt": "2026-11-14T14:21:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:56:56+00:00",
+    "nextCrawlAt": "2026-11-17T14:21:29+00:00",
     "coveredYears": [
       2026
     ],
@@ -89027,8 +89027,8 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "W/\"6acf65c4-8cbb\"",
-    "lastModified": "Wed, 14 Oct 2026 11:21:40 GMT",
+    "etag": "W/\"6af418a1-8cbb\"",
+    "lastModified": "Wed, 11 Nov 2026 07:26:25 GMT",
     "contentHash": "c403cc18deab67ce40a86660e98e09959374517d68e22277d00bf5253b79c22b"
   },
   {
@@ -89081,9 +89081,9 @@
     "municipalityCode": "322091",
     "url": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/files/gakkou_led_kekka2606.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:56:58+00:00",
+    "lastSuccessAt": "2026-11-14T14:21:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:56:58+00:00",
+    "nextCrawlAt": "2026-11-17T14:21:30+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "審査結果資料 (56KB)",
@@ -89099,9 +89099,9 @@
     "municipalityCode": "322091",
     "url": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/files/2006_bidding_construction.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:56:59+00:00",
+    "lastSuccessAt": "2026-11-14T14:21:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:56:59+00:00",
+    "nextCrawlAt": "2026-11-17T14:21:32+00:00",
     "coveredYears": [
       2006
     ],
@@ -89119,9 +89119,9 @@
     "municipalityCode": "322091",
     "url": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/files/2006_bidding_measurement.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:00+00:00",
+    "lastSuccessAt": "2026-11-14T14:21:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:00+00:00",
+    "nextCrawlAt": "2026-11-17T14:21:33+00:00",
     "coveredYears": [
       2006
     ],
@@ -89139,9 +89139,9 @@
     "municipalityCode": "322091",
     "url": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/files/2007_bidding_construction.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:01+00:00",
+    "lastSuccessAt": "2026-11-14T14:21:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:01+00:00",
+    "nextCrawlAt": "2026-11-17T14:21:34+00:00",
     "coveredYears": [
       2007
     ],
@@ -89159,9 +89159,9 @@
     "municipalityCode": "322091",
     "url": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/files/2007_bidding_measurement.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:02+00:00",
+    "lastSuccessAt": "2026-11-14T14:21:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:02+00:00",
+    "nextCrawlAt": "2026-11-17T14:21:35+00:00",
     "coveredYears": [
       2007
     ],
@@ -89179,9 +89179,9 @@
     "municipalityCode": "322091",
     "url": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/files/2007_bidding_sougou.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:03+00:00",
+    "lastSuccessAt": "2026-11-14T14:21:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:03+00:00",
+    "nextCrawlAt": "2026-11-17T14:21:35+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "市道出来山寺谷線道路改良工事　総合評価入札結果調書 (132KB)",
@@ -89197,9 +89197,9 @@
     "municipalityCode": "322091",
     "url": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/files/2022nendokekkaitiran.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:38+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:38+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:11+00:00",
     "coveredYears": [
       2023
     ],
@@ -89217,9 +89217,9 @@
     "municipalityCode": "322091",
     "url": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/files/kodomoenhoso.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:39+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:39+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:12+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "【総合評価】木次こども園建設事業 木次こども園新園舎建設工事（駐車場整備）",
@@ -89235,9 +89235,9 @@
     "municipalityCode": "322091",
     "url": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/files/kamoBShoso.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:40+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:13+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:40+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:13+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "【総合評価】高速道路整備関連事業 加茂バスストップ駐車場舗装工事 (172KB)",
@@ -89253,9 +89253,9 @@
     "municipalityCode": "322091",
     "url": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/files/keka2kigyoudantihosou.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:40+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:40+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:14+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "【総合評価】高速道路整備関連事業 市道神原企業団地1号線舗装工事 (171KB)",
@@ -89271,9 +89271,9 @@
     "municipalityCode": "322091",
     "url": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/files/shousaisekkinodake.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:41+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:41+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:15+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "起債道路整備事業 市道霞町野竹線詳細設計業務委託【総合評価】 (90KB)",
@@ -89379,9 +89379,9 @@
     "municipalityCode": "322091",
     "url": "https://www.city.unnan.shimane.jp/unnan/sangyou/nyusatsu/nyusatsukekka/files/careeradvisor.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:42+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:42+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:16+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "審査結果 (133KB)",
@@ -89397,17 +89397,17 @@
     "municipalityCode": "330001",
     "url": "https://www.pref.okayama.jp/uploaded/life/972079_9359642_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:44+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:44+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:19+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "岡山県青少年教育センター閑谷学校冒険の森遊具整備事業に係るプロポーザル結果の公表  [PDFファイル／54KB]",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"d55d-65dbd993e5dfa\"",
-    "lastModified": "Tue, 13 Oct 2026 19:12:41 GMT",
+    "etag": "\"d55d-6602d27b8a218\"",
+    "lastModified": "Fri, 13 Nov 2026 19:08:36 GMT",
     "contentHash": "976624a77a5e24e27e7283b4d508f3dc1fba6749882e4e18b22ae8aff5c9baa7"
   },
   {
@@ -89460,17 +89460,17 @@
     "municipalityCode": "330001",
     "url": "https://www.pref.okayama.jp/uploaded/life/1035861_10024046_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:45+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:45+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:20+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "企画提案審査結果  [PDFファイル／51KB]",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"cafd-65dbd8ec70f4a\"",
-    "lastModified": "Tue, 13 Oct 2026 19:09:45 GMT",
+    "etag": "\"cafd-6602d273dab88\"",
+    "lastModified": "Fri, 13 Nov 2026 19:08:28 GMT",
     "contentHash": "b84b7630caf0ff4dd420bfabe2cdd406415ae6ab67cea5c947ef4839c9697b91"
   },
   {
@@ -89494,9 +89494,9 @@
     "municipalityCode": "342041",
     "url": "https://www.city.mihara.hiroshima.jp/site/keiyakuka/155800.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:46+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:46+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:21+00:00",
     "coveredYears": [
       2023
     ],
@@ -89505,9 +89505,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"d534-65dcc899de740\"",
-    "lastModified": "Wed, 14 Oct 2026 13:02:03 GMT",
-    "contentHash": "e154cc6d8c5970e068ca0cb1b301fd041ea4c05f7c98f3972d3e378454188c4f"
+    "etag": "\"d534-6603cfc82e3b4\"",
+    "lastModified": "Sat, 14 Nov 2026 14:01:51 GMT",
+    "contentHash": "294504936b74b39ff312647b06210ed6e7b5a2d34249c279d9006094df34a224"
   },
   {
     "id": "1a9bc8bb3d597ef7",
@@ -89529,9 +89529,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/83768_230107_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:47+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:47+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:22+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "プロポーザル審査結果  [PDFファイル／72KB]",
@@ -89539,7 +89539,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 14 Oct 2026 13:03:05 GMT",
+    "lastModified": "Sat, 14 Nov 2026 14:02:38 GMT",
     "contentHash": "3ed0a18b94ed57931864844ebe51002c6fea0795f60bc4428c4ec7a37d5a69ec"
   },
   {
@@ -89562,9 +89562,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/47263.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:48+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:48+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:22+00:00",
     "coveredYears": [
       2024
     ],
@@ -89582,9 +89582,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/47267.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:49+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:49+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:23+00:00",
     "coveredYears": [
       2024
     ],
@@ -89602,9 +89602,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/51510.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:50+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:50+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:24+00:00",
     "coveredYears": [
       2025
     ],
@@ -89622,9 +89622,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/52941.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:51+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:51+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:25+00:00",
     "coveredYears": [
       2025
     ],
@@ -89642,9 +89642,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/52966.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:51+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:25+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:51+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:25+00:00",
     "coveredYears": [
       2025
     ],
@@ -89662,9 +89662,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/58340.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:52+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:52+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:26+00:00",
     "coveredYears": [
       2026
     ],
@@ -89682,9 +89682,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/58381.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:53+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:53+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:27+00:00",
     "coveredYears": [
       2026
     ],
@@ -89702,9 +89702,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/attachment/58382.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:54+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:54+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:27+00:00",
     "coveredYears": [
       2026
     ],
@@ -89722,9 +89722,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/88927_248776_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:54+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:54+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:28+00:00",
     "coveredYears": [
       2023
     ],
@@ -89734,7 +89734,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 14 Oct 2026 13:03:06 GMT",
+    "lastModified": "Sat, 14 Nov 2026 14:02:39 GMT",
     "contentHash": "4950b0233924b08f2293daf37f0a7d086054a1565cc40f6f42685cf80ca514b3"
   },
   {
@@ -89742,9 +89742,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/88927_248777_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:55+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:55+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:28+00:00",
     "coveredYears": [
       2023
     ],
@@ -89754,7 +89754,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 14 Oct 2026 13:03:06 GMT",
+    "lastModified": "Sat, 14 Nov 2026 14:02:39 GMT",
     "contentHash": "54763a27dd2070207ddff0fb4c85ce183ad7e91874f0e540fd68377acac2835d"
   },
   {
@@ -89762,9 +89762,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/88927_248779_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T13:57:55+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T13:57:55+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:29+00:00",
     "coveredYears": [
       2024
     ],
@@ -89774,7 +89774,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 14 Oct 2026 13:03:06 GMT",
+    "lastModified": "Sat, 14 Nov 2026 14:02:39 GMT",
     "contentHash": "4b3c51132020743e8cb332a05ad41a1d1f51ed158c4070042d7cad809859cf79"
   },
   {
@@ -89782,9 +89782,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/88927_248781_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T18:50:47+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T18:50:47+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:30+00:00",
     "coveredYears": [
       2023
     ],
@@ -89794,7 +89794,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 14 Oct 2026 18:03:15 GMT",
+    "lastModified": "Sat, 14 Nov 2026 14:02:39 GMT",
     "contentHash": "134a5fe77e39be8e7bed4a8fed8e48a196e6951ad592dbd3ba3018d0f0a98d72"
   },
   {
@@ -89802,9 +89802,9 @@
     "municipalityCode": "342050",
     "url": "https://www.city.onomichi.hiroshima.jp/uploaded/life/88927_248783_misc.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-14T18:50:49+00:00",
+    "lastSuccessAt": "2026-11-14T14:22:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-17T18:50:49+00:00",
+    "nextCrawlAt": "2026-11-17T14:22:30+00:00",
     "coveredYears": [
       2024
     ],
@@ -89814,7 +89814,7 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 14 Oct 2026 18:03:15 GMT",
+    "lastModified": "Sat, 14 Nov 2026 14:02:39 GMT",
     "contentHash": "150ca21024908b01f242941344e4a76ff2ed2ee1596fe06755ec19cf1fa22f77"
   },
   {
@@ -96222,7 +96222,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "台東区放課後対策事業運営事業者の選定結果について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "W/\"6280-65d119ce15df8\"",
@@ -131893,7 +131893,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "インフルエンザ感染症対策",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
   },
@@ -131908,7 +131908,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "オレンジリボン・児童虐待防止推進キャンペーン",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
   },
@@ -131923,7 +131923,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "ホームページリニューアル",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
   },
@@ -131938,7 +131938,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "女性に対する暴力をなくす運動",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
   },
@@ -131953,7 +131953,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "妙高山初冠雪",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "link_discovery",
     "priority": 3,
     "active": true
   },

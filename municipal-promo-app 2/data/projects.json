@@ -12095,7 +12095,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/shisei/shisei/shiseihoshin/sonohoka/furusatonouzei2.html",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/shisei/shisei/shiseihoshin/sonohoka/furusatonouzei2.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -12206,7 +12206,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/kanko/kosho/rodokoyo/proposal/zeroc06.html",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/kanko/kosho/rodokoyo/proposal/zeroc06.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -12319,7 +12319,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/shisei/koho/tomakomai/shiseiyoran/siseiyouran.html",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/shisei/koho/tomakomai/shiseiyoran/siseiyouran.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -12415,7 +12415,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/shisei/shisei/shiseihoshin/senryaku/workation_r5propo.html",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/shisei/shisei/shiseihoshin/senryaku/workation_r5propo.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -12514,21 +12514,16 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/kyoiku/sports/sotaityosa.html",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/kyoiku/sports/sotaityosa.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
     ],
-    "dentsuFitScore": 40,
+    "dentsuFitScore": 22,
     "dentsuFitLevel": "low",
-    "dentsuCategories": [
-      "branding_identity"
-    ],
-    "dentsuCategoryLabels": [
-      "ブランディング・VI/CI"
-    ],
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
     "dentsuSignals": [
-      "ネーミング",
       "広報",
       "広告",
       "観光",
@@ -12639,7 +12634,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/files/00070400/00070419/kekka.pdf",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/files/00070400/00070419/kekka.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -12718,7 +12713,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/kenko/iryo/bositetyoappli.html",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/kenko/iryo/bositetyoappli.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -12832,7 +12827,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/kenko/iryo/iryoseisakukento.html",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/kenko/iryo/iryoseisakukento.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -12939,7 +12934,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/files/00070500/00070599/hearing_hyokakijun.pdf",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/files/00070500/00070599/hearing_hyokakijun.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -12989,7 +12984,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/files/00070400/00070419/01_yoryo.pdf",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/files/00070400/00070419/01_yoryo.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -13030,12 +13025,12 @@
     "municipality": "苫小牧市",
     "organization": "苫小牧市",
     "title": "患者さんへの説明動画",
-    "summary": "患者さんへの説明動画 外来診療について(外来診療日程・休診情報等) 【重要なお知らせ】長期収載品(後発医薬品のある先発医薬品)の選定療養の導入について 選定療養費変更のお知らせ 受診の予約方法 予防接種について 麻しん(はしか)に関するお知らせ 新型コロナウイルス感染症について はじめて受診される方 再来の方 お薬の処方について 事故・労災・健診窓口 1階フロアマップ ストーマ外来 おなかのヘルニア(脱腸)外来開設のお知らせ 入院案内 入院の手続 病室のご案内 入院に必要な物 入院中の診療・看護について 入院中の生活について 面会について 入院中のお願いについて 個人情報について 院内の施設 入院費用について 入院費用の請求・お支払いについて 各種相談等 緩和ケアのご案内について 病棟配置 1階フロアマップ 患者の責任と権利 診療科・部門 診療科 内科 呼吸器内科 消化器内科 循環器内科 脳神経内科 小児科・新生児科 外科・消化器外科 整形外科 形成外科 脳神経外科 皮膚科 泌尿器科 産婦人科 眼科 耳鼻咽喉科 歯科・歯科口腔外科 放射線科 病理診断科 麻酔科 部門 NICU・GCU 一般財団法人 第62回日本消化器病学会市民公開講座の開催について 化学療法 薬剤部 治験 臨床検査科 臨床工学科 放射線技術科 リハビリテーション科 栄養管理科 感染制御室 医療安全対策室 院内がん登録 ボランティア・その他 看護部・看護相談室 患者サポートセンター(地域連携) がん相談支援センター 委員会 医療倫理委員会 NST PCT委員会 医師一覧表 onlineQQ ~こどもの救急ホームページ~ を紹介します。 NCDデータベース事業 採用 職員募集 正規職員 任期付職員 会計年度任用職員 研修医募集 令和9年度採用 研修医マッチング試験 初期臨床研修医 病院見学 臨床研修修了後の進路 学資金(奨学金) 薬剤師学資金 助産師・看護師学資金 職員インタビュー 病院の概要 ご意見箱 ご意見について ご意見・回答 院長のあいさつ 苫小牧市と北海道大学病院との連携協定 地域医療支援病院の承認について 病院理念・基本方針 個人情報保護方針 院内における録音、写真撮影・動画撮影等について 沿革・概要 専門医教育施設一覧 機関指定一覧 ふるさと納税・寄附 令和7年12月2日以降、従来の健康保険証は使用できなくなります 手術支援ロボット「ダビンチ」 医療情報システム 【他の医療機関の皆様へ】針刺し損傷時の対応について 紹介受診重点医療機関について 施設基準等院内掲示 病院概要データ 経営分析比較表 経営強化プラン 苫小牧市立病院経営指標 これまでの改革プラン 病院へのアクセス 敷地内禁煙 医療費後払いサービスについて 苫小牧市立病院公式 facebook ページ 胆振・北渡島檜山地域災害拠点病院 災害等相互支援に関する協定書調印 公衆インターネット-Wi-Fi 北海道がん診療連携指定病院の指定 院内広報誌~みんなの市立病院~(7月号発行) 売店移動のお知らせ メインメニューここまで ここから本文です。 苫小牧市立病院 外来案内 患者さんへの説明動画 患者さんへの説明動画 検査説明 超音波検査(エコー)による穿刺吸引細胞診検査 https://youtu.be/1B0rtSQ8s5k 苫小牧市立病院 電話:0144-33-3131 本文ここまで ここからサブメニュー 外来案内 肥満症治療(患者さん向け) 肥満症治療(医療機関向け) 患者さんへの説明動画 外来診療について(外来診療日程・休診情報等) 【重要なお知らせ】長期収載品(後発医薬品のある先発医薬品)の選定療養の導入について 選定療養費変更のお知らせ 受診の予約方法 予防接種について 麻しん(はしか)に関するお知らせ 新型コロナウイルス感染症について はじめて受診される方 再来の方 お薬の処方について 事故・労災・健診窓口 1階フロアマップ ストーマ外来 おなかのヘルニア(脱腸)外来開設のお知らせ サブメニューここまで ここからフッターメニュー フッターメニューの文章は、読み上げされません 苫小牧市ホームページへ 〒053-8567 北海道苫小牧市清水町1丁目5番20号 電話 0144-33-3131 FAX",
+    "summary": "患者さんへの説明動画 外来診療について(外来診療日程・休診情報等) 【重要なお知らせ】長期収載品(後発医薬品のある先発医薬品)の選定療養の導入について 選定療養費変更のお知らせ 受診の予約方法 予防接種について 麻しん(はしか)に関するお知らせ 新型コロナウイルス感染症について はじめて受診される方 再来の方 お薬の処方について 事故・労災・健診窓口 1階フロアマップ ストーマ外来 おなかのヘルニア(脱腸)外来開設のお知らせ 入院案内 入院の手続 病室のご案内 入院に必要な物 入院中の診療・看護について 入院中の生活について 面会について 入院中のお願いについて 個人情報について 院内の施設 入院費用について 入院費用の請求・お支払いについて 各種相談等 緩和ケアのご案内について 病棟配置 1階フロアマップ 患者の責任と権利 診療科・部門 診療科 内科 呼吸器内科 消化器内科 循環器内科 脳神経内科 小児科・新生児科 外科・消化器外科 整形外科 形成外科 脳神経外科 皮膚科 泌尿器科 産婦人科 眼科 耳鼻咽喉科 歯科・歯科口腔外科 放射線科 病理診断科 麻酔科 部門 NICU・GCU 一般財団法人 第62回日本消化器病学会市民公開講座の開催について 化学療法 薬剤部 治験 臨床検査科 臨床工学科 放射線技術科 リハビリテーション科 栄養管理科 感染制御室 医療安全対策室 院内がん登録 ボランティア・その他 看護部・看護相談室 患者サポートセンター(地域連携) がん相談支援センター 委員会 医療倫理委員会 NST PCT委員会 医師一覧表 onlineQQ ~こどもの救急ホームページ~ を紹介します。 NCDデータベース事業 採用 職員募集 正規職員 任期付職員 会計年度任用職員 研修医募集 令和9年度採用 研修医マッチング試験 初期臨床研修医 病院見学 臨床研修修了後の進路 学資金(奨学金) 薬剤師学資金 助産師・看護師学資金 職員インタビュー 給与モデルケース 病院の概要 ご意見箱 ご意見について ご意見・回答 院長のあいさつ 苫小牧市と北海道大学病院との連携協定 地域医療支援病院の承認について 病院理念・基本方針 個人情報保護方針 院内における録音、写真撮影・動画撮影等について 沿革・概要 専門医教育施設一覧 機関指定一覧 ふるさと納税・寄附 令和7年12月2日以降、従来の健康保険証は使用できなくなります 手術支援ロボット「ダビンチ」 医療情報システム 【他の医療機関の皆様へ】針刺し損傷時の対応について 紹介受診重点医療機関について 施設基準等院内掲示 病院概要データ 経営分析比較表 経営強化プラン 苫小牧市立病院経営指標 これまでの改革プラン 病院へのアクセス 敷地内禁煙 医療費後払いサービスについて 苫小牧市立病院公式 facebook ページ 胆振・北渡島檜山地域災害拠点病院 災害等相互支援に関する協定書調印 公衆インターネット-Wi-Fi 北海道がん診療連携指定病院の指定 院内広報誌~みんなの市立病院~(7月号発行) 売店移動のお知らせ メインメニューここまで ここから本文です。 苫小牧市立病院 外来案内 患者さんへの説明動画 患者さんへの説明動画 検査説明 超音波検査(エコー)による穿刺吸引細胞診検査 https://youtu.be/1B0rtSQ8s5k 苫小牧市立病院 電話:0144-33-3131 本文ここまで ここからサブメニュー 外来案内 肥満症治療(患者さん向け) 肥満症治療(医療機関向け) 患者さんへの説明動画 外来診療について(外来診療日程・休診情報等) 【重要なお知らせ】長期収載品(後発医薬品のある先発医薬品)の選定療養の導入について 選定療養費変更のお知らせ 受診の予約方法 予防接種について 麻しん(はしか)に関するお知らせ 新型コロナウイルス感染症について はじめて受診される方 再来の方 お薬の処方について 事故・労災・健診窓口 1階フロアマップ ストーマ外来 おなかのヘルニア(脱腸)外来開設のお知らせ サブメニューここまで ここからフッターメニュー フッターメニューの文章は、読み上げされません 苫小牧市ホームページへ 〒053-8567 北海道苫小牧市清水町1丁目5番20号 電話 0144-33",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/hospital/gairaiannai/kennsa.html",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/hospital/gairaiannai/kennsa.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "動画制作"
@@ -13088,7 +13083,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/hospital/gaiyo/kouhosi.html",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/hospital/gaiyo/kouhosi.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -13192,7 +13187,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/hospital/gaiyo/satuei.html",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/hospital/gaiyo/satuei.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "動画制作"
@@ -13241,12 +13236,12 @@
     "municipality": "苫小牧市",
     "organization": "苫小牧市",
     "title": "北海道苫小牧市",
-    "summary": "ぬくもり灯油事業の緊急増額について (2026年11月9日 健康福祉部総合福祉課) 【完全予約制】マイナンバーカード夜間・休日開庁について (2026年11月9日 市民生活部窓口サービス課) 【とまサポ★】(北海道経済産業局)サイバーセキュリティ対策ワークショップを開催します (2026年11月9日 産業経済部商業振興課) 【とまサポ★】国家サイバー統括室に特設サイトが設置されました (2026年11月9日 産業経済部商業振興課) 第7期苫小牧市中小企業振興審議会(第6回)の開催について (2026年11月9日 産業経済部商業振興課) 中学校部活動・クラブ活動ガイドブック (2026年11月6日 教育部指導室) 【 広告募集 】高齢者健診の案内封筒に広告を掲載しませんか? (2026年11月6日 市民生活部保険年金課) 【重要】不正アクセスによるメールアドレス漏洩のおそれについて (2026年11月5日 市民生活部窓口サービス課) オンライン申請システム(LoGoフォーム)の緊急メンテナンスについて(11月5日18時から復旧しています) (2026年11月4日 総務部DX推進室) 夜間開館を実施します!(2026.11.20) (2026年11月1日 苫小牧市美術博物館) 【完全予約制】マイナンバーカード夜間・休日開庁について (2026年11月9日 市民生活部窓口サービス課) 夜間開館のお知らせ (2026年11月6日 苫小牧市科学センター) 【 広告募集 】高齢者健診の案内封筒に広告を掲載しませんか? (2026年11月6日 市民生活部保険年金課) オンライン申請システム(LoGoフォーム)の緊急メンテナンスについて(11月5日18時から復旧しています) (2026年11月4日 総務部DX推進室) 苫小牧市公共交通協議会委員の募集について (2026年10月30日 総合政策部未来創造戦略室) 苫小牧市ICT化推進コミュニティ創出事業 (2026年10月29日 産業経済部商業振興課) 管理栄養士 採用試験 (2026年10月26日 苫小牧市立病院) 看護師採用試験(正規職員) (2026年10月26日 苫小牧市立病院) 歯科衛生士 採用試験 (2026年10月26日 苫小牧市立病院) 【受付終了】令和9年度採用 苫小牧市職員採用試験について (2026年10月22日 総務部行政経営室) 広報とまこまい 令和8年11月号 広報とまこまいを見る 便利な情報 電子申請・申請書ダウンロード 暮らしのガイド 例規集 職員採用情報 オープンデータ リンク集 苫小牧市の人口と世帯数 人口:163,104人 男性:80,268人 女性:82,836人 世帯:91,943世帯 (外国人を含む) 令和8年9月末現在 統計情報 組織・公共施設など 各課のページなど フロアガイド 公共施設 市議会 まちづくり 市民参加 市民の声、あなたの街でミーティングなど 市長公約の取組状況 まちのできごと 苫小牧アートフェスティバル、美術博物館祭、苫小牧音楽祭 2026年7月25日 苫小牧アートフェスティバル、美術博物館祭、苫小牧音楽祭が開催されました。 誰でも気軽に... 全文を読む 過去のまちのできごと一覧を見る",
+    "summary": "苫小牧市こども通園センターおおぞら園 業務支援システム導入・管理業務及び運用保守業務に関する一般競争入札について (2026年11月13日 こども未来部こども家庭支援室) 消費生活講演会の開催について (2026年11月12日 市民生活部地域活動支援室) 無料給水スポットの利用停止について (2026年11月11日 上下水道部総務経営課) 【とまサポ★】デジタル活用出張講座2026を開催します (2026年11月11日 産業経済部商業振興課) ぬくもり灯油事業の緊急増額について (2026年11月9日 健康福祉部総合福祉課) 【完全予約制】マイナンバーカード夜間・休日開庁について (2026年11月9日 市民生活部窓口サービス課) 【とまサポ★】(北海道経済産業局)サイバーセキュリティ対策ワークショップを開催します (2026年11月9日 産業経済部商業振興課) 【とまサポ★】国家サイバー統括室に特設サイトが設置されました (2026年11月9日 産業経済部商業振興課) 第7期苫小牧市中小企業振興審議会(第6回)の開催について (2026年11月9日 産業経済部商業振興課) 中学校部活動・クラブ活動ガイドブック (2026年11月6日 教育部指導室) 消費生活講演会の開催について (2026年11月12日 市民生活部地域活動支援室) 【受付のご案内】電子工作教室「FMマイクを作ろう」、天文教室「星座早見盤を作ろう」 (2026年11月12日 苫小牧市科学センター) 【完全予約制】マイナンバーカード夜間・休日開庁について (2026年11月9日 市民生活部窓口サービス課) 夜間開館のお知らせ (2026年11月6日 苫小牧市科学センター) 【 広告募集 】高齢者健診の案内封筒に広告を掲載しませんか? (2026年11月6日 市民生活部保険年金課) オンライン申請システム(LoGoフォーム)の緊急メンテナンスについて(11月5日18時から復旧しています) (2026年11月4日 総務部DX推進室) 苫小牧市公共交通協議会委員の募集について (2026年10月30日 総合政策部未来創造戦略室) 苫小牧市ICT化推進コミュニティ創出事業 (2026年10月29日 産業経済部商業振興課) 管理栄養士 採用試験 (2026年10月26日 苫小牧市立病院) 看護師採用試験(正規職員) (2026年10月26日 苫小牧市立病院) 広報とまこまい 令和8年11月号 広報とまこまいを見る 便利な情報 電子申請・申請書ダウンロード 暮らしのガイド 例規集 職員採用情報 オープンデータ リンク集 苫小牧市の人口と世帯数 人口:163,104人 男性:80,268人 女性:82,836人 世帯:91,943世帯 (外国人を含む) 令和8年9月末現在 統計情報 組織・公共施設など 各課のページなど フロアガイド 公共施設 市議会 まちづくり 市民参加 市民の声、あなたの街でミーティングなど 市長公約の取組状況 まちのできごと 苫小牧アートフェスティバル、美術博物館祭、苫小牧音楽祭 2026年7月25日 苫小牧アートフェスティバル、美術博物館祭、苫小牧音楽祭が開催されました。 誰でも気軽に... 全文を読む 過去のまちのできごと一覧を見る",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -13296,7 +13291,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/files/00070500/00070599/hoikusyo_shiyosho.pdf",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/files/00070500/00070599/hoikusyo_shiyosho.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -13390,7 +13385,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/shisei/shisei/ict/DXldr2026_propo.html",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/shisei/shisei/ict/DXldr2026_propo.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -13485,7 +13480,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/files/00070400/00070419/04_hyoka.pdf",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/files/00070400/00070419/04_hyoka.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -13543,7 +13538,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.tomakomai.hokkaido.jp/shisei/koho/",
     "officialSourceUrl": "https://www.city.tomakomai.hokkaido.jp/shisei/koho/",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -32825,7 +32820,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.fukaura.lg.jp/category/bunya/gikai/",
     "officialSourceUrl": "https://www.town.fukaura.lg.jp/category/bunya/gikai/",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -32875,7 +32870,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.fukaura.lg.jp/category/bunya/kaigo_fukushi/",
     "officialSourceUrl": "https://www.town.fukaura.lg.jp/category/bunya/kaigo_fukushi/",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -32924,7 +32919,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.fukaura.lg.jp/category/event/",
     "officialSourceUrl": "https://www.town.fukaura.lg.jp/category/event/",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "イベント"
@@ -32977,7 +32972,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.fukaura.lg.jp/doc/2019082100100/",
     "officialSourceUrl": "https://www.town.fukaura.lg.jp/doc/2019082100100/",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -78330,7 +78325,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.yokoshibahikari.chiba.jp/form/detail.php?sec_sec1=4&inq=02&lif_id=29654",
     "officialSourceUrl": "https://www.town.yokoshibahikari.chiba.jp/form/detail.php?sec_sec1=4&inq=02&lif_id=29654",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -78373,7 +78368,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shirako.lg.jp/cmsfiles/contents/0000006/6453/04_teiannaiyou.docx",
     "officialSourceUrl": "https://www.town.shirako.lg.jp/cmsfiles/contents/0000006/6453/04_teiannaiyou.docx",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -78466,7 +78461,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shirako.lg.jp/cmsfiles/contents/0000006/6453/kuhaku_youkou.pdf",
     "officialSourceUrl": "https://www.town.shirako.lg.jp/cmsfiles/contents/0000006/6453/kuhaku_youkou.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -78509,7 +78504,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shirako.lg.jp/category/4-4-0-0-0-0-0-0-0-0.html",
     "officialSourceUrl": "https://www.town.shirako.lg.jp/category/4-4-0-0-0-0-0-0-0-0.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -78553,12 +78548,12 @@
     "municipality": "白子町",
     "organization": "白子町",
     "title": "観光・みどころ | 白子町",
-    "summary": "新着情報 11月6日 花の広場のご案内 11月6日 第33回白子カップテニス・ソフトテニス大会を開催します【11月6日更新】 10月21日 白子町歴史民俗資料室 10月7日 鼓童交流公演 10月6日 「長生(ながいき)農業バスツアー」開催のお知らせ",
+    "summary": "新着情報 11月12日 第33回白子カップテニス・ソフトテニス大会を開催します【11月14日更新】 11月6日 花の広場のご案内 10月21日 白子町歴史民俗資料室 10月7日 鼓童交流公演 10月6日 「長生(ながいき)農業バスツアー」開催のお知らせ",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shirako.lg.jp/category/5-0-0-0-0-0-0-0-0-0.html",
     "officialSourceUrl": "https://www.town.shirako.lg.jp/category/5-0-0-0-0-0-0-0-0-0.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "観光PR"
@@ -78602,12 +78597,12 @@
     "municipality": "白子町",
     "organization": "白子町",
     "title": "観光・特産 | 白子町",
-    "summary": "メインメニュー イベント・祭り 第33回白子カップテニス・ソフトテニス大会を開催します【11月6日更新】 [2026年11月6日] 第33回「白子カップ」テニス・ソフトテニス大会を令和8年11月14日、15日に実施します。 海と豊かな緑に囲まれた白子町で、テニス・ソフトテニスを楽しみませんか。 白子カップで素敵な思い出を!! 鼓童交流公演 [2026年10月7日] 鼓童交流公演 「長生(ながいき)農業バスツアー」開催のお知らせ [2026年10月6日] 農業を始めたい方を対象に「長生(ながいき)農業バスツアー」を開催します。 「短期農業体験」開催のお知らせ [2026年10月6日] 農業を始めたい方を対象に「短期農業体験」を開催します。 しらこ温泉桜祭り出店者の募集について【申込受付終了】 [2025年1月17日] 県道30号線中里海岸通り周辺には、約300本の早咲きの桜が植えられその他町内には、約1,000本が植えられており、春の訪れをひと足早く感じることができます。 今年度も「スペシャルday」を1日限定で開催し、祭り期間中は「黄金の湯」の愛称で親しまれている白子温泉の日帰り入浴の割引など、しらこ桜と温泉をダブルで楽しむことができます。 【廃止】白子チューリップ祭りについて [2023年4月4日] 年間イベント・祭り [2022年12月22日] 南白亀川イカダのぼり大会の事業終了のお知らせ [2022年5月6日] 観光・みどころ 花の広場のご案内 [2026年11月6日] 観光客の入込動向 [2026年7月29日] 白子自然公園野球場利用停止のお知らせ [2023年12月8日] 白子自然公園野球場利用停止のお知らせです。 白子自然公園 [2022年4月1日] 海水浴 [2019年6月19日] 白子温泉 [2013年7月1日] 白子温泉と効果の紹介。 真光寺 [2013年4月11日] ガーベラ団地 [2011年6月13日] 白子神社 [2011年6月13日] グラウンドゴルフ [2011年6月13日] カイトボーディング [2011年6月13日] 南白亀川(なばきがわ) [2011年3月13日] 白子町の中央を流れる南白亀川では、ボラやハゼなどいろいろな魚が釣れ県内だけでなく県外からも多くの太公望が訪れます。 海水浴 海水浴 [2019年6月19日] 農産物・特産品 「白子たまねぎ料理コンテスト」レシピ集が完成しました [2017年3月4日] レシピ集 [2016年1月19日] 白子町の特産野菜 [2014年3月27日] 白子町の特産野菜のご案内ページです。 たまねぎ生ドレッシング [2011年6月13日] たまねぎワイン [2011年6月13日] げんき君 げんき君のデザインを無料で使用できます [2025年3月7日] 白子町シンボルキャラクター「げんき君」のデザインは、文書や冊子、グッズ等さまざまなものに使っていただくことができます。「げんき君」のデザインを使用する場合は、事前に申込みが必要です。白子町キャラクターの使用に関する要綱をお読みの上、白子町役場企画財政課企画政策係に申請を行ってください。 げんき君着ぐるみ登録スタッフを募集します [2015年6月1日] 白子町シンボルキャラクター「げんき君」の着ぐるみに入り、各イベントなどでPR活動をしていただける方を募集します。 白子町シンボルキャラクター「げんき君」の着ぐるみを無料で貸し出します [2015年5月20日] げんき君の着ぐるみを無料で貸出ししています。着ぐるみの借受けを希望される方は、「げんき君」着ぐるみ貸出要領をよくお読みの上、白子町役場総務課企画財政係に申請を行ってください。 げんき君チップス [2013年12月6日] 白子町シンボルキャラクター「げんき君」のプロフィール [2012年6月7日] 白子町40周年の記念事業として一般公募し、多数の応募作品の中から白子町のシンボルキャラクターとして『げんき君』が選ばれました。体は太陽と情熱の赤、髪の毛は九十九里浜の大波を表し、足の黄色は町の花ひまわり、緑は町の木の松を表現しています。元気いっぱいの子どもで、豊かな実りある町を象徴したものです。誕生日は平成7年2月11日です。 げんき君がX(旧Twitter)をはじめま",
+    "summary": "メインメニュー イベント・祭り 第33回白子カップテニス・ソフトテニス大会を開催します【11月14日更新】 [2026年11月12日] 第33回「白子カップ」テニス・ソフトテニス大会を令和8年11月14日、15日に実施します。 海と豊かな緑に囲まれた白子町で、テニス・ソフトテニスを楽しみませんか。 白子カップで素敵な思い出を!! 鼓童交流公演 [2026年10月7日] 鼓童交流公演 「長生(ながいき)農業バスツアー」開催のお知らせ [2026年10月6日] 農業を始めたい方を対象に「長生(ながいき)農業バスツアー」を開催します。 「短期農業体験」開催のお知らせ [2026年10月6日] 農業を始めたい方を対象に「短期農業体験」を開催します。 しらこ温泉桜祭り出店者の募集について【申込受付終了】 [2025年1月17日] 県道30号線中里海岸通り周辺には、約300本の早咲きの桜が植えられその他町内には、約1,000本が植えられており、春の訪れをひと足早く感じることができます。 今年度も「スペシャルday」を1日限定で開催し、祭り期間中は「黄金の湯」の愛称で親しまれている白子温泉の日帰り入浴の割引など、しらこ桜と温泉をダブルで楽しむことができます。 【廃止】白子チューリップ祭りについて [2023年4月4日] 年間イベント・祭り [2022年12月22日] 南白亀川イカダのぼり大会の事業終了のお知らせ [2022年5月6日] 観光・みどころ 花の広場のご案内 [2026年11月6日] 観光客の入込動向 [2026年7月29日] 白子自然公園野球場利用停止のお知らせ [2023年12月8日] 白子自然公園野球場利用停止のお知らせです。 白子自然公園 [2022年4月1日] 海水浴 [2019年6月19日] 白子温泉 [2013年7月1日] 白子温泉と効果の紹介。 真光寺 [2013年4月11日] ガーベラ団地 [2011年6月13日] 白子神社 [2011年6月13日] グラウンドゴルフ [2011年6月13日] カイトボーディング [2011年6月13日] 南白亀川(なばきがわ) [2011年3月13日] 白子町の中央を流れる南白亀川では、ボラやハゼなどいろいろな魚が釣れ県内だけでなく県外からも多くの太公望が訪れます。 海水浴 海水浴 [2019年6月19日] 農産物・特産品 「白子たまねぎ料理コンテスト」レシピ集が完成しました [2017年3月4日] レシピ集 [2016年1月19日] 白子町の特産野菜 [2014年3月27日] 白子町の特産野菜のご案内ページです。 たまねぎ生ドレッシング [2011年6月13日] たまねぎワイン [2011年6月13日] げんき君 げんき君のデザインを無料で使用できます [2025年3月7日] 白子町シンボルキャラクター「げんき君」のデザインは、文書や冊子、グッズ等さまざまなものに使っていただくことができます。「げんき君」のデザインを使用する場合は、事前に申込みが必要です。白子町キャラクターの使用に関する要綱をお読みの上、白子町役場企画財政課企画政策係に申請を行ってください。 げんき君着ぐるみ登録スタッフを募集します [2015年6月1日] 白子町シンボルキャラクター「げんき君」の着ぐるみに入り、各イベントなどでPR活動をしていただける方を募集します。 白子町シンボルキャラクター「げんき君」の着ぐるみを無料で貸し出します [2015年5月20日] げんき君の着ぐるみを無料で貸出ししています。着ぐるみの借受けを希望される方は、「げんき君」着ぐるみ貸出要領をよくお読みの上、白子町役場総務課企画財政係に申請を行ってください。 げんき君チップス [2013年12月6日] 白子町シンボルキャラクター「げんき君」のプロフィール [2012年6月7日] 白子町40周年の記念事業として一般公募し、多数の応募作品の中から白子町のシンボルキャラクターとして『げんき君』が選ばれました。体は太陽と情熱の赤、髪の毛は九十九里浜の大波を表し、足の黄色は町の花ひまわり、緑は町の木の松を表現しています。元気いっぱいの子どもで、豊かな実りある町を象徴したものです。誕生日は平成7年2月11日です。 げんき君がX(旧Twitter)をはじ",
     "status": "closed",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shirako.lg.jp/category/5-13-0-0-0-0-0-0-0-0.html",
     "officialSourceUrl": "https://www.town.shirako.lg.jp/category/5-13-0-0-0-0-0-0-0-0.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "観光PR"
@@ -78657,7 +78652,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shirako.lg.jp/cmsfiles/contents/0000006/6453/02_gaiyou.docx",
     "officialSourceUrl": "https://www.town.shirako.lg.jp/cmsfiles/contents/0000006/6453/02_gaiyou.docx",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -78708,7 +78703,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.kyonan.chiba.jp/form/detail.php?sec_sec1=6&lif_id=14835",
     "officialSourceUrl": "https://www.town.kyonan.chiba.jp/form/detail.php?sec_sec1=6&lif_id=14835",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -78753,7 +78748,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.kyonan.chiba.jp/uploaded/attachment/3415.docx",
     "officialSourceUrl": "https://www.town.kyonan.chiba.jp/uploaded/attachment/3415.docx",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -78798,7 +78793,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.kyonan.chiba.jp/uploaded/attachment/7980.pdf",
     "officialSourceUrl": "https://www.town.kyonan.chiba.jp/uploaded/attachment/7980.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -78843,7 +78838,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.metro.tokyo.lg.jp/tosei/zaise/keiyaku?utm_source=top&utm_medium=1.5_navi&utm_campaign=20250829",
     "officialSourceUrl": "https://www.metro.tokyo.lg.jp/tosei/zaise/keiyaku?utm_source=top&utm_medium=1.5_navi&utm_campaign=20250829",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79074,7 +79069,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/manner20260602.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/manner20260602.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "観光PR",
@@ -79132,7 +79127,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/ueno_urbandesign.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/ueno_urbandesign.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79184,7 +79179,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/edoikikousyodou.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/edoikikousyodou.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79332,7 +79327,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/machinamikankyo.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/machinamikankyo.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79379,7 +79374,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/keiyaku/index.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/keiyaku/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79469,7 +79464,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/koukeiyaku/index.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/koukeiyaku/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79514,7 +79509,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/nyusatsukekka/index.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/nyusatsukekka/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79554,33 +79549,30 @@
     "municipality": "台東区",
     "organization": "台東区",
     "title": "公募型プロポーザル情報",
-    "summary": "公募型プロポーザル情報 ページID:866712888 プラスチック資源の選別・資源化業務委託の優先交渉権者が決定しました 台東区立中学校部活動及び地域クラブ活動指導運営業務委託に関する公募型プロポーザルを実施します 浅草文化観光センター観光案内業務受託者公募型プロポーザルを実施します 定期利用保育室運営事業者を募集します。 令和9年度からの放課後対策事業の運営事業者を募集します。 台東区放課後対策事業運営事業者の選定結果について 「親子学習ひろば」実施業務委託の優先交渉権者が決定しました 蔦重ゆかりの地古地図デジタルスタンプラリー運営業務委託の優先交渉権者が決定いたしました 浅草地区都市基盤整備に向けた予備検討等業務委託の優先交渉権者が決定いたしました 江戸粋耕書堂運営業務委託の優先交渉権者が決定いたしました 台東区観光マナー啓発プロモーション業務委託の優先交渉権者が決定いたしました 上野駅周辺における都市空間再編の構想策定に向けた調査・検討業務委託の優先交渉権者が決定しました 「地理情報システム(公害情報管理)セットアップ業務及び保守運用委託」の優先交渉権者が決定いたしました 歴史的景観形成制度導入に係る検証調査委託の優先交渉権者が決定しました 谷中地区街なみ環境整備事業推進業務委託の優先交渉権者が決定しました 清川清掃車庫等整備事業設計・施工一括発注の優先交渉権者が決定しました【再公募】 (仮称)清川二丁目プロジェクト多世代交流拠点基本計画策定支援業務委託の優先交渉権者が決定しました(令和8年3月) 福祉作業所等自主製品販売所運営委託の優先交渉権者が決定しました 台東区低所得者世帯エアコン購入費助成事業にかかるプロポーザル実施について 公共施設予約システム更改・運用保守業務にかかる公募型プロポーザルの審査結果について 台東区低所得世帯エアコン購入費助成事業の優先交渉権者が決定しました。 台東区中小企業振興センターリニューアルに関するサウンディング型市場調査の実施について 民設民営型学童クラブ設置運営事業者の募集について 台東リバーサイドスポーツセンター体育館付設食堂出店事業者の優先交渉権者が決定しました 指定管理者の公募 終了したもの・選定結果",
+    "summary": "公募型プロポーザル情報 ページID:866712888 台東区立中学校部活動及び地域クラブ活動指導運営業務委託に関する公募型プロポーザルを実施します 浅草文化観光センター観光案内業務受託者公募型プロポーザルを実施します 定期利用保育室運営事業者を募集します。 令和9年度からの放課後対策事業の運営事業者を募集します。 台東区放課後対策事業運営事業者の選定結果について 「親子学習ひろば」実施業務委託の優先交渉権者が決定しました 蔦重ゆかりの地古地図デジタルスタンプラリー運営業務委託の優先交渉権者が決定いたしました 浅草地区都市基盤整備に向けた予備検討等業務委託の優先交渉権者が決定いたしました 江戸粋耕書堂運営業務委託の優先交渉権者が決定いたしました 台東区観光マナー啓発プロモーション業務委託の優先交渉権者が決定いたしました 上野駅周辺における都市空間再編の構想策定に向けた調査・検討業務委託の優先交渉権者が決定しました 「地理情報システム(公害情報管理)セットアップ業務及び保守運用委託」の優先交渉権者が決定いたしました 歴史的景観形成制度導入に係る検証調査委託の優先交渉権者が決定しました 谷中地区街なみ環境整備事業推進業務委託の優先交渉権者が決定しました 清川清掃車庫等整備事業設計・施工一括発注の優先交渉権者が決定しました【再公募】 (仮称)清川二丁目プロジェクト多世代交流拠点基本計画策定支援業務委託の優先交渉権者が決定しました(令和8年3月) 福祉作業所等自主製品販売所運営委託の優先交渉権者が決定しました 公共施設予約システム更改・運用保守業務にかかる公募型プロポーザルの審査結果について 台東区低所得世帯エアコン購入費助成事業の優先交渉権者が決定しました。 民設民営型学童クラブ設置運営事業者の募集について 指定管理者の公募 終了したもの・選定結果",
     "status": "closed",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/index.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
     ],
-    "dentsuFitScore": 61,
-    "dentsuFitLevel": "medium",
+    "dentsuFitScore": 43,
+    "dentsuFitLevel": "low",
     "dentsuCategories": [
       "consulting_strategy",
-      "pr_communications",
-      "research_marketing"
+      "pr_communications"
     ],
     "dentsuCategoryLabels": [
       "コンサル・戦略策定",
-      "広報・PR・コミュニケーション",
-      "調査・マーケティング"
+      "広報・PR・コミュニケーション"
     ],
     "dentsuSignals": [
       "構想策定",
       "計画策定",
       "プロモーション",
-      "市場調査",
       "観光",
       "プロポーザル",
       "除外:清掃"
@@ -79620,7 +79612,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/seido/index.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/seido/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79665,7 +79657,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/siteikoukin/index.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/siteikoukin/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79715,7 +79707,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/youshi/index.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/youshi/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79760,7 +79752,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sumida.lg.jp/kuseijoho/gyoseikaikaku_zaisei/shiteikanri/index.html",
     "officialSourceUrl": "https://www.city.sumida.lg.jp/kuseijoho/gyoseikaikaku_zaisei/shiteikanri/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79803,7 +79795,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/proposal/index.html",
     "officialSourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/proposal/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79848,7 +79840,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/proposal/proposal_bosyuu/index.html",
     "officialSourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/proposal/proposal_bosyuu/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79894,7 +79886,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/proposal/proposal_kekka/index.html",
     "officialSourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/proposal/proposal_kekka/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -79952,7 +79944,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/gyousya_touroku/henkousinsei_annai/index.html",
     "officialSourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/gyousya_touroku/henkousinsei_annai/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -79995,7 +79987,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/gyousya_touroku/keizokusinsei_annai/index.html",
     "officialSourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/gyousya_touroku/keizokusinsei_annai/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -80038,7 +80030,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/gyousya_touroku/sinkisinsei_annai/index.html",
     "officialSourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/gyousya_touroku/sinkisinsei_annai/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -80076,12 +80068,12 @@
     "municipality": "墨田区",
     "organization": "墨田区",
     "title": "墨田区内業者等登録申請書について",
-    "summary": "墨田区内業者等登録申請書について ページID:200842618 更新日:2023年12月27日 墨田区は、区内事業者を育成するため、区内に本社がある事業者及び支店、営業所がある事業者を中心に受注機会の確保策を推進しています。 1.登録可能な事業者 次のア・イに該当する事業者の方で、「墨田区内業者」としての登録を希望する事業者 ア.東京電子自治体共同運営(電子調達サービス)で入札参加資格申請を行い、資格を有していること。 イ.入札参加資格申請における本店又は支店(営業所)の所在地が墨田区内であること。 2.提出書類等について 「墨田区内業者等登録申請書」は、このページからファイルをダウンロードのうえ作成し、必ず事前連絡のうえ契約課へご提出ください。 3.登録について 区内業者としての登録は、本店又は支店(営業所)の設置からの経過年数に応じて決定します。詳しくは、このページの下部にある区内業者取扱基準をご覧ください。 なお、届出内容に変更があった場合は、再提出願います。また、区から再提出をお願いする場合がありますので、その際にはご協力をお願いします。 注意事項 「墨田区内業者等登録申請書」の提出は任意です。 届出内容の確認のため、区職員が訪問することがありますので、その際には調査にご協力願います。 墨田区内業者等登録申請書(工事)(PDF:82KB) 墨田区内業者等登録申請書(工事)(エクセル:27KB) 記入例(工事)(PDF:12KB) 墨田区内業者等登録申請書(物品)(PDF:99KB) 墨田区内業者等登録申請書(物品)(エクセル:29KB) 記入例(物品)(PDF:17KB) 作成方法:各項目に必要事項を記入するとともに、必要書類を添付する。 墨田区建設工事等競争入札に係る区内業者取扱基準(工事)(PDF:12KB) 物品等業者指名基準に係る区内業者等取扱基準(物品)(PDF:13KB) お問い合わせ このページは 契約課 が担当しています。 この情報は、お役に立ちましたか? お寄せいただいた評価はサイト運営の参考といたします。 質問:このページの内容は分かりやすかったですか? 評価: 分かりやすかった どちらとも言えない 分かりにくかった 質問:このページは見つけやすかったですか? 評価: 見つけやすかった どちらとも言えない 見つけにくかった 同じカテゴリから探す 東京電子自治体共同運営 電子調達サービス 新規登録申請のご案内 変更申請のご案内 継続申請のご案内 簡易工事受注参加申請 墨田区内業者等登録申請書について 全て見る 閉じる 注目情報 全て見る 閉じる 注目情報の表示にはJavaScriptを使用しています。 注目情報一覧へ こちらのページも読まれています 令和7年度 令和6年度 令和8年度 情報が見つからないときは",
+    "summary": "墨田区内業者等登録申請書について ページID:200842618 更新日:2023年12月27日 墨田区は、区内事業者を育成するため、区内に本社がある事業者及び支店、営業所がある事業者を中心に受注機会の確保策を推進しています。 1.登録可能な事業者 次のア・イに該当する事業者の方で、「墨田区内業者」としての登録を希望する事業者 ア.東京電子自治体共同運営(電子調達サービス)で入札参加資格申請を行い、資格を有していること。 イ.入札参加資格申請における本店又は支店(営業所)の所在地が墨田区内であること。 2.提出書類等について 「墨田区内業者等登録申請書」は、このページからファイルをダウンロードのうえ作成し、必ず事前連絡のうえ契約課へご提出ください。 3.登録について 区内業者としての登録は、本店又は支店(営業所)の設置からの経過年数に応じて決定します。詳しくは、このページの下部にある区内業者取扱基準をご覧ください。 なお、届出内容に変更があった場合は、再提出願います。また、区から再提出をお願いする場合がありますので、その際にはご協力をお願いします。 注意事項 「墨田区内業者等登録申請書」の提出は任意です。 届出内容の確認のため、区職員が訪問することがありますので、その際には調査にご協力願います。 墨田区内業者等登録申請書(工事)(PDF:82KB) 墨田区内業者等登録申請書(工事)(エクセル:27KB) 記入例(工事)(PDF:12KB) 墨田区内業者等登録申請書(物品)(PDF:99KB) 墨田区内業者等登録申請書(物品)(エクセル:29KB) 記入例(物品)(PDF:17KB) 作成方法:各項目に必要事項を記入するとともに、必要書類を添付する。 墨田区建設工事等競争入札に係る区内業者取扱基準(工事)(PDF:12KB) 物品等業者指名基準に係る区内業者等取扱基準(物品)(PDF:13KB) お問い合わせ このページは 契約課 が担当しています。 この情報は、お役に立ちましたか? お寄せいただいた評価はサイト運営の参考といたします。 質問:このページの内容は分かりやすかったですか? 評価: 分かりやすかった どちらとも言えない 分かりにくかった 質問:このページは見つけやすかったですか? 評価: 見つけやすかった どちらとも言えない 見つけにくかった 同じカテゴリから探す 東京電子自治体共同運営 電子調達サービス 新規登録申請のご案内 変更申請のご案内 継続申請のご案内 簡易工事受注参加申請 墨田区内業者等登録申請書について 全て見る 閉じる 注目情報 全て見る 閉じる 注目情報の表示にはJavaScriptを使用しています。 注目情報一覧へ こちらのページも読まれています 入札結果(工事契約) 令和8年度 令和5年度 情報が見つからないときは",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/gyousya_touroku/sumidakunaichousho.html",
     "officialSourceUrl": "https://www.city.sumida.lg.jp/sangyo_jigyosya/keiyaku_nyuusatu/gyousya_touroku/sumidakunaichousho.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -80709,7 +80701,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/index.html",
     "officialSourceUrl": "https://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -80754,7 +80746,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.machida.tokyo.jp/jigyousha/advertisement/index.html",
     "officialSourceUrl": "https://www.city.machida.tokyo.jp/jigyousha/advertisement/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -80804,7 +80796,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.machida.tokyo.jp/jigyousha/saikensya/index.html",
     "officialSourceUrl": "https://www.city.machida.tokyo.jp/jigyousha/saikensya/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -80849,7 +80841,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.higashiyamato.lg.jp/business/nyusatsu/1004014/index.html",
     "officialSourceUrl": "https://www.city.higashiyamato.lg.jp/business/nyusatsu/1004014/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -80900,7 +80892,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kiyose.lg.jp/sigotosangyou/keiyakunyuusatu/1007732/index.html",
     "officialSourceUrl": "https://www.city.kiyose.lg.jp/sigotosangyou/keiyakunyuusatu/1007732/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -80959,7 +80951,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kiyose.lg.jp/sigotosangyou/keiyakunyuusatu/yuuryoukoukoku/index.html",
     "officialSourceUrl": "https://www.city.kiyose.lg.jp/sigotosangyou/keiyakunyuusatu/yuuryoukoukoku/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -81237,12 +81229,12 @@
     "municipality": "横浜市",
     "organization": "横浜市",
     "title": "プロポーザル等の発注情報",
-    "summary": "プロポーザル等の発注情報 ここから本文です。 プロポーザル等の発注情報 印刷する 新着情報 2026年11月9日 【公募型指名競争入札】港南土木事務所作業車1台の新規リース 2026年11月6日 【公募型プロポーザル】令和9年度磯子区寄り添い型生活支援事業業務委託 2026年11月5日 【質問回答】神奈川区地域子育て支援拠点「かなーちえ」運営法人の募集について 2026年11月4日 【公募型指名競争入札】資源循環局鶴見工場及び下水道河川局北部汚泥資源化センターで発電した余剰電力(非FIT分)の売却(その2) 2026年11月4日 【公募型指名競争入札】資源循環局金沢工場及び下水道河川局南部汚泥資源化センターで発電した余剰電力の売却(その2) 新着情報一覧 RSS プロポーザル等の発注情報の検索 発注情報の探し方 プロポーザル等の発注情報の探し方 種目の検索について 2027年度 電力等 委託 2026年度 RFI 物品 印刷 修繕 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 2025年度 RFI 物品 印刷 修繕 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 2024年度 RFI 物品 印刷 修繕 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 2023年度 RFI 物品 印刷 修繕 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 2022年度 RFI 物品 印刷 修繕 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 2021年度 物品 印刷 修繕 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 2020年度 物品 印刷 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 関連リンク 2018年度以前の発注情報 関連ページ一覧 関連ページ一覧の",
+    "summary": "プロポーザル等の発注情報 ここから本文です。 プロポーザル等の発注情報 印刷する 新着情報 2026年11月13日 【質問回答掲載】【公募型プロポーザル】横浜グリーンエクスポ子どもたちの未来への約束プロジェクトデータ分析・可視化業務委託 2026年11月13日 【公募型プロポーザル】令和9年度 横浜市家計改善支援事業業務委託 2026年11月13日 【公募型プロポーザル】令和9年度 横浜市就労訓練事業支援センター運営事業業務委託 2026年11月13日 【公募型プロポーザル】令和9年度 横浜市無料職業紹介事業関連業務委託 2026年11月13日 【公募型プロポーザル方式】(仮称)東寺尾六丁目公園コミュニティ農園運営・検証業務委託 新着情報一覧 RSS プロポーザル等の発注情報の検索 発注情報の探し方 プロポーザル等の発注情報の探し方 種目の検索について 2027年度 電力等 委託 その他の業務 2026年度 RFI 物品 印刷 修繕 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 2025年度 RFI 物品 印刷 修繕 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 2024年度 RFI 物品 印刷 修繕 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 2023年度 RFI 物品 印刷 修繕 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 2022年度 RFI 物品 印刷 修繕 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 2021年度 物品 印刷 修繕 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 2020年度 物品 印刷 委託 賃貸等 電力等 設計・測量等 その他の業務 随意契約案件 緊急を要する契約の締結結果 指名競争入札(公募型でない)の入札結果 関連リンク 2018年度以前の発注情報 関連ページ一覧 関連ページ一覧の",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/index.html",
     "officialSourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -81334,7 +81326,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.yokohama.lg.jp/business/kokusaikoryu/index.html",
     "officialSourceUrl": "https://www.city.yokohama.lg.jp/business/kokusaikoryu/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -81509,7 +81501,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sagamihara.kanagawa.jp/sangyo/keiyaku/1026669/1025144.html",
     "officialSourceUrl": "https://www.city.sagamihara.kanagawa.jp/sangyo/keiyaku/1026669/1025144.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -81560,7 +81552,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sagamihara.kanagawa.jp/sangyo/keiyaku/1026670/1003525.html",
     "officialSourceUrl": "https://www.city.sagamihara.kanagawa.jp/sangyo/keiyaku/1026670/1003525.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -82547,7 +82539,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/067/367/jisshiyouryou.pdf",
     "officialSourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/067/367/jisshiyouryou.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -82592,7 +82584,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/067/367/shiyou.pdf",
     "officialSourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/067/367/shiyou.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -82635,7 +82627,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/067/367/youshiki4.docx",
     "officialSourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/067/367/youshiki4.docx",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -82680,7 +82672,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/067/367/youshiki5.docx",
     "officialSourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/067/367/youshiki5.docx",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -82725,7 +82717,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/067/367/kaitou.pdf",
     "officialSourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/067/367/kaitou.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -82768,7 +82760,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/068/079/kikakuhyoushihuku.docx",
     "officialSourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/068/079/kikakuhyoushihuku.docx",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -82813,7 +82805,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/068/079/kikakuhyoushisei.docx",
     "officialSourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/068/079/kikakuhyoushisei.docx",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -82858,7 +82850,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/068/079/youryou.pdf",
     "officialSourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/068/079/youryou.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -82901,7 +82893,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/068/079/kaitou.pdf",
     "officialSourceUrl": "https://www.city.chigasaki.kanagawa.jp/_res/projects/default_project/_page_/001/068/079/kaitou.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -82944,7 +82936,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.zushi.kanagawa.jp/jigyosha/nyusatsu/1004803/index.html",
     "officialSourceUrl": "https://www.city.zushi.kanagawa.jp/jigyosha/nyusatsu/1004803/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -82995,7 +82987,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.zama.kanagawa.jp/sangyo/keiyaku/proposal/index.html",
     "officialSourceUrl": "https://www.city.zama.kanagawa.jp/sangyo/keiyaku/proposal/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -164896,7 +164888,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/nyusatsukoukoku/index.html",
     "officialSourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/nyusatsukoukoku/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -164945,7 +164937,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/denshi/index.html",
     "officialSourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/denshi/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -164994,7 +164986,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/koji_hatchu/index.html",
     "officialSourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/koji_hatchu/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -165041,7 +165033,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/nyusatsu_shikaku/index.html",
     "officialSourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/nyusatsu_shikaku/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -165138,7 +165130,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/nyusatukanshi1/index.html",
     "officialSourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/nyusatukanshi1/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -165185,7 +165177,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/seido/index.html",
     "officialSourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/seido/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -165234,7 +165226,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/youshikisyu/index.html",
     "officialSourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/youshikisyu/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -176066,7 +176058,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hioki.kagoshima.jp/teiju/koutsukeikakupuropo.html",
     "officialSourceUrl": "https://www.city.hioki.kagoshima.jp/teiju/koutsukeikakupuropo.html",
-    "lastChecked": "2026-11-12",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -176159,7 +176151,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hioki.kagoshima.jp/sposhin/shisetsu/taiku/documents/syoumeikasiyuujigyou.html",
     "officialSourceUrl": "https://www.city.hioki.kagoshima.jp/sposhin/shisetsu/taiku/documents/syoumeikasiyuujigyou.html",
-    "lastChecked": "2026-11-12",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -176262,12 +176254,12 @@
     "municipality": "日置市",
     "organization": "日置市",
     "title": "公募型プロポーザル結果",
-    "summary": "公募型プロポーザル結果 入札・契約 入札参加資格 電子入札 入札・契約関連情報 入札・契約関係申請書 入札情報の公表 物品調達等入札結果 電子入札結果 日置市の電子納品について 公募型プロポーザル結果 電子契約及び電子保証の運用を開始します 工事関係書類の簡素化について 令和8年度ひきこもり支援業務の公募型プロポーザル方式の実施について 第3次日置市元気な市民づくり運動推進計画策定支援業務の公募型プロポーザルの実施について 日置市地域公共交通計画策定業務委託の公募型プロポーザルの実施について 実総アリーナLED照明改修事業に係る公募型プロポーザルの実施について 日置市「食」の自立支援事業業務の公募型プロポーザル方式の実施について 日置市「食」の自立支援事業業務の公募型プロポーザル方式の実施について(2回目) 令和9年度就労準備支援業務委託に係る公募型プロポーザル方式の実施について 日置市地域福祉計画及び地域福祉活動計画策定支援業務に係る公募型プロポーザルの実施について 暮らしサポート 妊娠・出産 育児・教育 結婚・離婚 引越し・住まい 各種相談 インターネットでできる手続き ごみ 公共交通 申請書等 公共施設等 イベントカレンダー 施設予約システム 日置市子育て支援アプリ「チャイまる」 カタログポケット 吹上浜ライブカメラ ここから本文です。 公募型プロポーザル結果 日置市上下水道事業における官民連携基本検討業務委託の公募型プロポーザルの審査結果について 第3期日置市子ども・子育て支援事業計画策定支援業務の公募型プロポーザル方式の審査結果について 日置市子育て支援アプリ導入及び運用業務に係る公募型プロポーザル方式の審査結果について 日置市地域生活支援拠点事業業務委託に係る公募型プロポーザルの審査結果について 日置市高齢者の保健事業と介護予防の一体的実施事業業務に係る公募型プロポーザルの審査結果について 日置市介護認定審査会ペーパーレス会議システム導入業務の公募型プロポーザルの審査結果について 日置市介護認定訪問調査システム導入業務の公募型プロポーザルの審査結果について 日置市次期一般廃棄物最終処分場整備に係る基本構想策定及び候補地選定業務の公募型プロポーザルの審査結果について 日置市観光ポスター制作業務の公募型プロポーザルの審査結果について 日置市高齢者福祉計画及び第10期介護保険事業計画策定支援業務の公募型プロポーザルの審査結果について 日置市デジタルサイネージ設置業務委託の公募型プロポーザルの審査結果について 日置市地域公共交通計画策定業務委託の公募型プロポーザルの審査結果について 第3回ひおき特産品コンクールプロモーション業務委託の公募型プロポーザルの審査結果について 令和8年度ひおき共創コンソーシアム運営支援業務の公募型プロポーザル方式の審査結果について 令和8年度再生可能エネルギーの活用促進に向けた理解促進業務の公募型プロポーザル方式の審査結果について",
+    "summary": "公募型プロポーザル結果 入札・契約 入札参加資格 電子入札 入札・契約関連情報 入札・契約関係申請書 入札情報の公表 物品調達等入札結果 電子入札結果 日置市の電子納品について 公募型プロポーザル結果 電子契約及び電子保証の運用を開始します 工事関係書類の簡素化について 令和8年度ひきこもり支援業務の公募型プロポーザル方式の実施について 第3次日置市元気な市民づくり運動推進計画策定支援業務の公募型プロポーザルの実施について 日置市地域公共交通計画策定業務委託の公募型プロポーザルの実施について 実総アリーナLED照明改修事業に係る公募型プロポーザルの実施について 日置市「食」の自立支援事業業務の公募型プロポーザル方式の実施について 日置市「食」の自立支援事業業務の公募型プロポーザル方式の実施について(2回目) 令和9年度就労準備支援業務委託に係る公募型プロポーザル方式の実施について 日置市地域福祉計画及び地域福祉活動計画策定支援業務に係る公募型プロポーザルの実施について 暮らしサポート 妊娠・出産 育児・教育 結婚・離婚 引越し・住まい 各種相談 インターネットでできる手続き ごみ 公共交通 申請書等 公共施設等 イベントカレンダー 施設予約システム 日置市子育て支援アプリ「チャイまる」 カタログポケット 吹上浜ライブカメラ ここから本文です。 公募型プロポーザル結果 日置市上下水道事業における官民連携基本検討業務委託の公募型プロポーザルの審査結果について 第3期日置市子ども・子育て支援事業計画策定支援業務の公募型プロポーザル方式の審査結果について 日置市子育て支援アプリ導入及び運用業務に係る公募型プロポーザル方式の審査結果について 日置市地域生活支援拠点事業業務委託に係る公募型プロポーザルの審査結果について 日置市高齢者の保健事業と介護予防の一体的実施事業業務に係る公募型プロポーザルの審査結果について 日置市介護認定審査会ペーパーレス会議システム導入業務の公募型プロポーザルの審査結果について 日置市介護認定訪問調査システム導入業務の公募型プロポーザルの審査結果について 日置市次期一般廃棄物最終処分場整備に係る基本構想策定及び候補地選定業務の公募型プロポーザルの審査結果について 日置市観光ポスター制作業務の公募型プロポーザルの審査結果について 日置市高齢者福祉計画及び第10期介護保険事業計画策定支援業務の公募型プロポーザルの審査結果について 日置市デジタルサイネージ設置業務委託の公募型プロポーザルの審査結果について 日置市地域公共交通計画策定業務委託の公募型プロポーザルの審査結果について 第3回ひおき特産品コンクールプロモーション業務委託の公募型プロポーザルの審査結果について 令和8年度ひおき共創コンソーシアム運営支援業務の公募型プロポーザル方式の審査結果について 令和8年度再生可能エネルギーの活用促進に向けた理解促進業務の公募型プロポーザル方式の審査結果について 日置市「食」の自立支援事業業務の公募型プロポーザル方式の審査結果について",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hioki.kagoshima.jp/kouho/shisejoho/nyusatsu/koubo_proposal_kekka.html",
     "officialSourceUrl": "https://www.city.hioki.kagoshima.jp/kouho/shisejoho/nyusatsu/koubo_proposal_kekka.html",
-    "lastChecked": "2026-11-12",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -176335,7 +176327,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hioki.kagoshima.jp/seikatsushien/hikikomori.html",
     "officialSourceUrl": "https://www.city.hioki.kagoshima.jp/seikatsushien/hikikomori.html",
-    "lastChecked": "2026-11-12",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -176664,7 +176656,7 @@
     "municipality": "日置市",
     "organization": "日置市",
     "title": "日置市「食」の自立支援事業業務の公募型プロポーザル方式の実施について",
-    "summary": "日置市「食」の自立支援事業業務の公募型プロポーザル方式の実施について ツイート 更新日:2026年9月18日 入札・契約 入札参加資格 電子入札 入札・契約関連情報 入札・契約関係申請書 入札情報の公表 物品調達等入札結果 電子入札結果 日置市の電子納品について 公募型プロポーザル結果 電子契約及び電子保証の運用を開始します 工事関係書類の簡素化について 令和8年度ひきこもり支援業務の公募型プロポーザル方式の実施について 第3次日置市元気な市民づくり運動推進計画策定支援業務の公募型プロポーザルの実施について 日置市地域公共交通計画策定業務委託の公募型プロポーザルの実施について 実総アリーナLED照明改修事業に係る公募型プロポーザルの実施について 日置市「食」の自立支援事業業務の公募型プロポーザル方式の実施について 日置市「食」の自立支援事業業務の公募型プロポーザル方式の実施について(2回目) 令和9年度就労準備支援業務委託に係る公募型プロポーザル方式の実施について 暮らしサポート 妊娠・出産 育児・教育 結婚・離婚 引越し・住まい 各種相談 インターネットでできる手続き ごみ 公共交通 申請書等 公共施設等 イベントカレンダー 施設予約システム 日置市子育て支援アプリ「チャイまる」 カタログポケット 吹上浜ライブカメラ ここから本文です。 日置市「食」の自立支援事業業務の公募型プロポーザル方式の実施について 目的 日置市では、食事の調理が困難な在宅の高齢者・障害者等を対象に、配食事業を実施している。本事業は、利用者の食生活の改善および健康増進に加え、安否確認を通じて福祉の向上に寄与することを目的としている。 配食の安全性と質の継続的な確保が不可欠である本事業においては、価格のみならず、専門性や運営体制などを含めた総合的な評価が求められる。そのため、日置市プロポーザル方式実施要綱に基づき、プロポーザル方式により受託候補者の募集及び選定を行う。 様式 日置市プロポーザル方式実施要綱 (PDF:255KB) 日置市「食」の自立支援事業業務委託公募型プロポーザル実施要領(PDF:1,013KB) 実施要領別紙評価基準(PDF:700KB) 様式第1号質問書(PDF:454KB) 様式第1号質問書(ワード:19KB) 様式第2号参加申出書(PDF:342KB) 様式第2号参加申出書(ワード:28KB) 様式第3号誓約書(PDF:366KB) 様式第3号誓約書(ワード:27KB) 様式第4号企画提案書(表紙)(PDF:332KB) 様式第4号企画提案書(表紙)(ワード:22KB) 様式第5号総括表(事業者概要)(PDF:407KB) 様式第5号総括表(事業者概要)(ワード:28KB) 仕様書(PDF:762KB) 企画提案書作成例(PDF:901KB) スケジュール プロポーザルスケジュール 日程 内容 令和8年8月28日(金曜日) 募集開始 令和8年9月11日(金曜日) 質問受付期限 令和8年9月25日(金曜日) 参加申出書提出期限 令和8年10月7日(水曜日) 参加資格審査・企画提案書の提出要請 令和8年10月21日(水曜日) 企画提案書提出締め切り 令和8年11月上旬 プレゼンテーション審査 令和8年11月中旬 業者選定結果通知 提出期限および提出方法 質問書 提出期限:令和8年9月11日(金曜日) 提出方法:電子メールにて下記メールアドレスに提出すること。 参加申出書 提出期限:令和8年9月25日(金曜日) 提出方法:直接持参、郵送(書留または特定記録郵便に限る。)または電子メールにより提出すること。 企画提案書 提出期限:令和8年10月21日(水曜日) 提出方法:直接持参または郵送(書留又は特定記録郵便に限る。)により提出すること。 提出先 日置市役所市民福祉部(日置市福祉事務所)福祉課長寿福祉係 メールアドレス:korei@city.hioki.lg.jp 質問に対する回答 質問に対する回答(PDF:913KB) PDF形式のファイルをご覧いただく場合には、Adobe Acrobat Readerが必要です。Adobe Acrobat Readerをお持ちでない方は、バナーのリンク先から無料ダウンロードしてください。 お問い合わせ 市",
+    "summary": "日置市「食」の自立支援事業業務の公募型プロポーザル方式の実施について ツイート 更新日:2026年9月18日 入札・契約 入札参加資格 電子入札 入札・契約関連情報 入札・契約関係申請書 入札情報の公表 物品調達等入札結果 電子入札結果 日置市の電子納品について 公募型プロポーザル結果 電子契約及び電子保証の運用を開始します 工事関係書類の簡素化について 令和8年度ひきこもり支援業務の公募型プロポーザル方式の実施について 第3次日置市元気な市民づくり運動推進計画策定支援業務の公募型プロポーザルの実施について 日置市地域公共交通計画策定業務委託の公募型プロポーザルの実施について 実総アリーナLED照明改修事業に係る公募型プロポーザルの実施について 日置市「食」の自立支援事業業務の公募型プロポーザル方式の実施について 日置市「食」の自立支援事業業務の公募型プロポーザル方式の実施について(2回目) 令和9年度就労準備支援業務委託に係る公募型プロポーザル方式の実施について 日置市地域福祉計画及び地域福祉活動計画策定支援業務に係る公募型プロポーザルの実施について 暮らしサポート 妊娠・出産 育児・教育 結婚・離婚 引越し・住まい 各種相談 インターネットでできる手続き ごみ 公共交通 申請書等 公共施設等 イベントカレンダー 施設予約システム 日置市子育て支援アプリ「チャイまる」 カタログポケット 吹上浜ライブカメラ ここから本文です。 日置市「食」の自立支援事業業務の公募型プロポーザル方式の実施について 目的 日置市では、食事の調理が困難な在宅の高齢者・障害者等を対象に、配食事業を実施している。本事業は、利用者の食生活の改善および健康増進に加え、安否確認を通じて福祉の向上に寄与することを目的としている。 配食の安全性と質の継続的な確保が不可欠である本事業においては、価格のみならず、専門性や運営体制などを含めた総合的な評価が求められる。そのため、日置市プロポーザル方式実施要綱に基づき、プロポーザル方式により受託候補者の募集及び選定を行う。 様式 日置市プロポーザル方式実施要綱 (PDF:255KB) 日置市「食」の自立支援事業業務委託公募型プロポーザル実施要領(PDF:1,013KB) 実施要領別紙評価基準(PDF:700KB) 様式第1号質問書(PDF:454KB) 様式第1号質問書(ワード:19KB) 様式第2号参加申出書(PDF:342KB) 様式第2号参加申出書(ワード:28KB) 様式第3号誓約書(PDF:366KB) 様式第3号誓約書(ワード:27KB) 様式第4号企画提案書(表紙)(PDF:332KB) 様式第4号企画提案書(表紙)(ワード:22KB) 様式第5号総括表(事業者概要)(PDF:407KB) 様式第5号総括表(事業者概要)(ワード:28KB) 仕様書(PDF:762KB) 企画提案書作成例(PDF:901KB) スケジュール プロポーザルスケジュール 日程 内容 令和8年8月28日(金曜日) 募集開始 令和8年9月11日(金曜日) 質問受付期限 令和8年9月25日(金曜日) 参加申出書提出期限 令和8年10月7日(水曜日) 参加資格審査・企画提案書の提出要請 令和8年10月21日(水曜日) 企画提案書提出締め切り 令和8年11月上旬 プレゼンテーション審査 令和8年11月中旬 業者選定結果通知 提出期限および提出方法 質問書 提出期限:令和8年9月11日(金曜日) 提出方法:電子メールにて下記メールアドレスに提出すること。 参加申出書 提出期限:令和8年9月25日(金曜日) 提出方法:直接持参、郵送(書留または特定記録郵便に限る。)または電子メールにより提出すること。 企画提案書 提出期限:令和8年10月21日(水曜日) 提出方法:直接持参または郵送(書留又は特定記録郵便に限る。)により提出すること。 提出先 日置市役所市民福祉部(日置市福祉事務所)福祉課長寿福祉係 メールアドレス:korei@city.hioki.lg.jp 質問に対する回答 質問に対する回答(PDF:913KB) PDF形式のファイルをご覧いただく場合には、Adobe Acrobat Readerが必要です。Adobe Acrobat Reade",
     "noticeDate": "2026-09-11",
     "deadline": "2026-10-21",
     "presentationDate": "2026-09-11",
@@ -176672,7 +176664,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hioki.kagoshima.jp/korei/shiseizyouhou/tyouzyuhukushi/haisyokusa-bisu.html",
     "officialSourceUrl": "https://www.city.hioki.kagoshima.jp/korei/shiseizyouhou/tyouzyuhukushi/haisyokusa-bisu.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -176973,7 +176965,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.ichikikushikino.lg.jp/densan1/r4_proposal_web_kekka.html",
     "officialSourceUrl": "https://www.city.ichikikushikino.lg.jp/densan1/r4_proposal_web_kekka.html",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -177057,7 +177049,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.ichikikushikino.lg.jp/densan1/r5_proposal_minatoyoriai_result.html",
     "officialSourceUrl": "https://www.city.ichikikushikino.lg.jp/densan1/r5_proposal_minatoyoriai_result.html",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -177128,7 +177120,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.ichikikushikino.lg.jp/densan1/r4_proposal_youjyou_kekka.html",
     "officialSourceUrl": "https://www.city.ichikikushikino.lg.jp/densan1/r4_proposal_youjyou_kekka.html",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -177203,7 +177195,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.ichikikushikino.lg.jp/densan1/r5_prposal_deai_result.html",
     "officialSourceUrl": "https://www.city.ichikikushikino.lg.jp/densan1/r5_prposal_deai_result.html",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -177420,7 +177412,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.ichikikushikino.lg.jp/densan1/r4_proposal_furusatoweb.html",
     "officialSourceUrl": "https://www.city.ichikikushikino.lg.jp/densan1/r4_proposal_furusatoweb.html",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -177516,7 +177508,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.ichikikushikino.lg.jp/densan1/r5_proposal_minatoyoriai.html",
     "officialSourceUrl": "https://www.city.ichikikushikino.lg.jp/densan1/r5_proposal_minatoyoriai.html",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -193951,7 +193943,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shirako.lg.jp/category/5-11-0-0-0-0-0-0-0-0.html",
     "officialSourceUrl": "https://www.town.shirako.lg.jp/category/5-11-0-0-0-0-0-0-0-0.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "観光PR",
@@ -194004,7 +193996,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shirako.lg.jp/cmsfiles/contents/0000006/6453/06_zitai.docx",
     "officialSourceUrl": "https://www.town.shirako.lg.jp/cmsfiles/contents/0000006/6453/06_zitai.docx",
-    "lastChecked": "2026-11-04",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -198821,7 +198813,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.yokohama.lg.jp/business/keizai/index.html",
     "officialSourceUrl": "https://www.city.yokohama.lg.jp/business/keizai/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -203410,7 +203402,7 @@
     "sourceUrl": "https://www.town.mie-kihoku.lg.jp/wp-content/uploads/2026/11/koukokuR8-33.pdf",
     "sourceName": "三重県紀北町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "・仕様書",
@@ -209742,7 +209734,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/oyakogakusyu_puropo.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/oyakogakusyu_puropo.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -209789,7 +209781,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/hacchu/index.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/hacchu/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -242091,7 +242083,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/propoasakusak.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/propoasakusak.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "観光PR"
@@ -242634,7 +242626,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.fukaura.lg.jp/category/bunya/bousai/",
     "officialSourceUrl": "https://www.town.fukaura.lg.jp/category/bunya/bousai/",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -242737,7 +242729,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/nyusatsukoukoku_1/index.html",
     "officialSourceUrl": "https://www.city.iki.nagasaki.jp/soshiki/zaiseika/nyusatsu_keiyaku/nyusatsukoukoku_1/index.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -252283,7 +252275,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/gakushu/sports/tiikisports/sportsclub.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/gakushu/sports/tiikisports/sportsclub.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -263437,7 +263429,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/kiyokawa02pjpropo.html",
     "officialSourceUrl": "https://www.city.taito.lg.jp/jigyosha/keiyaku/proposal/kiyokawa02pjpropo.html",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -270084,7 +270076,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.minamichita.lg.jp/_res/projects/default_project/_page_/001/005/828/hp/reikisyu_zissiyoukou.pdf",
     "officialSourceUrl": "https://www.town.minamichita.lg.jp/_res/projects/default_project/_page_/001/005/828/hp/reikisyu_zissiyoukou.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -270129,7 +270121,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.minamichita.lg.jp/_res/projects/default_project/_page_/001/005/828/hp/reikisyu_hyoukakizyunn.pdf",
     "officialSourceUrl": "https://www.town.minamichita.lg.jp/_res/projects/default_project/_page_/001/005/828/hp/reikisyu_hyoukakizyunn.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -270178,7 +270170,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.minamichita.lg.jp/_res/projects/default_project/_page_/001/005/828/reikisyu_siyousyo.pdf",
     "officialSourceUrl": "https://www.town.minamichita.lg.jp/_res/projects/default_project/_page_/001/005/828/reikisyu_siyousyo.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -270223,7 +270215,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.minamichita.lg.jp/_res/projects/default_project/_page_/001/005/826/hp/system_youryou.pdf",
     "officialSourceUrl": "https://www.town.minamichita.lg.jp/_res/projects/default_project/_page_/001/005/826/hp/system_youryou.pdf",
-    "lastChecked": "2026-11-09",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -289948,7 +289940,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hioki.kagoshima.jp/korei/shiseizyouhou/tyouzyuhukushi/haisyokusa-bisu2.html",
     "officialSourceUrl": "https://www.city.hioki.kagoshima.jp/korei/shiseizyouhou/tyouzyuhukushi/haisyokusa-bisu2.html",
-    "lastChecked": "2026-11-12",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -293814,7 +293806,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hioki.kagoshima.jp/seikatsushien/syuuroujunnbisienn/syuuroujunnbisienn01.html",
     "officialSourceUrl": "https://www.city.hioki.kagoshima.jp/seikatsushien/syuuroujunnbisienn/syuuroujunnbisienn01.html",
-    "lastChecked": "2026-11-12",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -306152,7 +306144,7 @@
     "sourceUrl": "https://www.city.koto.lg.jp/285000/documents/20261109101416.pdf",
     "sourceName": "東京都江東区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "給食調理業務委託仕様書（亀戸第二保育園）R9（PDF：343KB）（別ウィンドウで開きます）",
@@ -311602,7 +311594,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/75029/01boshuyoryo.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "募集要領別紙1基本仕様書（PDF：232KB）",
@@ -311764,7 +311756,7 @@
     "sourceUrl": "https://www.pref.yamagata.jp/documents/55043/koukoku.pdf",
     "sourceName": "山形県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "入札説明書（PDF：266KB）",
@@ -312629,7 +312621,7 @@
     "sourceUrl": "https://www.city.toshima.lg.jp/documents/58321/05zissiyoukou2026.pdf",
     "sourceName": "東京都豊島区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -312731,7 +312723,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/73814/jisshiyoryo.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "江戸川区立共育プラザ葛西運営業務委託仕様書（PDF：1,574KB）",
@@ -312791,7 +312783,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/36824/01zissiyouryou.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "公告文（PDF：96KB）",
@@ -313998,7 +313990,7 @@
     "sourceUrl": "https://www.city.yawata.kyoto.jp/cmsfiles/contents/0000011/11344/01koukoku.pdf",
     "sourceName": "京都府八幡市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "2仕様書 (PDF形式、358.53KB)",
@@ -314109,7 +314101,7 @@
     "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/455425.htm",
     "sourceName": "京都府京都市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -314164,7 +314156,7 @@
     "sourceUrl": "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/iryo/kouki/kokuji/documents/09fucho_koukoku.pdf",
     "sourceName": "鹿児島県鹿児島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：296KB）",
@@ -314225,7 +314217,7 @@
     "sourceUrl": "https://www.pref.kagawa.lg.jp/documents/64489/01_koukoku.pdf",
     "sourceName": "香川県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：180KB）",
@@ -314284,7 +314276,7 @@
     "sourceUrl": "https://www.city.kitakyushu.lg.jp/files/001236707.pdf",
     "sourceName": "福岡県北九州市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "02_仕様書（PDF形式：507KB）",
@@ -314402,7 +314394,7 @@
     "sourceUrl": "https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/14/38820.html",
     "sourceName": "埼玉県春日部市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "［水道事業］電子契約利用届出書(Wordファイル:11.1KB)",
@@ -314474,7 +314466,7 @@
     "sourceUrl": "https://www.city.yaita.tochigi.jp/uploaded/attachment/25197.pdf",
     "sourceName": "栃木県矢板市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "新たな特産開発に伴う販路開拓マーケティング業務委託公募型プロポーザル仕様書 [PDFファイル／218KB]",
@@ -314584,7 +314576,7 @@
     "sourceUrl": "https://www.union.hiroshima-water.lg.jp/file/business/itakuekimu/h-hiroshima/261106_koukoku.pdf",
     "sourceName": "東広島事務所広島県東広島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "仕様書[PDF/10,053KB]",
@@ -314638,7 +314630,7 @@
     "sourceUrl": "https://www.city.chiba.jp/somu/somu/somu/kojibunsyo/documents/08kk0821.pdf",
     "sourceName": "千葉県千葉市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -314694,7 +314686,7 @@
     "sourceUrl": "https://www.city.ube.yamaguchi.jp/_res/projects/default_project/_page_/001/029/338/jissi1106.pdf",
     "sourceName": "山口県宇部市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "宇部市石炭記念館デジタルコンテンツ等制作業務委託仕様書 （PDF 416.6KB）",
@@ -314750,7 +314742,7 @@
     "sourceUrl": "https://www.city.sakaiminato.lg.jp/upload/user/00115729-tTkYVU.pdf",
     "sourceName": "鳥取県境港市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "実施要領",
@@ -314812,7 +314804,7 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e072.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -314859,7 +314851,7 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e071.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -314910,7 +314902,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/36403/koukoku.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "実施要領（PDF：273KB）",
@@ -315027,7 +315019,7 @@
     "sourceUrl": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
     "sourceName": "財務省",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -315077,7 +315069,7 @@
     "sourceUrl": "https://www.city.osaka.lg.jp/templates/buppin_nyusatsuanken/cmsfiles/contents/0000617/617819/01koukokubunn.pdf",
     "sourceName": "大阪府大阪市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "仕様書(PDF形式, 263KB)",
@@ -315140,7 +315132,7 @@
     "sourceUrl": "https://www.city.uonuma.lg.jp/nyusatu/261119/003688/00368801.pdf",
     "sourceName": "新潟県魚沼市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "s_令8廃委第25号",
@@ -315194,7 +315186,7 @@
     "sourceUrl": "https://www.city.uonuma.lg.jp/nyusatu/261119/003697/00369701.pdf",
     "sourceName": "新潟県魚沼市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "令8現単交委第11号 仕様書",
@@ -315261,7 +315253,7 @@
     "sourceUrl": "https://www.city.uonuma.lg.jp/nyusatu/261119/003625/00362501.pdf",
     "sourceName": "新潟県魚沼市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "令8現単観委−45号 仕様書・位置図・除雪計画図",
@@ -315317,7 +315309,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00373678/3_73678_up_eycpyqhs.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：1.11メガバイト）",
@@ -315375,7 +315367,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00373411/3_73411_521833_up_5xxvtw6w.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "02 仕様書（PDF：4.55メガバイト）",
@@ -315437,7 +315429,7 @@
     "sourceUrl": "https://www.mlit.go.jp/common/002044881.pdf",
     "sourceName": "国土交通省航空局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -315485,7 +315477,7 @@
     "sourceUrl": "https://www.pref.akita.lg.jp/uploads/public/archive_0000100364_00/01_%E5%85%AC%E5%91%8A%E6%96%87.pdf",
     "sourceName": "秋田県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "仕様書 [152KB]",
@@ -317581,7 +317573,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/22_2026_18.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -317628,7 +317620,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/46_2026_155.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -319073,7 +319065,7 @@
     "sourceUrl": "https://www.city.kuwana.lg.jp/documents/11810/1.pdf",
     "sourceName": "三重県桑名市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "位置図（PDF：486KB）",
@@ -319132,7 +319124,7 @@
     "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/200530.htm",
     "sourceName": "京都府京都市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -319184,7 +319176,7 @@
     "sourceUrl": "https://wwwtb.mlit.go.jp/chubu/soumu/nyuusatsu/jikou_koukoku.pdf",
     "sourceName": "国土交通省中部運輸局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -319243,7 +319235,7 @@
     "sourceUrl": "https://www.city.kagoshima.lg.jp/kenkofukushi/chouju/kaigohoken/hokenryo/documents/00_kokujibun_1.pdf",
     "sourceName": "鹿児島県鹿児島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：387KB）",
@@ -319298,7 +319290,7 @@
     "sourceUrl": "https://www.union.hiroshima-water.lg.jp/file/business/itakuekimu/hiroshima/r81109_koukoku.pdf",
     "sourceName": "広島水道事務所広島県広島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "機密データの保存等に関する申出書[Word/31KB]",
@@ -319360,7 +319352,7 @@
     "sourceUrl": "https://www.union.hiroshima-water.lg.jp/file/business/itakuekimu/hiroshima/r81109_1_koukoku.pdf",
     "sourceName": "広島水道事務所広島県広島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "機密データの保存等に関する申出書[Word/31KB]",
@@ -319422,7 +319414,7 @@
     "sourceUrl": "https://www.union.hiroshima-water.lg.jp/file/business/itakuekimu/hiroshima/r81109_2_koukoku.pdf",
     "sourceName": "広島水道事務所広島県広島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "機密データの保存等に関する申出書[Word/31KB]",
@@ -319482,7 +319474,7 @@
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/dRR7V5zupB20261106_6.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -319531,7 +319523,7 @@
     "sourceUrl": "https://www.pref.okayama.jp/uploaded/life/1064653_10320422_misc.pdf",
     "sourceName": "国家公安委員会（警察庁）岡山県警察",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -319588,7 +319580,7 @@
     "sourceUrl": "https://www.pref.chiba.lg.jp/kankou/chiba-nature/r8youroumobility.html",
     "sourceName": "千葉県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "企画提案仕様書（PDF：387KB）",
@@ -319651,7 +319643,7 @@
     "sourceUrl": "https://www.pref.chiba.lg.jp/kankou/chiba-nature/r8youroukouikisyuuyuu.html",
     "sourceName": "千葉県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "企画提案仕様書（PDF：426.1KB）",
@@ -319707,7 +319699,7 @@
     "sourceUrl": "https://www.city.minato.tokyo.jp/documents/182181/20261106140244.pdf",
     "sourceName": "東京都港区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "【別紙１】仕様書（PDF：460KB）",
@@ -319762,7 +319754,7 @@
     "sourceUrl": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/027/411/bosyuyoukou.pdf",
     "sourceName": "東京都板橋区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "MIRAI SCHOOL いたばし デジタル支援業務委託仕様書（案） （PDF 371.3KB）",
@@ -319819,7 +319811,7 @@
     "sourceUrl": "https://www.city.iizuka.lg.jp/uploaded/attachment/18649.pdf",
     "sourceName": "福岡県飯塚市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [
       {
         "name": "仕様書 （PDFファイル：142KB）",
@@ -319879,7 +319871,7 @@
     "sourceUrl": "https://www.city.takashima.lg.jp/material/files/group/122/R8zisshiyouryou1.pdf",
     "sourceName": "滋賀県高島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "【仮称】高島市立マキノこども園給食調理業務委託仕様書(PDFファイル:464.2KB)",
@@ -320004,7 +319996,7 @@
     "sourceUrl": "https://www.pref.yamanashi.jp/documents/128397/r8kubiakatuyakamikiriboujosennryaku.pdf",
     "sourceName": "山梨県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -320052,7 +320044,7 @@
     "sourceUrl": "https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/013/017/koukokubun2026008884.pdf",
     "sourceName": "北海道釧路市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -320098,7 +320090,7 @@
     "sourceUrl": "https://www.jsps.go.jp/file/storage/j-choutatsu/procurement/R8-64_nyusatsu.pdf",
     "sourceName": "独立行政法人日本学術振興会",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -320147,7 +320139,7 @@
     "sourceUrl": "https://jsite.mhlw.go.jp/fukuoka-roudoukyoku/content/contents/002885145.pdf",
     "sourceName": "厚生労働省福岡労働局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -320195,7 +320187,7 @@
     "sourceUrl": "https://www.city.chiba.jp/somu/somu/somu/kojibunsyo/documents/08kk0835.pdf",
     "sourceName": "千葉県千葉市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:30+00:00",
+    "lastChecked": "2026-11-14T14:15:06+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -320292,7 +320284,7 @@
     "sourceUrl": "https://www.city.sano.lg.jp/material/files/group/18/081110a01.pdf",
     "sourceName": "栃木県佐野市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "入札説明書 (PDFファイル: 170.3KB)",
@@ -320350,7 +320342,7 @@
     "sourceUrl": "https://www.pref.miyazaki.lg.jp/desaki/kense/chotatsu/sogonogyoshikenjo/20261108104728.html",
     "sourceName": "宮崎県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "入札関係案内資料（PDF：235KB）",
@@ -320412,7 +320404,7 @@
     "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/456806.htm",
     "sourceName": "京都府京都市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -320468,7 +320460,7 @@
     "sourceUrl": "https://www.pref.hiroshima.lg.jp/uploaded/life/1154525_9848487_misc.pdf",
     "sourceName": "広島県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "入札説明書 ほか (その他のファイル)(575KB)",
@@ -320522,7 +320514,7 @@
     "sourceUrl": "https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_sutomanekeikakunitomonaukannrosisetukaitikusekkei.pdf",
     "sourceName": "神奈川県逗子市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "02_図面一式 （PDF 6.2 MB）",
@@ -320582,7 +320574,7 @@
     "sourceUrl": "https://www.rinya.maff.go.jp/j/supply/nyusatu/buppin/attach/pdf/sonota-815.pdf",
     "sourceName": "林野庁",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "入札説明書(PDF : 613KB)",
@@ -320638,7 +320630,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/46_2026_156.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -320691,7 +320683,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/36396/01.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "02 【世田谷区農福連携事業運営業務委託】プロポーザル実施要領兼説明書（PDF：568KB）",
@@ -320746,7 +320738,7 @@
     "sourceUrl": "https://www.city.toshima.lg.jp/documents/57402/20261110171404.pdf",
     "sourceName": "東京都豊島区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "朋有小学校・西巣鴨中学校校舎一体型小中連携校及び総合体育場複合施設整備に伴う基本設計業務委託プロポーザル：実施要項様式集（ワード：134KB）",
@@ -320801,7 +320793,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/36264/koukokubun.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -320850,7 +320842,7 @@
     "sourceUrl": "https://www.pref.gifu.lg.jp/uploaded/life/526369_3019240_misc.pdf",
     "sourceName": "岐阜県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -320977,7 +320969,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/1/ekidenjissi.pdf",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "第76回北河内地区駅伝競走大会業務委託仕様書 (PDFファイル: 193.5KB)",
@@ -321051,7 +321043,7 @@
     "sourceUrl": "https://www.city.shiogama.miyagi.jp/uploaded/life/59417_153886_misc.pdf",
     "sourceName": "宮城県塩竃市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "設計書一式 [PDFファイル／1.54MB]",
@@ -321105,7 +321097,7 @@
     "sourceUrl": "https://www.city.kuwana.lg.jp/documents/13445/kokoku.pdf",
     "sourceName": "三重県桑名市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "基本仕様書（修正あり）（PDF：503KB）",
@@ -321221,7 +321213,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/46_2026_163.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -321271,7 +321263,7 @@
     "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/456859.htm",
     "sourceName": "京都府京都市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:29+00:00",
+    "lastChecked": "2026-11-14T14:15:05+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -321328,7 +321320,7 @@
     "sourceUrl": "https://www.u-ryukyu.ac.jp/wp-content/uploads/2026/11/16bf3e97d0cb4b06c937a8d10e9af284.pdf",
     "sourceName": "国立大学法人琉球大学",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -321386,7 +321378,7 @@
     "sourceUrl": "https://www.ncvc.go.jp/procurement/tender/procurement_54999/",
     "sourceName": "国立研究開発法人国立循環器病研究センター",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "こちら",
@@ -322304,7 +322296,7 @@
     "sourceUrl": "https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/238_koukoku_2026.pdf",
     "sourceName": "新潟県胎内市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "設計図書（PDF：3,691KB）",
@@ -322365,7 +322357,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/22_2026_21.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -322412,7 +322404,7 @@
     "sourceUrl": "https://www.kaiho.mlit.go.jp/11kanku/nyusatu/007-reiwa8nenndo/ekimu/ekimu110/ekimu110koukoku.pdf",
     "sourceName": "海上保安庁第十一管区海上保安本部",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -322474,7 +322466,7 @@
     "sourceUrl": "https://www.pref.kagawa.lg.jp/documents/64588/koukoku.pdf",
     "sourceName": "香川県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：1,364KB）",
@@ -322526,7 +322518,7 @@
     "sourceUrl": "https://www.city.kochi.kochi.jp/uploaded/attachment/186014.pdf",
     "sourceName": "高知県高知市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -322579,7 +322571,7 @@
     "sourceUrl": "https://www.city.kochi.kochi.jp/uploaded/attachment/185980.pdf",
     "sourceName": "高知県高知市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -322626,7 +322618,7 @@
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/k26XqsiKAe20261111_8.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -322675,7 +322667,7 @@
     "sourceUrl": "https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/hidakahokubu/attach/pdf/261112-1.pdf",
     "sourceName": "林野庁北海道森林管理局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "仕様書等(PDF : 16,833KB)",
@@ -322729,7 +322721,7 @@
     "sourceUrl": "https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/239_koukoku_2026.pdf",
     "sourceName": "新潟県胎内市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "設計図書（PDF：4,642KB）",
@@ -322785,7 +322777,7 @@
     "sourceUrl": "https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/237_koukoku_2026.pdf",
     "sourceName": "新潟県胎内市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "設計図書（PDF：7,141KB）",
@@ -322842,7 +322834,7 @@
     "sourceUrl": "https://www.city.tainai.niigata.jp/gyose/nyusatsu/documents/233_koukoku_2026.pdf",
     "sourceName": "新潟県胎内市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "設計図書（PDF：1,059KB）",
@@ -322898,7 +322890,7 @@
     "sourceUrl": "https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/sorati/attach/pdf/261112-1.pdf",
     "sourceName": "林野庁北海道森林管理局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "仕様書等(PDF : 9,006KB)",
@@ -322952,7 +322944,7 @@
     "sourceUrl": "https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/konsenseibu/attach/pdf/261112-1.pdf",
     "sourceName": "林野庁北海道森林管理局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "仕様書等1(PDF : 2,189KB)",
@@ -323014,7 +323006,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/47_2026_24.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -323063,7 +323055,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/36697/kokoku.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "別紙 参考仕様書（PDF：417KB）",
@@ -323123,7 +323115,7 @@
     "sourceUrl": "https://www.city.sanyo-onoda.lg.jp/uploaded/attachment/77720.pdf",
     "sourceName": "山口県山陽小野田市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "山陽小野田市サポート寄附受発注等支援業務委託仕様書 [PDFファイル／173KB]",
@@ -323177,7 +323169,7 @@
     "sourceUrl": "https://www.pref.kyoto.jp/ryuiki/news/20261113-jyoryuhoukatu.html",
     "sourceName": "京都府",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "入札公告（PDF：303KB）",
@@ -323269,7 +323261,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/75103/1uneiyokyushiyosho_1.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -323315,7 +323307,7 @@
     "sourceUrl": "https://www.ntsel.go.jp/alias/pc/chotatsu/cyoutatsu_file/2026/261112_1.pdf",
     "sourceName": "独立行政法人自動車技術総合機構交通安全環境研究所",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -323363,7 +323355,7 @@
     "sourceUrl": "https://www.town.ooki.lg.jp/material/files/group/2/nyuusatukoukoku26111245.pdf",
     "sourceName": "福岡県大木町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "位置図 (PDFファイル: 7.1MB)",
@@ -323418,7 +323410,7 @@
     "sourceUrl": "https://www.town.ooki.lg.jp/material/files/group/2/nyuusatukoukoku26111244.pdf",
     "sourceName": "福岡県大木町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "配置図 (PDFファイル: 1.2MB)",
@@ -323462,7 +323454,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hioki.kagoshima.jp/fukushiseisaku/shisejoho/nyusatsu/kyosei.html",
     "officialSourceUrl": "https://www.city.hioki.kagoshima.jp/fukushiseisaku/shisejoho/nyusatsu/kyosei.html",
-    "lastChecked": "2026-11-12",
+    "lastChecked": "2026-11-14",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -324342,7 +324334,7 @@
     "sourceUrl": "https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/abasirichubu/attach/pdf/261113_2-1.pdf",
     "sourceName": "林野庁北海道森林管理局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "仕様書等1(PDF : 442KB)",
@@ -324405,7 +324397,7 @@
     "sourceUrl": "https://www.town.seiro.niigata.jp/material/files/group/6/20261125_1.zip",
     "sourceName": "新潟県聖籠町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:27+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -324460,7 +324452,7 @@
     "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2026/458246.htm",
     "sourceName": "京都府京都市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:27+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -324515,7 +324507,7 @@
     "sourceUrl": "https://www.pref.fukui.lg.jp/doc/jinji/proposal/r9jichikenlearning_d/fil/R8jichikenkoukoku.pdf",
     "sourceName": "福井県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "02_R8募集要領（ＰＤＦ形式 762キロバイト）",
@@ -324573,7 +324565,7 @@
     "sourceUrl": "https://www.city.shimonoseki.lg.jp/uploaded/life/165811_657393_misc.pdf",
     "sourceName": "山口県下関市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:27+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -324622,7 +324614,7 @@
     "sourceUrl": "https://www.city.shimonoseki.lg.jp/uploaded/life/165817_657418_misc.pdf",
     "sourceName": "山口県下関市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:27+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -324672,7 +324664,7 @@
     "sourceUrl": "https://www.city.kagoshima.lg.jp/shigenseisaku/nyusatu/documents/kokokubun.pdf",
     "sourceName": "鹿児島県鹿児島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：305KB）",
@@ -324730,7 +324722,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/46_2026_165.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:27+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -324779,7 +324771,7 @@
     "sourceUrl": "https://www.rinya.maff.go.jp/hokkaido/apply/publicsale/abasirichubu/attach/pdf/261113-1.pdf",
     "sourceName": "林野庁北海道森林管理局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "仕様書等1(PDF : 439KB)",
@@ -324842,7 +324834,7 @@
     "sourceUrl": "https://houmukyoku.moj.go.jp/fukuoka/content/001473621.pdf",
     "sourceName": "法務省福岡法務局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -324889,7 +324881,7 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e077.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -324936,7 +324928,7 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e073.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -324988,7 +324980,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/48/jisiyouryou_hasu.pdf",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:27+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "内封筒貼付票 (Wordファイル: 32.2KB)",
@@ -325078,7 +325070,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/81/asubesutozissiyouryou.pdf",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:27+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "(イ)仕様書 (PDFファイル: 880.8KB)",
@@ -325136,7 +325128,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/50/R8_manda_youryou.pdf",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:27+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "仕様書 (PDFファイル: 261.8KB)",
@@ -325199,7 +325191,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00373805/3_73805_524229_up_5sx16dd1.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:27+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "実施要領（PDF：351.8キロバイト）",
@@ -325263,7 +325255,7 @@
     "sourceUrl": "https://www.pref.hokkaido.lg.jp/sr/kms/236528.html",
     "sourceName": "北海道",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-14T06:38:28+00:00",
+    "lastChecked": "2026-11-14T14:15:04+00:00",
     "attachments": [
       {
         "name": "北海道立北の森づくり専門学院告示第18号ほか (ZIP 500KB)",
@@ -325769,5 +325761,572 @@
       2023
     ],
     "historyCoverageYears": []
+  },
+  {
+    "dedupeKey": "a24cd0a18119a2f29a11c48386f95ba0f0e9cbe278eb50762cc3935d09c910cb",
+    "sourceRefs": [
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.html"
+      }
+    ],
+    "id": "direct-6393ba4498058f47dcca4158",
+    "municipalityCode": "141003",
+    "area": "南関東",
+    "region": "神奈川県",
+    "municipality": "横浜市",
+    "organization": "横浜市",
+    "title": "【質問回答掲載】【公募型プロポーザル】横浜グリーンエクスポ子どもたちの未来への約束プロジェクトデータ分析・可視化業務委託",
+    "summary": "【質問回答掲載】【公募型プロポーザル】横浜グリーンエクスポ子どもたちの未来への約束プロジェクトデータ分析・可視化業務委託 ここから本文です。 【質問回答掲載】【公募型プロポーザル】横浜グリーンエクスポ子どもたちの未来への約束プロジェクトデータ分析・可視化業務委託 最終更新日 2026年11月13日 印刷する itaku_proposal 件名 横浜グリーンエクスポ子どもたちの未来への約束プロジェクトデータ分析・可視化業務委託 プロポーザル結果 今後掲載予定 発注情報 公告日 2026年10月29日 参加資格 種目(委託) 各種調査企画 所在地区分 市内 企業規模 中小企業 その他の条件 あり 参加資格を有するものは、下記「提案書作成要領」(3 提案資格)を満たすものとする。 ヒアリング実施日 2026年11月20日 ヒアリング実施日詳細(時間等) 2026年11月20日(金曜日)(予定) 実施場所・時間等は別途お知らせします。 申込について 提出書類 ・ 参加意向申出書(様式1)(ワード:15KB) ・提案資格の3(4)を満たしていることが確認できる資料 ※ 参加意向申出書提出以降に辞退する場合は、下記の「辞退届」を提出してください。 ・ 辞退届(様式4)(ワード:16KB) 提出場所 横浜市教育委員会事務局学校教育部学校経営支援課 〒231-0005 横浜市中区本町6丁目50番地の10 (横浜市庁舎14階) Tel:045-671-3494 E-mail:ky-keiei@city.yokohama.lg.jp 申込方法 持参、郵送又は電子メール ※郵送又は電子メールの場合は、電話で到達確認を行ってください。 提出期間 2026年11月6日(金曜日)17時まで(必着) 申込期限 2026年11月6日 関連資料について 関連資料 【関連資料】 1 横浜グリーンエクスポ子どもたちの未来への約束プロジェクトデータ分析・可視化業務委託 受託候補者選定に係る実施要領(PDF:285KB) 2 業務説明資料(PDF:458KB) 3 提案書作成要領(PDF:465KB) 4 提案書評価基準(PDF:274KB) ・ 電子計算処理等の契約に関する情報取り扱い特記事項(PDF:286KB) ・ 個人情報取扱特記事項(PDF:358KB) ・ 委託契約約款(PDF:360KB) 提案書等の提出様式 ・ 提案書 鑑(様式3)(ワード:15KB) ・提案内容各種(様式任意) ・参考見積書(様式任意) 質問回答 質問回答書(PDF:127KB) 参加資格確認結果通知及び提出要請 参加意向申出書を提出した者のうち、提案資格が認められたもの及び認められなかったものに対して、その旨及びその理由を書面により通知します。 (1)通知日 2026年11月10日(火曜日)までに行います。 (2)その他 提案資格が認められなかった旨の通知を受けた応募者は、書面により提案が認められなかった理由の説明を求めることができます。なお、書面は本市が通知を発送した日の翌日起算で、市役所閉庁日を除く5日後の午後5時までに参加意向申出書提出先まで提出しなければなりません。本市は上記の書面を受領した日の翌日起算で、市役所閉庁日を除く5日以内に説明を求めた者に対し書面により回答します。 その他の書類・連絡事項 提案資格が認められた者は、「提案書作成要領」に基づき、所定の様式で提案書等を作成してください。 (1)提出部数 11部(正本1部、複写10部) (2)提出先 横浜市教育委員会事務局学校教育部学校経営支援課 〒231-0005 横浜市中区本町6丁目50番地の10 (横浜市庁舎14階) Tel:045-671-3494 E-mail:ky-keiei@city.yokohama.lg.jp (3)提出期限 2026年11月18日(水曜日)17時まで(必着) (4)提出方法 持参又は郵送(郵送の場合は書留郵便とし、期限までに到着するように発送してください。) (5)その他 ア 所定の様式以外の書類については受理しません。 イ プロポーザルの提出後、本市の判断により補足資料の提出を求めることがあります。 ウ 提出された書類は、返却しません。 エ プロポーザルの提出は、1者につき1案のみとします",
+    "noticeDate": "2026-10-29",
+    "deadline": "2026-11-06",
+    "presentationDate": "2026-11-20",
+    "status": "closed",
+    "sourceSystem": "municipality_direct",
+    "sourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.html",
+    "officialSourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.html",
+    "lastChecked": "2026-11-14",
+    "dataQuality": "official",
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "dentsuFitScore": 38,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [
+      "ai_data_dx"
+    ],
+    "dentsuCategoryLabels": [
+      "AI・データ活用・DX"
+    ],
+    "dentsuSignals": [
+      "データ分析",
+      "プロポーザル"
+    ],
+    "classificationVersion": 2,
+    "attachments": [
+      {
+        "name": "参加意向申出書（様式１）（ワード：15KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.files/01moushide.docx"
+      },
+      {
+        "name": "辞退届（様式４）（ワード：16KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.files/04jitai.docx"
+      },
+      {
+        "name": "横浜グリーンエクスポ子どもたちの未来への約束プロジェクトデータ分析・可視化業務委託　受託候補者選定に係る実施要領（PDF：285KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.files/jishiyouryou.pdf"
+      },
+      {
+        "name": "業務説明資料（PDF：458KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.files/gyoumusetsumei.pdf"
+      },
+      {
+        "name": "提案書作成要領（PDF：465KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.files/sakuseiyouryou.pdf"
+      },
+      {
+        "name": "提案書評価基準（PDF：274KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.files/hyokakijyun.pdf"
+      },
+      {
+        "name": "電子計算処理等の契約に関する情報取り扱い特記事項（PDF：286KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.files/denshi_tokki.pdf"
+      },
+      {
+        "name": "個人情報取扱特記事項（PDF：358KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.files/2604kojinn.pdf"
+      },
+      {
+        "name": "委託契約約款（PDF：360KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.files/2604yakkan.pdf"
+      },
+      {
+        "name": "提案書　鑑（様式３）（ワード：15KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.files/03kagami.docx"
+      },
+      {
+        "name": "質問回答書（PDF：127KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2026/itaku/kyoiku/expodata.files/kaitou.pdf"
+      }
+    ],
+    "sourceCount": 1,
+    "pastAwards": [],
+    "vendorHistory": [],
+    "historyStatus": "unverified",
+    "historyCheckedYears": [
+      2025,
+      2024,
+      2023
+    ],
+    "historyCoverageYears": [
+      2025
+    ]
+  },
+  {
+    "dedupeKey": "10488790aba137e0b56e41011c2067e4e0af245f5648dd10bbf3f0136f0d5f7f",
+    "sourceRefs": [
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kankyo/higashiterao-6.html"
+      }
+    ],
+    "id": "direct-d01046610cf7c54a91d44b1b",
+    "municipalityCode": "141003",
+    "area": "南関東",
+    "region": "神奈川県",
+    "municipality": "横浜市",
+    "organization": "横浜市",
+    "title": "【公募型プロポーザル方式】（仮称）東寺尾六丁目公園コミュニティ農園運営・検証業務委託",
+    "summary": "【公募型プロポーザル方式】(仮称)東寺尾六丁目公園コミュニティ農園運営・検証業務委託 ここから本文です。 【公募型プロポーザル方式】(仮称)東寺尾六丁目公園コミュニティ農園運営・検証業務委託 最終更新日 2026年11月13日 印刷する itaku_proposal 件名 (仮称)東寺尾六丁目公園コミュニティ農園運営・検証業務委託 プロポーザル結果 今後掲載予定 発注情報 公告日 2026年11月13日 参加資格 種目(委託) 公園緑地等管理,各種調査企画 所在地区分 指定なし 企業規模 指定なし その他の条件 (1) 参加者は、単独の法人または、分担履行方式による特定共同企業体とします。 (2) 特定共同企業体は2者以内の構成員により構成するものとし、次に掲げる資格要件を満たす者の組み合わせであることとします。なお、(3)ア及びイは構成員間で分担して満たすことができるものとし、代表者は構成員の選定に委ねます。 (3) 構成員の資格条件 提案資格を有する者は、次の全ての条件を満たす者とします。 ア 令和7・8年度横浜市一般競争入札有資格者名簿に登載されていること。 イ 営業種目として、次の両方を登録していること。なお、特定共同企業体の場合は、構成員全体で満たしていればよいものとします。 (ア) 313 公園緑地等管理の種目を登録している者 (イ) 320 各種調査企画の種目を登録している者 ウ 参加意向申出書提出期限の日から受託候補者特定の日までの間において、横浜市指名停止等措置要綱による指名停止を受けていないこと。 エ 平成30年度以降に次のいずれかの業務実績を有すること。 (ア) コミュニティ農園運営 (イ) 市⺠農園運営 (ウ) 農体験事業 (エ) 自然体験事業 (オ) 市⺠参加型公園運営 (カ) 公共空間活用社会実験 (キ) 地域コミュニティ形成事業 (ク) その他本業務と同種又は類似すると認められる業務 オ 格付等級は問いません。 (4) 単独企業の資格条件 上記(3)アからオまでに掲げる資格条件を全て満たしている者であること。 ヒアリング実施日 2027年1月12日 ヒアリング実施日詳細(時間等) 横浜市庁舎でのヒアリングを予定しています。 詳細については、ヒアリング参加者に別途お知らせします。 申込について 提出書類 ・参加意向申出書と誓約書(応募者用様式内:様式1及び3) ・特定共同企業体協定書兼委任状(様式2)※特定共同企業体の場合のみ 提出場所 横浜市みどり環境局公園緑地事業課緑地保全担当 〒231-0005 横浜市中区本町6丁目50番地の10(27階) (電話番号)045-671-3442 (電子メール)mk-ryokuchihozen-p@city.yokohama.lg.jp 申込方法 (1)提出方法 電子メールまたは持参 ※電子メールの場合、PDF形式で提出してください。また、お電話にて着信確認を行ってください。 (2)提出部数 1部 (3)その他 参加意向申出書を提出した者について、提案者の資格を満たす者であるかを確認し、令和8年11月25日(水曜日)までに、提案資格確認結果通知書を電子メールにて送付します。あわせて、参加資格を有する者にはプロポーザル関係資料提出要請書を電子メールにて送付します。(着信確認の返信を行ってください。) 提出期間 令和8年11月20日(金曜日)午後5時15分まで(必着) ※電子メールの場合、PDF形式で提出してください。また、お電話にて着信確認を行ってください。 ※持参の場合、市役所閉庁日を除き、午前8時45分から午後5時15分の間に提出してください。 申込期限 2026年11月20日 関連資料について 関連資料 ・ 「( 仮称)東寺尾六丁目公園コミュニティ農園運営・検証業務委託」受託候補者特定に係る実施要領(PDF:199KB) ・ 業務説明資料(PDF:894KB) ・ 提案書作成要領(PDF:307KB) ・ 応募者様式(要領3-2を除く)(ワード:37KB) ・ 応募者様式(要領3-2)(パワーポイント:1,079KB) ・ 横浜市委託に関するプロポーザル実施取扱要綱(PDF:232KB) 質問回答 提案者の資格を満たすことが確認されましたら、次のとおり質問書(様式4",
+    "noticeDate": "2026-11-13",
+    "deadline": "2026-11-20",
+    "presentationDate": "2027-01-12",
+    "status": "soon",
+    "sourceSystem": "municipality_direct",
+    "sourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kankyo/higashiterao-6.html",
+    "officialSourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kankyo/higashiterao-6.html",
+    "lastChecked": "2026-11-14",
+    "dataQuality": "official",
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "dentsuFitScore": 12,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "プロポーザル"
+    ],
+    "classificationVersion": 2,
+    "attachments": [
+      {
+        "name": "「（ 仮称）東寺尾六丁目公園コミュニティ農園運営・検証業務委託」受託候補者特定に係る実施要領（PDF：199KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kankyo/higashiterao-6.files/0063_20261106.pdf"
+      },
+      {
+        "name": "業務説明資料（PDF：894KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kankyo/higashiterao-6.files/0064_20261106.pdf"
+      },
+      {
+        "name": "提案書作成要領（PDF：307KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kankyo/higashiterao-6.files/0065_20261106.pdf"
+      },
+      {
+        "name": "応募者様式（要領3-2を除く）（ワード：37KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kankyo/higashiterao-6.files/0069_20261106.docx"
+      },
+      {
+        "name": "横浜市委託に関するプロポーザル実施取扱要綱（PDF：232KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kankyo/higashiterao-6.files/0072_20261106.pdf"
+      }
+    ],
+    "sourceCount": 1,
+    "pastAwards": [],
+    "vendorHistory": [],
+    "historyStatus": "unverified",
+    "historyCheckedYears": [
+      2025,
+      2024,
+      2023
+    ],
+    "historyCoverageYears": [
+      2025
+    ]
+  },
+  {
+    "dedupeKey": "b46e1dcb50b96153431a48b73546bc7c17200acc2d2e4087c64f2b4cb4d14c89",
+    "sourceRefs": [
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.html"
+      }
+    ],
+    "id": "direct-faf9fab911b56fbcb5afb8e7",
+    "municipalityCode": "141003",
+    "area": "南関東",
+    "region": "神奈川県",
+    "municipality": "横浜市",
+    "organization": "横浜市",
+    "title": "【公募型プロポーザル】令和９年度　横浜市家計改善支援事業業務委託",
+    "summary": "【公募型プロポーザル】令和9年度 横浜市家計改善支援事業業務委託 ここから本文です。 【公募型プロポーザル】令和9年度 横浜市家計改善支援事業業務委託 生活困窮者自立支援法及び生活保護法に基づく支援のひとつとして、家計に課題を抱える生活困窮者に対し、家計収支の改善や滞納の解消・債務整理等に向けた家計管理支援を行う「横浜市家計改善支援事業」を委託にて実施します。公募型プロポーザルにより事業者を選定します。 最終更新日 2026年11月13日 印刷する itaku_proposal 件名 令和9年度 横浜市家計改善支援事業業務委託 プロポーザル結果 今後掲載予定 発注情報 公告日 2026年11月13日 参加資格 種目(委託) その他の委託等 所在地区分 指定なし 企業規模 指定なし その他の条件 (1)横浜市契約規則(昭和39 年3月横浜市規則第59 号)第3条第1項に掲げる者でないこと及び同条第2項の規定により定めた資格を有する者であること。 (2)令和7・8年度横浜市一般競争入札有資格者名簿(物品・委託等関係)に「その他の委託等」の登録が認められていること。 (3)本業務に従事する家計改善支援員としてファイナンシャルプランナーの有資格者や家計管理に関する相談支援業務の経験を有する者を配置できること。 (4)本市又は他の地方公共団体において、過去3年以内に家計改善支援事業その他家計管理に関する相談支援事業の受託実績を有すること。 (5)プロポーザル参加意向申出書の提出期限から受託候補者特定の日までの間のいずれの日においても、横浜市一般競争参加停止及び指名停止等措置要綱に基づく一般競争参加停止及び指名停止の措置を受けていない者。 ヒアリング実施日 ヒアリング実施日詳細(時間等) 令和9年1月中~下旬 ※具体的な日時及び場所は、提案資格が認められた場合にお知らせします。 申込について 提出書類 参加意向申出書(様式1)(ワード:16KB) 誓約書(要領-1)(ワード:16KB) 委託業務経歴書(要領-2)(ワード:19KB) 質問書(要領-3)(ワード:22KB) 注:質問がない場合は質問書の提出は不要です。 提案書・表紙(様式5)(ワード:18KB) 提案書・様式(要領-4)(ワード:34KB) 提案書の開示に係る意向申出書(要領-5)(ワード:22KB) 提出場所 〒231-0005 横浜市中区本町6-50-10 横浜市庁舎16階 横浜市健康福祉局生活福祉部 生活支援課生活支援係 申込方法 持参、郵送又は電子メール ※指定されたもの以外の方法・様式による提出は受理しません。郵送の場合は簡易書留、電子メールの場合は提出書類にパスワードをつけることとし、期限までに到着するよう発送してください。また、持参以外は、到着確認を行ってください。 ※提案書については、持参又は郵送による提出のみ受け付けます。電子メールによる提出は受理できませんので、ご留意ください。 提出期間 1. 参加意向申出書受付締切:令和8年11月27日(金曜日)17時まで(必着) 2. 質問書受付締切:令和8年12月11日(金曜日)17時まで(必着) 3. 提案書受付締切:令和8年12月24日(木曜日)17時まで(必着) 提出書類及び別添『資料2:スケジュール』に記載のとおり 申込期限 2026年11月27日 関連資料について 関連資料 資料1:業務説明資料(PDF:292KB) 資料2:スケジュール(PDF:181KB) 資料3:提案書作成要領(PDF:441KB) 資料4:提案書基準表(PDF:158KB) 資料5:受託候補者特定に係る実施要領(PDF:134KB) 資料6:横浜市委託に関するプロポーザル実施取扱要綱(PDF:232KB) 質問回答 ※質問回答書は、質問書の提出があった場合に掲載します。 参加資格確認結果通知及び提出要請 横浜市で提案資格の有無を確認し、令和8年12月4日(金曜日)までに行います。 その他の書類・連絡事項 この契約は、令和9年度横浜市各会計予算が、令和9年3月31日までに横浜市議会において議決されることを停止条件とする案件です。 発注担当課 発注担当課情報 項目 各項目の情報 担当課 健康福祉局 生活福祉部 生活支援課 生活支援係 住所 〒",
+    "noticeDate": "2026-11-13",
+    "deadline": "2026-12-04",
+    "status": "open",
+    "sourceSystem": "municipality_direct",
+    "sourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.html",
+    "officialSourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.html",
+    "lastChecked": "2026-11-14",
+    "dataQuality": "official",
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "dentsuFitScore": 12,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "プロポーザル"
+    ],
+    "classificationVersion": 2,
+    "attachments": [
+      {
+        "name": "参加意向申出書（様式１）（ワード：16KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.files/0009_20261106.docx"
+      },
+      {
+        "name": "誓約書（要領－１）（ワード：16KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.files/0010_20261106.docx"
+      },
+      {
+        "name": "委託業務経歴書（要領－２）（ワード：19KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.files/0011_20261106.docx"
+      },
+      {
+        "name": "質問書（要領－３）（ワード：22KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.files/0013_20261106.docx"
+      },
+      {
+        "name": "提案書・表紙（様式５）（ワード：18KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.files/0012_20261106.docx"
+      },
+      {
+        "name": "提案書・様式（要領－４）（ワード：34KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.files/0032_20261113.docx"
+      },
+      {
+        "name": "提案書の開示に係る意向申出書（要領－５）（ワード：22KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.files/0026_20261111.docx"
+      },
+      {
+        "name": "資料１：業務説明資料（PDF：292KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.files/0031_20261113.pdf"
+      },
+      {
+        "name": "資料２：スケジュール（PDF：181KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.files/0027_20261111.pdf"
+      },
+      {
+        "name": "資料３：提案書作成要領（PDF：441KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.files/0030_20261113.pdf"
+      },
+      {
+        "name": "資料４：提案書基準表（PDF：158KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.files/0019_20261106.pdf"
+      },
+      {
+        "name": "資料５：受託候補者特定に係る実施要領（PDF：134KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.files/0024_20261110.pdf"
+      },
+      {
+        "name": "資料６：横浜市委託に関するプロポーザル実施取扱要綱（PDF：232KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kakei.files/0021_20261106.pdf"
+      }
+    ],
+    "sourceCount": 1,
+    "pastAwards": [],
+    "vendorHistory": [],
+    "historyStatus": "unverified",
+    "historyCheckedYears": [
+      2026,
+      2025,
+      2024
+    ],
+    "historyCoverageYears": [
+      2026,
+      2025
+    ]
+  },
+  {
+    "dedupeKey": "9ad845bc54af1c41ef5e14824c6a65e7d4a0655e40d5fca55f91206ef5d1cd86",
+    "sourceRefs": [
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.html"
+      }
+    ],
+    "id": "direct-e26450f90cdb24a1e9cbecb9",
+    "municipalityCode": "141003",
+    "area": "南関東",
+    "region": "神奈川県",
+    "municipality": "横浜市",
+    "organization": "横浜市",
+    "title": "【公募型プロポーザル】令和９年度　横浜市就労訓練事業支援センター運営事業業務委託",
+    "summary": "【公募型プロポーザル】令和9年度 横浜市就労訓練事業支援センター運営事業業務委託 ここから本文です。 【公募型プロポーザル】令和9年度 横浜市就労訓練事業支援センター運営事業業務委託 生活困窮者自立支援法第16条第1項に規定される「生活困窮者就労訓練事業」の推進を図るため、横浜市就労訓練事業支援センターを設置し、認定就労訓練事業所への支援や、就労訓練事業の利用調整等を行う「横浜市就労訓練事業支援センター運営事業業務委託」を実施します。ついては、令和9年度の実施にあたり、次のとおりプロポーザル方式により受託事業者を募集します。 最終更新日 2026年11月13日 印刷する itaku_proposal 件名 令和9年度 横浜市就労訓練事業支援センター運営事業業務委託 プロポーザル結果 今後掲載予定 発注情報 公告日 2026年11月13日 参加資格 種目(委託) その他の委託等 所在地区分 指定なし 企業規模 指定なし その他の条件 (1)横浜市契約規則(昭和39年3月横浜市規則第59号)第3条第1項に掲げる者でないこと及び同条第2項の規定により定めた資格を有する者であること。 (2)令和7・8年度横浜市一般競争入札有資格者名簿(物品・委託等関係)に「その他の委託等」の登録があること。 (3)プロポーザル参加意向申出書の提出期限から受託候補者特定の日までの間のいずれの日においても、横浜市一般競争参加停止及び指名停止等措置要綱に基づく一般競争参加停止及び指名停止の措置を受けていない者であること。 (4)受託者は、過去3年以内に就労支援の実施又はコーディネートの業務に関する受託実績を有する者とすること。 ヒアリング実施日 ヒアリング実施日詳細(時間等) 令和9年1月中~下旬 ※具体的な日時及び場所は、提案資格が認められた場合にお知らせします。 申込について 提出書類 参加意向申出書(様式1)(ワード:18KB) 誓約書(要領-1)(ワード:16KB) 委託業務経歴書(要領-2)(ワード:19KB) 質問書(要領-3)(ワード:22KB) 注:質問がない場合は質問書の提出は不要です。 提案書表紙(様式5)(ワード:18KB) 提案書(要領-4)(ワード:29KB) 提案書の開示に係る意向申出書(要領-5)(ワード:23KB) 提出場所 〒231-0005 横浜市中区本町6-50-10 横浜市庁舎16階 横浜市健康福祉局生活福祉部 生活支援課生活支援係 申込方法 持参、郵送又は電子メール ※指定されたもの以外の方法・様式による提出は受理しません。郵送の場合は簡易書留、電子メールの場合は提出書類にパスワードをつけることとし、期限までに到着するよう発送してください。また、持参以外は、到着確認を行ってください。 ※提案書については、持参又は郵送による提出のみ受け付けます。電子メールによる提出は受理できませんので、ご留意ください。 提出期間 1. 参加意向申出書受付締切:令和8年11月27日(金曜日)17時まで(必着) 2. 質問書受付締切:令和8年12月11日(金曜日)17時まで(必着) 3. 提案書受付締切:令和8年12月24日(木曜日)17時まで(必着) 提出書類及び別添『資料2:スケジュール』に記載のとおり 申込期限 2026年11月27日 関連資料について 関連資料 資料1:業務説明資料(PDF:278KB) 資料2:スケジュール (PDF:182KB) 資料3:提案書作成要領(PDF:433KB) 資料4:提案書基準表 (PDF:149KB) 資料5:受託候補者特定に係る実施要領(PDF:136KB) 資料6:横浜市委託に関するプロポーザル実施取扱要綱(PDF:232KB) 質問回答 ※質問回答書は、質問書の提出があった場合に掲載します。 参加資格確認結果通知及び提出要請 横浜市で提案資格の有無を確認し、令和8年12月4日(金曜日)までに行います。 その他の書類・連絡事項 この契約は、令和9年度横浜市各会計予算が、令和9年3月31日までに横浜市議会において議決されることを停止条件とする案件です。 発注担当課 発注担当課情報 項目 各項目の情報 担当課 健康福祉局 生活福祉部 生活支援課 生活支援係 住所 〒231-0005 横浜市中区本町6",
+    "noticeDate": "2026-11-13",
+    "deadline": "2026-12-04",
+    "status": "open",
+    "sourceSystem": "municipality_direct",
+    "sourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.html",
+    "officialSourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.html",
+    "lastChecked": "2026-11-14",
+    "dataQuality": "official",
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "dentsuFitScore": 12,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "プロポーザル"
+    ],
+    "classificationVersion": 2,
+    "attachments": [
+      {
+        "name": "参加意向申出書（様式１）（ワード：18KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.files/0001_20261105.docx"
+      },
+      {
+        "name": "誓約書（要領－１）（ワード：16KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.files/0026_20261113.docx"
+      },
+      {
+        "name": "委託業務経歴書（要領－２）（ワード：19KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.files/0027_20261113.docx"
+      },
+      {
+        "name": "質問書（要領－３）（ワード：22KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.files/0028_20261113.docx"
+      },
+      {
+        "name": "提案書表紙（様式５）（ワード：18KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.files/0004_20261105.docx"
+      },
+      {
+        "name": "提案書（要領－４）（ワード：29KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.files/0019_20261110.docx"
+      },
+      {
+        "name": "提案書の開示に係る意向申出書（要領－５）（ワード：23KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.files/0029_20261113.docx"
+      },
+      {
+        "name": "資料１：業務説明資料（PDF：278KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.files/0008_20261105.pdf"
+      },
+      {
+        "name": "資料２：スケジュール （PDF：182KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.files/0030_20261113.pdf"
+      },
+      {
+        "name": "資料３：提案書作成要領（PDF：433KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.files/0031_20261113.pdf"
+      },
+      {
+        "name": "資料４：提案書基準表 （PDF：149KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.files/0011_20261105.pdf"
+      },
+      {
+        "name": "資料５：受託候補者特定に係る実施要領（PDF：136KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.files/0012_20261105.pdf"
+      },
+      {
+        "name": "資料６：横浜市委託に関するプロポーザル実施取扱要綱（PDF：232KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/kunren.files/0013_20261105.pdf"
+      }
+    ],
+    "sourceCount": 1,
+    "pastAwards": [],
+    "vendorHistory": [],
+    "historyStatus": "unverified",
+    "historyCheckedYears": [
+      2026,
+      2025,
+      2024
+    ],
+    "historyCoverageYears": [
+      2026,
+      2025
+    ]
+  },
+  {
+    "dedupeKey": "8ed83441cc85181445f8a25f60da331ab4e4634f16ce2902c0a73ba30b9cac4c",
+    "sourceRefs": [
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.html"
+      }
+    ],
+    "id": "direct-9d8725a8926f05672ab820a6",
+    "municipalityCode": "141003",
+    "area": "南関東",
+    "region": "神奈川県",
+    "municipality": "横浜市",
+    "organization": "横浜市",
+    "title": "【公募型プロポーザル】令和９年度　横浜市無料職業紹介事業関連業務委託",
+    "summary": "【公募型プロポーザル】令和9年度 横浜市無料職業紹介事業関連業務委託 ここから本文です。 【公募型プロポーザル】令和9年度 横浜市無料職業紹介事業関連業務委託 当事業実施にあたり、次のとおりプロポーザル方式で受託事業者を募集します。(※横浜市では、平成17年度より生活保護を受給する方を対象とした「無料職業紹介事業」を実施しています。) 最終更新日 2026年11月13日 印刷する itaku_proposal 件名 令和9年度 無料職業紹介事業関連業務委託 プロポーザル結果 今後掲載予定 発注情報 公告日 2026年11月13日 参加資格 種目(委託) その他の委託等 所在地区分 指定なし 企業規模 指定なし その他の条件 (1)横浜市契約規則(昭和39年3月横浜市規則第59号)第3条第1項に掲げる者でないこと及び同条第2項の規定により定めた資格を有する者であること。 (2)令和7・8年度横浜市一般競争入札有資格者名簿(物品・委託等関係)に「その他の委託等」の登録があること。 (3)プロポーザル参加意向申出書の提出期限から受託候補者特定の日までの間のいずれの日においても、横浜市一般競争参加停止及び指名停止等措置要綱に基づく一般競争参加停止及び指名停止の措置を受けていない者であること。 (4)求人開拓員は、求人開拓業務又は職業紹介業務経験者であること。 (5)統括責任者は、公益社団法人全国民営職業紹介事業協会が開催する職業紹介責任者講習を受講し、有効期限内(5年間)であること。 ヒアリング実施日 ヒアリング実施日詳細(時間等) 令和9年1月中~下旬 ※具体的な日時及び場所は、提案資格が認められた場合にお知らせします。 申込について 提出書類 参加意向申出書(様式1)(ワード:15KB) 誓約書(要領-1)(ワード:16KB) 質問書(要領-2)(ワード:16KB) 注:質問がない場合は質問書の提出は不要です。 提案書表紙(様式5)(ワード:18KB) 提案書(要領-3)(ワード:37KB) 提案書の開示に係る意向申出書(要領-4)(ワード:21KB) 提出場所 〒231-0005 横浜市中区本町6-50-10 横浜市庁舎16階 横浜市健康福祉局生活福祉部 生活支援課生活支援係 申込方法 持参、郵送又は電子メール ※指定されたもの以外の方法・様式による提出は受理しません。郵送の場合は簡易書留、電子メールの場合は提出書類にパスワードをつけることとし、期限までに到着するよう発送してください。また、持参以外は、到着確認を行ってください。 ※提案書については、持参又は郵送による提出のみ受け付けます。電子メールによる提出は受理できませんので、ご留意ください。 提出期間 1. 参加意向申出書受付締切:令和8年11月27日(金曜日)17時まで(必着) 2. 質問書受付締切:令和8年12月11日(金曜日)17時まで(必着) 3. 提案書受付締切:令和8年12月24日(木曜日)17時まで(必着) 提出書類及び別添『資料2:スケジュール』に記載のとおり 申込期限 2026年11月27日 関連資料について 関連資料 資料1:業務説明資料(PDF:445KB) 資料2:スケジュール (PDF:181KB) 資料3:提案書作成要領(PDF:590KB) 資料4:提案書基準表(PDF:192KB) 資料5:受託候補者特定に係る実施要領(PDF:133KB) 資料6:横浜市委託に関するプロポーザル実施取扱要綱(PDF:232KB) 質問回答 ※質問回答書は、質問書の提出があった場合に掲載します。 参加資格確認結果通知及び提出要請 横浜市で提案資格の有無を確認し、令和8年12月4日(金曜日)までに行います。 その他の書類・連絡事項 この契約は、令和9年度横浜市各会計予算が、令和9年3月31日までに横浜市議会において議決されることを停止条件とする案件です。 発注担当課 発注担当課情報 項目 各項目の情報 担当課 健康福祉局 生活福祉部 生活支援課 生活支援係 住所 〒231-0005 横浜市中区本町6-50-10横浜市庁舎16階 電話番号 045-671-2429 ファクス 045-664-0403 その他の連絡先 kf-seikatsushien@city.yokoha",
+    "noticeDate": "2026-11-13",
+    "deadline": "2026-12-04",
+    "status": "open",
+    "sourceSystem": "municipality_direct",
+    "sourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.html",
+    "officialSourceUrl": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.html",
+    "lastChecked": "2026-11-14",
+    "dataQuality": "official",
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "dentsuFitScore": 12,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "プロポーザル"
+    ],
+    "classificationVersion": 2,
+    "attachments": [
+      {
+        "name": "参加意向申出書（様式１）（ワード：15KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.files/0009_20261105.docx"
+      },
+      {
+        "name": "誓約書（要領－１）（ワード：16KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.files/0010_20261105.docx"
+      },
+      {
+        "name": "質問書（要領－２）（ワード：16KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.files/0011_20261105.docx"
+      },
+      {
+        "name": "提案書表紙（様式５）（ワード：18KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.files/0012_20261105.docx"
+      },
+      {
+        "name": "提案書（要領－３）（ワード：37KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.files/0025_20261113.docx"
+      },
+      {
+        "name": "提案書の開示に係る意向申出書（要領－４）（ワード：21KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.files/0014_20261105.docx"
+      },
+      {
+        "name": "資料１：業務説明資料（PDF：445KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.files/0015_20261105.pdf"
+      },
+      {
+        "name": "資料２：スケジュール （PDF：181KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.files/0022_20261110.pdf"
+      },
+      {
+        "name": "資料３：提案書作成要領（PDF：590KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.files/0024_20261111.pdf"
+      },
+      {
+        "name": "資料４：提案書基準表（PDF：192KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.files/0018_20261105.pdf"
+      },
+      {
+        "name": "資料５：受託候補者特定に係る実施要領（PDF：133KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.files/0019_20261105.pdf"
+      },
+      {
+        "name": "資料６：横浜市委託に関するプロポーザル実施取扱要綱（PDF：232KB）",
+        "url": "https://www.city.yokohama.lg.jp/business/nyusatsu/kakukukyoku/2027/itaku/kenko/muryou.files/0020_20261105.pdf"
+      }
+    ],
+    "sourceCount": 1,
+    "pastAwards": [],
+    "vendorHistory": [],
+    "historyStatus": "unverified",
+    "historyCheckedYears": [
+      2026,
+      2025,
+      2024
+    ],
+    "historyCoverageYears": [
+      2026,
+      2025
+    ]
+  },
+  {
+    "dedupeKey": "a2b291c1113d11d0f7c48bd713afd3ef4d1abd739699cdb4599c53504b0e19ab",
+    "sourceRefs": [
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.town.fukaura.lg.jp/doc/2026110600013/"
+      }
+    ],
+    "id": "direct-ca34167ba233deea314cca49",
+    "municipalityCode": "023230",
+    "area": "東北",
+    "region": "青森県",
+    "municipality": "深浦町",
+    "organization": "深浦町",
+    "title": "令和8年度　広報ふかうら11月号",
+    "summary": "令和8年度 広報ふかうら11月号 公開日 2026.11.13 11月号の表紙 「白熱!ボッチャ・フレンドリーマッチ」 ▼各ページの内容はこちらから▼ 全ページのダウンロードはこちら[PDF:10.9MB] 1p...表紙[PDF:2.27MB] 2-3p...第1回ボッチャ・フレンドリーマッチ[PDF:1.87MB] 4-5p...軽スポーツフェスティバル/ハロウィンウォーキング/岩崎小うどん教室・地域との交流会[PDF:2.28MB] 6-7p...まちかどウォッチング[PDF:740KB] 8-9p...親子ふれあい教室(大戸瀬地区)/防災コーナー/コミュニティ助成事業[PDF:1.2MB] 10-11p...健康こそ宝/Mr.Bからの出題です[PDF:1000KB] 12-13p...町民文芸/編集後記/戸籍の窓[PDF:1.38MB] 14p...ちびっこチャンピオン/こんなに元気です/ウラ広報[PDF:2.27MB] 関連記事 過去の広報ふかうら一覧 お問い合わせ 総合戦略課 住所 :青森県西津軽郡深浦町大字深浦字苗代沢84-2 TEL :0173-74-2122 FAX :0173-74-4415 E-Mail : fukaura001@town.fukaura.lg.jp PDFの閲覧にはAdobe社の無償のソフトウェア「Adobe Acrobat Reader」が必要です。下記のAdobe Acrobat Readerダウンロードページから入手してください。 Adobe Acrobat Readerダウンロード 注目コンテンツ 町長の部屋 深浦町議会 ふるさと納税 移住・定住 例規集 アクセス",
+    "status": "unknown",
+    "sourceSystem": "municipality_direct",
+    "sourceUrl": "https://www.town.fukaura.lg.jp/doc/2026110600013/",
+    "officialSourceUrl": "https://www.town.fukaura.lg.jp/doc/2026110600013/",
+    "lastChecked": "2026-11-14",
+    "dataQuality": "official",
+    "theme": [
+      "広報・広告"
+    ],
+    "dentsuFitScore": 53,
+    "dentsuFitLevel": "medium",
+    "dentsuCategories": [
+      "pr_communications"
+    ],
+    "dentsuCategoryLabels": [
+      "広報・PR・コミュニケーション"
+    ],
+    "dentsuSignals": [
+      "広報",
+      "戦略"
+    ],
+    "classificationVersion": 2,
+    "attachments": [
+      {
+        "name": "全ページのダウンロードはこちら[PDF：10.9MB]",
+        "url": "https://www.town.fukaura.lg.jp/doc/2026110600013/file_contents/file_20261165132451_9.pdf"
+      },
+      {
+        "name": "1p...表紙[PDF：2.27MB]",
+        "url": "https://www.town.fukaura.lg.jp/doc/2026110600013/file_contents/file_20261165132451_1.pdf"
+      },
+      {
+        "name": "2-3p...第１回ボッチャ・フレンドリーマッチ[PDF：1.87MB]",
+        "url": "https://www.town.fukaura.lg.jp/doc/2026110600013/file_contents/file_20261165132451_2.pdf"
+      },
+      {
+        "name": "4-5p...軽スポーツフェスティバル／ハロウィンウォーキング／岩崎小うどん教室・地域との交流会[PDF：2.28MB]",
+        "url": "https://www.town.fukaura.lg.jp/doc/2026110600013/file_contents/file_20261165132451_3.pdf"
+      },
+      {
+        "name": "6-7p...まちかどウォッチング[PDF：740KB]",
+        "url": "https://www.town.fukaura.lg.jp/doc/2026110600013/file_contents/file_20261165132451_4.pdf"
+      },
+      {
+        "name": "8-9p...親子ふれあい教室（大戸瀬地区）／防災コーナー／コミュニティ助成事業[PDF：1.2MB]",
+        "url": "https://www.town.fukaura.lg.jp/doc/2026110600013/file_contents/file_20261165132451_5.pdf"
+      },
+      {
+        "name": "10-11p...健康こそ宝／Mr.Bからの出題です[PDF：1000KB]",
+        "url": "https://www.town.fukaura.lg.jp/doc/2026110600013/file_contents/file_20261165132451_6.pdf"
+      },
+      {
+        "name": "12-13p...町民文芸／編集後記／戸籍の窓[PDF：1.38MB]",
+        "url": "https://www.town.fukaura.lg.jp/doc/2026110600013/file_contents/file_20261165132451_7.pdf"
+      },
+      {
+        "name": "14p...ちびっこチャンピオン／こんなに元気です／ウラ広報[PDF：2.27MB]",
+        "url": "https://www.town.fukaura.lg.jp/doc/2026110600013/file_contents/file_20261165132451_8.pdf"
+      }
+    ],
+    "sourceCount": 1,
+    "pastAwards": [],
+    "vendorHistory": [],
+    "historyStatus": "new_estimated",
+    "historyCheckedYears": [
+      2025,
+      2024,
+      2023
+    ],
+    "historyCoverageYears": [
+      2025,
+      2024,
+      2023
+    ]
   }
 ]
