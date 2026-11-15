@@ -1072,7 +1072,7 @@
   },
   {
     "dedupeKey": "29e3ca080e72f40e6a2b1eaa470afee55a33bf4fcad78e4976d4ac1b8a3df3b7",
-    "id": "award-8396a678902f8734d687cac5",
+    "id": "award-749a47c05bd89fe21fbae82c",
     "municipalityCode": "032115",
     "area": "東北",
     "region": "岩手県",
@@ -1082,12 +1082,12 @@
     "vendor": "名 オ",
     "awardDate": "1999-07-01",
     "year": 1999,
-    "sourceUrl": "https://www.city.kamaishi.iwate.jp/docs/2026091600040/file_contents/250401-1.pdf",
+    "sourceUrl": "https://www.city.kamaishi.iwate.jp/docs/2026100500040/file_contents/250401-1.pdf",
     "sourceSystem": "municipality_result",
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-10-17T23:19:09+00:00"
+    "lastChecked": "2026-11-15T23:03:03+00:00"
   },
   {
     "dedupeKey": "ab9ab6fd87479e5c2d2ac07d322d32f5769afc0c238e2f3bbe525866edd274a6",
@@ -29041,7 +29041,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-10-15T18:29:57+00:00"
+    "lastChecked": "2026-11-15T23:03:02+00:00"
   },
   {
     "dedupeKey": "6ee5adf775e2132077bea68f480c8304b080f24e0390877c9714d89c235c2508",
@@ -35874,5 +35874,66 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-11-13T23:48:05+00:00"
+  },
+  {
+    "dedupeKey": "734683a8a1650aa58503f05d337ad4e903a62393fb2ab2c1476a0ecbb6340ab9",
+    "id": "award-7ea28c94eb3e639dc371e908",
+    "municipalityCode": "112411",
+    "area": "南関東",
+    "region": "埼玉県",
+    "municipality": "鶴ヶ島市",
+    "organization": "鶴ヶ島市",
+    "title": "高倉クリーンセンター跡地等 (2)対象地",
+    "vendor": "(買受候補者)として決定しました。 (",
+    "awardDate": "2026-09-01",
+    "year": 2026,
+    "sourceUrl": "https://www.city.tsurugashima.lg.jp/shigoto-sangyou/nyusatsu-keiyaku/info/proposal/page012451.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-11-15T23:02:48+00:00"
+  },
+  {
+    "dedupeKey": "8b765439b5b3715d558cf74343acc966ca2eaab0e46105b923665ae4daab31a0",
+    "id": "award-2f51c2e3d1e6444db5ee71c1",
+    "municipalityCode": "112411",
+    "area": "南関東",
+    "region": "埼玉県",
+    "municipality": "鶴ヶ島市",
+    "organization": "鶴ヶ島市",
+    "title": "鶴ヶ島市農業参入企業誘致支援業務 2.業務内容:仕様書のとおり 参加申込書の受付期間 令和8年7月7日(火曜日)から令和8年8月6日(木曜日)17時00分まで 実施要領等(配布書類) 以下の「関連ファイルダウンロード」から取得してください。 プロポーザルに係る質問・回答 本プロポーザルへの質問はありませんでした。 選定結果【令和8年8月31日掲載】 審査の結果、「株式会社アグリメディア」を",
+    "vendor": "として決定しました。 (",
+    "awardDate": "2026-07-07",
+    "year": 2025,
+    "sourceUrl": "https://www.city.tsurugashima.lg.jp/shigoto-sangyou/nyusatsu-keiyaku/info/proposal/page012081.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [
+      "content_media"
+    ],
+    "dentsuCategoryLabels": [
+      "メディア・コンテンツ・動画"
+    ],
+    "lastChecked": "2026-11-15T23:02:56+00:00"
+  },
+  {
+    "dedupeKey": "5a5a826b650374437dbf5c359af6372a7aae5d0e86f81b8f15638f20dd58bee3",
+    "id": "award-83ece864e7dae20d97f2c986",
+    "municipalityCode": "112411",
+    "area": "南関東",
+    "region": "埼玉県",
+    "municipality": "鶴ヶ島市",
+    "organization": "鶴ヶ島市",
+    "title": "【選定結果】鶴ヶ島市予約連動型発券システム導入等業務の公募型プロポーザル",
+    "vendor": "として決定しました。 (",
+    "awardDate": "2027-03-31",
+    "year": 2027,
+    "sourceUrl": "https://www.city.tsurugashima.lg.jp/shigoto-sangyou/nyusatsu-keiyaku/info/proposal/page012240.html",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-11-15T23:02:57+00:00"
   }
 ]
