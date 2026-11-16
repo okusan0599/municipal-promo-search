@@ -1,22 +1,22 @@
 {
   "state": "completed",
-  "started_at": "2026-11-15T22:56:00+00:00",
-  "updated_at": "2026-11-15T23:03:08+00:00",
+  "started_at": "2026-11-16T02:48:57+00:00",
+  "updated_at": "2026-11-16T02:56:35+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 109,
     "status": {
       "state": "completed",
-      "started_at": "2026-11-15T22:56:00+00:00",
-      "updated_at": "2026-11-15T22:56:07+00:00",
+      "started_at": "2026-11-16T02:48:58+00:00",
+      "updated_at": "2026-11-16T02:49:04+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
       "count": 109,
       "errors": [],
       "current_query": null,
-      "raw_hits_sum": 4335,
+      "raw_hits_sum": 4288,
       "lookback_days": 180,
       "cache_minutes": 30,
       "message": "APIから最新候補を取得しました。元公示は各案件リンクで確認してください。"
@@ -24,29 +24,29 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 78,
-    "failed": 22,
-    "sourcesAdded": 17,
-    "historySourcesAdded": 37
+    "succeeded": 80,
+    "failed": 20,
+    "sourcesAdded": 0,
+    "historySourcesAdded": 19
   },
   "direct": {
     "processed": 50,
-    "succeeded": 44,
-    "failed": 6,
-    "projects": 118,
+    "succeeded": 37,
+    "failed": 13,
+    "projects": 105,
     "unchanged": 10,
-    "historySourcesAdded": 96
+    "historySourcesAdded": 72
   },
   "history": {
     "processed": 30,
-    "succeeded": 28,
-    "failed": 2,
-    "awards": 5,
-    "documents": 68,
-    "unchanged": 9
+    "succeeded": 12,
+    "failed": 18,
+    "awards": 0,
+    "documents": 0,
+    "unchanged": 0
   },
   "statusNormalized": 0,
-  "historyLinkedProjects": 12,
+  "historyLinkedProjects": 0,
   "coverage": {
     "municipalities": 1788,
     "municipalitiesVisited": 1787,
