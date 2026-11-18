@@ -13358,7 +13358,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "安全の確保",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -13373,7 +13373,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "未来のための伝承・発信",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -13388,7 +13388,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "復興委員会",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -13403,7 +13403,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "復興計画等",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -40449,7 +40449,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "入札・契約の結果(物品・修繕)",
+    "title": "е…Ҙжңӯгғ»еҘ‘зҙ„гҒ®зөҗжһң(зү©е“Ғгғ»дҝ®з№•)",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -40464,7 +40464,7 @@
     "nextCrawlAt": null,
     "coveredYears": [],
     "sourceType": "result",
-    "title": "入札・契約の結果（建設工事）",
+    "title": "е…Ҙжңӯгғ»еҘ‘зҙ„гҒ®зөҗжһңпјҲе»әиЁӯе·ҘдәӢпјү",
     "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
@@ -69622,7 +69622,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"6ae60775-90e6\"",
@@ -97267,9 +97267,9 @@
     "municipalityCode": "405035",
     "url": "https://www.town.tachiarai.fukuoka.jp/kiji0031676/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T17:39:38+00:00",
+    "lastSuccessAt": "2026-11-18T14:19:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T17:39:38+00:00",
+    "nextCrawlAt": "2026-11-21T14:19:54+00:00",
     "coveredYears": [
       2011
     ],
@@ -97287,9 +97287,9 @@
     "municipalityCode": "405035",
     "url": "https://www.town.tachiarai.fukuoka.jp/kiji0031735/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T17:39:38+00:00",
+    "lastSuccessAt": "2026-11-18T14:19:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T17:39:38+00:00",
+    "nextCrawlAt": "2026-11-21T14:19:55+00:00",
     "coveredYears": [
       2011
     ],
@@ -97307,9 +97307,9 @@
     "municipalityCode": "272124",
     "url": "https://www.city.yao.osaka.jp/_res/projects/default_project/_page_/001/013/699/r6senteikizyun.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T17:39:40+00:00",
+    "lastSuccessAt": "2026-11-18T14:19:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T17:39:40+00:00",
+    "nextCrawlAt": "2026-11-21T14:19:57+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "選定基準 （PDF 156.4KB）",
@@ -97325,9 +97325,9 @@
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r5_kekka/25701.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T17:39:41+00:00",
+    "lastSuccessAt": "2026-11-18T14:19:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T17:39:41+00:00",
+    "nextCrawlAt": "2026-11-21T14:19:59+00:00",
     "coveredYears": [
       2023
     ],
@@ -97336,18 +97336,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73e39-c6aa\"",
-    "lastModified": "Thu, 08 Oct 2026 06:54:49 GMT",
-    "contentHash": "65b0625d6738eb4295fe2eb07acff80aa408342ecd39264eacc81e802b931c81"
+    "etag": "\"6ae61abf-c6a6\"",
+    "lastModified": "Sat, 31 Oct 2026 16:43:43 GMT",
+    "contentHash": "a42ac80f2df49ab0ba9e2c85596baa8cc205e43b1f59f137c35c4df529a544e2"
   },
   {
     "id": "708bec33420caf87",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r5_kekka/25839.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T17:39:42+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T17:39:42+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:00+00:00",
     "coveredYears": [
       2023
     ],
@@ -97356,18 +97356,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73e3d-cbd1\"",
-    "lastModified": "Thu, 08 Oct 2026 06:54:53 GMT",
-    "contentHash": "5c878de6411401b88986bd995bb226a23cedc3d9155629e4944ee1c114abcc35"
+    "etag": "\"6ae61ac1-cbcd\"",
+    "lastModified": "Sat, 31 Oct 2026 16:43:45 GMT",
+    "contentHash": "d4fe914a8d5a29f38985160e17112b6e5ebc5defd5d6af5f2091c84ab33704f3"
   },
   {
     "id": "8e26693ead1e2670",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r5_kekka/25894.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T17:39:42+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:01+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T17:39:42+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:01+00:00",
     "coveredYears": [
       2023
     ],
@@ -97376,18 +97376,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73e3f-cb4f\"",
-    "lastModified": "Thu, 08 Oct 2026 06:54:55 GMT",
-    "contentHash": "135909be24515105763e942a4af3b53b1bd6f00982896ae3b21cede01d1d262a"
+    "etag": "\"6ae61ac2-cb4b\"",
+    "lastModified": "Sat, 31 Oct 2026 16:43:46 GMT",
+    "contentHash": "a686fd853381ee40b6037d27e248259259bdc4645a7c52b9da1c5745c94b56e7"
   },
   {
     "id": "7d2d9c923c3476ba",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r5_kekka/26008.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T17:39:43+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:02+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T17:39:43+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:02+00:00",
     "coveredYears": [
       2023
     ],
@@ -97396,18 +97396,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73e42-cd5f\"",
-    "lastModified": "Thu, 08 Oct 2026 06:54:58 GMT",
-    "contentHash": "137f9e8e76e2483958ff51053d19e6e2a05cda2c07534e27bb189fb74cca58a3"
+    "etag": "\"6ae61ac6-cd5b\"",
+    "lastModified": "Sat, 31 Oct 2026 16:43:50 GMT",
+    "contentHash": "75647e24274833222c9cc470c1ae1ee01c2dde97639b46cc7f04f2daa85fd054"
   },
   {
     "id": "116c7637405eea89",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r5_kekka/26072.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T17:39:43+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:03+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T17:39:43+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:03+00:00",
     "coveredYears": [
       2023
     ],
@@ -97416,18 +97416,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73e43-cc2c\"",
-    "lastModified": "Thu, 08 Oct 2026 06:54:59 GMT",
-    "contentHash": "c9d1c1ebf1e673a8de6a4a075c8ffd1c2ec4e6c1daa1754292186da516f35e1c"
+    "etag": "\"6ae61ac7-cc28\"",
+    "lastModified": "Sat, 31 Oct 2026 16:43:51 GMT",
+    "contentHash": "ba7873dfd206958d010a375cf0d1639d9d509fa20a8140f2d00d36d2e9649ef4"
   },
   {
     "id": "bce5781402a47299",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r6_kekka/28356.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T17:39:44+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:04+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T17:39:44+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:04+00:00",
     "coveredYears": [
       2024
     ],
@@ -97436,18 +97436,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73e79-df08\"",
-    "lastModified": "Thu, 08 Oct 2026 06:55:53 GMT",
-    "contentHash": "e3c349bb333abf3121674423d61aab939f32e687a9300cab09ad098be9a74d30"
+    "etag": "\"6ae61af8-df04\"",
+    "lastModified": "Sat, 31 Oct 2026 16:44:40 GMT",
+    "contentHash": "adf18dc19b1b3d21c7ef6a81f2790e0f3cdf1a73fcf2cc9c33753cccb926d96b"
   },
   {
     "id": "f615daa2c6962e15",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r6_kekka/28357.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T17:39:45+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:05+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T17:39:45+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:05+00:00",
     "coveredYears": [
       2024
     ],
@@ -97456,18 +97456,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73e7a-df57\"",
-    "lastModified": "Thu, 08 Oct 2026 06:55:54 GMT",
-    "contentHash": "73e8e12b18ec21a45db7a98313201b695199248f362c60204e5fac89bfda9539"
+    "etag": "\"6ae61af9-df53\"",
+    "lastModified": "Sat, 31 Oct 2026 16:44:41 GMT",
+    "contentHash": "5402f955b818af6934186771ce52dff692009a8adad181372bdb124583c1b256"
   },
   {
     "id": "bdcbf1335c2651f0",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r6_kekka/28359.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:43+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:10+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:43+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:10+00:00",
     "coveredYears": [
       2024
     ],
@@ -97476,18 +97476,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73e7b-e4c0\"",
-    "lastModified": "Thu, 08 Oct 2026 06:55:55 GMT",
-    "contentHash": "3d155b2d1ebf8bc88f74af07d93dce8c4d87edb56d21bae96d945cb6da40ebb3"
+    "etag": "\"6ae61afa-e4bc\"",
+    "lastModified": "Sat, 31 Oct 2026 16:44:42 GMT",
+    "contentHash": "7ea73531b0afa369070c01a64d0dd235120e81334b6e5d5788d2939f7a48de3b"
   },
   {
     "id": "61ee797082b20aaf",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r6_kekka/28401.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:43+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:11+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:43+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:11+00:00",
     "coveredYears": [
       2024
     ],
@@ -97496,18 +97496,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73e7c-e197\"",
-    "lastModified": "Thu, 08 Oct 2026 06:55:56 GMT",
-    "contentHash": "334be0c3e33e5f2c3a097c7b41bfb68609a421add9b217c4647ae341c1fc592a"
+    "etag": "\"6ae61afb-e193\"",
+    "lastModified": "Sat, 31 Oct 2026 16:44:43 GMT",
+    "contentHash": "7b1a156e41aca6ed71dc4e68da30c4d209ff7e83392d3ec84c17f000fd8e587b"
   },
   {
     "id": "e61e93718057d2ed",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r6_kekka/28475.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:44+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:12+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:44+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:12+00:00",
     "coveredYears": [
       2024
     ],
@@ -97516,18 +97516,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73e7e-e5e0\"",
-    "lastModified": "Thu, 08 Oct 2026 06:55:58 GMT",
-    "contentHash": "9427e5fdc62732f5fc1fbd9b627136ade5e073d39b70f6c8c333bb2ea5a440b5"
+    "etag": "\"6ae61afd-e5dc\"",
+    "lastModified": "Sat, 31 Oct 2026 16:44:45 GMT",
+    "contentHash": "36da633f738f5b3deb5a093e4b5f02076ae6f76bcbd6cd4e82e372495bfb6b4a"
   },
   {
     "id": "acae8fa1ceeea53b",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r7_kekka/32193.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:44+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:44+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:14+00:00",
     "coveredYears": [
       2025
     ],
@@ -97536,18 +97536,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73eb0-b6fe\"",
-    "lastModified": "Thu, 08 Oct 2026 06:56:48 GMT",
-    "contentHash": "d8a7948d169a540806b54f57ca9a254e10a726c27cb0861f81da762669ded425"
+    "etag": "\"6ae61b2e-b6fa\"",
+    "lastModified": "Sat, 31 Oct 2026 16:45:34 GMT",
+    "contentHash": "ac67f8673ca35db88b7c5c091201b16862d48f3f3fcefd8f89af192ea80150fb"
   },
   {
     "id": "add6d1b0fa81866c",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/31/13757.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:45+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:15+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:45+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:15+00:00",
     "coveredYears": [
       2019
     ],
@@ -97556,18 +97556,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73d70-9c88\"",
-    "lastModified": "Thu, 08 Oct 2026 06:51:28 GMT",
-    "contentHash": "dee97f546dca7852173c7e236fd934aac5387331b2f414fcdf15d06f07079954"
+    "etag": "\"6ae61a05-9c84\"",
+    "lastModified": "Sat, 31 Oct 2026 16:40:37 GMT",
+    "contentHash": "7c88340e0a1c0570099588e483483ac0dfd59a7936c6cb6c1fe2cc5c4dcc647b"
   },
   {
     "id": "ac21893361583cd6",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/31/13853.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:46+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:16+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:46+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:16+00:00",
     "coveredYears": [
       2019
     ],
@@ -97576,18 +97576,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73d71-9ab2\"",
-    "lastModified": "Thu, 08 Oct 2026 06:51:29 GMT",
-    "contentHash": "2af2fbbc7360f2c02c5bde95449217fc6ebf9f10f9267ff3847e948fe1d405bc"
+    "etag": "\"6ae61a06-9aae\"",
+    "lastModified": "Sat, 31 Oct 2026 16:40:38 GMT",
+    "contentHash": "17994f3d4439129b80fcf08a3ef845eacab513fe3b04bb80d3ee39847d3aa3ea"
   },
   {
     "id": "d2dd322468a776bd",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/31/13927.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:46+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:17+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:46+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:17+00:00",
     "coveredYears": [
       2019
     ],
@@ -97596,18 +97596,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73d76-9b2d\"",
-    "lastModified": "Thu, 08 Oct 2026 06:51:34 GMT",
-    "contentHash": "ee183fa7e37f0aea6bcb8d390aea1112e77f8018beffad49bc603b9a0d389d29"
+    "etag": "\"6ae61a0b-9b29\"",
+    "lastModified": "Sat, 31 Oct 2026 16:40:43 GMT",
+    "contentHash": "f5d4e625394d4ccd376af14b7caf93ec254ac1b368b38e22d2afb46c60c835c6"
   },
   {
     "id": "f9b8553f39fbf96a",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/31/14152.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:47+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:47+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:18+00:00",
     "coveredYears": [
       2019
     ],
@@ -97616,18 +97616,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73d7a-989a\"",
-    "lastModified": "Thu, 08 Oct 2026 06:51:38 GMT",
-    "contentHash": "b610e484a9ae86f4e4d20bf5e3338b8869d821c4554526cff4e722f4253ac4ff"
+    "etag": "\"6ae61a0d-9896\"",
+    "lastModified": "Sat, 31 Oct 2026 16:40:45 GMT",
+    "contentHash": "aefe6612c21b77ecdd751c3a400c5839d503b07d44b72e2e0ce72b9c1c944f7b"
   },
   {
     "id": "b1f7d46490a92d38",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/31/14549.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:47+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:47+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:20+00:00",
     "coveredYears": [
       2020
     ],
@@ -97636,18 +97636,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73d7c-989e\"",
-    "lastModified": "Thu, 08 Oct 2026 06:51:40 GMT",
-    "contentHash": "8b6288a4147f876e2ac7e5af57911e321909ea5d610a6f0d9c6e34512c813014"
+    "etag": "\"6ae61a0f-989a\"",
+    "lastModified": "Sat, 31 Oct 2026 16:40:47 GMT",
+    "contentHash": "ae797abcdcb7ec003ed9bd2855c09fbd88eea6c446fa28e91b3c8a5d622aa3d7"
   },
   {
     "id": "c1f9711d574b3144",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r2/16671.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:48+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:48+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:21+00:00",
     "coveredYears": [
       2020
     ],
@@ -97656,18 +97656,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73d95-9ee6\"",
-    "lastModified": "Thu, 08 Oct 2026 06:52:05 GMT",
-    "contentHash": "88eeaf012258596e974eafc23a62a3f5dbcd925bf1040548bcdf29ff44883a20"
+    "etag": "\"6ae61a2b-9ee2\"",
+    "lastModified": "Sat, 31 Oct 2026 16:41:15 GMT",
+    "contentHash": "aa1d266adf0e7d55b60b5276166f29a660c1a11ae3e5fd6af436815c58e9a687"
   },
   {
     "id": "5d724d7b96c2ea24",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r2/16723.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:49+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:49+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:22+00:00",
     "coveredYears": [
       2020
     ],
@@ -97676,18 +97676,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73d97-9bb9\"",
-    "lastModified": "Thu, 08 Oct 2026 06:52:07 GMT",
-    "contentHash": "ab2ea7ef9e405de5e513ec6a4820ef52d4ddefe81a85bdcdc40b6bc083af8a5b"
+    "etag": "\"6ae61a2d-9bb5\"",
+    "lastModified": "Sat, 31 Oct 2026 16:41:17 GMT",
+    "contentHash": "964937e854c6769c375f7c2264439b43d34b6095c69b6c45a3b4e6af0ee2ad5f"
   },
   {
     "id": "0d98b8f604e6825a",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r2/16997.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:49+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:23+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:49+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:23+00:00",
     "coveredYears": [
       2020
     ],
@@ -97696,18 +97696,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73d9e-965a\"",
-    "lastModified": "Thu, 08 Oct 2026 06:52:14 GMT",
-    "contentHash": "9a61e6360a391d9307a5308de1a829fe1a8246f0a7f23615971f4920988def05"
+    "etag": "\"6ae61a33-9656\"",
+    "lastModified": "Sat, 31 Oct 2026 16:41:23 GMT",
+    "contentHash": "7f2aa252ee5a3e7060f2faeaaf44f5301ecef4aaf821bbf38d6230b356a0f346"
   },
   {
     "id": "5f633aa630621aff",
     "municipalityCode": "112429",
     "url": "https://www.city.hidaka.lg.jp/information/1/7/12/r2/16999.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:50+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:50+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:24+00:00",
     "coveredYears": [
       2020
     ],
@@ -97716,9 +97716,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"6ac73d9e-996e\"",
-    "lastModified": "Thu, 08 Oct 2026 06:52:14 GMT",
-    "contentHash": "7aebede8f4e33a11e941b8cb8c751807828126f614c07fa0568878e48ce5f90c"
+    "etag": "\"6ae61a34-996a\"",
+    "lastModified": "Sat, 31 Oct 2026 16:41:24 GMT",
+    "contentHash": "0d713a4f393e9adc20653c015a3ac6266f7c2a1cb5189b8a6e22bc854dadf99b"
   },
   {
     "id": "7eb8f409bae9e066",
@@ -97755,9 +97755,9 @@
     "municipalityCode": "402265",
     "url": "https://www.city.miyawaka.lg.jp/list00103.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:52+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:52+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:27+00:00",
     "coveredYears": [
       2011
     ],
@@ -97766,9 +97766,9 @@
     "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
-    "etag": "\"05347c26d5bdd1:0\"",
-    "lastModified": "Tue, 13 Oct 2026 23:51:26 GMT",
-    "contentHash": "f49ab6cd83034c5d0a91c4b060399ba22ddf3dd2a78b9b652613777d18d1c14d"
+    "etag": "\"0fedb1406edd1:0\"",
+    "lastModified": "Fri, 06 Nov 2026 15:04:12 GMT",
+    "contentHash": "3077fc1861419da04201ea80684f9b2c05011820793d6734746dee01af8bd170"
   },
   {
     "id": "88fc364f780734fd",
@@ -97835,9 +97835,9 @@
     "municipalityCode": "282171",
     "url": "https://www.city.kawanishi.hyogo.jp/_res/projects/default_project/_page_/001/018/310/05103.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:53+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:53+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:28+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "地域型道水路修繕（川西中・川西南中学校区）（単価契約）（後期） （PDF 112.0KB）",
@@ -123432,9 +123432,9 @@
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/soshiki/somu/3/2/kekka/4746.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:40+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:40+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:06+00:00",
     "coveredYears": [
       2021,
       2022
@@ -123446,16 +123446,16 @@
     "active": true,
     "etag": "W/\"6ad03e1b-24d97\"",
     "lastModified": "Thu, 15 Oct 2026 02:44:43 GMT",
-    "contentHash": "6750412a5a2ac23ff8cff2242bafc97f19397970d9f344f3e4e2598b87de8c6c"
+    "contentHash": null
   },
   {
     "id": "61167ae2dba896de",
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/soshiki/somu/3/2/kekka/5841.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:40+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:40+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:06+00:00",
     "coveredYears": [
       2022,
       2023
@@ -123467,16 +123467,16 @@
     "active": true,
     "etag": "W/\"6ad03e1b-26eba\"",
     "lastModified": "Thu, 15 Oct 2026 02:44:43 GMT",
-    "contentHash": "865aaf22ccffe943de6a510332d3d150018963ad09ddef1f2b45488885a22429"
+    "contentHash": null
   },
   {
     "id": "877fb405d6c366a5",
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/soshiki/somu/3/2/kekka/6651.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:41+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:07+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:41+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:07+00:00",
     "coveredYears": [
       2023,
       2024
@@ -123488,16 +123488,16 @@
     "active": true,
     "etag": "W/\"6ad03e1b-1fc20\"",
     "lastModified": "Thu, 15 Oct 2026 02:44:43 GMT",
-    "contentHash": "70f411488f194bcbc8ea1406e1a48382ef329f9341c06133fd4d56f54ae9e4f6"
+    "contentHash": null
   },
   {
     "id": "1ddac22a6ef62330",
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/soshiki/somu/3/2/kekka/7168.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:42+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:42+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:08+00:00",
     "coveredYears": [
       2024,
       2025
@@ -123509,16 +123509,16 @@
     "active": true,
     "etag": "W/\"6ad03e1c-1701a\"",
     "lastModified": "Thu, 15 Oct 2026 02:44:44 GMT",
-    "contentHash": "420beb49d03dc66c002695be7098915bbbb2dbb224b8c2a19c21e9a7d1a5fc9e"
+    "contentHash": null
   },
   {
     "id": "cbbaeb4040fe0d74",
     "municipalityCode": "344311",
     "url": "https://www.town.osakikamijima.hiroshima.jp/soshiki/somu/3/2/kekka/7740.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-16T21:27:42+00:00",
+    "lastSuccessAt": "2026-11-18T14:20:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-19T21:27:42+00:00",
+    "nextCrawlAt": "2026-11-21T14:20:08+00:00",
     "coveredYears": [
       2025,
       2026
@@ -123530,7 +123530,7 @@
     "active": true,
     "etag": "W/\"6ad03e1c-17a72\"",
     "lastModified": "Thu, 15 Oct 2026 02:44:44 GMT",
-    "contentHash": "93d0cccac36f4dec4fb8527d32fb2f8cb45f069c221145764ddada55ddae7e82"
+    "contentHash": null
   },
   {
     "id": "2d1e64c8eb7bf8f7",
