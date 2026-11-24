@@ -64,9 +64,9 @@
     "municipalityCode": "465232",
     "url": "https://www.vill.yamato.lg.jp/kikaku/sonse/kocho/papukome/furusato.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:01:52+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:18+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:01:52+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:18+00:00",
     "coveredYears": [
       2008
     ],
@@ -77,7 +77,7 @@
     "active": true,
     "etag": "\"6416-6545579240f09\"",
     "lastModified": "Tue, 16 Jun 2026 02:12:21 GMT",
-    "contentHash": "d76994bb305f55f1496e2ff7922f2e8304efe47c0f44a59d1c30fe99c1b3f5a8"
+    "contentHash": "b4b1403013c9c4af33eed03b3706b9eda533628dc9e5755e4c72abe4cd35a880"
   },
   {
     "id": "41ab3177d30754df",
@@ -204,9 +204,9 @@
     "municipalityCode": "465313",
     "url": "https://www.town.amagi.lg.jp/jigyo/nyusatsu/kekka/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:01:53+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:01:53+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:19+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
@@ -214,8 +214,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Mon, 19 Oct 2026 11:01:28 GMT",
-    "contentHash": "f61bd68b2b3aaa6f2c49c5d8925d43123b7cbd9dabe40ac0f0a36cdf661bf4eb"
+    "lastModified": "Tue, 24 Nov 2026 02:18:29 GMT",
+    "contentHash": "ff109102967ab15b50a2a17db2beb5cb7add72b6c10de5584a8181b7befa4051"
   },
   {
     "id": "66ed5afd26f800d9",
@@ -1197,9 +1197,9 @@
     "municipalityCode": "473014",
     "url": "https://www.vill.kunigami.okinawa.jp/k_kikaku/%ef%bc%88%e5%85%ac%e5%8b%9f%e5%9e%8b%e7%b0%a1%e6%98%93%e3%83%97%e3%83%ad%e3%83%9d%e3%83%bc%e3%82%b6%e3%83%ab%ef%bc%89%e5%9b%bd%e9%a0%ad%e6%9d%91%e8%be%ba%e5%9c%9f%e5%90%8d%e5%95%86%e5%ba%97%e8%a1%97/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:01:56+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:22+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:01:56+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:22+00:00",
     "coveredYears": [
       2025,
       2026
@@ -1211,16 +1211,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "3cabf991d03f8beed95980613fd8d057dced4e939229ca9d985f0e0c24ee7023"
+    "contentHash": "a9ba4ecd49d18dcbf5a6ecd42014e0952cf5a9f2794735735a4f9d365bad96d7"
   },
   {
     "id": "011dacb9f3a30672",
     "municipalityCode": "473014",
     "url": "https://www.vill.kunigami.okinawa.jp/k_keizai/%e3%80%90%e5%af%a9%e6%9f%bb%e7%b5%90%e6%9e%9c%e3%80%91%e4%bb%a4%e5%92%8c8%e5%b9%b4%e5%ba%a6%e3%80%8c%e8%a6%b3%e5%85%89%e3%83%97%e3%83%ad%e3%83%a2%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e5%a7%94%e8%a8%97/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:01:57+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:01:57+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:24+00:00",
     "coveredYears": [
       2026
     ],
@@ -1231,16 +1231,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "acd1dd57ab306385ccae405ae5e46cb6475e4dda27345bc3b8602d8caf0c4a58"
+    "contentHash": "0510b63bc8478731b453fa2c82887d1029baa65418e3b45449b75315c521965f"
   },
   {
     "id": "73a0cae9ed4181d2",
     "municipalityCode": "473014",
     "url": "https://www.vill.kunigami.okinawa.jp/k_keizai/%e9%9b%86%e8%90%bd%e3%82%ac%e3%82%a4%e3%83%89%e3%83%96%e3%83%83%e3%82%af%e5%88%b6%e4%bd%9c%e6%a5%ad%e5%8b%99%e3%80%80%e5%85%ac%e5%8b%9f%e5%9e%8b%e7%b0%a1%e6%98%93%e3%83%97%e3%83%ad%e3%83%9d%e3%83%bc/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:01:59+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:26+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:01:59+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:26+00:00",
     "coveredYears": [
       2026
     ],
@@ -1251,16 +1251,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "3fb75e1e54d4567ad98d610a0389ed63791d7987547cc32c660ee181bdf336a9"
+    "contentHash": "461b3a948f8d745d7a1e2f1a6c899718d252d1ba0456ed12d3f2ba69f361bdab"
   },
   {
     "id": "69992fdbddc26340",
     "municipalityCode": "473014",
     "url": "https://www.vill.kunigami.okinawa.jp/koubo_boshu/%e5%9b%bd%e9%a0%ad%e6%9d%91%e4%ba%a4%e9%80%9a%e4%b8%8d%e4%be%bf%e5%9c%b0%e5%9f%9f%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e5%85%ac%e5%85%b1%e3%83%a9%e3%82%a4%e3%83%89%e3%82%b7%e3%82%a7%e3%82%a2%e5%ae%9f/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:00+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:28+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:00+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:28+00:00",
     "coveredYears": [
       2026
     ],
@@ -1271,16 +1271,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "59f9a3d65b26dc30881e64577822dfcc554a5cb1c17cad5ceb3148c93390a980"
+    "contentHash": "d9f3d422e2304cd35357ee51086bf41e01577e7baa18abfe81077a83849d65a4"
   },
   {
     "id": "70c280381f3dd74f",
     "municipalityCode": "473014",
     "url": "https://www.vill.kunigami.okinawa.jp/sekaisizenisan/%e5%af%a9%e6%9f%bb%e7%b5%90%e6%9e%9c%e5%9b%bd%e9%a0%ad%e6%9d%91%e4%b8%96%e7%95%8c%e8%87%aa%e7%84%b6%e9%81%ba%e7%94%a3%e5%9c%b0%e5%9f%9f%e9%ad%85%e5%8a%9b%e7%99%ba%e4%bf%a1sns%e7%ad%89%e9%81%8b/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:02+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:02+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:30+00:00",
     "coveredYears": [
       2026
     ],
@@ -1291,7 +1291,7 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "ad9500d9a333cf6e5a75fa11529b9629723586bb613f77f3581c052825b9ac41"
+    "contentHash": "e3dfe4e6df13aaabcc166eed8459fe5c40b70228721e4036ef5ae51b3451faff"
   },
   {
     "id": "5b1da236db2f3413",
@@ -1448,9 +1448,9 @@
     "municipalityCode": "473278",
     "url": "https://www.vill.kitanakagusuku.lg.jp/bosyu/4664.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:03+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:03+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:31+00:00",
     "coveredYears": [
       2026
     ],
@@ -1459,9 +1459,9 @@
     "discoveryMethod": "link_discovery",
     "priority": 1,
     "active": true,
-    "etag": "\"6ad4e080-6bf0\"",
-    "lastModified": "Sun, 18 Oct 2026 15:06:40 GMT",
-    "contentHash": "1a5b2133ca1c1ed5c547cb650ac50a287ed2e12a3260e9ef4b487ce46bd8eb0e"
+    "etag": "\"6b030510-6dfb\"",
+    "lastModified": "Sun, 22 Nov 2026 15:06:56 GMT",
+    "contentHash": "94ed12cc9fd097f7a13cc3a046ac375b511e44896442bcc51191f935654f3fcb"
   },
   {
     "id": "cf44e824ac573cbc",
@@ -2023,9 +2023,9 @@
     "municipalityCode": "473618",
     "url": "https://www.town.kumejima.okinawa.jp/docs/2026072400034/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:04+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:04+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:32+00:00",
     "coveredYears": [
       2026
     ],
@@ -2034,27 +2034,27 @@
     "discoveryMethod": "link_discovery",
     "priority": 1,
     "active": true,
-    "etag": "\"6ad02c52-536c\"",
-    "lastModified": "Thu, 15 Oct 2026 01:28:50 GMT",
-    "contentHash": "76f2ba440c98921c4d2244a54ee34e43399ff6e5c0e077063f67e9f52ca0a2f6"
+    "etag": "\"6afa6f73-57da\"",
+    "lastModified": "Mon, 16 Nov 2026 02:50:27 GMT",
+    "contentHash": "3756695e4df24445e321aafc4438cf7426007e428d6e2d4e0bde0f68e0d531fa"
   },
   {
     "id": "d9504e5d44e8c563",
     "municipalityCode": "473618",
     "url": "https://www.town.kumejima.okinawa.jp/docs/2026072700042/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:05+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:05+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:33+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "【入札結果】特別支援学級電子黒板等購入に係る条件付き一般競争入札について",
     "discoveryMethod": "link_discovery",
     "priority": 1,
     "active": true,
-    "etag": "\"6ad03239-54fb\"",
-    "lastModified": "Thu, 15 Oct 2026 01:54:01 GMT",
-    "contentHash": "31719c09d92560153195c0e49d3013d9b25a908f1026d3910a4c3d012b72e3d0"
+    "etag": "\"6afa6d60-5969\"",
+    "lastModified": "Mon, 16 Nov 2026 02:41:36 GMT",
+    "contentHash": "f922bf4ee391de8b191147c2022d188af285f2b67632244caf1f895400af34e3"
   },
   {
     "id": "3c3cb437eefaccdf",
@@ -2556,9 +2556,9 @@
     "municipalityCode": "014729",
     "url": "https://www.town.horokanai.hokkaido.jp/archives/73428",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:07+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:07+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:35+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果の公表",
@@ -2567,7 +2567,7 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "ece3e96ada773772294b86221c575925a2f0a06f5dfac7aa5d6c94467497e800"
+    "contentHash": "98f752cd38cbd81180a6bf3df7f4445496e58d0aec10afc3deafc50ccc1d4e06"
   },
   {
     "id": "9c5ddd3ee5239b2d",
@@ -2580,7 +2580,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "ほろかないplus第12版",
-    "discoveryMethod": "link_discovery",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -2595,7 +2595,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "ほろかないplus第７版【繁体字】",
-    "discoveryMethod": "link_discovery",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -2625,7 +2625,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "幌加内町スマホアプリ「ほろみんナビ」",
-    "discoveryMethod": "link_discovery",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -2694,9 +2694,9 @@
     "municipalityCode": "432032",
     "url": "https://www.city.hitoyoshi.lg.jp/jigyosha/nyusatsu_keiyaku/2480794",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:08+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:08+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:37+00:00",
     "coveredYears": [
       2026
     ],
@@ -2707,16 +2707,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "8eeae0d210d366459313bc351125c5e54f1d12a71a1416b0acf9230e4fd9101b"
+    "contentHash": "9af46cb7e58fb7e0367896163352de424018e14d6e62186b7addc1fbab9bc5ec"
   },
   {
     "id": "d056d962fde35fe1",
     "municipalityCode": "432032",
     "url": "https://www.city.hitoyoshi.lg.jp/jigyosha/nyusatsu_keiyaku/2493176",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:09+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:09+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:38+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "2026年6月24日 人吉市図書館管理運営システムリプレース業務公募型プロポーザル選定結果について 人吉市図書館管理運営システムリプレース業務公募型プロポーザル選定結果について\r\n 人吉市が発注する契約に関するプロポーザル方式等の実施に関する指針第10号の規定…",
@@ -2725,7 +2725,7 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "8312403347f219a55109beb21dd558e6caec6eff9bb2c6d6f104e18676783bbc"
+    "contentHash": "6a7eab805f80d79803970df07a8a5a40c1e9a7e64ca9aa6a3e3359369d5d22d8"
   },
   {
     "id": "1cac63019f38a6b9",
@@ -2738,7 +2738,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "特定随意契約の公表について",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -2753,7 +2753,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札等の結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -2942,9 +2942,9 @@
     "municipalityCode": "432041",
     "url": "https://www.city.arao.lg.jp/shisei/nyusatsu/kobo-proposal/7249.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:11+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:11+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:40+00:00",
     "coveredYears": [
       2023
     ],
@@ -2954,8 +2954,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Mon, 19 Oct 2026 10:06:12 GMT",
-    "contentHash": "062c0896a37687a53c7c7f232e6d371041da55e5fc1c705ec7ed3ac4ffd3bf3c"
+    "lastModified": "Tue, 24 Nov 2026 02:05:54 GMT",
+    "contentHash": "1372a94a20c7a78de64f56da0415f79ce3584f0e3acaf3691fc31ed0d57d2707"
   },
   {
     "id": "b7b2d971292c222d",
@@ -2977,9 +2977,9 @@
     "municipalityCode": "432083",
     "url": "https://www.city.yamaga.kumamoto.jp/list00218.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:13+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:43+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:13+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:43+00:00",
     "coveredYears": [
       2011
     ],
@@ -2988,9 +2988,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"76c155968152dd1:0\"",
-    "lastModified": "Fri, 02 Oct 2026 15:20:41 GMT",
-    "contentHash": "fd7c097b98a965bee6a238576c1dfd3e8fe2e6176a5b6a0517848e3db76cd891"
+    "etag": "\"71b11fe14769dd1:0\"",
+    "lastModified": "Sat, 31 Oct 2026 14:55:33 GMT",
+    "contentHash": "8ecdfd675fcb641f1a5f3ad6b81233974651c777ff379f9fe3ce430d759fadfb"
   },
   {
     "id": "fa92f2a9b3d03abe",
@@ -3087,18 +3087,18 @@
     "municipalityCode": "432105",
     "url": "https://www.city.kikuchi.lg.jp/category/list/1330.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:16+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:16+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:46+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "d183a8df76a57f7cf73e440a23cdd6e282c4575b1f6743fe7e5c4be48a957cd1"
+    "contentHash": "2313f191d66694af5e232c66be81d02a25a1d1894c841cc23ceb4e267686a552"
   },
   {
     "id": "5a3ec219dbd904f5",
@@ -3180,9 +3180,9 @@
     "municipalityCode": "433641",
     "url": "https://www.town.gyokuto.kumamoto.jp/list00223.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:18+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:18+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:48+00:00",
     "coveredYears": [
       2011
     ],
@@ -3275,9 +3275,9 @@
     "municipalityCode": "434256",
     "url": "http://www.ubuyama-v.jp/shigoto_sangyo/nyusatsu_keiyaku/nyusatsukekkaichiran/1370.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:21+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:21+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:50+00:00",
     "coveredYears": [
       2022,
       2023
@@ -3296,9 +3296,9 @@
     "municipalityCode": "434256",
     "url": "http://www.ubuyama-v.jp/shigoto_sangyo/nyusatsu_keiyaku/nyusatsukekkaichiran/1651.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:22+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:22+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:51+00:00",
     "coveredYears": [
       2023,
       2024
@@ -3317,9 +3317,9 @@
     "municipalityCode": "434256",
     "url": "http://www.ubuyama-v.jp/shigoto_sangyo/nyusatsu_keiyaku/nyusatsukekkaichiran/1652.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T17:42:24+00:00",
+    "lastSuccessAt": "2026-11-24T02:28:00+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T17:42:24+00:00",
+    "nextCrawlAt": "2026-11-27T02:28:00+00:00",
     "coveredYears": [
       2024,
       2025
@@ -4862,7 +4862,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "別紙１（PDF：398KB）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -4877,7 +4877,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "回答書（PDF：1,062KB）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -4892,7 +4892,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "個人情報取扱特記事項（PDF：483KB）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -4907,7 +4907,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "大和村ふるさと納税業務委託仕様書（PDF：858KB）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -4922,7 +4922,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "大和村ふるさと納税業務委託に係る公募型プロポーザル実施要綱（PDF：330KB）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -4974,7 +4974,7 @@
     ],
     "sourceType": "result_pdf",
     "title": "審査結果・公告（R8 観光プロモーション委託業務）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"7449-6598a465d8c1c\"",
@@ -4992,7 +4992,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "080604回答データ",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -5007,7 +5007,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "国頭村公告第27号",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -5022,7 +5022,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "03 「集落ガイドブック制作業務」　内訳書",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -5037,7 +5037,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "01「集落ガイドブック制作業務」　業務概要・募集要項・仕様書_32233_marked",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -5052,7 +5052,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "02.国頭村交通不便地域における公共ライドシェア実証運行事業（仕様書）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -5067,7 +5067,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "回答票_国頭村交通不便地域における公共ライドシェア実証運行事業委託業務",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -5082,7 +5082,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "国頭村公告第32号",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -5097,7 +5097,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "04 【別紙内訳書】数量総括表",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -8205,7 +8205,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "01.国頭村交通不便地域における公共ライドシェア実証運行事業（実施要領）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -107967,10 +107967,10 @@
     "id": "6e4e71600b69d85e",
     "municipalityCode": "450006",
     "url": "https://www.pref.miyazaki.lg.jp/digital-suishin/kense/chotatsu/kekka/20260617110937.html",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-19T11:01:51+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:01:51+00:00",
+    "lastFailureAt": "2026-11-24T02:27:18+00:00",
+    "nextCrawlAt": "2026-11-24T14:27:18+00:00",
     "coveredYears": [
       2008,
       2026
@@ -107982,16 +107982,17 @@
     "active": true,
     "etag": null,
     "lastModified": "Sun, 18 Oct 2026 15:31:10 GMT",
-    "contentHash": "0ba47b8803faee20fb4e2f80097cf0afff3481ce16adec039f34890c0adf71a7"
+    "contentHash": "0ba47b8803faee20fb4e2f80097cf0afff3481ce16adec039f34890c0adf71a7",
+    "lastError": "404 Client Error: Not Found for url: https://www.pref.miyazaki.lg.jp/digital-suishin/kense/chotatsu/kekka/20260617110937.html"
   },
   {
     "id": "0c0810194b5853dc",
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/nyusatukekka/Kkanri0120210602101.files/20210603-01kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:23+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:23+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:53+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "まなべの館設備改修工事実施設計業務委託（PDF：9KB）",
@@ -108007,9 +108008,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/nyusatukekka/Kkanri0120210602101.files/20210603-02kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:23+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:23+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:53+00:00",
     "coveredYears": [
       2021
     ],
@@ -108027,9 +108028,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/nyusatukekka/Kkanri0120283.files/20210513-01kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:24+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:24+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:54+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "鳥井日野川堤防線水門橋高欄設置工事(21-102001)（PDF：12KB）",
@@ -108045,9 +108046,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/nyusatukekka/Kkanri0120283.files/20210513-02kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:25+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:25+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:55+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "北鯖江駅第1･第2･第3駐車場機器更新工事（PDF：12KB）",
@@ -108063,9 +108064,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/nyusatukekka/Kkanri0120283.files/20210513-03kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:26+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:26+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:55+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "立待保育所トイレ改修工事（PDF：11KB）",
@@ -108081,9 +108082,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/nyusatukekka/Kkanri0120283.files/20210513-04kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:26+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:26+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:56+00:00",
     "coveredYears": [
       2021
     ],
@@ -108101,9 +108102,9 @@
     "municipalityCode": "182079",
     "url": "https://www.city.sabae.fukui.jp/about_city/bid/nyusatsukekka/nyusatukekka/Kkanri0120283.files/20210513-06kekka.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T11:02:27+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T11:02:27+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:57+00:00",
     "coveredYears": [
       2021
     ],
@@ -108120,10 +108121,10 @@
     "id": "2100ebe8ea39a2c5",
     "municipalityCode": "450006",
     "url": "https://www.pref.miyazaki.lg.jp/documents/110093/110093_20260626133747-1.pdf",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-19T17:42:20+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T17:42:20+00:00",
+    "lastFailureAt": "2026-11-24T02:27:57+00:00",
+    "nextCrawlAt": "2026-11-24T14:27:57+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "入札結果一覧表（PDF：68KB）",
@@ -108132,16 +108133,17 @@
     "active": true,
     "etag": "\"10e60-655808cc5b9ea\"",
     "lastModified": "Tue, 30 Jun 2026 23:01:06 GMT",
-    "contentHash": null
+    "contentHash": null,
+    "lastError": "404 Client Error: Not Found for url: https://www.pref.miyazaki.lg.jp/documents/110093/110093_20260626133747-1.pdf"
   },
   {
     "id": "eaa61c1f918085a6",
     "municipalityCode": "432105",
     "url": "https://www.city.kikuchi.lg.jp/article/view/1332/13651.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T17:42:22+00:00",
+    "lastSuccessAt": "2026-11-24T02:27:59+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T17:42:22+00:00",
+    "nextCrawlAt": "2026-11-27T02:27:59+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "2025年04月25日 入札結果について",
@@ -120153,7 +120155,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "国頭村公告第35号",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -137537,6 +137539,51 @@
     "title": "村山市ふるさと納税支援等業務委託公募型プロポーザル最優秀者の選定について（PDF：63KB）",
     "discoveryMethod": "procurement_page",
     "priority": 3,
+    "active": true
+  },
+  {
+    "id": "cf8ab09fcd2c5101",
+    "municipalityCode": "473278",
+    "url": "https://www.vill.kitanakagusuku.lg.jp/material/files/group/2/R8gyoumukamihannki.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年度 公共工事に関連する委託業務入札結果（上半期） (PDFファイル: 153.1KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "c2454e44b84c351e",
+    "municipalityCode": "473278",
+    "url": "https://www.vill.kitanakagusuku.lg.jp/material/files/group/2/R8koujikamihannki.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年度 公共工事入札結果（上半期） (PDFファイル: 80.1KB)",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "573e9f6acaebf0a5",
+    "municipalityCode": "014729",
+    "url": "https://www.town.horokanai.hokkaido.jp/wp-content/uploads/2026/08/65de3c6926a1e0d4febef8684da045dd.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "結果一覧",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true
   }
 ]

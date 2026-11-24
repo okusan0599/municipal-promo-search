@@ -1,22 +1,22 @@
 {
   "state": "completed",
-  "started_at": "2026-11-23T14:50:44+00:00",
-  "updated_at": "2026-11-23T15:01:41+00:00",
+  "started_at": "2026-11-24T02:16:55+00:00",
+  "updated_at": "2026-11-24T02:28:01+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 90,
     "status": {
       "state": "completed",
-      "started_at": "2026-11-23T14:50:45+00:00",
-      "updated_at": "2026-11-23T14:50:50+00:00",
+      "started_at": "2026-11-24T02:16:56+00:00",
+      "updated_at": "2026-11-24T02:17:01+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
       "count": 90,
       "errors": [],
       "current_query": null,
-      "raw_hits_sum": 4159,
+      "raw_hits_sum": 4089,
       "lookback_days": 180,
       "cache_minutes": 30,
       "message": "APIから最新候補を取得しました。元公示は各案件リンクで確認してください。"
@@ -24,29 +24,29 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 79,
-    "failed": 21,
+    "succeeded": 86,
+    "failed": 14,
     "sourcesAdded": 0,
-    "historySourcesAdded": 19
+    "historySourcesAdded": 40
   },
   "direct": {
     "processed": 50,
-    "succeeded": 47,
-    "failed": 3,
-    "projects": 207,
-    "unchanged": 7,
-    "historySourcesAdded": 124
+    "succeeded": 36,
+    "failed": 14,
+    "projects": 181,
+    "unchanged": 2,
+    "historySourcesAdded": 97
   },
   "history": {
     "processed": 30,
-    "succeeded": 27,
-    "failed": 3,
-    "awards": 0,
-    "documents": 17,
-    "unchanged": 25
+    "succeeded": 28,
+    "failed": 2,
+    "awards": 1,
+    "documents": 50,
+    "unchanged": 11
   },
-  "statusNormalized": 0,
-  "historyLinkedProjects": 2,
+  "statusNormalized": 9,
+  "historyLinkedProjects": 0,
   "coverage": {
     "municipalities": 1788,
     "municipalitiesVisited": 1787,
@@ -55,7 +55,7 @@
     "sources": 6946,
     "projects": 5610,
     "projectsWithDeadline": 1746,
-    "historySources": 7979,
+    "historySources": 7982,
     "historyMunicipalities": 536,
     "historyAwards": 1911,
     "historyLinkedProjects": 564
@@ -68,7 +68,7 @@
     "sources": 6946,
     "projects": 5610,
     "projectsWithDeadline": 1746,
-    "historySources": 7979,
+    "historySources": 7982,
     "historyMunicipalities": 536,
     "historyAwards": 1911,
     "historyLinkedProjects": 564,
