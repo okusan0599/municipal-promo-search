@@ -56,7 +56,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-10-19T17:42:58+00:00"
+    "lastChecked": "2026-11-24T23:11:14+00:00"
   },
   {
     "dedupeKey": "a2f69900bacc90b380ceb8d60d43c5ce047e98c0aad683df25c731c74ec5069e",
@@ -74,7 +74,7 @@
     "dataQuality": "official_result",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "lastChecked": "2026-10-19T22:36:25+00:00"
+    "lastChecked": "2026-11-24T23:11:19+00:00"
   },
   {
     "dedupeKey": "533be66a807c8aff3467d8266eb29ce3b20d83fbfee7390859d1647f5f57f681",
@@ -35973,5 +35973,24 @@
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
     "lastChecked": "2026-11-22T22:36:53+00:00"
+  },
+  {
+    "dedupeKey": "82a18dfa6acf4a21c64d9b9251994bd20ac6fbd78b02fe4e1d186366535b3f69",
+    "id": "award-cf6ec7a9402ab7b0f10d7876",
+    "municipalityCode": "030007",
+    "area": "東北",
+    "region": "岩手県",
+    "municipality": "岩手県",
+    "organization": "岩手県",
+    "title": "プロポーザル審査要領 (PDF 185.9KB)",
+    "vendor": "として県に報告するものとする。県は、審 査委員会の",
+    "awardDate": "2026-11-20",
+    "year": 2027,
+    "sourceUrl": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/421/shinsayouryou.pdf",
+    "sourceSystem": "municipality_result",
+    "dataQuality": "official_result",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "lastChecked": "2026-11-24T23:11:08+00:00"
   }
 ]

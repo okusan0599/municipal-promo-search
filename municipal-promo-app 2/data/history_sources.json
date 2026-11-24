@@ -4862,7 +4862,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "別紙１（PDF：398KB）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -4877,7 +4877,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "回答書（PDF：1,062KB）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -4892,7 +4892,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "個人情報取扱特記事項（PDF：483KB）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -4907,7 +4907,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "大和村ふるさと納税業務委託仕様書（PDF：858KB）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -4922,7 +4922,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "大和村ふるさと納税業務委託に係る公募型プロポーザル実施要綱（PDF：330KB）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -5361,9 +5361,9 @@
     "municipalityCode": "014729",
     "url": "https://www.town.horokanai.hokkaido.jp/wp-content/uploads/2025/12/7d46919991ec55ebdeb75516d810adcf-1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T17:42:58+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:14+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T17:42:58+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:14+00:00",
     "coveredYears": [
       2025
     ],
@@ -5381,9 +5381,9 @@
     "municipalityCode": "014729",
     "url": "https://www.town.horokanai.hokkaido.jp/wp-content/uploads/2025/12/6e818b0ce028a2f1eeb44662d0d02c9d.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:25+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:19+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:25+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:19+00:00",
     "coveredYears": [
       2024,
       2025
@@ -5423,9 +5423,9 @@
     "municipalityCode": "432032",
     "url": "https://www.city.hitoyoshi.lg.jp/resource.php?e=d928acc203869e254990fb3d1320114a08a60b8df8a73f22b4a1c6f0b35f6e5316f4d4da07caf200013ec02e8d3556b6",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:26+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:20+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:26+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:20+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "人吉市マタニティ応援プロジェクト運営業務委託条件付一般競争入札結果 (PDF 81KB)",
@@ -5441,9 +5441,9 @@
     "municipalityCode": "432032",
     "url": "https://www.city.hitoyoshi.lg.jp/resource.php?e=c59aa54c215fd241b6c3291b75e097415d2f2a6bb6b12437cc8ac78f146714021398e4409280f32ac6cdd541b3599786",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:28+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:21+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:28+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:21+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "人吉市図書館管理運営システムリプレース業務公募型プロポーザル選定結果について (PDF 468KB)",
@@ -5488,10 +5488,10 @@
     "id": "bf0ffaa153abe0f2",
     "municipalityCode": "432083",
     "url": "https://www.city.yamaga.kumamoto.jp/kiji0032996/index.html",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-19T22:36:29+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:29+00:00",
+    "lastFailureAt": "2026-11-24T23:11:23+00:00",
+    "nextCrawlAt": "2026-11-25T11:11:23+00:00",
     "coveredYears": [
       2011,
       2026
@@ -5503,16 +5503,17 @@
     "active": true,
     "etag": "\"f8583a68252dd1:0\"",
     "lastModified": "Fri, 02 Oct 2026 15:23:49 GMT",
-    "contentHash": "8c0f95d26ff1d9097d3fbeb022474ed2d2e60685308d4c16cebe58433eff09aa"
+    "contentHash": "8c0f95d26ff1d9097d3fbeb022474ed2d2e60685308d4c16cebe58433eff09aa",
+    "lastError": "404 Client Error: Not Found for url: https://www.city.yamaga.kumamoto.jp/dynamic/_error/error404.aspx"
   },
   {
     "id": "e91b51a8cfefe7cc",
     "municipalityCode": "432083",
     "url": "https://www.city.yamaga.kumamoto.jp/kiji0032999/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:30+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:30+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:24+00:00",
     "coveredYears": [
       2011,
       2026
@@ -5524,16 +5525,16 @@
     "active": true,
     "etag": "\"aa698b68252dd1:0\"",
     "lastModified": "Fri, 02 Oct 2026 15:23:50 GMT",
-    "contentHash": "ff5219608efe04c159a8313db1d8d6443a551a76c9b8ec617ab046492f013727"
+    "contentHash": null
   },
   {
     "id": "1f065caf898c682e",
     "municipalityCode": "432083",
     "url": "https://www.city.yamaga.kumamoto.jp/kiji003590/index.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:31+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:24+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:31+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:24+00:00",
     "coveredYears": [
       2011
     ],
@@ -5544,7 +5545,7 @@
     "active": true,
     "etag": "\"b8204c1d8252dd1:0\"",
     "lastModified": "Fri, 02 Oct 2026 15:24:28 GMT",
-    "contentHash": "84b61ea852c8d94012aece2962924c02868878151c63c63230e7cbb04b398666"
+    "contentHash": null
   },
   {
     "id": "7301307bfb3695c5",
@@ -5656,9 +5657,9 @@
     "municipalityCode": "434256",
     "url": "http://www.ubuyama-v.jp/material/files/group/1/nyuusatukekka202309.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:31+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:31+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:27+00:00",
     "coveredYears": [
       2023
     ],
@@ -5736,9 +5737,9 @@
     "municipalityCode": "434256",
     "url": "http://www.ubuyama-v.jp/material/files/group/1/nyuusatukekka202502.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:32+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:27+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:32+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:27+00:00",
     "coveredYears": [
       2024
     ],
@@ -5862,9 +5863,9 @@
     "municipalityCode": "440001",
     "url": "https://www.pref.oita.jp/site/nyusatu-koubo/hpkoukoku2026kekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:33+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:29+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:33+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:29+00:00",
     "coveredYears": [
       2026
     ],
@@ -5873,9 +5874,9 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"5a5c-65e3722ecdf4a\"",
-    "lastModified": "Mon, 19 Oct 2026 20:12:42 GMT",
-    "contentHash": "9e424ba1ae34a0e0088af0c933cdf0260f11018b4c96cc5fbab5fdf1866254b5"
+    "etag": "\"5a5c-6610b462bfec9\"",
+    "lastModified": "Tue, 24 Nov 2026 20:08:30 GMT",
+    "contentHash": "4d4f9fb2260f644f9684cde5c7b6ec0f67a5cda91c00436eccb53843c29ca58c"
   },
   {
     "id": "d15c0d6b274c6559",
@@ -5897,9 +5898,9 @@
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/10113.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:34+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:34+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:30+00:00",
     "coveredYears": [
       2020
     ],
@@ -5917,9 +5918,9 @@
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/10498.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:35+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:30+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:35+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:30+00:00",
     "coveredYears": [
       2021
     ],
@@ -5937,9 +5938,9 @@
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/10553.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:35+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:35+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:31+00:00",
     "coveredYears": [
       2021
     ],
@@ -5957,9 +5958,9 @@
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/10703.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:36+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:31+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:36+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:31+00:00",
     "coveredYears": [
       2021
     ],
@@ -5977,9 +5978,9 @@
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/10817.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:36+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:36+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:32+00:00",
     "coveredYears": [
       2021
     ],
@@ -5997,9 +5998,9 @@
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/17517.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:37+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:37+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:32+00:00",
     "coveredYears": [
       2026
     ],
@@ -6017,9 +6018,9 @@
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/17223.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:37+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:37+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:33+00:00",
     "coveredYears": [
       2025
     ],
@@ -6037,9 +6038,9 @@
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/16269.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:38+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:38+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:33+00:00",
     "coveredYears": [
       2025
     ],
@@ -6057,9 +6058,9 @@
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/15999.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:38+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:38+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:34+00:00",
     "coveredYears": [
       2024
     ],
@@ -6077,9 +6078,9 @@
     "municipalityCode": "442071",
     "url": "https://www.city.tsukumi.oita.jp/uploaded/attachment/15826.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:39+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:39+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:34+00:00",
     "coveredYears": [
       2024
     ],
@@ -6217,9 +6218,9 @@
     "municipalityCode": "042030",
     "url": "https://www.city.shiogama.miyagi.jp/soshiki/49/56415.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:40+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:40+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:35+00:00",
     "coveredYears": [
       2026
     ],
@@ -6228,9 +6229,9 @@
     "discoveryMethod": "link_discovery",
     "priority": 1,
     "active": true,
-    "etag": "\"5cd0-65e38a816fa42\"",
-    "lastModified": "Mon, 19 Oct 2026 22:01:31 GMT",
-    "contentHash": "e7f6fc77ec1bff685b6d711b9116ce2b9b8034b2380a67f114a3792645309f6f"
+    "etag": "\"62c2-6610db18f1135\"",
+    "lastModified": "Tue, 24 Nov 2026 23:01:41 GMT",
+    "contentHash": "0423623d314d56ef9ceedb5c181652f57ad1a99a75403f4fcf4f4fd9f7b5ebbc"
   },
   {
     "id": "b215d5f02f0e5732",
@@ -6672,62 +6673,62 @@
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/keiyaku/shisejoho/nyusatsu/buppinnyusatsukekka_main.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:43+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:43+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:38+00:00",
     "coveredYears": [
       2008
     ],
     "sourceType": "result",
     "title": "物品調達等入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"4c9e-65a7891591e3c\"",
-    "lastModified": "Wed, 02 Sep 2026 04:35:41 GMT",
-    "contentHash": "207669ddd4d2734afcb0ebf57bf19a05494d1d7efce5d0f6668ac01800d73d49"
+    "etag": "\"4f27-660fe9b5dce63\"",
+    "lastModified": "Tue, 24 Nov 2026 05:01:44 GMT",
+    "contentHash": "7ec2d47ff0f5037811e74a952d26c80789aba55551f954f460be82db5440fad1"
   },
   {
     "id": "66d73b243df0a2c0",
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/keiyaku/shisejoho/nyusatsu/070401.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:43+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:43+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:39+00:00",
     "coveredYears": [
       2008,
       2025
     ],
     "sourceType": "result",
     "title": "令和7年度物品調達等入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"5959-659d4972195e7\"",
     "lastModified": "Tue, 25 Aug 2026 00:57:43 GMT",
-    "contentHash": "d465d517937f0ed53541dc56b0d5f3e3650d58ef54e76027f21ce862981b5d16"
+    "contentHash": "36285fb9f251b953c545d5fac60f9769973809f3871f494a926d0b362c250741"
   },
   {
     "id": "db6fefa2090485a0",
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/keiyaku/shisejoho/nyusatsu/0800401.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:44+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:44+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:39+00:00",
     "coveredYears": [
       2008,
       2026
     ],
     "sourceType": "result",
     "title": "令和8年度物品調達等入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"51b5-65ded32dff8d6\"",
-    "lastModified": "Fri, 16 Oct 2026 04:00:02 GMT",
-    "contentHash": "dab8c8b49ffac650616c77a9afe5b111f73e5ad6fe501b47405ca84d9ffd1c0a"
+    "etag": "\"5392-660207675be38\"",
+    "lastModified": "Fri, 13 Nov 2026 04:00:02 GMT",
+    "contentHash": "2ebf889b11fe2de9e82417a5f4c1fd24d822754e11a905ee3a0e520c73bfb781"
   },
   {
     "id": "6b8b49d70977ae8a",
@@ -6740,7 +6741,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "物品調達等公表書（令和8年7月10日）（PDF：51KB）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -6755,7 +6756,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "物品調達等公表書（令和8年9月4日）（PDF：29KB）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 3,
     "active": true
   },
@@ -6809,18 +6810,18 @@
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/kouho/shisejoho/nyusatsu/koubo_proposal_kekka.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-19T22:36:45+00:00",
+    "lastSuccessAt": "2026-11-24T23:11:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:45+00:00",
+    "nextCrawlAt": "2026-11-27T23:11:40+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "公募型プロポーザル結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"4076-65a78916aae58\"",
-    "lastModified": "Wed, 02 Sep 2026 04:35:42 GMT",
-    "contentHash": "c6c3008af6fcd75e920fc3242b4798d086d943264a2510595b793e3f4de45659"
+    "etag": "\"43bc-660fe9b5ca582\"",
+    "lastModified": "Tue, 24 Nov 2026 05:01:44 GMT",
+    "contentHash": "b650c4dfc75a96549907f79ba05e24a94e010c9f0830900edc6a53fcd21ac9aa"
   },
   {
     "id": "b80212b4514f8fe3",
@@ -6833,7 +6834,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "電子入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"360f-65a78916a3540\"",
@@ -29901,7 +29902,7 @@
     ],
     "sourceType": "result",
     "title": "タブレット端末の利活用検討及び関川村次期防災無線システム更新工事発注者支援業務委託の公募型プロポーザル審査結果の公表(令和7年8月)",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"92608caa2a1b0dcc7453032bbdc4de1e\"",
@@ -29923,7 +29924,7 @@
     ],
     "sourceType": "result",
     "title": "「(仮称)関川村健康増進施設プロポーザル審査結果の公表について」(令和3年2月）",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"fe558ece0f60893fa3373097d8d99412\"",
@@ -29943,7 +29944,7 @@
     ],
     "sourceType": "result",
     "title": "道の駅関川第４工区　公募型プロポーザル審査結果の公表について",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 1,
     "active": true,
     "etag": "\"29d90f48a15f206fbf17b793f9ae2aff\"",
@@ -29961,7 +29962,7 @@
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "地方行政サービス改革の取組状況等(令和2年4月1日現在)",
-    "discoveryMethod": "result_archive_link",
+    "discoveryMethod": "procurement_page",
     "priority": 3,
     "active": true
   },
@@ -38738,10 +38739,10 @@
     "id": "a20b15e3aaf5dfab",
     "municipalityCode": "082082",
     "url": "https://www.city.ryugasaki.ibaraki.jp/jigyosha/nyusatsu/hattyu/kohyou/R8result/202609.files/20260901yet.pdf",
-    "failureCount": 3,
+    "failureCount": 4,
     "lastSuccessAt": null,
-    "lastFailureAt": "2026-10-19T22:36:42+00:00",
-    "nextCrawlAt": "2026-10-22T22:36:42+00:00",
+    "lastFailureAt": "2026-11-24T23:11:37+00:00",
+    "nextCrawlAt": "2026-12-01T23:11:37+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "令和8年9月1日執行分（審査後公表を含む。）(PDF:277KB)",
@@ -125335,10 +125336,10 @@
     "id": "63cacd6f5e998269",
     "municipalityCode": "433691",
     "url": "https://www.town.nagomi.lg.jp/nagomibyouin/byouinsyoukai/nyusatsu/17923935473270154/",
-    "failureCount": 0,
+    "failureCount": 1,
     "lastSuccessAt": "2026-10-19T22:36:21+00:00",
-    "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-22T22:36:21+00:00",
+    "lastFailureAt": "2026-11-24T23:11:17+00:00",
+    "nextCrawlAt": "2026-11-25T11:11:17+00:00",
     "coveredYears": [
       2026
     ],
@@ -125349,7 +125350,8 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "8da94c0b9af4ee0713bbb20fcd2086d2a70d8d8c3ccb8f90298cba9dd69169f5"
+    "contentHash": "8da94c0b9af4ee0713bbb20fcd2086d2a70d8d8c3ccb8f90298cba9dd69169f5",
+    "lastError": "404 Client Error: Not Found for url: https://www.town.nagomi.lg.jp/nagomibyouin/byouinsyoukai/nyusatsu/17923935473270154/"
   },
   {
     "id": "24f5d7c704b790e3",
@@ -137689,42 +137691,71 @@
     "municipalityCode": "063240",
     "url": "https://www.town.oe.yamagata.jp/files/original/2026112017020309576581381.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-11-24T23:11:06+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
+    "nextCrawlAt": "2026-11-27T23:11:06+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "「大江町本郷東放課後児童クラブ選定結果」をダウンロードする（PDF：99kB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"18621-660b0a8d1de3e\"",
+    "lastModified": "Fri, 20 Nov 2026 08:02:03 GMT",
+    "contentHash": "c43239c5f808139e30892c4f106cae951d72efac3f437862265cc4dc73472a42"
   },
   {
     "id": "4036ebf2c845b4c5",
     "municipalityCode": "030007",
     "url": "https://www.pref.iwate.jp/_res/projects/default_project/_page_/001/103/421/shinsayouryou.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-11-24T23:11:08+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-11-27T23:11:08+00:00",
+    "coveredYears": [
+      2027
+    ],
     "sourceType": "result_pdf",
     "title": "プロポーザル審査要領 （PDF 185.9KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"2e79b-660981197819c\"",
+    "lastModified": "Thu, 19 Nov 2026 02:41:46 GMT",
+    "contentHash": "25c8c1491dfa78e19cfdd482d3c39024b03fd16a80bb862c90b3eb2b1e2ed79a"
   },
   {
     "id": "038b7aa6f80bab3f",
     "municipalityCode": "450006",
     "url": "https://www.pref.miyazaki.lg.jp/kanko-suishin/kense/chotatsu/20261102105812.html",
     "failureCount": 0,
+    "lastSuccessAt": "2026-11-24T23:11:09+00:00",
+    "lastFailureAt": null,
+    "nextCrawlAt": "2026-11-27T23:11:09+00:00",
+    "coveredYears": [
+      2008,
+      2026
+    ],
+    "sourceType": "result",
+    "title": "「令和8年度宮崎県観光案内板情報更新等業務委託」の入札結果公表について",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true,
+    "etag": null,
+    "lastModified": "Mon, 23 Nov 2026 15:30:47 GMT",
+    "contentHash": "6a7e527b021203c347435fc19663dce24a2b1725480148662aa27bfc7bbe22c5"
+  },
+  {
+    "id": "e7e79a660e6683b4",
+    "municipalityCode": "450006",
+    "url": "https://www.pref.miyazaki.lg.jp/documents/113799/113799_20261102110304-1.pdf",
+    "failureCount": 0,
     "lastSuccessAt": null,
     "lastFailureAt": null,
     "nextCrawlAt": null,
     "coveredYears": [],
-    "sourceType": "result",
-    "title": "「令和8年度宮崎県観光案内板情報更新等業務委託」の入札結果公表について",
+    "sourceType": "result_pdf",
+    "title": "入札結果一覧表（PDF：87KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true

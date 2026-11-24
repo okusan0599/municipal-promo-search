@@ -1,14 +1,14 @@
 {
   "state": "completed",
-  "started_at": "2026-11-24T12:40:43+00:00",
-  "updated_at": "2026-11-24T12:40:49+00:00",
+  "started_at": "2026-11-24T23:03:56+00:00",
+  "updated_at": "2026-11-24T23:04:02+00:00",
   "source": "官公需情報ポータルサイト検索API",
   "query_groups_total": 1,
   "query_groups_completed": 1,
-  "count": 90,
+  "count": 91,
   "errors": [],
   "current_query": null,
-  "raw_hits_sum": 4089,
+  "raw_hits_sum": 4113,
   "lookback_days": 180,
   "cache_minutes": 30,
   "message": "APIから最新候補を取得しました。元公示は各案件リンクで確認してください。"
