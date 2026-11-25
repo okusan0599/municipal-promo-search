@@ -6525,7 +6525,7 @@
         "url": "https://www.pref.hokkaido.lg.jp/inquiry/?group=1755&page=268167"
       }
     ],
-    "id": "direct-343bc0ff8b1538dfa572dbd7",
+    "id": "direct-c8a30e1e96ce3b777ee1ee43",
     "municipalityCode": "010006",
     "area": "北海道",
     "region": "北海道",
@@ -6535,8 +6535,8 @@
     "summary": "「ご利用にあたって」を読み、下記の項目にご入力のうえ、「確認画面へ」ボタンを押してください。 ご利用にあたって このフォームは、皆様からのご意見・ご質問を受信する目的で設置させていただいております。 回答が必要な場合は必ずお名前、メールアドレス等を入力の上、回答が必要な旨を記載してください。(匿名の場合は回答いたしかねますので、ご了承願います。) 回答を差し上げる場合は、記載されたメールアドレスにお送りします。 以下の場合はお受けできませんので、ご了承ください。 営業活動や宣伝活動のもの 道行政に直接関係がないもの 確認が困難なもの、内容が不明確なもの 個人を誹謗・中傷するもの 複数回にわたって同じ趣旨の問い合わせを繰り返すもの このフォームでの送信データは、暗号化技術(SSL)により保護しています。 提供を受けた個人情報は、「個人情報の保護に関する法律(平成15年法律第57号)及び個人情報の保護に関する法律施行条例(令和4年北海道条例第33号)」に基づき、適切に取り扱います。詳しくは「 個人情報の取扱いについて 」をご覧ください。 このフォームで送信された内容は、入力されたパソコンにデータが残りませんのでご注意ください。 半角カタカナや丸付数字など機種依存文字は使用しないでください。 お名前・ご住所等の入力フォーム お名前(全角) ※必須入力 郵便番号 都道府県 都道府県を選択してください。 北海道 青森県 岩手県 宮城県 秋田県 山形県 福島県 茨城県 栃木県 群馬県 埼玉県 千葉県 東京都 神奈川県 新潟県 富山県 石川県 福井県 山梨県 長野県 岐阜県 静岡県 愛知県 三重県 滋賀県 京都府 大阪府 兵庫県 奈良県 和歌山県 鳥取県 島根県 岡山県 広島県 山口県 徳島県 香川県 愛媛県 高知県 福岡県 佐賀県 長崎県 熊本県 大分県 宮崎県 鹿児島県 沖縄県 住所 電話番号 メールアドレス 半角英数字記号で入力してください。 お問い合わせへの返信に利用させていただきます。 メールアドレス確認用 もう一度、同じメールアドレスを入力してください。 年齢 年齢を選択してください。 ~20歳 21歳~30歳 31歳~40歳 41歳~50歳 51歳~60歳 61歳~70歳 71歳~80歳 81歳~ 職業 職業を選択してください 会社員 自営業 公務員 学生 無職 その他 ご相談内容の種別 ※必須入力 種別を選択してください。 相談 苦情 要望 照会 その他 タイトル お問い合わせ内容 ※必須入力",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
-    "sourceUrl": "https://www.pref.hokkaido.lg.jp/inquiry/?group=1755&page=268084",
-    "officialSourceUrl": "https://www.pref.hokkaido.lg.jp/inquiry/?group=1755&page=268084",
+    "sourceUrl": "https://www.pref.hokkaido.lg.jp/inquiry/?group=1755&page=268167",
+    "officialSourceUrl": "https://www.pref.hokkaido.lg.jp/inquiry/?group=1755&page=268167",
     "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
@@ -7483,7 +7483,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.pref.hokkaido.lg.jp/sm/kmc/a0001/b0001/",
     "officialSourceUrl": "https://www.pref.hokkaido.lg.jp/sm/kmc/a0001/b0001/",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -9022,7 +9022,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.pref.hokkaido.lg.jp/fs/1/3/2/0/2/5/4/7/_/09_%E5%88%A5%E8%A8%98%E7%AC%AC1%E5%8F%B7%E6%A7%98%E5%BC%8F%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7.pdf",
     "officialSourceUrl": "https://www.pref.hokkaido.lg.jp/fs/1/3/2/0/2/5/4/7/_/09_%E5%88%A5%E8%A8%98%E7%AC%AC1%E5%8F%B7%E6%A7%98%E5%BC%8F%E5%85%A5%E6%9C%AD%E7%B5%90%E6%9E%9C%E4%B8%80%E8%A6%A7.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -9054,9 +9054,13 @@
       {
         "sourceSystem": "municipality_direct",
         "url": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/aseansinnsakekkaichiran.pdf"
+      },
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.sapporo.jp/documents/118928/aseansinnsakekkaichiran_1.pdf"
       }
     ],
-    "id": "direct-c2b07d62f0183cd830ff22a7",
+    "id": "direct-db1a1565664e82dbafd9d881",
     "municipalityCode": "011002",
     "area": "北海道",
     "region": "北海道",
@@ -9066,9 +9070,9 @@
     "summary": "%PDF-1.7 %���� 1 0 obj < >/Metadata 160 0 R/ViewerPreferences 161 0 R>> endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 595.32 841.92] /Contents 4 0 R/Group< >/Tabs/S/StructParents 0>> endobj 4 0 obj < > stream x��\\K��\u0011�\u000f0�Aǵ�հ�&0\u0018�[�m$��\u0004�A\u000eF\u000e û�!����G�\u000f�(��� _�)\u0015Y �Ū�(���O���}x}}�y��i /������� ��釷��x���>?�����V0�A\u001812:h\u000e����=?������������\u0005\u0006�#����OV� 0P�F �\u0012r4���(��'5|� \u000e=|s- Z?=?��a����???�qL·=? 矧ax��\u0015'�F\u0007 ��+h �H�8 �C�\u0000y �DO���6 �.����|�_Z௃�ʝ�38��\u0017$U�\u0017�4�� �Q\u00032<;b��� 0?f�\bP�ߑ?^#\u0007Ԩ \u001a\u0019Q�-��+?����\u0014\u001a�#+@+8� \u0017{'\\��@x�v\u0001C�R�J�Aj:J9\u0000#vo�̸�tƻ�/�����\u0018�\u0019�\u0007E��;k�\u0003�a�Ͽ�� 'P�|<& v�v�z�2� }�r�����J�\u0000-�����E\u0001Zv!�E�(�\u0000A-C?\u0000V]K�@��[�&%�\u0019\u0014B�ؼ]ʏdTԭ%9�\u0015�\\�{w�� \u0007���aYX\u0018E�L6���!a0���tpvq<�8�뙂��\u00003\u001bC\u0004��`�vB%�3\u0017&y*J �\u0011�Mj��Ro�`�0�6\u0007b�p�\u0017צ\u0007��\\��� \u001ag%}8X+a\u001b|\u001b�����֦6d��Z:+_�kSv�V���� \u0016ƣ�}��6\u0012�Ɣ٣\u0003�Ĝ�x����� ��\u0019@�\u0002s�$�֓�0�A�m=Ⱦ�ˇm 1\u0017�\u0016�ۜ���)\u0019߽�MO�[~ �.��a��\u0018�\u000e39\\��\u0005���9\u0017���+� X !3�c/�ʗ�����_�\u0018���u��Ͱ�PT��\u0007bՓ\u0019�� ��۔ އ���\u0000#G��\u0011\b���� Ή\u0004[�$\u0004�b1 e��Y$L&�ܽZ, a�\u0004,ֵLг�8=k�-�df\u0014��e�L�T�s�fJ�F\b\u000e�\"��t��2ME��So �\u001b���\u000f����E5�e\u0007� �ܢ�`�^a\u0007�� k�vnG� -�l�G�8\u0014@Gb2(�T�f(�^\u0014�e5�(:h,Ͱ��(��� �\\[(2�e/ ���C�\u0016�\u0015�p��(\u0004qQ2��Q5W$�����$���-H �x ��j\u0006E_����\u000e:Pe�\u0019�v�?ڭyA�%A�S~x_I��\b�� D*)\u0019��Ͻ��|.\u0013 ����e��*2gsYJ�\u0002\u0007��'�S���z�v2\u0007n�M�휇Z\u000fkA�ܱڰ��V\u001b��Q9\u0006N'\u0012�\u0010I �5��~\u00132q���{�U׳s��J�Y�tz�� 4v�g�&�z�vzNV\u0003&�j\u0005whm�=a�m�+ez�w/�� \u0012\u0010X��� C�z�|{ .2i�>M��\u0015��s��J�9n�N�\u0005\u0018�A�\u0005fX����\u0018��ew�6j9�(h�2Q��U�Z ]C3ā+��� �B�\u0006�� V�F\"�b5�ȴ�\u0011!�\u0001̲I\u0005���\u0019\u0006�\u0016��n�0�`$, a �0�\u0018���\u00072��ŲB��\u001b�-S�R)����J_Yn�U)T\u0012\\ �Ы\\v^e]S2��� �[���n��7K��~P�h�8[�j`);܏× \u0019/k� ,�L� �O\u0016Y{4�%�.� �/ 2�(�\u000e�]W� ���\u0012fIG��u��]��M�\u000ePj�\u0014�n|��i���\u0014�Z�3Nrx/�hn)cw���\u0005�6kǚ�}�ƉF(�8A�R�,�\u0014k k'\u0001K�CyN��\"��\u0010��\u0016a �\u0014�� �\bO$DX�F\u0005�:�Z�]��H_$��e�V�Tօ��B�\"�\u0011Y��Z.���l ����A�\u0002�� ��n�*Dp߂�U\u001b[9&\u0017m�F��d4 �RO�6.z\b�� _؃��\u0016�y���U�V�F�N*\u0000l� -bZ\u00112aY�6f阨\u001baΒv��\u0014a�i",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
-    "sourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/aseansinnsakekkaichiran.pdf",
-    "officialSourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/aseansinnsakekkaichiran.pdf",
-    "lastChecked": "2026-11-19",
+    "sourceUrl": "https://www.city.sapporo.jp/documents/118928/aseansinnsakekkaichiran_1.pdf",
+    "officialSourceUrl": "https://www.city.sapporo.jp/documents/118928/aseansinnsakekkaichiran_1.pdf",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -9082,7 +9086,7 @@
     ],
     "classificationVersion": 2,
     "attachments": [],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "pastAwards": [],
     "vendorHistory": [],
     "historyStatus": "unverified",
@@ -9099,9 +9103,13 @@
       {
         "sourceSystem": "municipality_direct",
         "url": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/aseansizisyo.pdf"
+      },
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.sapporo.jp/documents/118928/aseansizisyo.pdf"
       }
     ],
-    "id": "direct-120791d5aa8bc31282d9f82d",
+    "id": "direct-a27698cb34b14969a6921cfb",
     "municipalityCode": "011002",
     "area": "北海道",
     "region": "北海道",
@@ -9111,9 +9119,9 @@
     "summary": "%PDF-1.7 %���� 1 0 obj < > endobj 3 0 obj < >/MediaBox[0 0 595.32 841.92]/Parent 2 0 R/Resources 70 0 R/Tabs/S/Type/Page>> endobj 18 0 obj < >/MediaBox[0 0 595.32 841.92]/Parent 2 0 R/Resources 76 0 R/Tabs/S/Type/Page>> endobj 21 0 obj < >/MediaBox[0 0 595.32 841.92]/Parent 2 0 R/Resources 82 0 R/Tabs/S/Type/Page>> endobj 23 0 obj < >/MediaBox[0 0 595.32 841.92]/Parent 2 0 R/Resources 88 0 R/Tabs/S/Type/Page>> endobj 25 0 obj < >/MediaBox[0 0 595.32 841.92]/Parent 2 0 R/Resources 94 0 R/Tabs/S/Type/Page>> endobj 27 0 obj < > endobj 35 0 obj < > stream x��V�j�@\u0018��)dz,:�꠆� �R� 9�3���:VG��s\u0014�\u0006� Zzoa�����W訛� i )� |3���7\u0007?��#��R[��8s���-�b悓q����g��M�g��s�YQ��\u0003ϩI��)��V�IV��\u0005\u0011\u0013 NT�lC��\u0010�r�e��\u0014��{�\u0014lI�\u0007G;�Z��Lʜ@�^���e��\u0014��mC�!ƺB��y&�Z���7 \u0001/i\u0011�2\u0016�֬���� ����{�Yi�� *R�>@Ӱ`#�j�\u0010����\u0016�\u0014K��v\" ����|\u0007��8���\u0003�0�\u000f�WE� �Q�\u0013��L�*��\u0006b�ЂGR(�Fg�?tE\u0012{W\u0017�~}�z�}{�����������E�>��QՅ�߸:�UN��T �wFs!����.�\u000f�\u0007��0�\u0013 Mt<��\u0013�\u0011\u0019�_ � ԣvȖ\u0019 \u0016/� ��!��\u000fa��N��M3\u0004�V�e \u0007^UŌ���C O�>1�@ ���������� ����6�m�N�8+e�Q�\u0018� ���kO� &��`2� &��`��&�o_ �j\u0000�O鞳��y�F����\u0003��X� endstream endobj 36 0 obj < > endobj 51 0 obj < > stream x�uR�j�0\u0010�\u001b�\u000f�C 98����\u0010\u0002m\\S � N Pzp�u\u0010Ē������H(�\u0007!��jgV = \u0012��3z�)�#\u0016��\u0014��6U�3\u001a��V9�r�Ȑ�t����4�\u0012ƛ8�\u0005/'F z�\u0018��T/x��1�` �� /k�8���0\u0003��!�NZ �! V����R,!�\u0012s~\u0015l#s�p ����N2.��z��81�`\u0006���\u0006� ��\u0010�[��(1�E&a�jY�z=�lvE�k\u0018wN'�0��^3�\\\\�B\u000e\\R)uE�\u0017H �`���mF�Ks\u0004�m)Kt�M�;�T+�`���=\u000e�;����qA\u0016��|?\u0003��� ���\u0018�@�\u0001 �Rԩ���\"d �(Z[�[!g �\u0016d�\u001aH[20��Nv�G+��|v�6�1�\u0005\u000e\u000f���u�ҽt�\u000f��>r�_D*�� endstream endobj 53 0 obj < > stream x�uUklTU\u0010��]��,\u0002� ֲ��j%hZ-�� (X\u001a#\u0015��+D|l�F\u0017m���\u0007\u0013$��?�� 4&j�6���h#\u0010!`�`�Z1�\u0006 i�Ʀ�V\u0003��v�f������=�9sf��fn��A \u0004�(�1��x\"޴����ǟi~�;3 2Q\u0013� �,�ּ�x��J���߶.���\u0007�B�B*3��H8�|v���푲��Heix0R!ϸ70��(Ǩ��^n�p��\u0007�6'�> Olٴ�\u0015R�\u001a��n�ZZ2] Q��9�a�Y\u0018�X�E\u0014�O\u0014Z��\u0002�^��.����d:�\u0007\u0011�bÁ�n ��8��[{�`E7�cE�U��/y2�T��3�~\u0007�ꆒ�*�bvF�\\�� +g �W����",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
-    "sourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/aseansizisyo.pdf",
-    "officialSourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/aseansizisyo.pdf",
-    "lastChecked": "2026-11-19",
+    "sourceUrl": "https://www.city.sapporo.jp/documents/118928/aseansizisyo.pdf",
+    "officialSourceUrl": "https://www.city.sapporo.jp/documents/118928/aseansizisyo.pdf",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -9127,7 +9135,7 @@
     ],
     "classificationVersion": 2,
     "attachments": [],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "pastAwards": [],
     "vendorHistory": [],
     "historyStatus": "unverified",
@@ -9144,9 +9152,13 @@
       {
         "sourceSystem": "municipality_direct",
         "url": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indokekkaitiran.pdf"
+      },
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.sapporo.jp/documents/118928/indokekkaitiran_1.pdf"
       }
     ],
-    "id": "direct-d347e739cf37aaa9657de268",
+    "id": "direct-b5990581388d24826c2383bd",
     "municipalityCode": "011002",
     "area": "北海道",
     "region": "北海道",
@@ -9156,9 +9168,9 @@
     "summary": "%PDF-1.7 4 0 obj << /Filter /FlateDecode /Length 36860 >> stream x�ԽIr�Z��7�Up,��\u0001H\u0000�\\�FZ�3������L �/\u001a�.��'=�(ˉ���zL��mz�{�^�)��L�o�:�ޗiZח�z����� �����5�^�x������zۧi\u0006�Ft���u{���?�\u0011\u0011������}��{�\u0017�|���E����������X;H����r������:����C��)�O\u0006ߛ/�^�u�Ǽ�С!:/��ǭ�}��q�p^\u0006tL z���{��c�����}N�_o7�w4py���g�\b��c�q��ɰ� ��\u0012���\u0016������\u0004�_}a��K�k��c�\u000e\u000f\u0017�{����?����>���\u0005�]һ��{~�Gs8�W �R��X� £�8/�n���Hz\u001a,[n��9�ypB�s�C��ɦ�5|3�}���\u0001��u+\u0010����=�� \u001b; :���\u0006b�ϯ�V���? }}��� �}�>�MM�^�϶�^����1я���޿� ����A��ڏ{���рGS�׭\u0018�-�> �>�k|��_�\u0007��D���������k|����9��ǽ��} ���\u0018WB�=�������\u0018M\u0013C� ��\u0019u?c�Me�~���u���{`�k�Ab�p��\u0015|��5�v-���\u000fL��'��I�N��%?��:���9Ini9x��\u0013`�vY�\u0015\\:{�\u0018��9�͊[�� �\u0019J�����\u0003e9\"�l�9=x��<6մ |n\u000fO���I �c����\u0003�>�����g�Gw��_׼\u0007^ROs<�?�x�Ss��\u0005�sm\u000e��u�� /yK���t�x�>��(\b�c����NX<:��C�Q����o�1&�4�\u0017�7􉏛�� �ȇ\u0004zK߸�Hf���\u001b%t6e ��c�O��=���ǟ���lj��x�o��5}�o ����S\u0015 \u0017\u0002\u001a�\u0015�y�a����m�EB�����>��5���=��^ڟ�\u000e1V�\u0007\u0004���x�-?�]?�6���j�t�h~\u0012��W\u0005���4eƼ�2���Y�\\�JK\u0012Y�uK��� �\u0011� I8+R;���(D��:ޘ�9�����\u0010\u0003���\u0015�� m\u0010�=������2�#4�b }�5��1��r���Mh�$�F]\u0014�*�]����>����� �������q׉�u\u0006����gK�0t��ʣ_�TQW�ҳ�}�$ � =�\\yi �����N��3Ư\u000ep\u0011þгg��yd.��� Y�^�i��fǸ�m�O \u001a������\u0015��]4�лwZ,�۵���?ղ��V��&�t7v� �^��$�w�: yD\u0005�� ��V���'4�n =\u0013l3�0L ZY��ջ��N�;M\u0006\u0015��J���&\u0004��\u0015A8LJM\b[.lB���4f𤡻6SF\u0003�Nm�S� ���`�d����{�b ��e�zy6\u0010�'��.�Q�\u0010%t��-\u0015��y\bN�\u0019\u001a���žc̫\u0005+��x\u0016\blD�z��I�lsP�e,�Z�~�v����7\u000fk��x��� �\u00149\u0007v�b� ��{=}\u001a� ��0�iW��R`�n�a4\u0014:a�\u00104�9\u0013\u0005\u0018���B��U){��S�Z�uW���]\u0012�\u0001� ~;��� \u0019�>7�M���*��� 0��-a����\u0018\u0014�1[�����l9\u0007�\u0005F�:�,�h�2A\u001a�&<+��� $�\u0004�c\u0015��d9���� ي\u000es�\u0010�o\u0002���Q��Fl}\u0015�h�0TO��)����\u0012��=k�1��kj�V=6[1\u0019�\u001a�� =k��C�O;�������\u001b�\u0014�0ηj�4Y�\u0011>��lJW�,���ToZ�?�|�qVc�6/CZ������T�ߖ����폇�{6�\u000f ��^����.\u00056x� ��f%}��.�i@\u0012n��c���Nh�\"���Ȟ���?\u0015 �1zt�l {��{}��ώ��y[����,}\u000e[��\u0010����d_���W�-7���\u0002;�\u0003��j�w�\u0007v�\u0012v E��<\u0014\u0001[� %�,�t�e�'P9��k� �Z>���b����&b��h8�ͣ����� F۰���2� ��^�} �yڀ�\u0015�{>�w��~����� l�P����ey�����\u000f-�",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
-    "sourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indokekkaitiran.pdf",
-    "officialSourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indokekkaitiran.pdf",
-    "lastChecked": "2026-11-19",
+    "sourceUrl": "https://www.city.sapporo.jp/documents/118928/indokekkaitiran_1.pdf",
+    "officialSourceUrl": "https://www.city.sapporo.jp/documents/118928/indokekkaitiran_1.pdf",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -9172,7 +9184,7 @@
     ],
     "classificationVersion": 2,
     "attachments": [],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "pastAwards": [],
     "vendorHistory": [],
     "historyStatus": "unverified",
@@ -9189,9 +9201,13 @@
       {
         "sourceSystem": "municipality_direct",
         "url": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indokikakuteiannsyo.docx"
+      },
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.sapporo.jp/documents/118928/indokikakuteiannsyo_1.docx"
       }
     ],
-    "id": "direct-839f3b760b8fc80e090f7048",
+    "id": "direct-adbb770b66b3ef5519c50037",
     "municipalityCode": "011002",
     "area": "北海道",
     "region": "北海道",
@@ -9201,9 +9217,9 @@
     "summary": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000��&%�\u0001\u0000\u0000\u0018\b\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml �\u0004\u0002(�\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000��MO�@ ��H��h��f� V+Ԕ\u0003,�\u0005iA�:�q�\u0011�\u0003�߯ӏ\b��)�\\\"%����G\u0019O�޼+^ ���\u0012\u0017�X\u0014\u0010t46�+��p;�- $\u0015�r1@%���jz~6yX&���\u0003VbA�.�D�\u0000��� \u0002G꘽\"~�s��~Vs�?��_R�@\u0010hD���Nn�V����\u001b^�DCT��z�ٚUB��V� �%�\u000f6�X�V����\\R�Y� g��e\u0011!w�dp�9�M#%W�rpa\u0013���=\u000emd����O [\u0003Ž��WyΒ�1\u001b�usX�\u001a�Z�Q\u0003\" �we\u0017�ʆ-�.\u000e� E�䝴\u0004�>DŽ\u0017'�t�� d���p�,B�g������I�B - ��\u0013�u�큈 �\u0000�(�\"����`\u0014��{A�\u0018)D\u001a�4:�^\b\bf ���Qs�|�?�s ���g?5s0\u0004�F�\u0017�x���y�$V2�,9su\u0011�&�_h{�C��Q:�\u0006� Y����]O\u0006�\u000eo�����\u0000\u0000\u0000��\u0003\u0000PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000 �\u001a��\u0000\u0000\u0000N\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels �\u0004\u0002(�\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000���j�0 @���ѽQ��\u0018�N/c��\u0018�\u0007\b[IL\u0013��j���<��\u0002]�aG��ӓ�zs�Fu��]�\u001a�U �� ��^�[��x\u0000����1x�p� ���f��#I)ʃ�Y\u0015��\u001a\u0006������\u0013�*D�� i\")��c$���qU���~3��1��jH[{\u0007�=E�� ��\u0019~ f?��3-���޲]�Tꓸ2�j)�,\u001al0/%��b� \u001a���z���ʼn�, � �/�|f\\\u0012Z���\u0019?6�!Y�_�o\u001b�]A�\u0001\u0000\u0000��\u0003\u0000PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000\"�0;�\u0016\u0000\u0000!�\u0000\u0000\u0011\u0000\u0000",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
-    "sourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indokikakuteiannsyo.docx",
-    "officialSourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indokikakuteiannsyo.docx",
-    "lastChecked": "2026-11-19",
+    "sourceUrl": "https://www.city.sapporo.jp/documents/118928/indokikakuteiannsyo_1.docx",
+    "officialSourceUrl": "https://www.city.sapporo.jp/documents/118928/indokikakuteiannsyo_1.docx",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -9217,7 +9233,7 @@
     ],
     "classificationVersion": 2,
     "attachments": [],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "pastAwards": [],
     "vendorHistory": [],
     "historyStatus": "unverified",
@@ -9234,9 +9250,13 @@
       {
         "sourceSystem": "municipality_direct",
         "url": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indokikakuteiannsyosakuseiyouryo.pdf"
+      },
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.sapporo.jp/documents/118928/indokikakuteiannsyosakuseiyouryo_1.pdf"
       }
     ],
-    "id": "direct-011945d089c65a91553e14dd",
+    "id": "direct-04e71736d198608ce23ffd48",
     "municipalityCode": "011002",
     "area": "北海道",
     "region": "北海道",
@@ -9246,9 +9266,9 @@
     "summary": "%PDF-1.7 4 0 obj << /Filter /FlateDecode /Length 37188 >> stream x��K�$I�䷯S�zD����~�Y�\u0001Z��E成�_0 n�?�\u0010Y�Y��gHa��5�_��\u0001 ��s[��o��a��� ������\u0018�a���������?������ ��i���؎��\u000e�\u0015�;��u .�/��\u000f�E���?~����'����#�7��������O�\u001bH\u001a�[�ܚ�:���<�7��B�5Ch� ޯ��'�����K\u000f��s{�y~��������2��?�g��?�]�<>����ѷ�� ���ý����:��5��l��^�2�g����i:�v^q�~���\u0006��e�9\\�c�ܮ>����\u0015n�؏�[ϫ/ן��^ˍ�7�ko��s�v��}� ���I\u0017\u0018M�U��\u000fmW�\">�w\u000e�� �s��]5�\u0001�֑�@9����J\u000fД�(�\u00138���[���d\u000fi*�w��9�EjH��Z�����$�N ��<�[�o��\u0011���F�(�݈����\u0017�Mꉋ,\u0014u�E&X�ץ5�\u0007��&�����%��n\u001aFm'��6,bgS���d�-�\u001b���W�o��Y��l0������r� ~���[z7����zM N�!~���=�n�i6 � �Ko\u0006��\u0006+�w� mo�@kJ��\u0018�ۣ'40.�\u0011���$<�� \u0007~���`��#�\u0007 0\u0016�9a�#�ՙ\u0000�\u0011�^tDž 7�=�og��=��p)̷�(l/�N�ܙE���pm+�c8��9��,\u0013\u0019>V����/�:}\u0019 �\u0018�U? ЩC�\u0019{ ����iX �u�nǢ��v��퇽Y��ܛ�-\u000f��\u0006��Ԏd\u001aݏ3�� �z�.O�I��s��>��p��c�� �����\u001br��a��G\u0014�pڐ%�c�\"���\u0018����.=\u0006��h�u��8ֵ\u0015v;1�\u0018�n+A\\�>-A��{�\u0004�\u0012zN��e��zP����x�0����0\\���7���q ��v��~o��\u0004��p�5&��\u000e��[���W���]& vΡ�����X�<� xX��7-��bؘ� �\u0016�w?_n��\u000e�ф�07�N�n:�\u0011 ����� 6奭 \u000f�}� S�ؚM#��Gy�܋��&���3/���\u0018�ӯ6�������E;���z.�e^�a�/�����cd�����L��p\u00037�膇�`�c�r�~ �lt�����?\u000f�Ǣv�W5pe\u0013\u0003\u000f ���%<��� \u001a5�mK7 �Q�/� \u0018f}o��8jƜ���\u0006�u�]dUO�0�@��� s��\u0005�V� �q�'����em���>h.��Dw �\u0019�гK��Q\u0005ߡBw;�� ��9��%ܣF�w��K�g]��\u0000\u0007u\u0001n�׉�'�b.�m�q�n O���\b���-T����k8�H���}�\u001a�X���ӯ?�B���͑\u0002ܡFq�/\u0019\u0001�m��/�ތ��9\u0017�\u0019#��k���\u0015:%Vm\u0016�\u0005� ��c���3zk&\u0000�ٞ��\u0000�\u000e��bF9��ȩ���*��\u001a�ӪX��~�3;W������Md�����.6�/�`[c��� ���Iɀ �%wW9�#��U�pZ�\u001b�� ���-^� m�ȣ �{���s �x���\u0005�n ��D�� 4��j\u0014/e\u001b)�G�N�nx\u0001�-����b@�;v�㧻�\u00022\"��[>L5�\u0000�R��ۏ��4� `\u0011r,�r���]%��ҿ\u0000N\u0015�\u0017n�/z����K�C�\u0004ǵ=.|\u0001Gg^��X� �g���\u0007\u00060,h�н�����K\u0010��Qk�o|�j�\u0004\u0017X A|y �r>j��νs��f�ܗ��N�� �۶> �G�j{\u000e��)0��K$8�C�j�\u0006_x�ʒx��\\��zo\u0018%�)��q �r\u000eϪQ�$�Q^�4v|�\u001a k]�H\b�F�+P7\u0018\u0010�\u0006����Y��8__�h5 �{P�10�V�uXl����+\u0002�;\u0016��0�`m4|av ��\u0013��Xn��x�N������q� x���\b>z����L|l @+{,�=�<�� \u001a�}����\u0018��\u0007s;&��«-��\u0010� \u000e������m�{�A��ֹ��t� #��Hޏ�sB߉�\u0003�;�h�L�C�^�\u0002F �\u00078�*��\u0015V�\u0012 �",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
-    "sourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indokikakuteiannsyosakuseiyouryo.pdf",
-    "officialSourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indokikakuteiannsyosakuseiyouryo.pdf",
-    "lastChecked": "2026-11-19",
+    "sourceUrl": "https://www.city.sapporo.jp/documents/118928/indokikakuteiannsyosakuseiyouryo_1.pdf",
+    "officialSourceUrl": "https://www.city.sapporo.jp/documents/118928/indokikakuteiannsyosakuseiyouryo_1.pdf",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -9262,7 +9282,7 @@
     ],
     "classificationVersion": 2,
     "attachments": [],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "pastAwards": [],
     "vendorHistory": [],
     "historyStatus": "unverified",
@@ -9279,9 +9299,13 @@
       {
         "sourceSystem": "municipality_direct",
         "url": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indosijisyo.pdf"
+      },
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.sapporo.jp/documents/118928/indosijisyo_1.pdf"
       }
     ],
-    "id": "direct-2fed903fc7c5d2d61959bead",
+    "id": "direct-0d70a77052a1615e5202a49d",
     "municipalityCode": "011002",
     "area": "北海道",
     "region": "北海道",
@@ -9291,9 +9315,9 @@
     "summary": "%PDF-1.4 %���� 18 0 obj < > endobj xref 18 20 0000000015 00000 n 0000000806 00000 n 0000001297 00000 n 0000001443 00000 n 0000005484 00000 n 0000005563 00000 n 0000005711 00000 n 0000006673 00000 n 0000006923 00000 n 0000019229 00000 n 0000019863 00000 n 0000020007 00000 n 0000027473 00000 n 0000027719 00000 n 0000148468 00000 n 0000151774 00000 n 0000151931 00000 n 0000152166 00000 n 0000162972 00000 n 0000001082 00000 n trailer < ]/Info 17 0 R/Prev 181509/Root 19 0 R/Size 38>> startxref 0 %%EOF 19 0 obj < >/PageLayout/OneColumn/PageMode/UseNone/Pages 16 0 R/Type/Catalog/ViewerPreferences< >>> endobj 37 0 obj < > stream x�c```f``�b`\u00012�\u0018�\u0018\u0010@����\u0015(��a ہ� �\u0013x��Y\u001b\u0018\u0018�\u0016HI��dH�5t�\u0001�,\u0012\u0010�b\u0006\u0006 ��|\u000f(�\u0012 =�iM|\u001b�6�B��\u0001���\u000fRn0Z0Zh>g\\�\u0000��t8 H3\u0002� \u00002K 5 endstream endobj 20 0 obj < > endobj 21 0 obj < > stream x��]Y�,�\u0011����\u0015�5\u000f` 9���`l0����pfU\u000e�\u0015��Pw__��=�W!�B1\u000fj������_�篿,�C�·���ҏ��?�Mۗ�l�����U)e�����_ꀅ�&�.�\u000f ��r�!�\u0013@Z�:�^ E{� �c�4�\u0018J��B�\u0014>b ��O�a�\u000f\u0010m64����׏��j�\u0015 ��Rv��-��Ѓ�S���bgn� \u000eg��� �:���� ں}��� �/s���%-|MӃӻ4����/��\u0011J\u0013���\u000f |ұF � �HR�B�W��;��{6 \u0001�� >�=��\u0006 '~R�\u0000���#�\u0004h�D����k��Jn\u0000kz�Nd\u0010� �8���h�gG,��� y�N\u0017���7r΍�fSg'�����!�P��>�_w�O��\u0011;� q��N��P\u0006H�5�\u0012J(!�EgB���� �\u0002 lP]47:\b�g���L#��^in���\u0017NIc�\u0011�\u0000xft��i�4!��\u0019B�XF\u001b6\u0018�v�a�Fu�\u00117o���a��\"� �A� N�_L��]pƛ�\u0019W�\u000f �) ����N�8<� ��t��\u0011 ��C�\u001a���Z�>���^������h\u0006��ը=���قڏ x\u001a\u0003�h㡦/h���w �w�(�|���l����\u0007mJ����� �F�Q�z��E-���\u0015�\"8�^�Y��<#`7ql\"�Ц)����\u000e���\b����;;ů�x~s\u0002h�\u0001����?gp�\u0019\u0000�ZUAf�W�ܮ��i�~�ܪ9 �Y�!\u0016�!l\u0012R����(����֔�K���\u00044�\u0019� �ް\u001b�9B\u000eV\\}��\u0017L�=.9�\u0002����%r#١T \u0004|d}����?v)}��;�4?:���\u0013nެΜ�F5�\u0019\u0006�*t��(���\u0014������$\u0004T�<}Pߝ����}���ۧ\u0003�\\\u0006�j \u0016����H���s)�v\u0014]\u000fԐv|��n�<��d��nY.ͳ���Yt�\u0006� zf��( 8�r�\u0018ÖV��eĒ\u0013@';@ Dmn�O�)13.tqw�*����+p.\u001a�� T��2c�e���(�It WPKi���\b@�\u0006��4(D\u001b��%w��(B�U3?��V\u0019j��r>_z/SI�\u0006ё\u000fs�F���\u0018s\u0016�=�\u0010�!�%њ3OM<���E��F�D舔���\u0018�@�(#}FB2�\u0018\u000fq\u0016R��\\� ٤\u0007��\u0017#7\u0012� @ �-) J� ",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
-    "sourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indosijisyo.pdf",
-    "officialSourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indosijisyo.pdf",
-    "lastChecked": "2026-11-19",
+    "sourceUrl": "https://www.city.sapporo.jp/documents/118928/indosijisyo_1.pdf",
+    "officialSourceUrl": "https://www.city.sapporo.jp/documents/118928/indosijisyo_1.pdf",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -9307,7 +9331,7 @@
     ],
     "classificationVersion": 2,
     "attachments": [],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "pastAwards": [],
     "vendorHistory": [],
     "historyStatus": "unverified",
@@ -9324,9 +9348,13 @@
       {
         "sourceSystem": "municipality_direct",
         "url": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indosizisyo.pdf"
+      },
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.sapporo.jp/documents/118928/indosizisyo.pdf"
       }
     ],
-    "id": "direct-c9b029c87e9ddb6ab0dbab49",
+    "id": "direct-6765584aabfa3705e268e8a9",
     "municipalityCode": "011002",
     "area": "北海道",
     "region": "北海道",
@@ -9336,9 +9364,9 @@
     "summary": "%PDF-1.7 %���� 1 0 obj < > endobj 2 0 obj < > endobj 3 0 obj < >/ExtGState< >/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 595.32 841.92] /Contents 4 0 R/Group< >/Tabs/S>> endobj 4 0 obj < > stream x��]K���\u0011�_���,�B\\� p �\u0019�4�E誴Y����C5�\u0019Y���Mr�N ��o�X�<~����Ob\u0010�\u0010�|���v��\u0011� �z�� �?��\u000f��4���� 7��b����??���C>�\u000e�s� � �����~����������W��~���o �����>Z�\u0017����/�v\u0006���<[՘�J�\u0010i\u0019n�!�\u0016'Is��sn���B *ލ�>Z49�\u0006g ��8+���0%\u0019����\u0007\u000f��&�EL�\u0017�f�����(�\u0012��c���`��M���*\u001b>X�6*H�6B�8 ��M��J\u0013��W#�YӳEL�����%�\u0011�\u0010�M�H�8e �+�Յ\u0010�r\"LQ�qL�J\u0011�E���mL����K��E\u00043�`uzO�w6\u0011�U�Y����RɈ� �e��o���jӷ��ު���Z\u0019-� �\u0015�4���V���,���fQؒ���fm���,�sr6� �S�y9��욯��#�Vs*O�� �Q`�^;�� N�A�dy{��-�����͈ ��І�p���\u0000r����$$\u0015�,��Rk�\u0011܍>�����\u000e���ڤn\u0018��xIOg��wR|\u0011[�x!��}��R_�q�N��-_���#\u0011��_�vΏ�9�J�Y� -�D/;U}\u0019.���(�;j��w�$\u0015=�A��ci���h���� ̨��DA��/�*���κ�#��\u0010>G�%\u0013A�-/\u0010ld~9�X�\u000eXD���SU�V��� ML�� �� � �#�e|J�[�f�\u0012r\b\u0017h���q��\\Ŝ@CJ�1�\u0010�u�i�O��.�Z$�g� �\u0000\u0010_�E��RMR� ߓ��H\u001a�6��1L��&\u0019� h�1��i|�\u0001l�Wbݠ� ��WLq� a��Br�@APDU\u0016��{�6��,�EZt�G#ˏ��\u0007 \u0019\u0016�D]�g���0��[���J�c����ib�UJ}�\u0018Jx��������?�V�!�\u0014=�'�W�z��\u0001D�)\u000f�\u0004��B��J�G b�iD� �w\bm\u0010.:��&9�W0E`�5��d���\u0002�\u0004 %=�\u0010 �Px^9��Wp\u0004�0���`9�\u0002�� OLiE/�� ]a\u0012�Q���@ �fE�`�;���y�Ĉ|*#\b�6w2\u0010Ŭ$�cx]�O\u0005� ���� \u0013b�n\\�:E�W\u0007j=9�\u0010מ9\"j1� �\u0019� �\u00163J�Z��V�ߙ�\u0014 ����P�,��#dd{Z���� ECw���5mQ\u0011 \u0006,��� �ZN{m͵ \u00167m\u0011��VC�s���aΖ�'$x/��\u0014m~\b� �ba�\u000e��@g���u��B�E �#6����S\u0016,��I���;\u0005\u0005r�\u0002��FW\u0019h��X\u0014�%��\\Y[l\b;����vudI�\u0010��*\b~�0��wx�\u0018�f�q\u0006�uö,M(2���PQ\u0016,! � �&-�%_� �\u001a��aQ��!|r�B���'��2�e[��I:9�p3�~!��j�W�:��\u0014qC���@��%D�QJA鍬��k �ND�\u0007�_�'��<{��\u0007��t�\u0018qfc%� ��l)�!WiQ�YK4;X�yZYki�W�~�j�\u0018SC�\"��`��̡;�I�����+� o��\u001b�B&��g\u0015 �T �㮵'(\u0013SEܓ7]\u0013�m�\u0014\u0005�:'89X;�k2� �ԾN ���5�\u0019�,���5�\u0001s(>e ��aQV!ɉ�Z��$I��s�zdf�;;�K=0�E�ē�l�'r�\u0011�u���ڵAn�L�\u00124��HA1\u0017�G�h���\u0012��J�m�bN�� g��a\u0017u�w����q��d�s�C\u0004��\u0002o���K�[\u0002]����]�����H�m��Y2\u0002�[�l�\u001a��yNAq@3\u0007 �lbZ7�\u0007�G\u0015S4@�ǀ%�|��hh\u0016�\u0007 �@����(���e4[�e��\u001a�&�",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
-    "sourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indosizisyo.pdf",
-    "officialSourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indosizisyo.pdf",
-    "lastChecked": "2026-11-19",
+    "sourceUrl": "https://www.city.sapporo.jp/documents/118928/indosizisyo.pdf",
+    "officialSourceUrl": "https://www.city.sapporo.jp/documents/118928/indosizisyo.pdf",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -9352,7 +9380,7 @@
     ],
     "classificationVersion": 2,
     "attachments": [],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "pastAwards": [],
     "vendorHistory": [],
     "historyStatus": "unverified",
@@ -9369,9 +9397,13 @@
       {
         "sourceSystem": "municipality_direct",
         "url": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indoteiannsyoyouryou.pdf"
+      },
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.sapporo.jp/documents/118928/indoteiannsyoyouryou_1.pdf"
       }
     ],
-    "id": "direct-7fb95b5a7d110205ccd5b232",
+    "id": "direct-5c6429c270ea7cdf1065a7cd",
     "municipalityCode": "011002",
     "area": "北海道",
     "region": "北海道",
@@ -9381,9 +9413,9 @@
     "summary": "%PDF-1.4 %���� 6 0 obj < > endobj xref 6 11 0000000015 00000 n 0000000626 00000 n 0000001068 00000 n 0000001211 00000 n 0000004596 00000 n 0000004655 00000 n 0000004799 00000 n 0000008542 00000 n 0000008788 00000 n 0000065660 00000 n 0000000899 00000 n trailer < <089F074BBA3385D6BC3E7CA953593450>]/Info 5 0 R/Prev 68727/Root 7 0 R/Size 17>> startxref 0 %%EOF 7 0 obj < >/PageLayout/OneColumn/PageMode/UseNone/Pages 4 0 R/Type/Catalog/ViewerPreferences< >>> endobj 16 0 obj < > stream x�c```\u0006�f\u0010�b� ��\u0000\u0002 �@Q\u0016\u0006�\u0005� 308$4�($�\u0001� �@�!<���P�\u0014��w߲M\u0002 �20r�\u0000iF �\u0005\u0000I� � endstream endobj 8 0 obj < > endobj 9 0 obj < > stream x��\\I�,� ��S� d�R\u0000F\u0003\u0019� �\u0011 \u001b0���pDe ��J�����\u001b�S\u0006%���H �Cn���������V������P���CK/t�\bA �>~����帄�>~�����������\u001a��~6r7Е\u000eByڕY�+�Rn|���_�sl��H��R�&�7Bڄ)�#`*��)c���/��,\u001b׸�s�\u000fW6ڸ\u0014��/\u0016 d��V�E�r|��|V�% \u0013�\u0018t�HUP\"n\"uN��Xg]2 �8���\u0003}��I�y.'\u0015o9_�z} �\bd�\u0006U��\u0019�4�\u00114:�f�A㼂�e\u0001}N�|橨�j`�S�\\Us�>O�I�\\tS��6�F�\u0018,u�R�ͮM\u0014.<���iqHs��\bJ�\u00194��t\u0005-��v��y9��y�� \u001390�g6���P�q=d��N%_���r/�\u0017���Ne�臔VN&��E��F#ݘҚ\u0018֦\")��a�Dገ���\u0012��\u0012I+�9}Y�?�2\"�H!��ՄH�R��e��*Y55�J�O����) ��Y !b\u0006}B�fW*��%�0���\u0006�6��d�������\u0017Dzj؅T��Y�l2\u0013�\u000eu�n�� *'j\u0000W��^���{zS�5���en�O��-�d^�K��&�L\u000eă[ے\u0010\u0005\u0010�Z�?vH�V�_�r�f�D!�D@� \"��\u0011�\u0019\u0003diF�\u00124�G��l |HU=.�\u0013\u0018���$�OK�F�'Կ \b�G)� �T5�.��\" \u0005V�\b�j\u0018k\u0000\u0014�2C\u0018j��D .�Qb\u0016�v�� �r95њ �.��G�!��F�6�j\u001ad�a�i�=.Z��f'��g� d��� C��EOj�E r�1�f}�\u0003���J��×�N��s �$A�+��f���\u0012tk�\u0015\u0006�~픒�y�q�3\\�\u001b���\u0006r�\u000f�\brl䡀T�\u0004,��^�\u0011�Mv(�)2�P S�� � 2w��n�~\u0010�k#�/\u0019a�'�\bo\"�X�K �B]<�6z��MWԯ�?��[^���ܧ.\u0006Ő\u0011E�1\u0016\u0006�� *4���K�ך��]�]c�\u0016�7�rƉp%Z��h\u0011\"f�E)�H5p9:\u0014��lZ�\u0002_@E���r�d�͢���#�庯��\"�5]�Y�\\/A��\u0002��\u0018�\u0002�2�e+�������PD\u001aW\u0006\u0006=(��-��۾���㾚R���\u0019x%}rW�\u00105ʆW�:��e�\u0016��? ����Q� �$��I�xڽ�,\u0018���u�� ��d+@�\"m\b� ��\u0005w\\��\u0006 �P� � \u0011U! d �\u0005`P�A�]�q0R�WA9�\u0012Y�\u0011T\u0010�Q\u0002r;�>�U\u0013�\u0003�\u0019y�G�\u00127r�X�3��Y.�\u0019̶po}\u0014���8�4�iO/�c�M��A@\u00116Jj$��\u0005�}� ą���|��\u0013�\u000e\u0013O�)��돔wB�D� 6�\\\u0015V� � @Va�E{��w#�)�P���X\u0002� ��}!yX�<�",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
-    "sourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indoteiannsyoyouryou.pdf",
-    "officialSourceUrl": "https://www.city.sapporo.jp/keizai/tradeinfo/asean-renkei/documents/indoteiannsyoyouryou.pdf",
-    "lastChecked": "2026-11-19",
+    "sourceUrl": "https://www.city.sapporo.jp/documents/118928/indoteiannsyoyouryou_1.pdf",
+    "officialSourceUrl": "https://www.city.sapporo.jp/documents/118928/indoteiannsyoyouryou_1.pdf",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -9397,7 +9429,7 @@
     ],
     "classificationVersion": 2,
     "attachments": [],
-    "sourceCount": 1,
+    "sourceCount": 2,
     "pastAwards": [],
     "vendorHistory": [],
     "historyStatus": "unverified",
@@ -9947,7 +9979,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/jisshiyouryou.pdf",
     "officialSourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/jisshiyouryou.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -9992,7 +10024,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/2_kikakuteiansyo.docx",
     "officialSourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/2_kikakuteiansyo.docx",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -10037,7 +10069,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/koubobun.pdf",
     "officialSourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/koubobun.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -10080,7 +10112,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/1_sankahyoumeisyo.docx",
     "officialSourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/1_sankahyoumeisyo.docx",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -10123,7 +10155,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/3_sitsugioutousyo.docx",
     "officialSourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/3_sitsugioutousyo.docx",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -10166,7 +10198,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/4-1_siyouryoumihon.pdf",
     "officialSourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/4-1_siyouryoumihon.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -10209,7 +10241,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/4_siyouryouteiansyo.docx",
     "officialSourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/4_siyouryouteiansyo.docx",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -10252,7 +10284,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/5_gyouseizaisanshinseisyo.pdf",
     "officialSourceUrl": "https://www.city.asahikawa.hokkaido.jp/500/565/566/5681/d084234_d/fil/5_gyouseizaisanshinseisyo.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -10295,7 +10327,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/019/306/jissiyouryo.pdf",
     "officialSourceUrl": "https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/019/306/jissiyouryo.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -10338,7 +10370,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/019/306/sankasikakusitumonkaitousyo.pdf",
     "officialSourceUrl": "https://www.city.kushiro.lg.jp/_res/projects/default_project/_page_/001/019/306/sankasikakusitumonkaitousyo.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -10619,7 +10651,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.yubari.lg.jp/form/detail.php?sec_sec1=2&inq=02&lif_id=2913",
     "officialSourceUrl": "https://www.city.yubari.lg.jp/form/detail.php?sec_sec1=2&inq=02&lif_id=2913",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -11963,7 +11995,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.abashiri.hokkaido.jp/form/detail.php?sec_sec1=6&inq=02&lif_id=25744",
     "officialSourceUrl": "https://www.city.abashiri.hokkaido.jp/form/detail.php?sec_sec1=6&inq=02&lif_id=25744",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -12006,7 +12038,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.abashiri.hokkaido.jp/soshiki/2.html",
     "officialSourceUrl": "https://www.city.abashiri.hokkaido.jp/soshiki/2.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -12051,7 +12083,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.abashiri.hokkaido.jp/soshiki/6/",
     "officialSourceUrl": "https://www.city.abashiri.hokkaido.jp/soshiki/6/",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -61571,7 +61603,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011716/index.html",
     "officialSourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011716/index.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -61618,7 +61650,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011723.html",
     "officialSourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011723.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -61674,7 +61706,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011724/index.html",
     "officialSourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011724/index.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -61724,7 +61756,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011749/index.html",
     "officialSourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011749/index.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -61774,7 +61806,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011946/index.html",
     "officialSourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011946/index.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -61821,7 +61853,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011949/index.html",
     "officialSourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011949/index.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -61868,7 +61900,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011965.html",
     "officialSourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011965.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -62040,7 +62072,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011966/index.html",
     "officialSourceUrl": "https://www.city.kawagoe.saitama.jp/sangyo/nyusatsu/1011966/index.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64097,7 +64129,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/yuuryoukoukoku/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/jigyo/yuuryoukoukoku/index.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -64192,12 +64224,12 @@
     "municipality": "狭山市",
     "organization": "狭山市",
     "title": "情報が見つからないときは",
-    "summary": "情報が見つからないときは 印刷 更新日:2020年3月23日 7つの分類から探す 狭山市のホームページは大きく7つの項目に分類にしています。知りたい情報の分類から探すことができます。 暮らし・手続き 子育て・教育 健康・福祉 文化・スポーツ 観光・産業 事業者向け情報 市政情報 よくある質問から探す ご利用者の方によくお問い合わせいただく項目と、その回答をご紹介しています。 よくある質問 サイトマップから探す 狭山市ホームページに掲載されている主な項目を一覧で表示しています。 サイトマップ よく調べられている項目からさがす オンラインサービスや人気のキーワードから知りたい情報を探すことができます。 よく調べられている項目からさがす 人生のライフイベントから探す 人生のライフイベントごとに関連する情報をまとめてご紹介しています。 人生のライフイベントから探す 施設案内から探す 市内公共施設ごとに関連する情報をまとめてご紹介しています。 市の施設 組織から探す 各部署をまとめてご紹介しています。 各課の案内 このページに関するお問い合わせは 企画財政部 広報課 狭山市入間川1丁目23番5号 電話:04-2953-1111 FAX:04-2954-6262 問い合わせフォームメール 組織詳細 このページを見ている人は、こんなページも見ています 個人情報の取扱い 誰もが暮らしやすい社会のために「私たちにできる心づかい」 お問い合わせ 著作権・免責事項 RSS配信サービスをご活用ください この情報は役に立ちましたか? お寄せいただいた評価はサイト運営の参考といたします。 質問:このページの情報は役に立ちましたか? 役に立った どちらともいえない 役に立たなかった 質問:このページの情報は見つけやすかったですか? 見つけやすかった どちらともいえない 見つけにくかった 施設案内 よくある質問 イベントカレンダー 情報が見つからないときは",
+    "summary": "情報が見つからないときは 印刷 更新日:2020年3月23日 7つの分類から探す 狭山市のホームページは大きく7つの項目に分類にしています。知りたい情報の分類から探すことができます。 暮らし・手続き 子育て・教育 健康・福祉 文化・スポーツ 観光・産業 事業者向け情報 市政情報 よくある質問から探す ご利用者の方によくお問い合わせいただく項目と、その回答をご紹介しています。 よくある質問 サイトマップから探す 狭山市ホームページに掲載されている主な項目を一覧で表示しています。 サイトマップ よく調べられている項目からさがす オンラインサービスや人気のキーワードから知りたい情報を探すことができます。 よく調べられている項目からさがす 人生のライフイベントから探す 人生のライフイベントごとに関連する情報をまとめてご紹介しています。 人生のライフイベントから探す 施設案内から探す 市内公共施設ごとに関連する情報をまとめてご紹介しています。 市の施設 組織から探す 各部署をまとめてご紹介しています。 各課の案内 このページに関するお問い合わせは 企画財政部 広報課 狭山市入間川1丁目23番5号 電話:04-2953-1111 FAX:04-2954-6262 問い合わせフォームメール 組織詳細 このページを見ている人は、こんなページも見ています お問い合わせ 個人情報の取扱い 著作権・免責事項 教育総務課入札結果 サーバメンテナンス情報 この情報は役に立ちましたか? お寄せいただいた評価はサイト運営の参考といたします。 質問:このページの情報は役に立ちましたか? 役に立った どちらともいえない 役に立たなかった 質問:このページの情報は見つけやすかったですか? 見つけやすかった どちらともいえない 見つけにくかった 施設案内 よくある質問 イベントカレンダー 情報が見つからないときは",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/about/infofound.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/about/infofound.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64239,12 +64271,12 @@
     "municipality": "狭山市",
     "organization": "狭山市",
     "title": "よくある質問",
-    "summary": "よくある質問 よくある質問ランキング 粗大ごみの出し方と料金を教えてください(処分方法) 子宮がん検診の頸部と体部では、何が違うのですか。 市役所駐車場の利用時間を教えてください。 市のホームページで条例や規則(例規集)を調べたいのですが。 収入がいくら以上だと市民税・県民税が課税になりますか。 暮らし・手続き 届出・証明 住民票・住民登録・住所変更 戸籍謄本・各種届出 印鑑登録・印鑑証明 住基ネット・公的認証 税金 環境・ペット 健康保険・年金 暮らしの相談 ごみ・リサイクル 道路・交通 住まい 上下水道 就労 安全・安心 男女共同参画 人権 基地対策 子育て・教育 妊娠・出産 こどもの健康 乳幼児の子育て こどもの予防接種 学校・教育 助成・相談 生涯学習・社会教育 健康・福祉 地域福祉 生活支援・相談 健康づくり 保健予防・医療 障害者福祉 介護保険 高齢者福祉 新型コロナウイルス関連 文化・スポーツ スポーツ・レクリエーション 文化・芸術 伝統行事・文化財 観光・産業 イベント情報一覧 観光 事業者向け情報 入札・契約 市税・法人の設立等 環境保全・ごみ 開発・建築・都市景観 市政情報 国勢調査 市役所・市の紹介 市の施設 施策・計画・まちづくり 財政 行政経営・情報化 職員採用・人事 国際交流 広報 情報公開・個人情報保護 市政への参加・協働 選挙 監査 議会 本会議・委員会 市議会議員 請願・陳情 議長交際費・政務活動費 さやま議会だより・ホームページ 外国人の方 届出・手続き",
+    "summary": "よくある質問 よくある質問ランキング 粗大ごみの出し方と料金を教えてください(処分方法) 市役所駐車場の利用時間を教えてください。 狭山市のごみの分別方法を教えてください。 土曜日・日曜日に、住民票の写しを取得できる窓口はありますか。 収入がいくら以上だと市民税・県民税が課税になりますか。 暮らし・手続き 届出・証明 住民票・住民登録・住所変更 戸籍謄本・各種届出 印鑑登録・印鑑証明 住基ネット・公的認証 税金 環境・ペット 健康保険・年金 暮らしの相談 ごみ・リサイクル 道路・交通 住まい 上下水道 就労 安全・安心 男女共同参画 人権 基地対策 子育て・教育 妊娠・出産 こどもの健康 乳幼児の子育て こどもの予防接種 学校・教育 助成・相談 生涯学習・社会教育 健康・福祉 地域福祉 生活支援・相談 健康づくり 保健予防・医療 障害者福祉 介護保険 高齢者福祉 新型コロナウイルス関連 文化・スポーツ スポーツ・レクリエーション 文化・芸術 伝統行事・文化財 観光・産業 イベント情報一覧 観光 事業者向け情報 入札・契約 市税・法人の設立等 環境保全・ごみ 開発・建築・都市景観 市政情報 国勢調査 市役所・市の紹介 市の施設 施策・計画・まちづくり 財政 行政経営・情報化 職員採用・人事 国際交流 広報 情報公開・個人情報保護 市政への参加・協働 選挙 監査 議会 本会議・委員会 市議会議員 請願・陳情 議長交際費・政務活動費 さやま議会だより・ホームページ 外国人の方 届出・手続き",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/faq/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/faq/index.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64291,7 +64323,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/fukushi/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/jigyo/fukushi/index.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64336,7 +64368,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/kaihatsu/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/jigyo/kaihatsu/index.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64382,7 +64414,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/kankyouhozen/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/jigyo/kankyouhozen/index.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64428,7 +64460,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/kensa/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/jigyo/kensa/index.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64473,7 +64505,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/koubo/index.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/jigyo/koubo/index.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64524,7 +64556,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/docs/2026052500013/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/docs/2026052500013/",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64704,7 +64736,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/docs/2015010700077/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/docs/2015010700077/",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64773,12 +64805,12 @@
     "municipality": "羽生市",
     "organization": "羽生市",
     "title": "生涯学習・スポーツ",
-    "summary": "生涯学習・スポーツ 新着情報 【受講募集】羽生学講座を開催します!! ( 2026年11月16日 郷土資料館 ) 岩瀬公民館 ( 2026年11月01日 生涯学習課 ) 村君公民館 ( 2026年11月01日 生涯学習課 ) 一覧へ 岩瀬公民館 はにゅうスポ・レクフェスタ 羽生市は「さいたまディレーブ(チームユーラシア‐iRCタイヤ)」を応援します! 羽生市は「さいたまブロンコス」を応援します! ~日本フロアカーリング協会公認~全国フロアカーリング大会in羽生 スポーツ少年団に入ろう! スポーツ推進審議会委員を募集します スポーツ振興課 スポーツ推進委員を募集します 羽生市二十歳の集いについて 一覧へ 生涯学習 岩瀬公民館 村君公民館 井泉公民館 須影公民館 子ども大学はにゅう 公民館の空き部屋を『子どもの居場所』として開放します 中央公民館 公民館講座のお知らせ(10月27日) 羽生市青少年育成推進員協議会 「彩の国21世紀郷土かるた」羽生市大会 生涯学習カレンダー 一覧へ スポーツ はにゅうスポ・レクフェスタ 羽生市は「さいたまディレーブ(チームユーラシア‐iRCタイヤ)」を応援します! 羽生市は「さいたまブロンコス」を応援します! ~日本フロアカーリング協会公認~全国フロアカーリング大会in羽生 スポーツ少年団に入ろう! スポーツ推進審議会委員を募集します スポーツ推進委員を募集します 藍のまち羽生さわやかマラソン大会交通規制について 羽生市スポーツ推進委員会 ニュースポーツ出前教室 一覧へ 文化財・郷土資料 【受講募集】羽生学講座を開催します!! 「徳守傳次判物」が羽生市指定文化財に新規指定されました (羽生市初!)「冨田家住宅離れ」が国登録有形文化財(建造物)に登録 八雲神社神輿渡御等行事(行事が始まってから令和7年で400年!) 地域史発掘事業 羽生市郷土芸能発表会 食虫植物ムジナモの野生復帰について 羽生市の獅子舞 羽生市の文化財 永明寺古墳(ようめいじこふん)(埼玉県指定史跡) 一覧へ 人生のできごとから探す 妊娠・出産 不妊治療 妊娠してから 生まれたら 子育て 医療に関すること 支援に関すること 手当に関すること 保育に関すること 予防接種に関すること 健康診査に関すること 相談に関すること 教育 生涯学習 学校教育 就職・退職 結婚・離婚 引越し・住まい 健康・医療 大人の健康 検診・健診に関すること 健康づくりに関すること 医療に関すること 高齢・介護 高齢福祉サービス 地域支援事業 障がい・福祉 おくやみ 暮らしのガイドから探す 各種相談 届出と証明 保険・年金 税金 健康・予防 子育て・教育 生涯学習・スポーツ 福祉・介護 環境・衛生 公共事業 まちづくり 市民協働 安全・安心 循環バス 人権",
+    "summary": "生涯学習・スポーツ 新着情報 【受講募集】羽生学講座を開催します!! ( 2026年11月16日 郷土資料館 ) 岩瀬公民館 ( 2026年11月01日 生涯学習課 ) 村君公民館 ( 2026年11月01日 生涯学習課 ) 一覧へ 岩瀬公民館 はにゅうスポ・レクフェスタ 羽生市は「さいたまディレーブ(チームユーラシア‐iRCタイヤ)」を応援します! 羽生市は「さいたまブロンコス」を応援します! ~日本フロアカーリング協会公認~全国フロアカーリング大会in羽生 スポーツ少年団に入ろう! スポーツ推進審議会委員を募集します スポーツ振興課 スポーツ推進委員を募集します 羽生市二十歳の集いについて 一覧へ 生涯学習 村君公民館 岩瀬公民館 井泉公民館 須影公民館 子ども大学はにゅう 公民館の空き部屋を『子どもの居場所』として開放します 中央公民館 公民館講座のお知らせ(10月27日) 羽生市青少年育成推進員協議会 「彩の国21世紀郷土かるた」羽生市大会 生涯学習カレンダー 一覧へ スポーツ はにゅうスポ・レクフェスタ 羽生市は「さいたまディレーブ(チームユーラシア‐iRCタイヤ)」を応援します! 羽生市は「さいたまブロンコス」を応援します! ~日本フロアカーリング協会公認~全国フロアカーリング大会in羽生 スポーツ少年団に入ろう! スポーツ推進審議会委員を募集します スポーツ推進委員を募集します 藍のまち羽生さわやかマラソン大会交通規制について 羽生市スポーツ推進委員会 ニュースポーツ出前教室 一覧へ 文化財・郷土資料 【受講募集】羽生学講座を開催します!! 「徳守傳次判物」が羽生市指定文化財に新規指定されました (羽生市初!)「冨田家住宅離れ」が国登録有形文化財(建造物)に登録 八雲神社神輿渡御等行事(行事が始まってから令和7年で400年!) 地域史発掘事業 羽生市郷土芸能発表会 食虫植物ムジナモの野生復帰について 羽生市の獅子舞 羽生市の文化財 永明寺古墳(ようめいじこふん)(埼玉県指定史跡) 一覧へ 人生のできごとから探す 妊娠・出産 不妊治療 妊娠してから 生まれたら 子育て 医療に関すること 支援に関すること 手当に関すること 保育に関すること 予防接種に関すること 健康診査に関すること 相談に関すること 教育 生涯学習 学校教育 就職・退職 結婚・離婚 引越し・住まい 健康・医療 大人の健康 検診・健診に関すること 健康づくりに関すること 医療に関すること 高齢・介護 高齢福祉サービス 地域支援事業 障がい・福祉 おくやみ 暮らしのガイドから探す 各種相談 届出と証明 保険・年金 税金 健康・予防 子育て・教育 生涯学習・スポーツ 福祉・介護 環境・衛生 公共事業 まちづくり 市民協働 安全・安心 循環バス 人権",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/categories/bunya/kurashi/shogaigakushu_sports/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/categories/bunya/kurashi/shogaigakushu_sports/",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64821,7 +64853,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/categories/bunya/shigikai/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/categories/bunya/shigikai/",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -64864,7 +64896,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/categories/bunya/shisei/koho/voice_koho/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/categories/bunya/shisei/koho/voice_koho/",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -65181,7 +65213,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/form/detail.php?sec_sec1=18&lif_id=7100",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/form/detail.php?sec_sec1=18&lif_id=7100",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65275,7 +65307,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/18870.html",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/18870.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65322,7 +65354,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/18876.html",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/18876.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65369,7 +65401,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/20448.html",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/20448.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65416,7 +65448,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/3457.html",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/3457.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65472,7 +65504,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/38204.html",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/site/nyusatsukeiyaku/38204.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -65519,7 +65551,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/soshiki/18/",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/soshiki/18/",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66398,7 +66430,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24022.xlsx",
     "officialSourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24022.xlsx",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66443,7 +66475,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24081.pdf",
     "officialSourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24081.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -66488,7 +66520,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24088.xlsx",
     "officialSourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24088.xlsx",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -128305,13 +128337,13 @@
     "region": "奈良県",
     "municipality": "大和高田市",
     "organization": "大和高田市",
-    "title": "委任状（郵便入札開札立会用） (Wordファイル: 29.5KB)",
+    "title": "委任状(郵便入札開札立会用) (Wordファイル: 29.5KB)",
     "summary": "��\u0011ࡱ\u001a�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000>\u0000\u0003\u0000�� \u0000\u0006\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u00004\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u00007\u0000\u0000\u0000\u0001\u0000\u0000\u0000����\u0000\u0000\u0000\u00003\u0000\u0000\u0000��������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������\u0000g� \u0004\u0000\u0000�R�\u0000\u0000\u0000\u0000\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\b\u0000\u0000� \u0000\u0000\u000e\u0000bjbj:�:�\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0011\u0004\u0016\u0000B\u0014\u0000\u0000X�v\\X�v\\�\u0000\u0000\u0000\u0000\u0000\u0000\u0000 \u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000��\u000f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000��\u000f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000��\u000f\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0000\u0000\u0000\u0000\u0000�\u0007\u0000\u0000\u0000\u0000\u0000\u0000�\u0007\u0000\u0000^\u0015\u0000\u0000\u0000\u0000\u0000\u0000^\u0015\u0000\u0000\u0000\u0000\u0000\u0000^\u0015\u0000\u0000\u0000\u0000\u0000\u0000^\u0015\u0000\u0000\u0000\u0000\u0000\u0000^\u0015\u0000\u0000\u0014\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000����\u0000\u0000\u0000\u0000r\u0015\u0000\u0000\u0000\u0000\u0000\u0000r\u0015\u0000\u0000\u0000\u0000\u0000\u0000r\u0015\u0000\u00008\u0000\u0000\u0000�\u0015\u0000\u0000 \u0000\u0000\u0000�\u0015\u0000\u0000\u0014\u0000\u0000\u0000r\u0015\u0000\u0000\u0000\u0000\u0000\u0000�\u0019\u0000\u0000�\u0001\u0000\u0000�\u0015\u0000\u0000\u0010\u0000\u0000\u0000�\u0015\u0000\u0000\u0000\u0000\u0000\u0000�\u0015\u0000\u0000\u0000\u0000\u0000\u0000�\u0015\u0000\u0000\u0000\u0000\u0000\u0000�\u0015\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000f\u0019\u0000\u0000\u0002\u0000\u0000\u0000h\u0019\u0000\u0000\u0000\u0000\u0000\u0000h\u0019\u0000\u0000\u0000\u0000\u0000\u0000h\u0019\u0000\u0000\u0000\u0000\u0000\u0000h\u0019\u0000\u0000\u0000\u0000\u0000\u0000h\u0019\u0000\u0000\u0000\u0000\u0000\u0000h\u0019\u0000\u0000$\u0000\u0000\u0000�\u001b\u0000\u0000�\u0002\u0000\u0000a \u0000\u0000F\u0000\u0000\u0000�\u0019\u0000\u0000\u0015\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000^\u0015\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000�\u0019\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000^\u0015\u0000\u0000\u0000\u0000\u0000\u0000^\u0015\u0000\u0000\u0000\u0000\u0000\u0000�\u0015\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0015\u0000\u0000`\u0001\u0000\u0000�\u0019\u0000\u0000\u0016\u0000\u0000\u0000�\u0018\u0000\u0000\u0000\u0000\u0000\u0000�\u0018\u0000\u0000\u0000\u0000\u0000\u0000�\u0018\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000�\u0000\u0000\u0000^\u0015\u0000\u0000\u0000\u0000\u0000\u0000�\u0015\u0000\u0000\u0000\u0000\u0000\u0000^\u0015\u0000\u0000\u0000\u0000\u0000\u0000�\u0015\u0000\u0000\u0000\u0000\u0000\u0000f\u0019\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0018\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000f\u0019\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0018\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0018\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0018\u0000\u0000\u0000\u0000\u0000\u0000�\u0015\u0000\u0000\u0000\u0000\u0000\u0000����\u0000\u0000\u0000\u00000T� �\u0004�\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000����\u0000\u0000\u0000\u0000&\u0018\u0000\u0000 \u0000\u0000\u0000�\u0018\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000R\u0019\u0000\u0000\u0014\u0000\u0000\u0000�\u0019\u0000\u00000\u0000\u0000\u0000�\u0019\u0000\u0000\u0000\u0000\u0000\u0000�\u0018\u0000\u0000\u0000\u0000\u0000\u0000� \u0000\u0000\u0000\u0000\u0000\u0000B\u0018\u0000\u0000L\u0000\u0000\u0000\u0017 \u0000\u0000\u0000\u0000\u0000\u0000�\u0018\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000� \u0000\u0000L\u0000\u0000\u0000� \u0000\u0000$\u0000\u0000\u0000^\u0015\u0000\u0000\u0000\u0000\u0000\u0000�\u0018\u0000\u0000�\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000�\u0018\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000�\u0019\u0000\u0000\u0000\u0000\u0000\u0000�\u0019\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000�\u0018\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000�\u0019\u0000\u0000\u0000\u0000\u0000\u0000J\u0017\u0000\u0000\u0000\u0000\u0000\u0000J",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.yamatotakada.nara.jp/material/files/group/14/ininjo(kaisatsu)R01.doc",
     "officialSourceUrl": "https://www.city.yamatotakada.nara.jp/material/files/group/14/ininjo(kaisatsu)R01.doc",
-    "lastChecked": "2026-11-21",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -128474,7 +128506,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.yamatotakada.nara.jp/material/files/group/14/bo_haizyo_seiyakusyo_R02.doc",
     "officialSourceUrl": "https://www.city.yamatotakada.nara.jp/material/files/group/14/bo_haizyo_seiyakusyo_R02.doc",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -130725,7 +130757,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "http://www.vill.shimokitayama.nara.jp/oshirase/file/78a56c509ceacba871448163e1d1144dcf95c1e1.docx",
     "officialSourceUrl": "http://www.vill.shimokitayama.nara.jp/oshirase/file/78a56c509ceacba871448163e1d1144dcf95c1e1.docx",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -130768,7 +130800,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "http://www.vill.shimokitayama.nara.jp/oshirase/file/86f5799f8a8620fb56d2ccf4e52fd86bc3a162ad.docx",
     "officialSourceUrl": "http://www.vill.shimokitayama.nara.jp/oshirase/file/86f5799f8a8620fb56d2ccf4e52fd86bc3a162ad.docx",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -130811,7 +130843,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.vill.shimokitayama.nara.jp/file/87dc913d467f5f358c591f3037347e2b0d189d56.pdf",
     "officialSourceUrl": "https://www.vill.shimokitayama.nara.jp/file/87dc913d467f5f358c591f3037347e2b0d189d56.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -130856,7 +130888,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.vill.shimokitayama.nara.jp/oshirase/file/12e663c2f499792fd50b65921b7819ed217f1083.pdf",
     "officialSourceUrl": "https://www.vill.shimokitayama.nara.jp/oshirase/file/12e663c2f499792fd50b65921b7819ed217f1083.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -130907,7 +130939,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.vill.shimokitayama.nara.jp/oshirase/file/1492315b10d3e660a8e92c4618bf245408f3d184.pdf",
     "officialSourceUrl": "https://www.vill.shimokitayama.nara.jp/oshirase/file/1492315b10d3e660a8e92c4618bf245408f3d184.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -157577,7 +157609,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.omuta.lg.jp/kiji00321778/3_21778_133137_up_za05t6x7.pdf",
     "officialSourceUrl": "https://www.city.omuta.lg.jp/kiji00321778/3_21778_133137_up_za05t6x7.pdf",
-    "lastChecked": "2026-10-23",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -206322,7 +206354,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.omuta.lg.jp/kiji00321778/3_21778_133488_up_40rr43pj.pdf",
     "officialSourceUrl": "https://www.city.omuta.lg.jp/kiji00321778/3_21778_133488_up_40rr43pj.pdf",
-    "lastChecked": "2026-10-23",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -208844,7 +208876,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/e018/shigotosangyo/proposal/kobo/2024hirai1.html",
     "officialSourceUrl": "https://www.city.edogawa.tokyo.jp/e018/shigotosangyo/proposal/kobo/2024hirai1.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -209015,19 +209047,19 @@
     "municipality": "江戸川区",
     "organization": "江戸川区",
     "title": "「令和6年度鹿骨地域農の風景育成地区の取組促進支援業務委託」公募型プロポーザル【終了】",
-    "summary": "「令和6年度鹿骨地域農の風景育成地区の取組促進支援業務委託」公募型プロポーザル【終了】 江戸川区では区内でも農地が多く残る鹿骨地域を対象に、将来にわたってその風景を保全する為、令和4年度地域の皆さんとワークショップを開催してきました。令和5年度からは東京都の農の風景育成地区制度を活用し、機運の醸成や情報の発信、地域連携による取組を促進するため、業務委託を行います。 本業務については、事業実施にあたり豊富な専門知識と実績のある事業者に業務委託を行うため、プロポーザルによる受託事業者の選定を行います。 このプロポーザルに参加を希望する事業者は、令和6年6月11日(水曜日)の12時までに参加表明書を提出してください。 令和5年度の農の風景育成地区の取組について 当該プロポーザルへの質問及び回答を掲載いたしました(6月14日更新) 当該プロポーザルへの質問について回答を掲載します。 質問と回答(PDF:221KB) 募集の詳細及び応募手続きについて 募集の詳細は募集要項や委託仕様書をご覧ください。 募集要項(PDF:578KB) スケジュール 項目 スケジュール 募集開始 令和6年6月5日(水曜日) 参加表明書 提出期限 令和6年6月11日(火曜日)12時まで (終了) 質疑提出期限 令和6年6月13日(木曜日)12時まで (終了) 企画提案書 提出期限 令和6年6月26日(水曜日)12時まで 審査結果通知 令和6年7月2日(火曜日)12時まで 別紙 別紙1 区域図(PDF:498KB) 別紙2 委託仕様書(案)(PDF:831KB) 別紙3 審査基準(PDF:363KB) 様式 様式1 質疑書(ワード:17KB) 様式2 参加表明書(ワード:17KB) 様式3 実施体制書(ワード:17KB) 様式4 受託実績書(ワード:18KB) 様式5 受託見積額総括書(ワード:17KB) 様式5-1~4 見積金額総括書及び内訳書(ワード:26KB) このページに関するお問い合わせ このページは 都市開発部都市計画課 が担当しています。 実施中のプロポーザル 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 「令和9年度江戸川区立保育園における保育士派遣」受託事業者公募のお知らせ 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募のお知らせ 給与支払報告書等処理委託 公募プロポーザルの実施【終了しました】 令和9年度ハローベビー教室(休日コース)業務委託事業者選定プロポーザルの実施【募集終了】 令和9年4月1日開設 0歳児から2歳児を対象とした認可保育所の設置・運営に係る提案(終了) 新左近川親水公園カヌー場及び葛西ラグビースポーツパーク運営管理業務委託に係るプロポーザル 包括管理委託の導入に向けた検討調査等業務委託に係るプロポーザルの実施【終了しました】 西瑞江三丁目南地区協議会運営及び地区計画策定支援業務委託に係る公募型プロポーザルの実施 江戸川区区民課窓口受付システム導入等業務委託に係る公募型プロポーザルの実施【終了しました】 「令和8年度鹿骨地域農の風景育成地区の区域拡大に向けた検討業務委託」公募型プロポーザル【終了しました】 「脱炭素で暮らしの豊かさ実践事業業務委託」に係るプロポーザルの実施(募集終了) 「ストレスチェック業務委託」に係るプロポ",
+    "summary": "「令和6年度鹿骨地域農の風景育成地区の取組促進支援業務委託」公募型プロポーザル【終了】 江戸川区では区内でも農地が多く残る鹿骨地域を対象に、将来にわたってその風景を保全する為、令和4年度地域の皆さんとワークショップを開催してきました。令和5年度からは東京都の農の風景育成地区制度を活用し、機運の醸成や情報の発信、地域連携による取組を促進するため、業務委託を行います。 本業務については、事業実施にあたり豊富な専門知識と実績のある事業者に業務委託を行うため、プロポーザルによる受託事業者の選定を行います。 このプロポーザルに参加を希望する事業者は、令和6年6月11日(水曜日)の12時までに参加表明書を提出してください。 令和5年度の農の風景育成地区の取組について 当該プロポーザルへの質問及び回答を掲載いたしました(6月14日更新) 当該プロポーザルへの質問について回答を掲載します。 質問と回答(PDF:221KB) 募集の詳細及び応募手続きについて 募集の詳細は募集要項や委託仕様書をご覧ください。 募集要項(PDF:578KB) スケジュール 項目 スケジュール 募集開始 令和6年6月5日(水曜日) 参加表明書 提出期限 令和6年6月11日(火曜日)12時まで (終了) 質疑提出期限 令和6年6月13日(木曜日)12時まで (終了) 企画提案書 提出期限 令和6年6月26日(水曜日)12時まで 審査結果通知 令和6年7月2日(火曜日)12時まで 別紙 別紙1 区域図(PDF:498KB) 別紙2 委託仕様書(案)(PDF:831KB) 別紙3 審査基準(PDF:363KB) 様式 様式1 質疑書(ワード:17KB) 様式2 参加表明書(ワード:17KB) 様式3 実施体制書(ワード:17KB) 様式4 受託実績書(ワード:18KB) 様式5 受託見積額総括書(ワード:17KB) 様式5-1~4 見積金額総括書及び内訳書(ワード:26KB) このページに関するお問い合わせ このページは 都市開発部都市計画課 が担当しています。 実施中のプロポーザル 江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託プロポーザルの実施 令和9年度江戸川区食事支援ボランティア派遣事業業務委託プロポーザルの実施 令和9年度江戸川区子どもと家庭のおとなりさん事業業務委託プロポーザルの実施 令和9年度江戸川区未就園児家庭訪問事業業務委託事業者選定プロポーザルの実施 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施(質問及び回答を掲載) 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募のお知らせ 給与支払報告書等処理委託 公募プロポーザルの実施【終了しました】 令和9年度ハローベビー教室(休日コース)業務委託事業者選定プロポーザルの実施【募集終了】 令和9年4月1日開設 0歳児から2歳児を対象とした認可保育所の設置・運営に係る提案(終了) 新左近川親水公園カヌー場及び葛西ラグビースポーツパーク運営管理業務委託に係るプロポーザル 包括管理委託の導入に向けた検討調査等業務委託に係るプロポーザルの実施【終了しました】 西瑞江三丁目南地区協議会運営及び地区計画策定支援業務委託に係る公募型プロポーザルの実施 江戸川区区民課窓口受付システム導入等業務委託に係る",
     "noticeDate": "2024-06-05",
     "deadline": "2024-07-02",
     "status": "closed",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/e016/shigotosangyo/proposal/kobo/r6_no_fukei.html",
     "officialSourceUrl": "https://www.city.edogawa.tokyo.jp/e016/shigotosangyo/proposal/kobo/r6_no_fukei.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
     ],
-    "dentsuFitScore": 13,
+    "dentsuFitScore": 38,
     "dentsuFitLevel": "low",
     "dentsuCategories": [
       "consulting_strategy",
@@ -209042,8 +209074,7 @@
       "プロモーション",
       "イベント",
       "企画提案",
-      "除外:給食",
-      "除外:輸送"
+      "除外:給食"
     ],
     "classificationVersion": 2,
     "attachments": [
@@ -209122,14 +209153,14 @@
     "municipality": "江戸川区",
     "organization": "江戸川区",
     "title": "「令和8年度鹿骨地域農の風景育成地区の区域拡大に向けた検討業務委託」公募型プロポーザル【終了しました】",
-    "summary": "「令和8年度鹿骨地域農の風景育成地区の区域拡大に向けた検討業務委託」公募型プロポーザル【終了しました】 標記、業務委託に向けた公募型プロポーザルを実施します。 このプロポーザルに参加を希望する事業者は、令和8年4月15日(水曜日)の12時までに参加表明書を提出してください。なお、本地区のこれまでの取組みは以下のとおりです。 これまでの農の風景育成地区の取組について 募集の詳細及び応募手続きについて 募集の詳細及び応募手続きは募集要項をご覧ください。 募集要項(PDF:844KB) スケジュール 項目 スケジュール 募集開始 令和8年4月1日(水曜日) 参加表明書 提出期限 令和8年4月15日(水曜日)12時まで 質疑提出期限 令和8年4月15日(水曜日)12時まで 企画提案書 提出期限 令和8年5月8日(金曜日)12時まで 審査結果通知 令和8年5月22日(金曜日) 別紙 別紙1 区域図(PDF:883KB) 別紙2 委託仕様書(案)(PDF:1.37MB)(PDF:1,404KB) 別紙3 審査基準(PDF:302KB) 様式 様式1 質疑書(ワード:16.9KB)(ワード:17KB) 様式2 参加表明書(ワード:16.5KB)(ワード:17KB) 様式3 実施体制書(ワード:16.7KB)(ワード:17KB) 様式4 受託実績書(ワード:18KB) 様式5 受託見積額総括書(ワード:16.6KB)(ワード:17KB) 様式5-1~2 見積金額総括書及び内訳書(ワード:21.3KB)(ワード:22KB) 質疑書・参加表明書の提出 終了しました。 このページに関するお問い合わせ このページは 都市開発部都市計画課 が担当しています。 実施中のプロポーザル 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 「令和9年度江戸川区立保育園における保育士派遣」受託事業者公募のお知らせ 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募のお知らせ 給与支払報告書等処理委託 公募プロポーザルの実施【終了しました】 令和9年度ハローベビー教室(休日コース)業務委託事業者選定プロポーザルの実施【募集終了】 令和9年4月1日開設 0歳児から2歳児を対象とした認可保育所の設置・運営に係る提案(終了) 新左近川親水公園カヌー場及び葛西ラグビースポーツパーク運営管理業務委託に係るプロポーザル 包括管理委託の導入に向けた検討調査等業務委託に係るプロポーザルの実施【終了しました】 西瑞江三丁目南地区協議会運営及び地区計画策定支援業務委託に係る公募型プロポーザルの実施 江戸川区区民課窓口受付システム導入等業務委託に係る公募型プロポーザルの実施【終了しました】 「令和8年度鹿骨地域農の風景育成地区の区域拡大に向けた検討業務委託」公募型プロポーザル【終了しました】 「脱炭素で暮らしの豊かさ実践事業業務委託」に係るプロポーザルの実施(募集終了) 「ストレスチェック業務委託」に係るプロポーザルの実施 江戸川区名産品プロモーション支援事業業務委託に係るプロポーザル【終了しました】 「江戸川区医療需給等把握調査業務委託」受託事業者公募のお知らせ 令和8年度「江戸川区意見表明等支援事業」の業務委託公募型プロポーザルの実施(募集終了) すくすくスクール学童クラブ事業業務支援システ",
+    "summary": "「令和8年度鹿骨地域農の風景育成地区の区域拡大に向けた検討業務委託」公募型プロポーザル【終了しました】 標記、業務委託に向けた公募型プロポーザルを実施します。 このプロポーザルに参加を希望する事業者は、令和8年4月15日(水曜日)の12時までに参加表明書を提出してください。なお、本地区のこれまでの取組みは以下のとおりです。 これまでの農の風景育成地区の取組について 募集の詳細及び応募手続きについて 募集の詳細及び応募手続きは募集要項をご覧ください。 募集要項(PDF:844KB) スケジュール 項目 スケジュール 募集開始 令和8年4月1日(水曜日) 参加表明書 提出期限 令和8年4月15日(水曜日)12時まで 質疑提出期限 令和8年4月15日(水曜日)12時まで 企画提案書 提出期限 令和8年5月8日(金曜日)12時まで 審査結果通知 令和8年5月22日(金曜日) 別紙 別紙1 区域図(PDF:883KB) 別紙2 委託仕様書(案)(PDF:1.37MB)(PDF:1,404KB) 別紙3 審査基準(PDF:302KB) 様式 様式1 質疑書(ワード:16.9KB)(ワード:17KB) 様式2 参加表明書(ワード:16.5KB)(ワード:17KB) 様式3 実施体制書(ワード:16.7KB)(ワード:17KB) 様式4 受託実績書(ワード:18KB) 様式5 受託見積額総括書(ワード:16.6KB)(ワード:17KB) 様式5-1~2 見積金額総括書及び内訳書(ワード:21.3KB)(ワード:22KB) 質疑書・参加表明書の提出 終了しました。 このページに関するお問い合わせ このページは 都市開発部都市計画課 が担当しています。 実施中のプロポーザル 江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託プロポーザルの実施 令和9年度江戸川区食事支援ボランティア派遣事業業務委託プロポーザルの実施 令和9年度江戸川区子どもと家庭のおとなりさん事業業務委託プロポーザルの実施 令和9年度江戸川区未就園児家庭訪問事業業務委託事業者選定プロポーザルの実施 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施(質問及び回答を掲載) 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募のお知らせ 給与支払報告書等処理委託 公募プロポーザルの実施【終了しました】 令和9年度ハローベビー教室(休日コース)業務委託事業者選定プロポーザルの実施【募集終了】 令和9年4月1日開設 0歳児から2歳児を対象とした認可保育所の設置・運営に係る提案(終了) 新左近川親水公園カヌー場及び葛西ラグビースポーツパーク運営管理業務委託に係るプロポーザル 包括管理委託の導入に向けた検討調査等業務委託に係るプロポーザルの実施【終了しました】 西瑞江三丁目南地区協議会運営及び地区計画策定支援業務委託に係る公募型プロポーザルの実施 江戸川区区民課窓口受付システム導入等業務委託に係る公募型プロポーザルの実施【終了しました】 「令和8年度鹿骨地域農の風景育成地区の区域拡大に向けた検討業務委託」公募型プロポーザル【終了しました】 「脱炭素で暮らしの豊かさ実践事業業務委託」に係るプロポーザルの実施(募集終了) 「ストレスチェック業務委託」に係るプロポーザルの実施 江戸川区名",
     "noticeDate": "2026-04-01",
     "deadline": "2026-05-08",
     "status": "closed",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/e016/shigotosangyo/proposal/kobo/r8_no_fukei.html",
     "officialSourceUrl": "https://www.city.edogawa.tokyo.jp/e016/shigotosangyo/proposal/kobo/r8_no_fukei.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -209221,19 +209252,19 @@
     "municipality": "江戸川区",
     "organization": "江戸川区",
     "title": "西瑞江三丁目南地区協議会運営及び地区計画策定支援業務委託に係る公募型プロポーザルの実施",
-    "summary": "西瑞江三丁目南地区協議会運営及び地区計画策定支援業務委託に係る公募型プロポーザルの実施 西瑞江三丁目南地区協議会運営及び地区計画策定支援等について業務委託を行います。 本業務については、事業の実施にあたり豊富な専門知識と実績のある事業者に業務委託を行うため、プロポーザルによる受託事業者の選定を行います。 このプロポーザルに参加を希望する事業者は、令和8年4月23日(木曜日)までに参加申込書(様式1)を提出してください。 参加申し込みは締め切りました。 スケジュール 項目 日程 募集期間 令和8年4月14日(火曜日)~令和8年4月23日(木曜日) 締め切りました。 参加申込書提出期限 令和8年4月23日(木曜日)午後5時(厳守) 締め切りました。 質問提出期限 令和8年4月28日(火曜日)午後3時(厳守) 締め切りました。 質問回答 令和8年5月8日(金曜日)午後5時(厳守) 企画提案書等提出期限 令和8年5月22日(金曜日)正午(厳守) 第一次選考結果通知 令和8年6月中旬 第二次選考 令和8年6月下旬 第二次選考結果通知 最優秀提案者等公表 令和8年7月上旬 募集の詳細及び応募手続きについて 募集の詳細要領や委託仕様書をご覧ください。 企画提案書募集要領(PDF:334KB) 別紙 別紙1(区域図)(PDF:998KB) 別紙2(委託仕様書)(PDF:362KB) 別紙3(審査基準)(PDF:120KB) 別紙4(業務における個人情報の取扱い)(PDF:386KB) 別紙5(個人情報の取扱いに関するチェックリスト)(PDF:33KB) 様式 様式1(参加申込書)(PDF:138KB) 様式2(質問書)(PDF:69KB) 様式3(実施体制書)(PDF:81KB) 様式4(受託実績書)(PDF:102KB) 様式5(受託見積額総括書)(エクセル:41KB) このページに関するお問い合わせ このページは 都市開発部まちづくり調整課 が担当しています。 実施中のプロポーザル 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 「令和9年度江戸川区立保育園における保育士派遣」受託事業者公募のお知らせ 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募のお知らせ 給与支払報告書等処理委託 公募プロポーザルの実施【終了しました】 令和9年度ハローベビー教室(休日コース)業務委託事業者選定プロポーザルの実施【募集終了】 令和9年4月1日開設 0歳児から2歳児を対象とした認可保育所の設置・運営に係る提案(終了) 新左近川親水公園カヌー場及び葛西ラグビースポーツパーク運営管理業務委託に係るプロポーザル 包括管理委託の導入に向けた検討調査等業務委託に係るプロポーザルの実施【終了しました】 西瑞江三丁目南地区協議会運営及び地区計画策定支援業務委託に係る公募型プロポーザルの実施 江戸川区区民課窓口受付システム導入等業務委託に係る公募型プロポーザルの実施【終了しました】 「令和8年度鹿骨地域農の風景育成地区の区域拡大に向けた検討業務委託」公募型プロポーザル【終了しました】 「脱炭素で暮らしの豊かさ実践事業業務委託」に係るプロポーザルの実施(募集終了) 「ストレスチェック業務委託」に係るプロポーザルの実施 江戸川区名産品プロモーション支援事業業務委託に係るプロポ",
+    "summary": "西瑞江三丁目南地区協議会運営及び地区計画策定支援業務委託に係る公募型プロポーザルの実施 西瑞江三丁目南地区協議会運営及び地区計画策定支援等について業務委託を行います。 本業務については、事業の実施にあたり豊富な専門知識と実績のある事業者に業務委託を行うため、プロポーザルによる受託事業者の選定を行います。 このプロポーザルに参加を希望する事業者は、令和8年4月23日(木曜日)までに参加申込書(様式1)を提出してください。 参加申し込みは締め切りました。 スケジュール 項目 日程 募集期間 令和8年4月14日(火曜日)~令和8年4月23日(木曜日) 締め切りました。 参加申込書提出期限 令和8年4月23日(木曜日)午後5時(厳守) 締め切りました。 質問提出期限 令和8年4月28日(火曜日)午後3時(厳守) 締め切りました。 質問回答 令和8年5月8日(金曜日)午後5時(厳守) 企画提案書等提出期限 令和8年5月22日(金曜日)正午(厳守) 第一次選考結果通知 令和8年6月中旬 第二次選考 令和8年6月下旬 第二次選考結果通知 最優秀提案者等公表 令和8年7月上旬 募集の詳細及び応募手続きについて 募集の詳細要領や委託仕様書をご覧ください。 企画提案書募集要領(PDF:334KB) 別紙 別紙1(区域図)(PDF:998KB) 別紙2(委託仕様書)(PDF:362KB) 別紙3(審査基準)(PDF:120KB) 別紙4(業務における個人情報の取扱い)(PDF:386KB) 別紙5(個人情報の取扱いに関するチェックリスト)(PDF:33KB) 様式 様式1(参加申込書)(PDF:138KB) 様式2(質問書)(PDF:69KB) 様式3(実施体制書)(PDF:81KB) 様式4(受託実績書)(PDF:102KB) 様式5(受託見積額総括書)(エクセル:41KB) このページに関するお問い合わせ このページは 都市開発部まちづくり調整課 が担当しています。 実施中のプロポーザル 江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託プロポーザルの実施 令和9年度江戸川区食事支援ボランティア派遣事業業務委託プロポーザルの実施 令和9年度江戸川区子どもと家庭のおとなりさん事業業務委託プロポーザルの実施 令和9年度江戸川区未就園児家庭訪問事業業務委託事業者選定プロポーザルの実施 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施(質問及び回答を掲載) 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募のお知らせ 給与支払報告書等処理委託 公募プロポーザルの実施【終了しました】 令和9年度ハローベビー教室(休日コース)業務委託事業者選定プロポーザルの実施【募集終了】 令和9年4月1日開設 0歳児から2歳児を対象とした認可保育所の設置・運営に係る提案(終了) 新左近川親水公園カヌー場及び葛西ラグビースポーツパーク運営管理業務委託に係るプロポーザル 包括管理委託の導入に向けた検討調査等業務委託に係るプロポーザルの実施【終了しました】 西瑞江三丁目南地区協議会運営及び地区計画策定支援業務委託に係る公募型プロポーザルの実施 江戸川区区民課窓口受付システム導入等業務委託に係る公募型プロポーザルの実施【終了しました】 「令和8年度鹿骨地域農の風景",
     "deadline": "2026-05-22",
     "status": "closed",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/e018/shigotosangyo/proposal/kobo/2026nishinizue.html",
     "officialSourceUrl": "https://www.city.edogawa.tokyo.jp/e018/shigotosangyo/proposal/kobo/2026nishinizue.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
     ],
-    "dentsuFitScore": 21,
-    "dentsuFitLevel": "low",
+    "dentsuFitScore": 46,
+    "dentsuFitLevel": "medium",
     "dentsuCategories": [
       "consulting_strategy",
       "pr_communications"
@@ -209247,8 +209278,7 @@
       "プロモーション",
       "イベント",
       "企画提案",
-      "除外:給食",
-      "除外:輸送"
+      "除外:給食"
     ],
     "classificationVersion": 2,
     "attachments": [
@@ -209323,12 +209353,12 @@
     "municipality": "江戸川区",
     "organization": "江戸川区",
     "title": "「（仮称）江戸川区立図書館基本計画」策定支援業務委託に係る公募型プロポーザルの実施",
-    "summary": "「(仮称)江戸川区立図書館基本計画」策定支援業務委託に係る公募型プロポーザルの実施 「(仮称)江戸川区立図書館基本計画」の策定にあたり、コンサルティング業務を受託する事業者を、公募型プロポーザル方式で募集します。 質問および回答(4月24日更新) 令和5年4月19日までにいただきました質問について回答を掲載します。 質問および回答(PDF:56KB) 選定スケジュール 内容 日程 募集期間 令和5年4月13日(木曜日)から令和5年5月1日(月曜日)午後3時まで 質問受付 令和5年4月19日(水曜日)午後5時まで 参加表明書の提出 令和5年4月27日(木曜日)午後5時まで 企画提案書等の提出 令和5年5月1日(月曜日)午後3時まで 一次審査(書類審査)結果通知 令和5年5月中旬 二次審査(ヒアリング) 令和5年5月下旬 審査結果通知 令和5年5月下旬 募集内容 募集要項(PDF:196KB) 仕様書(PDF:145KB) 提出様式 (様式1)参加表明書(ワード:17KB) (様式2)質問票(ワード:17KB) (様式3)見積書(エクセル:17KB) (様式4)提出書類一覧表(ワード:52KB) 提出先及び問い合わせ先 〒132-8501 東京都江戸川区中央1丁目4番1号 江戸川区役所文化共育部文化課図書館運営係 電話:03-5662-1972(直通) このページに関するお問い合わせ このページは 文化共育部文化課 が担当しています。 実施中のプロポーザル 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 「令和9年度江戸川区立保育園における保育士派遣」受託事業者公募のお知らせ 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募のお知らせ 給与支払報告書等処理委託 公募プロポーザルの実施【終了しました】 令和9年度ハローベビー教室(休日コース)業務委託事業者選定プロポーザルの実施【募集終了】 令和9年4月1日開設 0歳児から2歳児を対象とした認可保育所の設置・運営に係る提案(終了) 新左近川親水公園カヌー場及び葛西ラグビースポーツパーク運営管理業務委託に係るプロポーザル 包括管理委託の導入に向けた検討調査等業務委託に係るプロポーザルの実施【終了しました】 西瑞江三丁目南地区協議会運営及び地区計画策定支援業務委託に係る公募型プロポーザルの実施 江戸川区区民課窓口受付システム導入等業務委託に係る公募型プロポーザルの実施【終了しました】 「令和8年度鹿骨地域農の風景育成地区の区域拡大に向けた検討業務委託」公募型プロポーザル【終了しました】 「脱炭素で暮らしの豊かさ実践事業業務委託」に係るプロポーザルの実施(募集終了) 「ストレスチェック業務委託」に係るプロポーザルの実施 江戸川区名産品プロモーション支援事業業務委託に係るプロポーザル【終了しました】 「江戸川区医療需給等把握調査業務委託」受託事業者公募のお知らせ 令和8年度「江戸川区意見表明等支援事業」の業務委託公募型プロポーザルの実施(募集終了) すくすくスクール学童クラブ事業業務支援システム導入に係るプロポーザルの実施 令和8年度戸籍・住民票等及び課税証明書等の郵送請求業務委託公募型プロポーザル【募集終了】 令和9年4月1日開設 医療的ケア児等の受け入れを前提とした認可保育所の設置・運営に係",
+    "summary": "「(仮称)江戸川区立図書館基本計画」策定支援業務委託に係る公募型プロポーザルの実施 「(仮称)江戸川区立図書館基本計画」の策定にあたり、コンサルティング業務を受託する事業者を、公募型プロポーザル方式で募集します。 質問および回答(4月24日更新) 令和5年4月19日までにいただきました質問について回答を掲載します。 質問および回答(PDF:56KB) 選定スケジュール 内容 日程 募集期間 令和5年4月13日(木曜日)から令和5年5月1日(月曜日)午後3時まで 質問受付 令和5年4月19日(水曜日)午後5時まで 参加表明書の提出 令和5年4月27日(木曜日)午後5時まで 企画提案書等の提出 令和5年5月1日(月曜日)午後3時まで 一次審査(書類審査)結果通知 令和5年5月中旬 二次審査(ヒアリング) 令和5年5月下旬 審査結果通知 令和5年5月下旬 募集内容 募集要項(PDF:196KB) 仕様書(PDF:145KB) 提出様式 (様式1)参加表明書(ワード:17KB) (様式2)質問票(ワード:17KB) (様式3)見積書(エクセル:17KB) (様式4)提出書類一覧表(ワード:52KB) 提出先及び問い合わせ先 〒132-8501 東京都江戸川区中央1丁目4番1号 江戸川区役所文化共育部文化課図書館運営係 電話:03-5662-1972(直通) このページに関するお問い合わせ このページは 文化共育部文化課 が担当しています。 実施中のプロポーザル 江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託プロポーザルの実施 令和9年度江戸川区食事支援ボランティア派遣事業業務委託プロポーザルの実施 令和9年度江戸川区子どもと家庭のおとなりさん事業業務委託プロポーザルの実施 令和9年度江戸川区未就園児家庭訪問事業業務委託事業者選定プロポーザルの実施 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施(質問及び回答を掲載) 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募のお知らせ 給与支払報告書等処理委託 公募プロポーザルの実施【終了しました】 令和9年度ハローベビー教室(休日コース)業務委託事業者選定プロポーザルの実施【募集終了】 令和9年4月1日開設 0歳児から2歳児を対象とした認可保育所の設置・運営に係る提案(終了) 新左近川親水公園カヌー場及び葛西ラグビースポーツパーク運営管理業務委託に係るプロポーザル 包括管理委託の導入に向けた検討調査等業務委託に係るプロポーザルの実施【終了しました】 西瑞江三丁目南地区協議会運営及び地区計画策定支援業務委託に係る公募型プロポーザルの実施 江戸川区区民課窓口受付システム導入等業務委託に係る公募型プロポーザルの実施【終了しました】 「令和8年度鹿骨地域農の風景育成地区の区域拡大に向けた検討業務委託」公募型プロポーザル【終了しました】 「脱炭素で暮らしの豊かさ実践事業業務委託」に係るプロポーザルの実施(募集終了) 「ストレスチェック業務委託」に係るプロポーザルの実施 江戸川区名産品プロモーション支援事業業務委託に係るプロポーザル【終了しました】 令和8年度「江戸川区意見表明等支援事業」の業務委託公募型プロポーザルの実施(募集終了) すくすくスクール学童クラブ事業業務支援システム導",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/e026/shigotosangyo/proposal/kobo/tosyo.html",
     "officialSourceUrl": "https://www.city.edogawa.tokyo.jp/e026/shigotosangyo/proposal/kobo/tosyo.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -209409,12 +209439,12 @@
     "municipality": "江戸川区",
     "organization": "江戸川区",
     "title": "江戸川区区民課窓口受付システム導入等業務委託に係る公募型プロポーザルの実施【終了しました】",
-    "summary": "江戸川区区民課窓口受付システム導入等業務委託に係る公募型プロポーザルの実施【終了しました】 (注)当該プロポーザルは、募集を終了しました。 区民課における窓口受付システムを新たに導入することに伴い、専門知識と実績のある事業者に導入等の業務委託を行うため、公募型プロポーザルを実施します。 選定スケジュール スケジュールは以下のとおりです。 項目 スケジュール 参加表明確認書及び 現場確認希望申込受付 令和8年5月19日(火曜日)から令和8年5月26日(火曜日)午後5時まで(必着) 図面等資料の配付 令和8年5月27日(水曜日)予定 現場確認実施日 令和8年5月29日(金曜日)、6月1日(月曜日)、6月2日(火曜日) 質問受付 令和8年5月29日(金曜日)から令和8年6月8日(月曜日)午後5時まで(必着) 質問回答公表 令和8年6月12日(金曜日)予定 提案書受付 令和8年6月12日(金曜日)から令和8年6月22日(月曜日)午後5時まで(必着) 一次審査 令和8年6月24日(水曜日)から令和8年6月30日(火曜日)まで(予定) 一次審査結果通知 令和8年7月1日(水曜日)予定 二次審査 令和8年7月6日(月曜日)から7月8日(水曜日)のいずれかを予定。一次審査通過者には別途連絡します。 選定結果公表 令和8年7月10日(金曜日)予定 質問及び回答(令和8年6月12日掲載) 令和8年6月8日(月曜日)の午後5時までに提出のあった質問に基づき、回答を作成しましたので公開します。 質問及び回答(PDF:149KB) 募集の詳細 募集の詳細は、下記の資料をご覧ください。 募集要項等(令和8年5月19日時点) プロポーザル実施要領(PDF:905KB) 江戸川区区民課窓口受付システム導入等業務委託仕様書(PDF:404KB) 江戸川区区民課窓口受付システム運用保守等委託仕様書(PDF:203KB) 企画提案書作成要領(PDF:155KB) 個人情報保護に関する特約条項((PDF:10KB) 様式 参加表明確認書兼現地確認希望申込書(様式1)(ワード:25KB) 質問書(様式2)(エクセル:16KB) 見積書(様式3)(エクセル:16KB) 類似業務受託実績(様式4)(ワード:20KB) 参加辞退届(様式5)(ワード:25KB) 留意事項 参加希望者は応募にあたり、本区の情報セキュリティポリシーを十分に理解した上でプロポーザルに参加してください。 江戸川区情報セキュリティポリシー 問い合わせ先 江戸川区生活振興部区民課庶務係 〒132-8501 東京都江戸川区中央1丁目4番1号 電話: 03-5662-6388 このページに関するお問い合わせ このページは 生活振興部区民課 が担当しています。 実施中のプロポーザル 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 「令和9年度江戸川区立保育園における保育士派遣」受託事業者公募のお知らせ 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募のお知らせ 給与支払報告書等処理委託 公募プロポーザルの実施【終了しました】 令和9年度ハローベビー教室(休日コース)業務委託事業者選定プロポーザルの実施【募集終了】 令和9年4月1日開設 0歳児から2歳児を対象とした認可保育所の設置・運営に係る提案(終了) 新左近川",
+    "summary": "江戸川区区民課窓口受付システム導入等業務委託に係る公募型プロポーザルの実施【終了しました】 (注)当該プロポーザルは、募集を終了しました。 区民課における窓口受付システムを新たに導入することに伴い、専門知識と実績のある事業者に導入等の業務委託を行うため、公募型プロポーザルを実施します。 選定スケジュール スケジュールは以下のとおりです。 項目 スケジュール 参加表明確認書及び 現場確認希望申込受付 令和8年5月19日(火曜日)から令和8年5月26日(火曜日)午後5時まで(必着) 図面等資料の配付 令和8年5月27日(水曜日)予定 現場確認実施日 令和8年5月29日(金曜日)、6月1日(月曜日)、6月2日(火曜日) 質問受付 令和8年5月29日(金曜日)から令和8年6月8日(月曜日)午後5時まで(必着) 質問回答公表 令和8年6月12日(金曜日)予定 提案書受付 令和8年6月12日(金曜日)から令和8年6月22日(月曜日)午後5時まで(必着) 一次審査 令和8年6月24日(水曜日)から令和8年6月30日(火曜日)まで(予定) 一次審査結果通知 令和8年7月1日(水曜日)予定 二次審査 令和8年7月6日(月曜日)から7月8日(水曜日)のいずれかを予定。一次審査通過者には別途連絡します。 選定結果公表 令和8年7月10日(金曜日)予定 質問及び回答(令和8年6月12日掲載) 令和8年6月8日(月曜日)の午後5時までに提出のあった質問に基づき、回答を作成しましたので公開します。 質問及び回答(PDF:149KB) 募集の詳細 募集の詳細は、下記の資料をご覧ください。 募集要項等(令和8年5月19日時点) プロポーザル実施要領(PDF:905KB) 江戸川区区民課窓口受付システム導入等業務委託仕様書(PDF:404KB) 江戸川区区民課窓口受付システム運用保守等委託仕様書(PDF:203KB) 企画提案書作成要領(PDF:155KB) 個人情報保護に関する特約条項((PDF:10KB) 様式 参加表明確認書兼現地確認希望申込書(様式1)(ワード:25KB) 質問書(様式2)(エクセル:16KB) 見積書(様式3)(エクセル:16KB) 類似業務受託実績(様式4)(ワード:20KB) 参加辞退届(様式5)(ワード:25KB) 留意事項 参加希望者は応募にあたり、本区の情報セキュリティポリシーを十分に理解した上でプロポーザルに参加してください。 江戸川区情報セキュリティポリシー 問い合わせ先 江戸川区生活振興部区民課庶務係 〒132-8501 東京都江戸川区中央1丁目4番1号 電話: 03-5662-6388 このページに関するお問い合わせ このページは 生活振興部区民課 が担当しています。 実施中のプロポーザル 江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託プロポーザルの実施 令和9年度江戸川区食事支援ボランティア派遣事業業務委託プロポーザルの実施 令和9年度江戸川区子どもと家庭のおとなりさん事業業務委託プロポーザルの実施 令和9年度江戸川区未就園児家庭訪問事業業務委託事業者選定プロポーザルの実施 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施(質問及び回答を掲載) 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募の",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/e031/shigotosangyo/proposal/kobo/hakkenki_proposal.html",
     "officialSourceUrl": "https://www.city.edogawa.tokyo.jp/e031/shigotosangyo/proposal/kobo/hakkenki_proposal.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -209508,12 +209538,12 @@
     "municipality": "江戸川区",
     "organization": "江戸川区",
     "title": "令和8年度戸籍・住民票等及び課税証明書等の郵送請求業務委託公募型プロポーザル【募集終了】",
-    "summary": "令和8年度戸籍・住民票等及び課税証明書等の郵送請求業務委託公募型プロポーザル【募集終了】 令和8年度 戸籍・住民票等及び課税証明書等の郵送請求業務委託について、専門知識と実績のある事業者に業務委託を行うため、公募型プロポーザルを実施します。 【終了しました】 当該プロポーザルへの質問及び回答を掲載しました(令和7年11月13日更新) 令和7年10月30日から同年11月7日までにいただいた当該プロポーザルへのご質問について回答を掲載します。 質問と回答(PDF:386KB) 月別件数処理表(PDF:79KB) 月別件数処理表(エクセル:24KB) 選定スケジュール スケジュールは以下のとおりです。 項目 スケジュール 参加表明確認書受付 令和7年10月30日(木曜日)から令和7年11月7日(金曜日)午後5時まで(必着) 質問書受付 令和7年10月30日(木曜日)から令和7年11月7日(金曜日)午後5時まで(必着) 質問書回答 令和7年11月13日(木曜日)ホームページに掲載予定 提案書受付 令和7年11月13日(木曜日)から令和7年11月20日(木曜日)午後5時まで(必着) 一次審査 令和7年11月21日(金曜日)から令和7年12月5日(金曜日)予定 二次審査 令和7年12月中旬予定。一次審査通過者には別途連絡します。 選考結果発表 令和7年12月下旬予定 募集の詳細 募集の詳細は、下記の資料をご覧ください。 募集要項等 (令和7年11月14日募集要項一部改訂) 【改訂版】事業者選定プロポーザル募集要項一部改訂版(PDF:294KB) 【旧】事業者選定プロポーザル募集要項(PDF:290KB) 仕様書(PDF:1,053KB) 個人情報保護に関する特約条項(PDF:135KB) 様式 (様式1)参加表明確認書(ワード:29KB) (様式2)質問書(ワード:40KB) (様式3)参加辞退届(ワード:50KB) (別紙1)提案書(ワード:38KB) 問い合わせ先 江戸川区生活振興部区民課庶務係 〒132-8501 東京都江戸川区中央1丁目4番1号 電話:03-5662-6388 このページに関するお問い合わせ このページは 生活振興部区民課 が担当しています。 実施中のプロポーザル 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 「令和9年度江戸川区立保育園における保育士派遣」受託事業者公募のお知らせ 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募のお知らせ 給与支払報告書等処理委託 公募プロポーザルの実施【終了しました】 令和9年度ハローベビー教室(休日コース)業務委託事業者選定プロポーザルの実施【募集終了】 令和9年4月1日開設 0歳児から2歳児を対象とした認可保育所の設置・運営に係る提案(終了) 新左近川親水公園カヌー場及び葛西ラグビースポーツパーク運営管理業務委託に係るプロポーザル 包括管理委託の導入に向けた検討調査等業務委託に係るプロポーザルの実施【終了しました】 西瑞江三丁目南地区協議会運営及び地区計画策定支援業務委託に係る公募型プロポーザルの実施 江戸川区区民課窓口受付システム導入等業務委託に係る公募型プロポーザルの実施【終了しました】 「令和8年度鹿骨地域農の風景育成地区の区域拡大に向けた検討業務委託」公募型プロポーザ",
+    "summary": "令和8年度戸籍・住民票等及び課税証明書等の郵送請求業務委託公募型プロポーザル【募集終了】 令和8年度 戸籍・住民票等及び課税証明書等の郵送請求業務委託について、専門知識と実績のある事業者に業務委託を行うため、公募型プロポーザルを実施します。 【終了しました】 当該プロポーザルへの質問及び回答を掲載しました(令和7年11月13日更新) 令和7年10月30日から同年11月7日までにいただいた当該プロポーザルへのご質問について回答を掲載します。 質問と回答(PDF:386KB) 月別件数処理表(PDF:79KB) 月別件数処理表(エクセル:24KB) 選定スケジュール スケジュールは以下のとおりです。 項目 スケジュール 参加表明確認書受付 令和7年10月30日(木曜日)から令和7年11月7日(金曜日)午後5時まで(必着) 質問書受付 令和7年10月30日(木曜日)から令和7年11月7日(金曜日)午後5時まで(必着) 質問書回答 令和7年11月13日(木曜日)ホームページに掲載予定 提案書受付 令和7年11月13日(木曜日)から令和7年11月20日(木曜日)午後5時まで(必着) 一次審査 令和7年11月21日(金曜日)から令和7年12月5日(金曜日)予定 二次審査 令和7年12月中旬予定。一次審査通過者には別途連絡します。 選考結果発表 令和7年12月下旬予定 募集の詳細 募集の詳細は、下記の資料をご覧ください。 募集要項等 (令和7年11月14日募集要項一部改訂) 【改訂版】事業者選定プロポーザル募集要項一部改訂版(PDF:294KB) 【旧】事業者選定プロポーザル募集要項(PDF:290KB) 仕様書(PDF:1,053KB) 個人情報保護に関する特約条項(PDF:135KB) 様式 (様式1)参加表明確認書(ワード:29KB) (様式2)質問書(ワード:40KB) (様式3)参加辞退届(ワード:50KB) (別紙1)提案書(ワード:38KB) 問い合わせ先 江戸川区生活振興部区民課庶務係 〒132-8501 東京都江戸川区中央1丁目4番1号 電話:03-5662-6388 このページに関するお問い合わせ このページは 生活振興部区民課 が担当しています。 実施中のプロポーザル 江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託プロポーザルの実施 令和9年度江戸川区食事支援ボランティア派遣事業業務委託プロポーザルの実施 令和9年度江戸川区子どもと家庭のおとなりさん事業業務委託プロポーザルの実施 令和9年度江戸川区未就園児家庭訪問事業業務委託事業者選定プロポーザルの実施 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施(質問及び回答を掲載) 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募のお知らせ 給与支払報告書等処理委託 公募プロポーザルの実施【終了しました】 令和9年度ハローベビー教室(休日コース)業務委託事業者選定プロポーザルの実施【募集終了】 令和9年4月1日開設 0歳児から2歳児を対象とした認可保育所の設置・運営に係る提案(終了) 新左近川親水公園カヌー場及び葛西ラグビースポーツパーク運営管理業務委託に係るプロポーザル 包括管理委託の導入に向けた検討調査等業務委託に係るプロポーザルの実施【終了しました】",
     "status": "closed",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/e031/shigotosangyo/proposal/kobo/r08_yusoseikyu.html",
     "officialSourceUrl": "https://www.city.edogawa.tokyo.jp/e031/shigotosangyo/proposal/kobo/r08_yusoseikyu.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -219961,7 +219991,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/docs/2026071400042/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/docs/2026071400042/",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -220040,7 +220070,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.hanyu.lg.jp/docs/2026091400039/",
     "officialSourceUrl": "https://www.city.hanyu.lg.jp/docs/2026091400039/",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -220109,13 +220139,13 @@
     "municipality": "江戸川区",
     "organization": "江戸川区",
     "title": "特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施",
-    "summary": "特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 令和8年10月2日: 事業者からの質問と回答を掲載しました。 本件業務は、納税義務者等に送達する特別区民税・都民税・森林環境税納税通知書等の帳票等の作成、印字、封入封緘から指定場所への納品までを委託するものです。 設備、人的資源、技術及び経験を有する事業者から、本件業務の実施に最適な提案を募り委託事業者を決定します。 詳しくは、下記募集要領等をご覧ください。 選考スケジュール 項目 スケジュール 質問の受付 令和8年9月25日(金曜日)午後5時まで 質問の回答 令和8年10月2日(金曜日)予定 参加申請書及び企画提案書の受付 令和8年10月13日(火曜日)午後5時まで 第一次審査(書類選考)結果通知 令和8年11月上旬 第二次審査(プレゼンテーション) 令和8年11月17日(火曜日)予定 最終選考結果通知 令和8年11月下旬 事業者からの質問と回答 事業者から提出された質問とそれに対する回答を掲載します。 なお、回答は募集要領及び仕様書と同等の効力を持つものとして扱い、再質問は認められません。 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルに寄せられた質問と回答(PDF:117KB) (質問回答別紙)帳票イメージ(PDF:11,139KB) 募集要領等 募集要領(PDF:328KB) 選定委員会要領(PDF:72KB) 仕様書(PDF:1,059KB) (別紙1)週次処理予定表(PDF:13KB) (別紙2)件数表様式(PDF:34KB) (別紙3)江戸川区特定個人情報の安全管理に関する基本方針(PDF:124KB) (別紙4)特定個人情報の取扱いに関する管理規程(PDF:202KB) (別紙5)個人情報保護に関する特約条項(PDF:13KB) 参加申請書等様式 (様式1)参加申請書(ワード:17KB) (様式2)事業者概要書(ワード:20KB) (様式3)業務実績一覧表(ワード:61KB) (様式4)見積書(ワード:18KB) (様式5)見積内訳書(エクセル:21KB) (様式6)質問票(ワード:18KB) (様式7)辞退届(ワード:17KB) 問合せ先・提出先 〒132-8501 江戸川区中央1丁目4番1号 総務部課税課税制運用係 電話: 03-5662-8031 (注)質問の受付は終了したため、質問票提出LoGoフォームのリンクを削除しました。 このページに関するお問い合わせ このページは 総務部課税課 が担当しています。 実施中のプロポーザル 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 「令和9年度江戸川区立保育園における保育士派遣」受託事業者公募のお知らせ 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募のお知らせ 給与支払報告書等処理委託 公募プロポーザルの実施【終了しました】 令和9年度ハローベビー教室(休日コース)業務委託事業者選定プロポーザルの実施【募集終了】 令和9年4月1日開設 0歳児から2歳児を対象とした認可保育所の設置・運営に係る提案(終了) 新左近川親水公園カヌー場及び葛西ラグビースポーツパーク運営管理業務委託に係るプロポーザル 包括管理委託の導入に向けた検討調査等業務委",
+    "summary": "特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 令和8年10月2日: 事業者からの質問と回答を掲載しました。 本件業務は、納税義務者等に送達する特別区民税・都民税・森林環境税納税通知書等の帳票等の作成、印字、封入封緘から指定場所への納品までを委託するものです。 設備、人的資源、技術及び経験を有する事業者から、本件業務の実施に最適な提案を募り委託事業者を決定します。 詳しくは、下記募集要領等をご覧ください。 選考スケジュール 項目 スケジュール 質問の受付 令和8年9月25日(金曜日)午後5時まで 質問の回答 令和8年10月2日(金曜日)予定 参加申請書及び企画提案書の受付 令和8年10月13日(火曜日)午後5時まで 第一次審査(書類選考)結果通知 令和8年11月上旬 第二次審査(プレゼンテーション) 令和8年11月17日(火曜日)予定 最終選考結果通知 令和8年11月下旬 事業者からの質問と回答 事業者から提出された質問とそれに対する回答を掲載します。 なお、回答は募集要領及び仕様書と同等の効力を持つものとして扱い、再質問は認められません。 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルに寄せられた質問と回答(PDF:117KB) (質問回答別紙)帳票イメージ(PDF:11,139KB) 募集要領等 募集要領(PDF:328KB) 選定委員会要領(PDF:72KB) 仕様書(PDF:1,059KB) (別紙1)週次処理予定表(PDF:13KB) (別紙2)件数表様式(PDF:34KB) (別紙3)江戸川区特定個人情報の安全管理に関する基本方針(PDF:124KB) (別紙4)特定個人情報の取扱いに関する管理規程(PDF:202KB) (別紙5)個人情報保護に関する特約条項(PDF:13KB) 参加申請書等様式 (様式1)参加申請書(ワード:17KB) (様式2)事業者概要書(ワード:20KB) (様式3)業務実績一覧表(ワード:61KB) (様式4)見積書(ワード:18KB) (様式5)見積内訳書(エクセル:21KB) (様式6)質問票(ワード:18KB) (様式7)辞退届(ワード:17KB) 問合せ先・提出先 〒132-8501 江戸川区中央1丁目4番1号 総務部課税課税制運用係 電話: 03-5662-8031 (注)質問の受付は終了したため、質問票提出LoGoフォームのリンクを削除しました。 このページに関するお問い合わせ このページは 総務部課税課 が担当しています。 実施中のプロポーザル 江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託プロポーザルの実施 令和9年度江戸川区食事支援ボランティア派遣事業業務委託プロポーザルの実施 令和9年度江戸川区子どもと家庭のおとなりさん事業業務委託プロポーザルの実施 令和9年度江戸川区未就園児家庭訪問事業業務委託事業者選定プロポーザルの実施 行船公園管理委託プロポーザルの実施 「令和9年度江戸川区立小・中学校給食運営業務委託」受託事業者公募のお知らせ 民間事業者通報緊急通報システム業務委託に係るプロポーザルの実施(質問及び回答を掲載) 江戸川区文書交換業務委託受託事業者のプロポーザルによる選定の実施 東部フレンドホール舞台操作等業務委託事業者選定プロポーザルの実施(質問と回答を追加) 小松川区民施設舞台操作設備等業務委託プロポーザルの実施(質問回答書を追加) 葛西区民館 舞台設備操作等業務委託プロポーザルの実施(質問回答書を追加) 江戸川区「被保護者健康管理支援事業業務委託」受託事業者公募のお知らせ 高齢者の保健事業と介護予防の一体的実施事業委託に係る公募型プロポーザルの実施 江戸川区立共育プラザ葛西・南篠崎運営業務委託事業者選定プロポーザルの実施 「親水公園等設備管理委託・点検委託」プロポーザルの実施(終了) 特別区民税・都民税・森林環境税納税通知書等に係る封入封緘等業務委託公募型プロポーザルの実施 「令和9年度江戸川区立保育園給食調理業務委託」受託事業者公募のお知らせ 給与支払報告書等処理委託 公募プロポーザルの実施【終了しました】 令和9年度ハローベビー教室(休日コース)業務委託",
     "presentationDate": "2026-11-17",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/e013/shigotosangyo/proposal/kobo/funyufukanitaku.html",
     "officialSourceUrl": "https://www.city.edogawa.tokyo.jp/e013/shigotosangyo/proposal/kobo/funyufukanitaku.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -226282,7 +226312,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.vill.shimokitayama.nara.jp/oshirase/file/00dc6aa060179e4418a57f85843da916140baf73.pdf",
     "officialSourceUrl": "https://www.vill.shimokitayama.nara.jp/oshirase/file/00dc6aa060179e4418a57f85843da916140baf73.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -244918,7 +244948,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/01jishiyouryo.pdf",
     "officialSourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/01jishiyouryo.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -244966,7 +244996,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/05shinsayoukou.pdf",
     "officialSourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/05shinsayoukou.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -245013,7 +245043,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/02shiyousyo0528.pdf",
     "officialSourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/02shiyousyo0528.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -245060,7 +245090,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/03sekisan.pdf",
     "officialSourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/03sekisan.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -245105,7 +245135,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/04yoshiki.docx",
     "officialSourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/04yoshiki.docx",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -245150,7 +245180,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/kaitou.pdf",
     "officialSourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/kaitou.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -245195,7 +245225,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/kaitou2.pdf",
     "officialSourceUrl": "https://www.town.shonai.lg.jp/business/shoukougyo/shoko120260526103244702.files/kaitou2.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -252091,7 +252121,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.yubari.lg.jp/site/nyusatsu/10750.html",
     "officialSourceUrl": "https://www.city.yubari.lg.jp/site/nyusatsu/10750.html",
-    "lastChecked": "2026-11-13",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -280080,7 +280110,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shizuoka.lg.jp/documents/59516/youkyou_kambara.pdf",
     "officialSourceUrl": "https://www.city.shizuoka.lg.jp/documents/59516/youkyou_kambara.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -280120,12 +280150,12 @@
     "municipality": "静岡市",
     "organization": "静岡市",
     "title": "【選定結果の公表】公募型プロポーザル「中小企業等DX支援業務(デジタル実装による業務プロセス改善支援)」",
-    "summary": "【選定結果の公表】公募型プロポーザル「中小企業等DX支援業務(デジタル実装による業務プロセス改善支援)」 気候変動や経済変動等企業を取り巻く環境は急激に不安定化し、新たな事業環境に合わせた事業変革は、あらゆる業界において最優先の取組事項となっています。 このような社会状況を踏まえ、本業務では、デジタル技術を活用して業務変革を行う市内中小企業の事業活動を支援する事業者を、下記のとおり公募型プロポーザル方式により募集します。 選定結果 契約予定者 株式会社フォーバル 得点 202点/220点 質問への回答 質問・回答一覧(PDF:278KB) プロポーザル(企画提案)募集内容 業務名 令和8年度 経商産振委第11号 中小企業等DX支援業務(デジタル実装による業務プロセス改善支援) 実施要領 中小企業等DX支援業務(デジタル実装による業務プロセス改善支援)公募型プロポーザル実施要領(PDF:181KB) 業務内容 業務委託仕様書(PDF:214KB) をご確認ください。 委託期間 契約締結日から令和9(2027)年3月5日(金曜日)まで 提出書類 プロポーザル参加申込書【様式1】(ワード:27KB) 会社概要書【様式2】(ワード:28KB) 受託実績報告書【様式3】(ワード:38KB) 暴力団排除に関する誓約書兼同意書【様式4】(ワード:33KB) 履歴事項全部証明書(発行後3か月以内のもの)※コピー可 貸借対照表、損益計算書(直近1年分)※コピー可 納税証明書(直近3か月以内のもの)※コピー可 国税については、「法人税」及び「消費税及び地方消費税」について未納税額のない証明書 市税については、静岡市に納税義務がある場合、法人市民税納税証明書と固定資産税納税証明書 企画提案書【様式は任意】 事業実施の経費の内訳がわかる書類【様式は任意】 応募方法・期限 応募方法 上記1から9の提出書類を、 提出フォーム(外部サイトへリンク) からご提出ください。 期限 令和8(2026)年4月30日(木曜日)午後5時まで スケジュール(予定) 変更が生じた場合は当ページにて告知します。 4月10日(金曜日) 質問受付締切(午後5時必着) 4月14日(火曜日) 質問回答 4月30日(木曜日) 企画提案書等の提出締切(午後5時必着) 5月13日(水曜日) 書類審査結果通知 5月19日(火曜日) ヒアリング審査 5月29日(金曜日) 審査結果通知 質問について 提出方法 仕様書及び実施要領の内容についての質問がある場合は、 質問票【様式5】(ワード:48KB) により、 質問フォーム(外部サイトへリンク) からご提出ください。 受付期間 3月30日(月曜日)から4月10日(金曜日)午後5時まで 回答方法 4月14日(火曜日)以降、ホームページに掲載 お問い合わせ 経済局商工部産業振興課経営支援係 清水区旭町6-8 清水庁舎5階 電話番号:054-354-2058 ファックス番号:054-354-2132 より良いウェブサイトにするためにみなさまのご意見をお聞かせください このページの情報は役に立ちましたか? 1:役に立った 2:ふつう 3:役に立たなかった このページの情報は見つけやすかったですか? 1:見つけやすかった 2:ふつう 3:見つけにくかった 事業者募集 「静岡市立清水病院」指定管理者の募集(非公募) 公募型プロポーザル「しずおか地域クラブ活動支援基盤構築及び運営業務」 指定管理者募集「静岡市南アルプス井川オートキャンプ場」 指定管理者募集「静岡市清水ナショナルトレーニングセンター」 静岡市賤機都市山村交流センター指定管理者募集(非公募) 指定管理者募集「静岡市桜の園(身体障害者福祉施設)、静岡市桜の園(重度障害者生活訓練ホーム)、静岡市桜の園城北館」 指定管理者募集「静岡市東海道広重美術館及び静岡市由比本陣施設」 公募型プロポーザル「静岡市立登呂博物館ミュージアムショップ運営業務」 公募型プロポーザル「道の駅「(仮称)蒲原」運営事業者選定支援業務」 【事業者募集】公募型プロポーザル「常設型マッチングプラットフォーム構築業務」 公募型プロポーザル「静岡市長田屋内遊び場整備運営事業」 公募型プロポーザル「旧由比庁舎売払いに係る民間活用事業者募集」 公募",
+    "summary": "【選定結果の公表】公募型プロポーザル「中小企業等DX支援業務(デジタル実装による業務プロセス改善支援)」 気候変動や経済変動等企業を取り巻く環境は急激に不安定化し、新たな事業環境に合わせた事業変革は、あらゆる業界において最優先の取組事項となっています。 このような社会状況を踏まえ、本業務では、デジタル技術を活用して業務変革を行う市内中小企業の事業活動を支援する事業者を、下記のとおり公募型プロポーザル方式により募集します。 選定結果 契約予定者 株式会社フォーバル 得点 202点/220点 質問への回答 質問・回答一覧(PDF:278KB) プロポーザル(企画提案)募集内容 業務名 令和8年度 経商産振委第11号 中小企業等DX支援業務(デジタル実装による業務プロセス改善支援) 実施要領 中小企業等DX支援業務(デジタル実装による業務プロセス改善支援)公募型プロポーザル実施要領(PDF:181KB) 業務内容 業務委託仕様書(PDF:214KB) をご確認ください。 委託期間 契約締結日から令和9(2027)年3月5日(金曜日)まで 提出書類 プロポーザル参加申込書【様式1】(ワード:27KB) 会社概要書【様式2】(ワード:28KB) 受託実績報告書【様式3】(ワード:38KB) 暴力団排除に関する誓約書兼同意書【様式4】(ワード:33KB) 履歴事項全部証明書(発行後3か月以内のもの)※コピー可 貸借対照表、損益計算書(直近1年分)※コピー可 納税証明書(直近3か月以内のもの)※コピー可 国税については、「法人税」及び「消費税及び地方消費税」について未納税額のない証明書 市税については、静岡市に納税義務がある場合、法人市民税納税証明書と固定資産税納税証明書 企画提案書【様式は任意】 事業実施の経費の内訳がわかる書類【様式は任意】 応募方法・期限 応募方法 上記1から9の提出書類を、 提出フォーム(外部サイトへリンク) からご提出ください。 期限 令和8(2026)年4月30日(木曜日)午後5時まで スケジュール(予定) 変更が生じた場合は当ページにて告知します。 4月10日(金曜日) 質問受付締切(午後5時必着) 4月14日(火曜日) 質問回答 4月30日(木曜日) 企画提案書等の提出締切(午後5時必着) 5月13日(水曜日) 書類審査結果通知 5月19日(火曜日) ヒアリング審査 5月29日(金曜日) 審査結果通知 質問について 提出方法 仕様書及び実施要領の内容についての質問がある場合は、 質問票【様式5】(ワード:48KB) により、 質問フォーム(外部サイトへリンク) からご提出ください。 受付期間 3月30日(月曜日)から4月10日(金曜日)午後5時まで 回答方法 4月14日(火曜日)以降、ホームページに掲載 お問い合わせ 経済局商工部産業振興課経営支援係 清水区旭町6-8 清水庁舎5階 電話番号:054-354-2058 ファックス番号:054-354-2132 より良いウェブサイトにするためにみなさまのご意見をお聞かせください このページの情報は役に立ちましたか? 1:役に立った 2:ふつう 3:役に立たなかった このページの情報は見つけやすかったですか? 1:見つけやすかった 2:ふつう 3:見つけにくかった 事業者募集 「静岡市立清水病院」指定管理者の募集(非公募) 【質問に対する回答の公表】公募型プロポーザル「しずおか地域クラブ活動支援基盤構築及び運営業務」 指定管理者募集「静岡市南アルプス井川オートキャンプ場」 指定管理者募集「静岡市清水ナショナルトレーニングセンター」 静岡市賤機都市山村交流センター指定管理者募集(非公募) 指定管理者募集「静岡市桜の園(身体障害者福祉施設)、静岡市桜の園(重度障害者生活訓練ホーム)、静岡市桜の園城北館」 指定管理者募集「静岡市東海道広重美術館及び静岡市由比本陣施設」 公募型プロポーザル「静岡市立登呂博物館ミュージアムショップ運営業務」 公募型プロポーザル「道の駅「(仮称)蒲原」運営事業者選定支援業務」 【事業者募集】公募型プロポーザル「常設型マッチングプラットフォーム構築業務」 公募型プロポーザル「静岡市長田屋内遊び場整備運営事業」 公募型プロポーザル「旧由比庁舎売払いに係る",
     "status": "closed",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shizuoka.lg.jp/s2746/s003884.html",
     "officialSourceUrl": "https://www.city.shizuoka.lg.jp/s2746/s003884.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -280207,12 +280237,12 @@
     "municipality": "静岡市",
     "organization": "静岡市",
     "title": "【選定結果の公表】公募型プロポーザル「中小企業等DX支援業務(社内蓄積データ活用支援)」",
-    "summary": "【選定結果の公表】公募型プロポーザル「中小企業等DX支援業務(社内蓄積データ活用支援)」 静岡市は、全体の人口はもとより生産年齢人口の減少も顕著となっており、高齢化が進む社会全体の潮流も踏まえ、従来の人的資源に頼った生産方式では、生産性向上や新たな付加価値創出のための経営資源を生み出すことが困難な現状にあります。 本業務においては、日々の業務でデータを蓄積しながらも有効な活用手法を習得していない市内中小企業を対象に、表計算ソフトやAI等のデジタル技術を用いたデータ連携・分析手法の習得を伴走支援する事業者を、下記のとおり公募型プロポーザル方式により募集します。 選定結果 契約予定者 株式会社NTTデータ・フィナンシャルテクノロジー 得点 236点/275点 質問への回答 質問・回答一覧(PDF:237KB) プロポーザル(企画提案)募集内容 業務名 令和8年度経商産振委第10号中小企業等DX支援(社内蓄積データ活用支援)業務 実施要項 中小企業等DX支援(社内蓄積データ活用支援)業務公募型プロポーザル実施要領(PDF:182KB) 業務内容 中小企業等DX支援(社内蓄積データ活用支援)業務仕様書(PDF:177KB) 委託期間 契約締結日から令和9(2027)年3月5日(金曜日)まで 提出書類 プロポーザル参加申込書【様式1】(ワード:27KB) 会社概要書【様式2】(ワード:28KB) 類似業務受託実績報告書【様式3】(ワード:38KB) 暴力団排除に関する誓約書兼同意書【様式4】(ワード:33KB) 履歴事項全部証明書(発行後3か月以内のもの)※コピー可 貸借対照表・損益計算書の写し(直近決算1年分)※コピー可 納税証明書の写し(直近3か月以内のもの)※コピー可 国税については、「法人税」及び「消費税及び地方消費税」について未納税額の無い証明書 市税については、静岡市に納税義務がある場合、法人市民税納税証明書と固定資産税納税証明書 企画提案書【様式は任意】 事業実施の経費の内訳がわかる書類【様式は任意】 応募方法・期限 応募方法 上記1から9の書類を、 提出フォーム(外部サイトへリンク) からアップロードしてください。 期限 令和8(2026)年4月30日(木曜日)午後5時まで スケジュール(予定) 変更が生じた場合は、当ページ上にて告知します。 4月10日(金曜日)質問受付締切(午後5時必着) 4月14日(火曜日)質問回答 4月30日(木曜日)企画提案書等の提出締切(午後5時必着) 5月13日(水曜日)書類審査結果通知 5月20日(水曜日)ヒアリング審査 5月29日(金曜日)審査結果通知 質問について 提出方法 仕様書及び実施要領の内容についての質問がある場合は、 質問票【様式5】(ワード:48KB) により、 質問フォーム(外部サイトへリンク) からご提出ください。 受付期間 3月30日(月曜日)から4月10日(金曜日)午後5時まで 回答方法 4月14日(火曜日)以降、ホームページに掲載 お問い合わせ 経済局商工部産業振興課経営支援係 清水区旭町6-8 清水庁舎5階 電話番号:054-354-2058 ファックス番号:054-354-2132 より良いウェブサイトにするためにみなさまのご意見をお聞かせください このページの情報は役に立ちましたか? 1:役に立った 2:ふつう 3:役に立たなかった このページの情報は見つけやすかったですか? 1:見つけやすかった 2:ふつう 3:見つけにくかった 事業者募集 「静岡市立清水病院」指定管理者の募集(非公募) 公募型プロポーザル「しずおか地域クラブ活動支援基盤構築及び運営業務」 指定管理者募集「静岡市南アルプス井川オートキャンプ場」 指定管理者募集「静岡市清水ナショナルトレーニングセンター」 静岡市賤機都市山村交流センター指定管理者募集(非公募) 指定管理者募集「静岡市桜の園(身体障害者福祉施設)、静岡市桜の園(重度障害者生活訓練ホーム)、静岡市桜の園城北館」 指定管理者募集「静岡市東海道広重美術館及び静岡市由比本陣施設」 公募型プロポーザル「静岡市立登呂博物館ミュージアムショップ運営業務」 公募型プロポーザル「道の駅「(仮称)蒲原」運営事業者選定支援業務」 【事業者募集】公募型プロポ",
+    "summary": "【選定結果の公表】公募型プロポーザル「中小企業等DX支援業務(社内蓄積データ活用支援)」 静岡市は、全体の人口はもとより生産年齢人口の減少も顕著となっており、高齢化が進む社会全体の潮流も踏まえ、従来の人的資源に頼った生産方式では、生産性向上や新たな付加価値創出のための経営資源を生み出すことが困難な現状にあります。 本業務においては、日々の業務でデータを蓄積しながらも有効な活用手法を習得していない市内中小企業を対象に、表計算ソフトやAI等のデジタル技術を用いたデータ連携・分析手法の習得を伴走支援する事業者を、下記のとおり公募型プロポーザル方式により募集します。 選定結果 契約予定者 株式会社NTTデータ・フィナンシャルテクノロジー 得点 236点/275点 質問への回答 質問・回答一覧(PDF:237KB) プロポーザル(企画提案)募集内容 業務名 令和8年度経商産振委第10号中小企業等DX支援(社内蓄積データ活用支援)業務 実施要項 中小企業等DX支援(社内蓄積データ活用支援)業務公募型プロポーザル実施要領(PDF:182KB) 業務内容 中小企業等DX支援(社内蓄積データ活用支援)業務仕様書(PDF:177KB) 委託期間 契約締結日から令和9(2027)年3月5日(金曜日)まで 提出書類 プロポーザル参加申込書【様式1】(ワード:27KB) 会社概要書【様式2】(ワード:28KB) 類似業務受託実績報告書【様式3】(ワード:38KB) 暴力団排除に関する誓約書兼同意書【様式4】(ワード:33KB) 履歴事項全部証明書(発行後3か月以内のもの)※コピー可 貸借対照表・損益計算書の写し(直近決算1年分)※コピー可 納税証明書の写し(直近3か月以内のもの)※コピー可 国税については、「法人税」及び「消費税及び地方消費税」について未納税額の無い証明書 市税については、静岡市に納税義務がある場合、法人市民税納税証明書と固定資産税納税証明書 企画提案書【様式は任意】 事業実施の経費の内訳がわかる書類【様式は任意】 応募方法・期限 応募方法 上記1から9の書類を、 提出フォーム(外部サイトへリンク) からアップロードしてください。 期限 令和8(2026)年4月30日(木曜日)午後5時まで スケジュール(予定) 変更が生じた場合は、当ページ上にて告知します。 4月10日(金曜日)質問受付締切(午後5時必着) 4月14日(火曜日)質問回答 4月30日(木曜日)企画提案書等の提出締切(午後5時必着) 5月13日(水曜日)書類審査結果通知 5月20日(水曜日)ヒアリング審査 5月29日(金曜日)審査結果通知 質問について 提出方法 仕様書及び実施要領の内容についての質問がある場合は、 質問票【様式5】(ワード:48KB) により、 質問フォーム(外部サイトへリンク) からご提出ください。 受付期間 3月30日(月曜日)から4月10日(金曜日)午後5時まで 回答方法 4月14日(火曜日)以降、ホームページに掲載 お問い合わせ 経済局商工部産業振興課経営支援係 清水区旭町6-8 清水庁舎5階 電話番号:054-354-2058 ファックス番号:054-354-2132 より良いウェブサイトにするためにみなさまのご意見をお聞かせください このページの情報は役に立ちましたか? 1:役に立った 2:ふつう 3:役に立たなかった このページの情報は見つけやすかったですか? 1:見つけやすかった 2:ふつう 3:見つけにくかった 事業者募集 「静岡市立清水病院」指定管理者の募集(非公募) 【質問に対する回答の公表】公募型プロポーザル「しずおか地域クラブ活動支援基盤構築及び運営業務」 指定管理者募集「静岡市南アルプス井川オートキャンプ場」 指定管理者募集「静岡市清水ナショナルトレーニングセンター」 静岡市賤機都市山村交流センター指定管理者募集(非公募) 指定管理者募集「静岡市桜の園(身体障害者福祉施設)、静岡市桜の園(重度障害者生活訓練ホーム)、静岡市桜の園城北館」 指定管理者募集「静岡市東海道広重美術館及び静岡市由比本陣施設」 公募型プロポーザル「静岡市立登呂博物館ミュージアムショップ運営業務」 公募型プロポーザル「道の駅「(仮称)蒲原」運営事業者選定支援業務」 ",
     "status": "closed",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shizuoka.lg.jp/s2746/s013086.html",
     "officialSourceUrl": "https://www.city.shizuoka.lg.jp/s2746/s013086.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -280298,12 +280328,12 @@
     "municipality": "静岡市",
     "organization": "静岡市",
     "title": "【選定結果の公表】公募型プロポーザル「AI活用促進に向けた法人研修業務」",
-    "summary": "【選定結果の公表】公募型プロポーザル「AI活用促進に向けた法人研修業務」 気候変動や経済変動等企業を取り巻く環境は急激に不安定化し、新たな事業環境に合わせた事業変革は、あらゆる業界において最優先の取組事項となっています。 このような社会状況を踏まえ、本業務では、生成AIを活用して業務プロセス変革を行う市内中小企業の事業活動を支援するための研修を実施する事業者を、下記のとおり公募型プロポーザル方式により募集します。 選定結果 契約予定者 FunTre株式会社 得点 217点/250点 質問への回答 質問・回答一覧(PDF:455KB) プロポーザル(企画提案)募集内容 業務名 令和8年度 経商産振委第20号 AI活用促進に向けた法人研修業務 実施要領 AI活用促進に向けた法人研修業務 公募型プロポーザル実施要領(PDF:207KB) (令和8年5月25日訂正) 6.提出書類等 (1)提出書類 3.受託実績報告書(様式3) 【誤】過去に行った伴走支援業務の事例について記載すること。 【正】過去に行った生成AIの活用に関する法人研修の事例について記載すること。 業務内容 業務委託仕様書(PDF:205KB) をご確認ください。 委託期間 契約締結日から令和9(2027)年3月12日(金曜日)まで 提出書類 プロポーザル参加申込書【様式1】(ワード:27KB) 会社概要書【様式2】(ワード:28KB) 受託実績報告書【様式3】(ワード:38KB) 暴力団排除に関する誓約書兼同意書【様式4】(ワード:33KB) 別途、「 委託業務等(建築業関連以外) 」より電子申請が可能です。 ※上記電子申請の場合、役員等氏名一覧はフォームへの入力となります。 履歴事項全部証明書(発行後3か月以内のもの)※コピー可 貸借対照表、損益計算書(直近1年分)※コピー可 納税証明書(直近3か月以内のもの)※コピー可 国税については、「法人税」及び「消費税及び地方消費税」について未納税額のない証明書 市税については、静岡市に納税義務がある場合、法人市民税納税証明書と固定資産税納税証明書 企画提案書【様式は任意】 事業実施の経費の内訳がわかる書類【様式は任意】 応募方法・期限 応募方法 上記1から9の提出書類を、 提出フォーム(外部サイトへリンク) からご提出ください。 期限 令和8(2026)年6月5日(金曜日)17時まで スケジュール(予定) 変更が生じた場合は当ページにて告知します。 5月19日(火曜日) 質問受付締切(17時必着) 5月21日(木曜日)以降 質問回答 6月5日(金曜日) 企画提案書等の提出締切(17時必着) 6月11日(木曜日) 書類審査結果通知 6月18日(木曜日) ヒアリング審査 6月22日(月曜日) 審査結果通知 質問について 提出方法 仕様書及び実施要領の内容についての質問がある場合は、 質問票【様式5】(ワード:48KB) を入力のうえ、 質問フォーム(外部サイトへリンク) よりご提出ください。 受付期間 5月8日(金曜日)から5月19日(火曜日)17時まで 回答方法 5月21日(木曜日)以降、ホームページに掲載 お問い合わせ 経済局商工部産業振興課経営支援係 清水区旭町6-8 清水庁舎5階 電話番号:054-354-2346 ファックス番号:054-354-2132 より良いウェブサイトにするためにみなさまのご意見をお聞かせください このページの情報は役に立ちましたか? 1:役に立った 2:ふつう 3:役に立たなかった このページの情報は見つけやすかったですか? 1:見つけやすかった 2:ふつう 3:見つけにくかった 事業者募集 「静岡市立清水病院」指定管理者の募集(非公募) 公募型プロポーザル「しずおか地域クラブ活動支援基盤構築及び運営業務」 指定管理者募集「静岡市南アルプス井川オートキャンプ場」 指定管理者募集「静岡市清水ナショナルトレーニングセンター」 静岡市賤機都市山村交流センター指定管理者募集(非公募) 指定管理者募集「静岡市桜の園(身体障害者福祉施設)、静岡市桜の園(重度障害者生活訓練ホーム)、静岡市桜の園城北館」 指定管理者募集「静岡市東海道広重美術館及び静岡市由比本陣施設」 公募型プロポーザル「静岡市立登呂博物館ミュージ",
+    "summary": "【選定結果の公表】公募型プロポーザル「AI活用促進に向けた法人研修業務」 気候変動や経済変動等企業を取り巻く環境は急激に不安定化し、新たな事業環境に合わせた事業変革は、あらゆる業界において最優先の取組事項となっています。 このような社会状況を踏まえ、本業務では、生成AIを活用して業務プロセス変革を行う市内中小企業の事業活動を支援するための研修を実施する事業者を、下記のとおり公募型プロポーザル方式により募集します。 選定結果 契約予定者 FunTre株式会社 得点 217点/250点 質問への回答 質問・回答一覧(PDF:455KB) プロポーザル(企画提案)募集内容 業務名 令和8年度 経商産振委第20号 AI活用促進に向けた法人研修業務 実施要領 AI活用促進に向けた法人研修業務 公募型プロポーザル実施要領(PDF:207KB) (令和8年5月25日訂正) 6.提出書類等 (1)提出書類 3.受託実績報告書(様式3) 【誤】過去に行った伴走支援業務の事例について記載すること。 【正】過去に行った生成AIの活用に関する法人研修の事例について記載すること。 業務内容 業務委託仕様書(PDF:205KB) をご確認ください。 委託期間 契約締結日から令和9(2027)年3月12日(金曜日)まで 提出書類 プロポーザル参加申込書【様式1】(ワード:27KB) 会社概要書【様式2】(ワード:28KB) 受託実績報告書【様式3】(ワード:38KB) 暴力団排除に関する誓約書兼同意書【様式4】(ワード:33KB) 別途、「 委託業務等(建築業関連以外) 」より電子申請が可能です。 ※上記電子申請の場合、役員等氏名一覧はフォームへの入力となります。 履歴事項全部証明書(発行後3か月以内のもの)※コピー可 貸借対照表、損益計算書(直近1年分)※コピー可 納税証明書(直近3か月以内のもの)※コピー可 国税については、「法人税」及び「消費税及び地方消費税」について未納税額のない証明書 市税については、静岡市に納税義務がある場合、法人市民税納税証明書と固定資産税納税証明書 企画提案書【様式は任意】 事業実施の経費の内訳がわかる書類【様式は任意】 応募方法・期限 応募方法 上記1から9の提出書類を、 提出フォーム(外部サイトへリンク) からご提出ください。 期限 令和8(2026)年6月5日(金曜日)17時まで スケジュール(予定) 変更が生じた場合は当ページにて告知します。 5月19日(火曜日) 質問受付締切(17時必着) 5月21日(木曜日)以降 質問回答 6月5日(金曜日) 企画提案書等の提出締切(17時必着) 6月11日(木曜日) 書類審査結果通知 6月18日(木曜日) ヒアリング審査 6月22日(月曜日) 審査結果通知 質問について 提出方法 仕様書及び実施要領の内容についての質問がある場合は、 質問票【様式5】(ワード:48KB) を入力のうえ、 質問フォーム(外部サイトへリンク) よりご提出ください。 受付期間 5月8日(金曜日)から5月19日(火曜日)17時まで 回答方法 5月21日(木曜日)以降、ホームページに掲載 お問い合わせ 経済局商工部産業振興課経営支援係 清水区旭町6-8 清水庁舎5階 電話番号:054-354-2346 ファックス番号:054-354-2132 より良いウェブサイトにするためにみなさまのご意見をお聞かせください このページの情報は役に立ちましたか? 1:役に立った 2:ふつう 3:役に立たなかった このページの情報は見つけやすかったですか? 1:見つけやすかった 2:ふつう 3:見つけにくかった 事業者募集 「静岡市立清水病院」指定管理者の募集(非公募) 【質問に対する回答の公表】公募型プロポーザル「しずおか地域クラブ活動支援基盤構築及び運営業務」 指定管理者募集「静岡市南アルプス井川オートキャンプ場」 指定管理者募集「静岡市清水ナショナルトレーニングセンター」 静岡市賤機都市山村交流センター指定管理者募集(非公募) 指定管理者募集「静岡市桜の園(身体障害者福祉施設)、静岡市桜の園(重度障害者生活訓練ホーム)、静岡市桜の園城北館」 指定管理者募集「静岡市東海道広重美術館及び静岡市由比本陣施設」 公募型プロポーザル「",
     "status": "closed",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shizuoka.lg.jp/s2746/s013162.html",
     "officialSourceUrl": "https://www.city.shizuoka.lg.jp/s2746/s013162.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告"
@@ -280388,12 +280418,12 @@
     "municipality": "静岡市",
     "organization": "静岡市",
     "title": "【選定結果の公表】公募型プロポーザル「静岡市移住プロモーション業務」",
-    "summary": "【選定結果の公表】公募型プロポーザル「静岡市移住プロモーション業務」 各種移住促進事業を効果的かつ効率的に移住検討者に対して情報発信することで、移住者の増加に繋げることを目的として、移住プロモーション業務を実施します。 本業務の実施にあたり、公募型プロポーザル方式にて事業者を募集します。 選定結果 契約予定者 株式会社JR東海エージェンシー 得点 413点/500点 いただいた質問に対する回答を公表します。 質問・回答表(PDF:294KB) 【参考資料】検索サイトおよびSNSへの広告出稿の昨年度実績(PDF:1,008KB) 募集概要 業務名 令和8年度総政総委第1号静岡市移住プロモーション業務 業務期間 契約締結日から令和9年3月31日まで 実施要領・仕様書 公募型プロポーザル実施要領(PDF:464KB) 仕様書(PDF:225KB) 参考資料 参考資料【仕様書5】別紙「支援メニュー」(PDF:2,784KB) 参考資料【仕様書7】別紙資料1「静岡市移住ガイドブック」(PDF:9,282KB) 申請 提出期限 令和8(2026)年7月16日(木曜日)午後5時必着 提出書類 プロポーザル参加申請書【様式1】(ワード:28KB) 1部 会社概要書【様式2】(ワード:28KB) 1部 類似業務受託実績報告書【様式3】(ワード:37KB) 1部 暴力団排除に関する誓約書兼同意書【様式4】(ワード:33KB) 1部 暴力団排除に関する誓約書兼同意書(PDF:75KB) 別紙記入例 貸借対照表、損益計算書(直近1年分)(1部)コピー可) 納税証明書(申請日前3ヶ月以内に証明されたもの)1部(コピー可) 企画提案書6部 企画提案書については、電子データでも提出をすること。 なお電子データは、 「令和8年度静岡市移住プロモーション業務」プロポーザル審査書類(電子データ)提出フォーム(外部サイトへリンク) から提出すること。 見積書1部 申請方法 紙媒体で(企画提案書については電子データでも提出)、窓口持参又は郵送によりご提出ください。 (注記)郵送の場合は、書留郵便等の記録が残るものに限る。 申請先 総合政策局 総合政策課 人口減少対策推進係 〒420-8602 静岡市葵区追手町5番1号 静岡市役所 静岡庁舎12階 受付時間 土曜日日曜日及び祝日除く午前9時~正午及び午後1時~午後5時 スケジュール 変更になる場合があります。変更が生じた場合は、当ページ上で告知します。 公募開始 令和8(2026)年6月25日(木曜日) 質問書受付 6月25日(木曜日)~7月2日(木曜日)17時まで 企画提案書等提出締切 7月16日(木曜日)午後5時まで 書類審査(1次選考) 7月16日(木曜日)~7月23日(木曜日) 審査結果の通知(1次選考) 7月23日(木曜日)以降 プレゼンテーション(2次選考) 7月27日(月曜日) 最終審査結果の通知 7月29日(水曜日)以降 質問の受付 受付期間 令和8(2026)年7月2日(木曜日)午後5時必着 提出方法 質問票【様式5】(ワード:49KB) に記載し、 電子メール にてご提出ください。 (注記1)電子メールのタイトルは「静岡市移住プロモーション業務 質問票(企業名)」とし、送付した旨を電話にてご連絡ください。 (注記2)電話及びFAXでの提出は受け付けません。 質問への回答 令和8(2026)年7月6日(月曜日)までに随時、質問者に対し電子メールで送付するとともに、本ホームページに掲載いたします。 お問い合わせ 総合政策局総合政策課人口減少対策推進係 葵区追手町5-1 静岡庁舎新館12階 電話番号:054-221-1240 ファックス番号:054-221-1295 より良いウェブサイトにするためにみなさまのご意見をお聞かせください このページの情報は役に立ちましたか? 1:役に立った 2:ふつう 3:役に立たなかった このページの情報は見つけやすかったですか? 1:見つけやすかった 2:ふつう 3:見つけにくかった 事業者募集 「静岡市立清水病院」指定管理者の募集(非公募) 公募型プロポーザル「しずおか地域クラブ活動支援基盤構築及び運営業務」 指定管理者募集「静岡市南アルプス井川オートキャンプ場」 指定管理者募",
+    "summary": "【選定結果の公表】公募型プロポーザル「静岡市移住プロモーション業務」 各種移住促進事業を効果的かつ効率的に移住検討者に対して情報発信することで、移住者の増加に繋げることを目的として、移住プロモーション業務を実施します。 本業務の実施にあたり、公募型プロポーザル方式にて事業者を募集します。 選定結果 契約予定者 株式会社JR東海エージェンシー 得点 413点/500点 いただいた質問に対する回答を公表します。 質問・回答表(PDF:294KB) 【参考資料】検索サイトおよびSNSへの広告出稿の昨年度実績(PDF:1,008KB) 募集概要 業務名 令和8年度総政総委第1号静岡市移住プロモーション業務 業務期間 契約締結日から令和9年3月31日まで 実施要領・仕様書 公募型プロポーザル実施要領(PDF:464KB) 仕様書(PDF:225KB) 参考資料 参考資料【仕様書5】別紙「支援メニュー」(PDF:2,784KB) 参考資料【仕様書7】別紙資料1「静岡市移住ガイドブック」(PDF:9,282KB) 申請 提出期限 令和8(2026)年7月16日(木曜日)午後5時必着 提出書類 プロポーザル参加申請書【様式1】(ワード:28KB) 1部 会社概要書【様式2】(ワード:28KB) 1部 類似業務受託実績報告書【様式3】(ワード:37KB) 1部 暴力団排除に関する誓約書兼同意書【様式4】(ワード:33KB) 1部 暴力団排除に関する誓約書兼同意書(PDF:75KB) 別紙記入例 貸借対照表、損益計算書(直近1年分)(1部)コピー可) 納税証明書(申請日前3ヶ月以内に証明されたもの)1部(コピー可) 企画提案書6部 企画提案書については、電子データでも提出をすること。 なお電子データは、 「令和8年度静岡市移住プロモーション業務」プロポーザル審査書類(電子データ)提出フォーム(外部サイトへリンク) から提出すること。 見積書1部 申請方法 紙媒体で(企画提案書については電子データでも提出)、窓口持参又は郵送によりご提出ください。 (注記)郵送の場合は、書留郵便等の記録が残るものに限る。 申請先 総合政策局 総合政策課 人口減少対策推進係 〒420-8602 静岡市葵区追手町5番1号 静岡市役所 静岡庁舎12階 受付時間 土曜日日曜日及び祝日除く午前9時~正午及び午後1時~午後5時 スケジュール 変更になる場合があります。変更が生じた場合は、当ページ上で告知します。 公募開始 令和8(2026)年6月25日(木曜日) 質問書受付 6月25日(木曜日)~7月2日(木曜日)17時まで 企画提案書等提出締切 7月16日(木曜日)午後5時まで 書類審査(1次選考) 7月16日(木曜日)~7月23日(木曜日) 審査結果の通知(1次選考) 7月23日(木曜日)以降 プレゼンテーション(2次選考) 7月27日(月曜日) 最終審査結果の通知 7月29日(水曜日)以降 質問の受付 受付期間 令和8(2026)年7月2日(木曜日)午後5時必着 提出方法 質問票【様式5】(ワード:49KB) に記載し、 電子メール にてご提出ください。 (注記1)電子メールのタイトルは「静岡市移住プロモーション業務 質問票(企業名)」とし、送付した旨を電話にてご連絡ください。 (注記2)電話及びFAXでの提出は受け付けません。 質問への回答 令和8(2026)年7月6日(月曜日)までに随時、質問者に対し電子メールで送付するとともに、本ホームページに掲載いたします。 お問い合わせ 総合政策局総合政策課人口減少対策推進係 葵区追手町5-1 静岡庁舎新館12階 電話番号:054-221-1240 ファックス番号:054-221-1295 より良いウェブサイトにするためにみなさまのご意見をお聞かせください このページの情報は役に立ちましたか? 1:役に立った 2:ふつう 3:役に立たなかった このページの情報は見つけやすかったですか? 1:見つけやすかった 2:ふつう 3:見つけにくかった 事業者募集 「静岡市立清水病院」指定管理者の募集(非公募) 【質問に対する回答の公表】公募型プロポーザル「しずおか地域クラブ活動支援基盤構築及び運営業務」 指定管理者募集「静岡市南アルプス井川オート",
     "status": "closed",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shizuoka.lg.jp/s2934/s013104.html",
     "officialSourceUrl": "https://www.city.shizuoka.lg.jp/s2934/s013104.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -280494,13 +280524,13 @@
     "municipality": "静岡市",
     "organization": "静岡市",
     "title": "【選定結果の公表】公募型プロポーザル「SDGs推進イベント事業会場設営及び運営業務」",
-    "summary": "【選定結果の公表】公募型プロポーザル「SDGs推進イベント事業会場設営及び運営業務」 静岡市が、若者、子育て世代、ファミリー等へSDGsに関する行動啓発等を図ることを目的に、ツインメッセ静岡南館大展示場(以下「ツインメッセ南館」という。)において、体験ブースやステージ等を展開し、SDGsの行動を知り、学び、体験することで行動につながるSDGs推進イベント事業(以下「イベント」という。)を、ツインメッセ静岡北館で実施されるイベントと連携しつつ開催するにあたり、「SDGs推進イベント事業会場設営及び運営業務」を実施します。 本業務の実施にあたり、公募型プロポーザル方式にて事業者を募集します。 選定結果 公開型プロポーザル審査の結果、次のとおり契約予定者を決定しました。 契約予定者 株式会社静鉄アド・パートナーズ 得点 377点/500点 募集概要 業務名 令和8年度総政総委第10号 SDGs推進イベント事業会場設営及び運営業務 業務期間 契約締結日から令和9年2月28日まで 実施要領・仕様書 公募型プロポーザル実施要領(PDF:475KB) 仕様書(PDF:226KB) 提出書類 参加申請書 【様式2】(ワード:35KB) 1部 会社概要書【様式3】(ワード:38KB) 1部 業務実績報告書(任意書式)1部 暴力団排除に関する誓約書兼同意書【様式4】(ワード:46KB) 1部 暴力団排除に関する誓約書兼同意書(ワード:48KB) 別紙記入例 登記事項証明書(履歴事項全部証明書)(直近3か月以内のもの)1部 貸借対照表、損益計算書(直近1年分)1部 納税証明書(直近のもの)1部 企画提案書7部 企画提案書については、電子データでも提出をすること。 なお電子データは、 【プロポーザル審査書類提出フォーム】令和8年度SDGs推進イベント事業会場設営及び運営業務(外部サイトへリンク) から提出すること。 見積書1部 選定スケジュール 質問受付期限 令和8年5月19日(火曜日)午後5時必着 質問票【様式1】(ワード:17KB) に(ワード:17KB)記載して提出してください。 提出方法は 電子メール のみとし、電話及びFAXでの提出は受け付けません。 詳細は 実施要領(PDF:475KB) を(PDF:269KB)参照してください。 企画提案書等提出期限 令和8年6月12日(金曜日)午後5時必着 提出書類を、紙媒体で7部(企画書については電子データ1部)、下記提出先まで持参又は郵送によりご提出ください。(郵送の場合は、書留郵便等の記録が残るものに限る。) 提出先 〒420-8602 静岡市葵区追手町5番1号 静岡市役所静岡庁舎12階静岡市総合政策局総合政策課政策企画第2係 受付時間 土曜日日曜日及び祝日除く午前9時~正午及び午後1時~午後5時 スケジュール 変更になる場合があります。変更が生じた場合は、当ページ上で告知します。 公募開始 令和8(2026)年5月13日(水曜日) 質問受付期間 5月13日(水曜日)~5月19日(火曜日)午後5時まで 企画提案書等の提出締切 6月12日(金曜日)午後5時まで 書類審査期間(一次選考) 6月15日(月曜日)~6月16日(火曜日) 審査結果の通知(一次選考) 6月17日(水曜日) プレゼンテーション(二次選考) 6月18日(木曜日) 審査結果の通知 6月18日(木曜日)以降 お問い合わせ 総合政策局総合政策課政策企画第2係 葵区追手町5-1 静岡庁舎新館12階 電話番号:054-221-1022 ファックス番号:054-221-1295 より良いウェブサイトにするためにみなさまのご意見をお聞かせください このページの情報は役に立ちましたか? 1:役に立った 2:ふつう 3:役に立たなかった このページの情報は見つけやすかったですか? 1:見つけやすかった 2:ふつう 3:見つけにくかった 事業者募集 「静岡市立清水病院」指定管理者の募集(非公募) 公募型プロポーザル「しずおか地域クラブ活動支援基盤構築及び運営業務」 指定管理者募集「静岡市南アルプス井川オートキャンプ場」 指定管理者募集「静岡市清水ナショナルトレーニングセンター」 静岡市賤機都市山村交流センター指定管理者募集(非公募) 指定管理者募集「静岡市",
+    "summary": "【選定結果の公表】公募型プロポーザル「SDGs推進イベント事業会場設営及び運営業務」 静岡市が、若者、子育て世代、ファミリー等へSDGsに関する行動啓発等を図ることを目的に、ツインメッセ静岡南館大展示場(以下「ツインメッセ南館」という。)において、体験ブースやステージ等を展開し、SDGsの行動を知り、学び、体験することで行動につながるSDGs推進イベント事業(以下「イベント」という。)を、ツインメッセ静岡北館で実施されるイベントと連携しつつ開催するにあたり、「SDGs推進イベント事業会場設営及び運営業務」を実施します。 本業務の実施にあたり、公募型プロポーザル方式にて事業者を募集します。 選定結果 公開型プロポーザル審査の結果、次のとおり契約予定者を決定しました。 契約予定者 株式会社静鉄アド・パートナーズ 得点 377点/500点 募集概要 業務名 令和8年度総政総委第10号 SDGs推進イベント事業会場設営及び運営業務 業務期間 契約締結日から令和9年2月28日まで 実施要領・仕様書 公募型プロポーザル実施要領(PDF:475KB) 仕様書(PDF:226KB) 提出書類 参加申請書 【様式2】(ワード:35KB) 1部 会社概要書【様式3】(ワード:38KB) 1部 業務実績報告書(任意書式)1部 暴力団排除に関する誓約書兼同意書【様式4】(ワード:46KB) 1部 暴力団排除に関する誓約書兼同意書(ワード:48KB) 別紙記入例 登記事項証明書(履歴事項全部証明書)(直近3か月以内のもの)1部 貸借対照表、損益計算書(直近1年分)1部 納税証明書(直近のもの)1部 企画提案書7部 企画提案書については、電子データでも提出をすること。 なお電子データは、 【プロポーザル審査書類提出フォーム】令和8年度SDGs推進イベント事業会場設営及び運営業務(外部サイトへリンク) から提出すること。 見積書1部 選定スケジュール 質問受付期限 令和8年5月19日(火曜日)午後5時必着 質問票【様式1】(ワード:17KB) に(ワード:17KB)記載して提出してください。 提出方法は 電子メール のみとし、電話及びFAXでの提出は受け付けません。 詳細は 実施要領(PDF:475KB) を(PDF:269KB)参照してください。 企画提案書等提出期限 令和8年6月12日(金曜日)午後5時必着 提出書類を、紙媒体で7部(企画書については電子データ1部)、下記提出先まで持参又は郵送によりご提出ください。(郵送の場合は、書留郵便等の記録が残るものに限る。) 提出先 〒420-8602 静岡市葵区追手町5番1号 静岡市役所静岡庁舎12階静岡市総合政策局総合政策課政策企画第2係 受付時間 土曜日日曜日及び祝日除く午前9時~正午及び午後1時~午後5時 スケジュール 変更になる場合があります。変更が生じた場合は、当ページ上で告知します。 公募開始 令和8(2026)年5月13日(水曜日) 質問受付期間 5月13日(水曜日)~5月19日(火曜日)午後5時まで 企画提案書等の提出締切 6月12日(金曜日)午後5時まで 書類審査期間(一次選考) 6月15日(月曜日)~6月16日(火曜日) 審査結果の通知(一次選考) 6月17日(水曜日) プレゼンテーション(二次選考) 6月18日(木曜日) 審査結果の通知 6月18日(木曜日)以降 お問い合わせ 総合政策局総合政策課政策企画第2係 葵区追手町5-1 静岡庁舎新館12階 電話番号:054-221-1022 ファックス番号:054-221-1295 より良いウェブサイトにするためにみなさまのご意見をお聞かせください このページの情報は役に立ちましたか? 1:役に立った 2:ふつう 3:役に立たなかった このページの情報は見つけやすかったですか? 1:見つけやすかった 2:ふつう 3:見つけにくかった 事業者募集 「静岡市立清水病院」指定管理者の募集(非公募) 【質問に対する回答の公表】公募型プロポーザル「しずおか地域クラブ活動支援基盤構築及び運営業務」 指定管理者募集「静岡市南アルプス井川オートキャンプ場」 指定管理者募集「静岡市清水ナショナルトレーニングセンター」 静岡市賤機都市山村交流センター指定管理者募集(非公募",
     "deadline": "2026-06-12",
     "status": "closed",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shizuoka.lg.jp/s2934/s013132.html",
     "officialSourceUrl": "https://www.city.shizuoka.lg.jp/s2934/s013132.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -280592,7 +280622,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shizuoka.lg.jp/s3792/s012596.html",
     "officialSourceUrl": "https://www.city.shizuoka.lg.jp/s3792/s012596.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -280678,7 +280708,7 @@
     "municipality": "静岡市",
     "organization": "静岡市",
     "title": "【選定結果の公表】公募型プロポーザル「『静岡市のお茶』ブランド力向上に向けたマーケティング戦略構築等業務」",
-    "summary": "【選定結果の公表】公募型プロポーザル「『静岡市のお茶』ブランド力向上に向けたマーケティング戦略構築等業務」 「静岡市のお茶」のブランド力向上と販路・消費拡大を目的に、マーケティング戦略を構築し、その実践(テストマーケティング等)を行います。 選定結果 株式会社静岡博報堂:578点/800点 プロポーザル(企画提案)募集概要 業務名 令和8年度農政委第8号 「静岡市のお茶」ブランド力向上に向けたマーケティング戦略構築等業務 業務の目的 令和7年度に実施した市場調査・分析結果(PDF:1,673KB) を基礎として、「静岡市のお茶」が単発的な販売や一過性のプロモーションに留まることなく、長期的に消費者から選ばれ続けるブランドとなり、安定的な販路・消費を獲得することを目的に、マーケティング戦略の構築及びその実践(テストマーケティング等)を行う。 業務の内容 業務委託仕様書(PDF:242KB) のとおり ※ 令和7年度静岡市のお茶に関するマーケティング調査及び分析結果(PDF:1,673KB) もご確認ください。 業務期間 契約締結日から令和9年3月31日まで 見積上限額 12,592,000円(消費税額及び地方消費税10%を含む) 応募方法 提出書類 1. 【様式1】プロポーザル参加申請書(ワード:28KB) 2. 【様式2】会社概要書(ワード:28KB) 3. 【様式3】類似事業実績報告書(ワード:26KB) 4. 【様式4】暴力団排除に関する誓約書兼同意書(ワード:33KB) 5.履歴事項全部証明書の写し(直近3か月以内のもの) 6.貸借対照表、損益計算書(直近1年分)の写し 7.納税証明書(直近のもの)の写し 8.企画提案書【様式は任意】 ※ 公募型プロポーザル実施要領(PDF:407KB) を参照してください 9.参考見積書【様式は任意】 ※積算内容を詳細に記載 ※宛先は静岡市長、代表者印を押印 提出方法 上記提出書類を、 提案受付フォーム(外部サイトへリンク) からご提出ください。郵送、持参等その他の方法では受け付けませんのでご注意ください。 提出書類への記載内容などの詳細は、 公募型プロポーザル実施要領(PDF:407KB) をご確認ください。 提出期限 2026年5月20日(水曜日)17時まで 応募にあたっての質問 提出方法 【様式5】質問票(ワード:27KB) に記載のうえ、 質問受付フォーム(外部サイトへリンク) からご提出ください。電話、メール、ファックス等その他の方法では受け付けませんのでご注意ください。 質問提出期限 2026年5月13日(水曜日)正午まで 回答方法 2026年5月15日(金曜日)17時までに本ホームページに掲載するとともに、各質問者に対しメールを送信します。 実施スケジュール 質問受付期間 2026年5月13日(水曜日)正午まで 企画提案書の提出 2026年5月20日(水曜日)17時まで 書類選考(1次選考)審査結果通知 2026年5月26日(火曜日)まで ※応募者が7者以内の場合は書類選考を行わない。 プレゼンテーション選考(2次選考) 2026年5月28日(木曜日) 最終審査結果通知 2026年6月4日(木曜日)以降 お問い合わせ 経済局農政部農業政策課茶生産再生係 清水区旭町6-8 清水庁舎6階 電話番号:054-354-2089 ファックス番号:054-354-2482 より良いウェブサイトにするためにみなさまのご意見をお聞かせください このページの情報は役に立ちましたか? 1:役に立った 2:ふつう 3:役に立たなかった このページの情報は見つけやすかったですか? 1:見つけやすかった 2:ふつう 3:見つけにくかった 事業者募集 「静岡市立清水病院」指定管理者の募集(非公募) 公募型プロポーザル「しずおか地域クラブ活動支援基盤構築及び運営業務」 指定管理者募集「静岡市南アルプス井川オートキャンプ場」 指定管理者募集「静岡市清水ナショナルトレーニングセンター」 静岡市賤機都市山村交流センター指定管理者募集(非公募) 指定管理者募集「静岡市桜の園(身体障害者福祉施設)、静岡市桜の園(重度障害者生活訓練ホーム)、静岡市桜の園城北館」 指定管理者募集「静岡市東海道広重美術館及び静岡市由比本陣施",
+    "summary": "【選定結果の公表】公募型プロポーザル「『静岡市のお茶』ブランド力向上に向けたマーケティング戦略構築等業務」 「静岡市のお茶」のブランド力向上と販路・消費拡大を目的に、マーケティング戦略を構築し、その実践(テストマーケティング等)を行います。 選定結果 株式会社静岡博報堂:578点/800点 プロポーザル(企画提案)募集概要 業務名 令和8年度農政委第8号 「静岡市のお茶」ブランド力向上に向けたマーケティング戦略構築等業務 業務の目的 令和7年度に実施した市場調査・分析結果(PDF:1,673KB) を基礎として、「静岡市のお茶」が単発的な販売や一過性のプロモーションに留まることなく、長期的に消費者から選ばれ続けるブランドとなり、安定的な販路・消費を獲得することを目的に、マーケティング戦略の構築及びその実践(テストマーケティング等)を行う。 業務の内容 業務委託仕様書(PDF:242KB) のとおり ※ 令和7年度静岡市のお茶に関するマーケティング調査及び分析結果(PDF:1,673KB) もご確認ください。 業務期間 契約締結日から令和9年3月31日まで 見積上限額 12,592,000円(消費税額及び地方消費税10%を含む) 応募方法 提出書類 1. 【様式1】プロポーザル参加申請書(ワード:28KB) 2. 【様式2】会社概要書(ワード:28KB) 3. 【様式3】類似事業実績報告書(ワード:26KB) 4. 【様式4】暴力団排除に関する誓約書兼同意書(ワード:33KB) 5.履歴事項全部証明書の写し(直近3か月以内のもの) 6.貸借対照表、損益計算書(直近1年分)の写し 7.納税証明書(直近のもの)の写し 8.企画提案書【様式は任意】 ※ 公募型プロポーザル実施要領(PDF:407KB) を参照してください 9.参考見積書【様式は任意】 ※積算内容を詳細に記載 ※宛先は静岡市長、代表者印を押印 提出方法 上記提出書類を、 提案受付フォーム(外部サイトへリンク) からご提出ください。郵送、持参等その他の方法では受け付けませんのでご注意ください。 提出書類への記載内容などの詳細は、 公募型プロポーザル実施要領(PDF:407KB) をご確認ください。 提出期限 2026年5月20日(水曜日)17時まで 応募にあたっての質問 提出方法 【様式5】質問票(ワード:27KB) に記載のうえ、 質問受付フォーム(外部サイトへリンク) からご提出ください。電話、メール、ファックス等その他の方法では受け付けませんのでご注意ください。 質問提出期限 2026年5月13日(水曜日)正午まで 回答方法 2026年5月15日(金曜日)17時までに本ホームページに掲載するとともに、各質問者に対しメールを送信します。 実施スケジュール 質問受付期間 2026年5月13日(水曜日)正午まで 企画提案書の提出 2026年5月20日(水曜日)17時まで 書類選考(1次選考)審査結果通知 2026年5月26日(火曜日)まで ※応募者が7者以内の場合は書類選考を行わない。 プレゼンテーション選考(2次選考) 2026年5月28日(木曜日) 最終審査結果通知 2026年6月4日(木曜日)以降 お問い合わせ 経済局農政部農業政策課茶生産再生係 清水区旭町6-8 清水庁舎6階 電話番号:054-354-2089 ファックス番号:054-354-2482 より良いウェブサイトにするためにみなさまのご意見をお聞かせください このページの情報は役に立ちましたか? 1:役に立った 2:ふつう 3:役に立たなかった このページの情報は見つけやすかったですか? 1:見つけやすかった 2:ふつう 3:見つけにくかった 事業者募集 「静岡市立清水病院」指定管理者の募集(非公募) 【質問に対する回答の公表】公募型プロポーザル「しずおか地域クラブ活動支援基盤構築及び運営業務」 指定管理者募集「静岡市南アルプス井川オートキャンプ場」 指定管理者募集「静岡市清水ナショナルトレーニングセンター」 静岡市賤機都市山村交流センター指定管理者募集(非公募) 指定管理者募集「静岡市桜の園(身体障害者福祉施設)、静岡市桜の園(重度障害者生活訓練ホーム)、静岡市桜の園城北館」 指定管理者募集「静岡市東海道広重",
     "deadline": "2026-05-20",
     "presentationDate": "2026-05-28",
     "budget": 1259.2,
@@ -280686,7 +280716,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shizuoka.lg.jp/s5436/s013055.html",
     "officialSourceUrl": "https://www.city.shizuoka.lg.jp/s5436/s013055.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "広報・広告",
@@ -282954,7 +282984,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24016.docx",
     "officialSourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24016.docx",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -282999,7 +283029,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24021.docx",
     "officialSourceUrl": "https://www.city.shiki.lg.jp/uploaded/attachment/24021.docx",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -298338,7 +298368,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.vill.shimokitayama.nara.jp/oshirase/file/0692e993bb6ea239ff7a9f5376c979bb47f5b6af.pdf",
     "officialSourceUrl": "https://www.vill.shimokitayama.nara.jp/oshirase/file/0692e993bb6ea239ff7a9f5376c979bb47f5b6af.pdf",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -300371,7 +300401,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.yubari.lg.jp/site/nyusatsu/10905.html",
     "officialSourceUrl": "https://www.city.yubari.lg.jp/site/nyusatsu/10905.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -308018,12 +308048,12 @@
     "municipality": "狭山市",
     "organization": "狭山市",
     "title": "11月イベントカレンダー",
-    "summary": "11月イベントカレンダー きてみて!今日 日のイベント 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 狭山特別支援学校狭山清陵分校の生徒による手作りパンの販売実習 ユニバーサルスポーツを楽しもう!@富士見集会所 募集締め切り間近 現在、募集締め切り間近のイベントはありません イベントを絞り込んで検索 キッズ シルバー 教育・子育て 健康・福祉 スポーツ・レクリエーション 文化・教養 安全・安心 マルシェ 自然を楽しむ その他 すべてのイベントを表示 2026年11月 10月 12月 開催日 イベント 1日 日曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 防災フェスタ ほりかね秋市 第46回狭山市商工祭 2日 月曜日 3日 火曜日 文化の日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック ほりかね秋市 4日 水曜日 入間川にこにこテラス(ニコテラWednesdayなど) 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック ワイワイ広場(狭山稲荷山公園) 5日 木曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 6日 金曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 【防犯講座】超高齢社会における 高齢者を巡る地域生活課題 【事前申込】認知症サポーターステップアップ講座 【事前申込】おはなし会(読み聞かせ会)入曽地域交流センター 7日 土曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 8日 日曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 第37回さやま大茶会 奥富かかし祭り 9日 月曜日 【事前申込】すこやか体操教室 10日 火曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 11日 水曜日 入間川にこにこテラス(ニコテラWednesdayなど) 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 【事前申込】いきいき百歳体操のサポーター養成講座 12日 木曜日 わいわいルーム御狩場のイベント 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック ゆるHIITで滝汗かこう! 【事前申込】要約筆記体験講座 子育て広場(あいあい、プチ・クレヨン)@柏原公民館 13日 金曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 健康講座~仲間と楽しく健康について学び、実践しよう!~ 【事前申込】認知症サポーターステップアップ講座 14日 土曜日 狭山市農業祭 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 【事前申込】ちゃっぽ子育て講座第4回 茶の花文学散歩「吉野弘の見た風景」参加者募集のお知らせ 【事前申込】狭山市創業セミナー2026 15日 日曜日 令和8年度狭山市地区別訓練を実施します 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 16日 月曜日 【事前申込】乳幼児健康相談 17日 火曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 【事前申込】みんなが知れば怖くない(介護予防・認知症予防講座) 18日 水曜日 入間川にこにこテラス(ニコテラWednesdayなど) 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 19日 木曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 狭山特別支援学校狭山清陵分校の生徒による手作りパンの販売実習 ユニバーサルスポーツを楽しもう!@富士見集会所 20日 金曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 認知症カフェ(オレンジカフェ) 21日 土曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 2026イルミネーション in SAYAMA 22日 日曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 2026イルミネーション in SAYAMA 23日 月曜日 勤労感謝の日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 2026イルミネーション in SAYAMA 【事前申込】すこやか体操教室 24日 火曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 2026イルミネーション in SAYAMA 【事前申込】助産師による母乳相談 25日 水曜日 入間川にこにこテラス(ニコテラWednesdayなど) わいわいルーム御狩場のイベ",
+    "summary": "11月イベントカレンダー きてみて!今日 日のイベント 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 2026イルミネーション in SAYAMA 【事前申込】講演会・人生会議~生き方と逝き方を考える~ 【事前申込】要約筆記体験講座 子育て広場(あいあい、プチ・クレヨン)@柏原公民館 ワイワイ広場(広瀬河川敷公園) 募集締め切り間近 現在、募集締め切り間近のイベントはありません イベントを絞り込んで検索 キッズ シルバー 教育・子育て 健康・福祉 スポーツ・レクリエーション 文化・教養 安全・安心 マルシェ 自然を楽しむ その他 すべてのイベントを表示 2026年11月 10月 12月 開催日 イベント 1日 日曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 防災フェスタ ほりかね秋市 第46回狭山市商工祭 2日 月曜日 3日 火曜日 文化の日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック ほりかね秋市 4日 水曜日 入間川にこにこテラス(ニコテラWednesdayなど) 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック ワイワイ広場(狭山稲荷山公園) 5日 木曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 6日 金曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 【防犯講座】超高齢社会における 高齢者を巡る地域生活課題 【事前申込】認知症サポーターステップアップ講座 【事前申込】おはなし会(読み聞かせ会)入曽地域交流センター 7日 土曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 8日 日曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 第37回さやま大茶会 9日 月曜日 【事前申込】すこやか体操教室 10日 火曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 11日 水曜日 入間川にこにこテラス(ニコテラWednesdayなど) 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 【事前申込】いきいき百歳体操のサポーター養成講座 12日 木曜日 わいわいルーム御狩場のイベント 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック ゆるHIITで滝汗かこう! 【事前申込】要約筆記体験講座 子育て広場(あいあい、プチ・クレヨン)@柏原公民館 13日 金曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 健康講座~仲間と楽しく健康について学び、実践しよう!~ 【事前申込】認知症サポーターステップアップ講座 14日 土曜日 狭山市農業祭 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 【事前申込】ちゃっぽ子育て講座第4回 茶の花文学散歩「吉野弘の見た風景」参加者募集のお知らせ 【事前申込】狭山市創業セミナー2026 15日 日曜日 令和8年度狭山市地区別訓練を実施します 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 16日 月曜日 【事前申込】乳幼児健康相談 17日 火曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 【事前申込】みんなが知れば怖くない(介護予防・認知症予防講座) 18日 水曜日 入間川にこにこテラス(ニコテラWednesdayなど) 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 19日 木曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 狭山特別支援学校狭山清陵分校の生徒による手作りパンの販売実習 ユニバーサルスポーツを楽しもう!@富士見集会所 20日 金曜日 こども食堂・地域食堂(入間川にこにこテラス) 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 認知症カフェ(オレンジカフェ) 21日 土曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 2026イルミネーション in SAYAMA 22日 日曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 2026イルミネーション in SAYAMA 23日 月曜日 勤労感謝の日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 2026イルミネーション in SAYAMA 【事前申込】すこやか体操教室 24日 火曜日 童絵作家 池原昭治展 昔ばなしと旅するスケッチブック 2026イルミネーション in SAYAM",
     "status": "unknown",
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.sayama.saitama.jp/kankou/event/calendar/list_calendar.html",
     "officialSourceUrl": "https://www.city.sayama.saitama.jp/kankou/event/calendar/list_calendar.html",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "イベント"
@@ -308918,7 +308948,7 @@
     "sourceUrl": "https://www.city.shiogama.miyagi.jp/uploaded/life/59732_154292_misc.pdf",
     "sourceName": "宮城県塩竃市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "仕様書 [PDFファイル／326KB]",
@@ -325736,7 +325766,7 @@
     "sourceSystem": "municipality_direct",
     "sourceUrl": "https://www.city.kounosu.saitama.jp/rss/10/site-57.xml",
     "officialSourceUrl": "https://www.city.kounosu.saitama.jp/rss/10/site-57.xml",
-    "lastChecked": "2026-11-19",
+    "lastChecked": "2026-11-25",
     "dataQuality": "official",
     "theme": [
       "その他クリエイティブ"
@@ -332836,7 +332866,7 @@
     "sourceUrl": "https://www.pref.okinawa.lg.jp/_res/projects/default_project/_page_/001/042/095/01.pdf",
     "sourceName": "沖縄県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "03_入札説明書 （PDF 46.7KB）",
@@ -333123,7 +333153,7 @@
     "sourceUrl": "https://www.police.pref.wakayama.lg.jp/nyusatu/01%20mitumori.pdf",
     "sourceName": "国家公安委員会（警察庁）和歌山県警察",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "・オープンカウンター方式による説明書【出納係】",
@@ -333179,7 +333209,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/46_2026_164.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -333231,7 +333261,7 @@
     "sourceUrl": "https://www.city.komoro.lg.jp/material/files/group/4/koukoku27.pdf",
     "sourceName": "長野県小諸市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札要領 (PDFファイル: 550.1KB)",
@@ -333305,7 +333335,7 @@
     "sourceUrl": "https://www.city.omihachiman.lg.jp/material/files/group/199/k202611181.pdf",
     "sourceName": "滋賀県近江八幡市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "説明書等(圧縮ファイル:193KB)",
@@ -333360,7 +333390,7 @@
     "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2027/200138.htm",
     "sourceName": "京都府京都市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札公告",
@@ -333422,7 +333452,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/47_2026_28.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -333582,7 +333612,7 @@
     "sourceUrl": "https://www.city.shimonoseki.lg.jp/uploaded/life/165018_653496_misc.pdf",
     "sourceName": "山口県下関市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "02.功山寺公衆便所新築工事設計委託業務仕様書 [PDFファイル／233KB]",
@@ -333747,7 +333777,7 @@
     "sourceUrl": "https://www.city.meguro.tokyo.jp/documents/20619/tosyokanrfp-bosyuyoukou-2.pdf",
     "sourceName": "東京都目黒区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "様式06_機密情報の取扱いに関する標準特記仕様書（PDF：312KB）",
@@ -333920,7 +333950,7 @@
     "sourceUrl": "https://yokohama.hosp.go.jp/bid_info/./pdf/koukoku_gyoumu_itaku_20261118-1.pdf",
     "sourceName": "独立行政法人国立病院機構横浜市南西部地域中核病院横浜医療センター",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -333970,7 +334000,7 @@
     "sourceUrl": "https://www.pref.kagoshima.jp/af09/taiwan/documents/131476_20261118101213-1.pdf",
     "sourceName": "鹿児島県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札説明書（PDF：493KB）",
@@ -334068,7 +334098,7 @@
     "sourceUrl": "https://www.hkd.mlit.go.jp/rm/keiyaku/f6h4sv0000000i3g-att/qc4ic800000008ho.pdf",
     "sourceName": "国土交通省北海道開発局留萌開発建設部",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -334438,7 +334468,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/43/youryou_s_tenken_20261119.zip",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "仕様書 (圧縮ファイル: 1.9MB)",
@@ -334542,7 +334572,7 @@
     "sourceUrl": "https://zaimuhp2.sec.tsukuba.ac.jp/edit-ad/wp-content/uploads/ce61ec733545ffd931c919eedca60b4c.pdf",
     "sourceName": "国立大学法人筑波大学",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -334591,7 +334621,7 @@
     "sourceUrl": "https://www.city.izu.shizuoka.jp/material/files/group/11/koukoku8-14-102.pdf",
     "sourceName": "静岡県伊豆市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "仕様書 (PDFファイル: 282.0KB)",
@@ -334657,7 +334687,7 @@
     "sourceUrl": "https://www.city.izu.shizuoka.jp/material/files/group/11/koukoku8-14-101.pdf",
     "sourceName": "静岡県伊豆市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "仕様書 (PDFファイル: 345.9KB)",
@@ -334720,7 +334750,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/47_2026_26.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -334767,7 +334797,7 @@
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/qqAuf6w3sK20261117_5.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -334817,7 +334847,7 @@
     "sourceUrl": "https://www.city.kagoshima.lg.jp/soumu/soumu/jousys/koukoku/documents/01_mailarchive_kokuji.pdf",
     "sourceName": "鹿児島県鹿児島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "別紙1_システム仕様書（PDF：405KB）",
@@ -334881,7 +334911,7 @@
     "sourceUrl": "https://www.police.pref.tokushima.jp/./wp-content/uploads/post49073/u3t20261117cwomt23.pdf",
     "sourceName": "国家公安委員会（警察庁）徳島県警察",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -334930,7 +334960,7 @@
     "sourceUrl": "https://www.maff.go.jp/tokai/supply/bpe/attach/pdf/index-391.pdf",
     "sourceName": "農林水産省東海農政局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "業務仕様書(PDF : 831KB)",
@@ -334986,7 +335016,7 @@
     "sourceUrl": "https://www.city.koto.lg.jp/055201/documents/1danjyo-implementationguideline.pdf",
     "sourceName": "東京都江東区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：277KB）（別ウィンドウで開きます）",
@@ -335046,7 +335076,7 @@
     "sourceUrl": "https://www.city.koto.lg.jp/055201/documents/01_jissiyouryo.pdf",
     "sourceName": "東京都江東区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：446KB）（別ウィンドウで開きます）",
@@ -335101,7 +335131,7 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e078.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -335151,7 +335181,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/37003/youryou.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -335198,7 +335228,7 @@
     "sourceUrl": "https://www.kaiho.mlit.go.jp/11kanku/nyusatu/007-reiwa8nenndo/ekimu/ekimu113/ekimu113koukoku.pdf",
     "sourceName": "海上保安庁第十一管区海上保安本部",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -335253,7 +335283,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/75397/1_shikamoto_kamiisshiki_jisshiyoko.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託仕様書（PDF：232KB）",
@@ -335306,7 +335336,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00373827/3_73827_524504_up_xgwo5ck6.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "仕様書（案）（PDF：250.8キロバイト）",
@@ -335363,7 +335393,7 @@
     "sourceUrl": "https://www.city.kamisu.ibaraki.jp/business/bid/1002558/1002559/../../../../business/bid/1002558/1002559/1013677/../../../../../business/bid/1002558/1002559/1013677/../../../../../_res/projects/default_project/_page_/001/014/222/141-koukoku.pdf",
     "sourceName": "茨城県神栖市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -335415,7 +335445,7 @@
     "sourceUrl": "https://www.city.kamisu.ibaraki.jp/business/bid/1002558/1002559/../../../../business/bid/1002558/1002559/1013677/../../../../../business/bid/1002558/1002559/1013677/../../../../../_res/projects/default_project/_page_/001/014/222/140-koukoku.pdf",
     "sourceName": "茨城県神栖市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -335467,7 +335497,7 @@
     "sourceUrl": "https://www.city.kamisu.ibaraki.jp/business/bid/1002558/1002559/../../../../business/bid/1002558/1002559/1013677/../../../../../business/bid/1002558/1002559/1013677/../../../../../_res/projects/default_project/_page_/001/014/222/139-koukoku.pdf",
     "sourceName": "茨城県神栖市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -335519,7 +335549,7 @@
     "sourceUrl": "https://www.city.kamisu.ibaraki.jp/business/bid/1002558/1002559/../../../../business/bid/1002558/1002559/1013677/../../../../../business/bid/1002558/1002559/1013677/../../../../../_res/projects/default_project/_page_/001/014/222/138-koukoku.pdf",
     "sourceName": "茨城県神栖市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -335571,7 +335601,7 @@
     "sourceUrl": "https://www.city.kamisu.ibaraki.jp/business/bid/1002558/1002559/../../../../business/bid/1002558/1002559/1013677/../../../../../business/bid/1002558/1002559/1013677/../../../../../_res/projects/default_project/_page_/001/014/222/137-koukoku.pdf",
     "sourceName": "茨城県神栖市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -335623,7 +335653,7 @@
     "sourceUrl": "https://www.city.kamisu.ibaraki.jp/business/bid/1002558/1002559/../../../../business/bid/1002558/1002559/1013677/../../../../../business/bid/1002558/1002559/1013677/../../../../../_res/projects/default_project/_page_/001/014/222/136-koukoku.pdf",
     "sourceName": "茨城県神栖市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -335673,7 +335703,7 @@
     "sourceUrl": "https://www.chugokuh.johas.go.jp/wp/wp-content/uploads/%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A%EF%BC%88%E3%83%AA%E3%83%A2%E3%83%BC%E3%83%88%E4%BF%9D%E5%AE%88%E6%8E%A5%E7%B6%9A%E9%9B%86%E7%B4%84%E5%9F%BA%E7%9B%A4%E5%B0%8E%E5%85%A5%E6%A5%AD%E5%8B%99%EF%BC%89.pdf",
     "sourceName": "独立行政法人労働者健康安全機構中国労災病院",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -336651,7 +336681,7 @@
     "sourceUrl": "https://www.city.toshima.lg.jp/documents/58429/01_boshuuyoukou.pdf",
     "sourceName": "東京都豊島区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "【別紙1】参考仕様書（PDF：983KB）",
@@ -336714,7 +336744,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/32/seisouzissiyouryou.pdf",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "仕様書 (PDFファイル: 122.0KB)",
@@ -336769,7 +336799,7 @@
     "sourceUrl": "https://www.pref.hokkaido.lg.jp/hf/khf/250530.html",
     "sourceName": "北海道",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "北海道告示第10365号 (PDF 164KB)",
@@ -336836,7 +336866,7 @@
     "sourceUrl": "https://www.city.minami-alps.yamanashi.jp/fs/1/4/7/4/6/5/_/19_____________.pdf",
     "sourceName": "山梨県南アルプス市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "5082000058 (ZIP 4.15MB)",
@@ -336890,7 +336920,7 @@
     "sourceUrl": "https://www.city.kuwana.lg.jp/documents/12755/r901koukoku.pdf",
     "sourceName": "三重県桑名市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：742KB）",
@@ -336947,7 +336977,7 @@
     "sourceUrl": "https://www.city.kagoshima.lg.jp/kensetu/toshikeikaku/toshikeikan/documents/r8-1282.pdf",
     "sourceName": "鹿児島県鹿児島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：258KB）",
@@ -337064,7 +337094,7 @@
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/f20wRrJ5rD20261119_6.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -337111,7 +337141,7 @@
     "sourceUrl": "https://www.nedo.go.jp/content/800075254.pdf",
     "sourceName": "国立研究開発法人新エネルギー・産業技術総合開発機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "仕様書（165KB）",
@@ -337170,7 +337200,7 @@
     "sourceUrl": "https://www.pref.miyazaki.lg.jp/sogoseisaku/kense/chotatsu/20261028175953.html",
     "sourceName": "宮崎県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札公告（PDF：81KB）",
@@ -337238,7 +337268,7 @@
     "sourceUrl": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/008/613/245-0.pdf",
     "sourceName": "東京都日野市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -337287,7 +337317,7 @@
     "sourceUrl": "https://www.shichigahama.com/benricho/oshirase/assets/%E2%91%A0%E5%85%AC%E5%91%8A%EF%BC%88%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E7%B7%9A%E4%B8%8B%E5%85%AC%E5%9C%92%E3%81%BB%E3%81%8B%E6%A8%B9%E6%9C%A8%E4%BC%90%E6%8E%A1%E5%8F%8A%E3%81%B3%E5%89%AA%E5%AE%9A%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97%EF%BC%89.pdf",
     "sourceName": "宮城県七ヶ浜町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "・事業仕様書PDF版",
@@ -337341,7 +337371,7 @@
     "sourceUrl": "https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/11/kokoku_R9_kenchikusetsubi.pdf",
     "sourceName": "独立行政法人日本芸術文化振興会",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札説明書等 (345.73KB)",
@@ -337397,7 +337427,7 @@
     "sourceUrl": "https://www.pref.saga.lg.jp/kiji003110905/3_110905_up_rres0ton.pdf",
     "sourceName": "佐賀県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札説明書",
@@ -337464,7 +337494,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/36868/01.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "02_SNS相談システム導入運用保守_プロポーザル提案要求仕様書（PDF：1,334KB）",
@@ -337518,7 +337548,7 @@
     "sourceUrl": "https://www.city.tamura.lg.jp/soshiki/3/assets/261120%E6%9D%A1%E4%BB%B6%E4%BB%98%E3%81%8D%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A.pdf",
     "sourceName": "福島県田村市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -337566,7 +337596,7 @@
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202611201.files/8-384_koukoku.pdf",
     "sourceName": "埼玉県狭山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札説明書（PDF・71KB）",
@@ -337632,7 +337662,7 @@
     "sourceUrl": "https://www.city.uonuma.lg.jp/nyusatu/261203/003461/00346101.pdf",
     "sourceName": "新潟県魚沼市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "【令8単施委-26号】位置図",
@@ -337693,7 +337723,7 @@
     "sourceUrl": "https://www.city.uonuma.lg.jp/nyusatu/261203/003759/00375901.pdf",
     "sourceName": "新潟県魚沼市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "令8現単交委第12号 仕様書",
@@ -337755,7 +337785,7 @@
     "sourceUrl": "https://www.city.uonuma.lg.jp/nyusatu/261203/003732/00373201.pdf",
     "sourceName": "新潟県魚沼市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "【令8現単有機委第20号】仕様書",
@@ -337818,7 +337848,7 @@
     "sourceUrl": "https://www.city.yokkaichi.mie.jp/new_water/wp/wp-content/uploads/2026/11/D010kokoku.pdf",
     "sourceName": "三重県四日市市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "［仕様書］",
@@ -337894,7 +337924,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00373871/3_73871_525473_up_bsi7wzkq.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "02 仕様書（PDF：723.8キロバイト）",
@@ -337951,7 +337981,7 @@
     "sourceUrl": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/891/s_kaikei_morinisi01.pdf",
     "sourceName": "国家公安委員会（警察庁）岩手県警察",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札説明書 （PDF 179.8KB）",
@@ -338008,7 +338038,7 @@
     "sourceUrl": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/890/s_kaikei_morioka01.pdf",
     "sourceName": "国家公安委員会（警察庁）岩手県警察",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札説明書 （PDF 178.2KB）",
@@ -338065,7 +338095,7 @@
     "sourceUrl": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/889/s_keikei_kennan01.pdf",
     "sourceName": "国家公安委員会（警察庁）岩手県警察",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札説明書 （PDF 180.2KB）",
@@ -338122,7 +338152,7 @@
     "sourceUrl": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/888/s_kaikei_kenpoku01.pdf",
     "sourceName": "国家公安委員会（警察庁）岩手県警察",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札説明書 （PDF 180.1KB）",
@@ -338180,7 +338210,7 @@
     "sourceUrl": "https://www.city.sanda.lg.jp/material/files/group/157/R8ninnteikodomoennkyuusyoku_koukoku.pdf",
     "sourceName": "兵庫県三田市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札等説明書(PDFファイル:76.7KB)",
@@ -338242,7 +338272,7 @@
     "sourceUrl": "https://www.city.sanda.lg.jp/material/files/group/157/R8tuuennbasuunnkougyoumu_koukoku.pdf",
     "sourceName": "兵庫県三田市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札等説明書(PDFファイル:77.1KB)",
@@ -338304,7 +338334,7 @@
     "sourceUrl": "https://www.city.aioi.lg.jp/uploaded/attachment/25982.pdf",
     "sourceName": "兵庫県相生市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -338870,7 +338900,7 @@
     "sourceUrl": "https://www.pref.hiroshima.lg.jp/uploaded/life/1156913_9860939_misc.pdf",
     "sourceName": "広島県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札説明書 (PDFファイル)(103KB)",
@@ -338930,7 +338960,7 @@
     "sourceUrl": "https://www.pref.hiroshima.lg.jp/uploaded/life/1157415_9863429_misc.pdf",
     "sourceName": "広島県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [
       {
         "name": "入札説明書等 (その他のファイル)(5.62MB)",
@@ -340230,7 +340260,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/48/R8huron_jissiyouryou.pdf",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "仕様書 (PDFファイル: 5.4MB)",
@@ -340282,7 +340312,7 @@
     "sourceUrl": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
     "sourceName": "防衛省",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:05+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -340332,7 +340362,7 @@
     "sourceUrl": "https://www.city.nara.lg.jp/soshiki/107/279851.html",
     "sourceName": "奈良県奈良市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "入札公告文 [PDFファイル／173KB]",
@@ -340398,7 +340428,7 @@
     "sourceUrl": "https://www.city.kagoshima.lg.jp/kankyo/kankyo/saien/documents/kokuzibunn1.pdf",
     "sourceName": "鹿児島県鹿児島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "閲覧設計図書（PDF：865KB）",
@@ -340460,7 +340490,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026043613.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "1",
@@ -340514,7 +340544,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026043448.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "1",
@@ -340566,7 +340596,7 @@
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/VzB7N73JcD20261117_24.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -340625,7 +340655,7 @@
     "sourceUrl": "https://www.city.koriyama.lg.jp/uploaded/attachment/133698.pdf",
     "sourceName": "福島県郡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "募集要項 [PDFファイル／153KB]",
@@ -340697,7 +340727,7 @@
     "sourceUrl": "https://www.city.koriyama.lg.jp/uploaded/attachment/133693.pdf",
     "sourceName": "福島県郡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "募集要項 [PDFファイル／194KB]",
@@ -340759,7 +340789,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/46_2026_171.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -340808,7 +340838,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026044039.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "1",
@@ -340862,7 +340892,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026043918.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "1",
@@ -340916,7 +340946,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026042406.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "1",
@@ -340975,7 +341005,7 @@
     "sourceUrl": "https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_gesuidousougouzisinntaisakutaisinnsinndanntou.pdf",
     "sourceName": "神奈川県逗子市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "02_図面一式 （PDF 5.9 MB）",
@@ -341034,7 +341064,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/75218/01_mishuen_jisshiyoryo.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "（別紙2）未就園児家庭訪問事業業務委託仕様書（案）（PDF：210KB）",
@@ -341088,7 +341118,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026042287.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "1",
@@ -341142,7 +341172,7 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e079.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -341192,7 +341222,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/75395/01jisshiyoryo.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "（別紙2）仕様書（案）（PDF：217KB）",
@@ -341247,7 +341277,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/75396/01jisshiyoryo.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "（別紙2）仕様書（案）（PDF：208KB）",
@@ -341309,7 +341339,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/37105/1-0_zisshiyoryokensetsumeisyo.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "別紙「仕様書（案）」（PDF：1,158KB）",
@@ -341373,7 +341403,7 @@
     "sourceUrl": "https://www.city.saku.nagano.jp/machizukuri/jigyosha/nyusatsu/keiyakugai/013920261120154207266.files/zissi.pdf",
     "sourceName": "長野県佐久市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -341424,7 +341454,7 @@
     "sourceUrl": "https://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/kobogata/kyodo_proposal.files/01_setumeisyo.pdf",
     "sourceName": "東京都町田市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "2 町田市福祉輸送サービス共同配車センター運営業務委託仕様書（PDF・525KB）",
@@ -341482,7 +341512,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/49/jisshiyouryouR8dokusyo2kaime.pdf",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "仕様書 (PDFファイル: 355.2KB)",
@@ -341539,7 +341569,7 @@
     "sourceUrl": "https://www.pref.akita.lg.jp/uploads/public/archive_0000061207_00/01_%E5%85%AC%E5%91%8A%E6%96%87.pdf",
     "sourceName": "秋田県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-25T05:28:50+00:00",
+    "lastChecked": "2026-11-25T17:22:04+00:00",
     "attachments": [
       {
         "name": "特記仕様書（PDF） [99KB]",
@@ -342301,6 +342331,188 @@
       {
         "name": "契約書（案） （PDF：232KB）",
         "url": "https://www.pref.gunma.jp/uploaded/attachment/720053.pdf"
+      }
+    ],
+    "sourceCount": 1,
+    "pastAwards": [],
+    "vendorHistory": [],
+    "historyStatus": "unverified",
+    "historyCheckedYears": [
+      2025,
+      2024,
+      2023
+    ],
+    "historyCoverageYears": []
+  },
+  {
+    "dedupeKey": "7f2aeed3905685cc9e130556e0491a4003285cbdd5b4ac0385a4ace73395eb23",
+    "sourceRefs": [
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.sapporo.jp/s026/56181.html"
+      }
+    ],
+    "id": "direct-d14b45ad4b904a4d4e9acc41",
+    "municipalityCode": "011002",
+    "area": "北海道",
+    "region": "北海道",
+    "municipality": "札幌市",
+    "organization": "札幌市",
+    "title": "公募中案件一覧",
+    "summary": "公募中案件一覧 市長部局(交通局、水道局及び病院局を除く各部局)で直接契約する案件の情報を一覧で掲載しています。 契約管理課で所管する物品購入等、工事及び設計等の電子入札案件の情報 については 入札情報サービス に掲載しています。 企業局(交通局、水道局及び病院局)の情報 については、 各企業局ホームページ に掲載しています。 市長部局における 入札等の結果 については、 入札等結果一覧 に掲載しています。 契約案件一覧 市長部局において 現在公募中の契約案件の一覧をExcelファイル及びPDFファイルで掲載 しています。 市長部局で調達する業務委託等(政府調達に関する協定の適用を受けるものに限る)の 仕様書案に対する意見招請 についても掲載しています。 一覧は、原則として 毎週月曜日に更新 します。( 月曜日が休日となる場合は、翌開庁日に更新 します。) 「調達契約の名称」をクリックすると個別の案件情報ページが開きます。案件情報ページでは告示及び仕様書等、案件の詳細が確認できます。 一覧は、開札後、1か月以内の案件を掲載しています。(開札後1か月を経過した案件の情報は、所管部局のホームページで確認できます。) 「事前書類提出期限」は、入札書等を提出するにあたり、事前に別途参加申請書や審査書類の提出が必要な場合に、それらの書類を提出する期日となります。 企画競争(プロポーザル等)については、入札書提出期限が提案書提出期日、開札日が提案書最終審査予定日となります。 各期限における締切時刻については、個別の案件情報ページにてご確認ください。 一覧は、 掲載日・告示日が新しい順 に掲載しています。 契約案件 意見等招請及び調達予定の公表 契約案件一覧(エクセル:48KB) 契約案件一覧(PDF:404KB) 現在公表する案件はございません 関連リンク 交通局入札・契約情報 水道局入札・契約関係 病院局(市立札幌病院入札・契約情報) より良いウェブサイトにするためにみなさまのご意見をお聞かせください このページの情報は役に立ちましたか? 1:役に立った 2:ふつう 3:役に立たなかった",
+    "status": "unknown",
+    "sourceSystem": "municipality_direct",
+    "sourceUrl": "https://www.city.sapporo.jp/s026/56181.html",
+    "officialSourceUrl": "https://www.city.sapporo.jp/s026/56181.html",
+    "lastChecked": "2026-11-25",
+    "dataQuality": "official",
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "dentsuFitScore": 0,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "プロポーザル",
+      "除外:物品購入"
+    ],
+    "classificationVersion": 2,
+    "attachments": [
+      {
+        "name": "契約案件一覧（エクセル：48KB）",
+        "url": "https://www.city.sapporo.jp/documents/56181/keiyakuankenichiran1.xlsx"
+      },
+      {
+        "name": "契約案件一覧（PDF：404KB）",
+        "url": "https://www.city.sapporo.jp/documents/56181/keiyakuankenichiran1.pdf"
+      }
+    ],
+    "sourceCount": 1,
+    "pastAwards": [],
+    "vendorHistory": [],
+    "historyStatus": "unverified",
+    "historyCheckedYears": [
+      2025,
+      2024,
+      2023
+    ],
+    "historyCoverageYears": []
+  },
+  {
+    "dedupeKey": "34ad1a02a75990f3346c47fec964aebc088783482c01fe14a33fa5c47a117089",
+    "sourceRefs": [
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.sapporo.jp/business/keiyaku-kanri/kojikansa/roumu-shizaitanka/index.html"
+      }
+    ],
+    "id": "direct-44d6fabf4cf559cd6fee0c52",
+    "municipalityCode": "011002",
+    "area": "北海道",
+    "region": "北海道",
+    "municipality": "札幌市",
+    "organization": "札幌市",
+    "title": "労務・資材単価",
+    "summary": "労務・資材単価 労務・資材単価について 過去の資材単価 各発注部局で策定した単価",
+    "status": "unknown",
+    "sourceSystem": "municipality_direct",
+    "sourceUrl": "https://www.city.sapporo.jp/business/keiyaku-kanri/kojikansa/roumu-shizaitanka/index.html",
+    "officialSourceUrl": "https://www.city.sapporo.jp/business/keiyaku-kanri/kojikansa/roumu-shizaitanka/index.html",
+    "lastChecked": "2026-11-25",
+    "dataQuality": "official",
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "dentsuFitScore": 0,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [],
+    "classificationVersion": 2,
+    "attachments": [],
+    "sourceCount": 1,
+    "pastAwards": [],
+    "vendorHistory": [],
+    "historyStatus": "unverified",
+    "historyCheckedYears": [
+      2025,
+      2024,
+      2023
+    ],
+    "historyCoverageYears": []
+  },
+  {
+    "dedupeKey": "7269df86509e8421fb0ce2d3278c808276f6245a6a93af8285e6c7959dabb52e",
+    "sourceRefs": [
+      {
+        "sourceSystem": "municipality_direct",
+        "url": "https://www.city.hanyu.lg.jp/docs/2026112000040/"
+      }
+    ],
+    "id": "direct-78e006abf2b784e7e9217a79",
+    "municipalityCode": "112160",
+    "area": "南関東",
+    "region": "埼玉県",
+    "municipality": "羽生市",
+    "organization": "羽生市",
+    "title": "羽生市公式LINEを活用したスマート市役所構築業務公募型プロポーザル | 羽生市",
+    "summary": "公開日 2026年11月20日 更新日 2026年11月20日 既存の羽生市LINE公式アカウントを行政サービスの共通入口として、情報発信の強化・充実を図るとともに、電子申請、施設予約、通報、本人確認及びオンライン決済等を提供することで、市民が来庁することなく必要な行政手続等が可能となる環境を整備します。 また、市民一人一人が必要とする情報を届けるとともに、受付、入力、電話対応その他の業務を効率化することで、市民の利便性向上及び職員の業務負担軽減を図ります。 本業務の受託候補者を選定するに当たり、公募型プロポーザルを次のとおり実施します。 公募の概要 (1)業務名 羽生市公式LINEを活用したスマート市役所構築業務 (2)業務場所 埼玉県羽生市 (3)履行期間 契約締結日から令和9年3月31日まで (4)業務内容 市民が使い慣れたLINEを行政サービスの入口として、情報取得、電子申請、施設予約、本人確認及びオンライン決済等をスマートフォン等から利用できる環境を構築する。 (5)上限額 5,060,000円(消費税及び地方消費税を含む。) (6)参加申込 令和8年12月4日(金)まで (7)その他参加資格等 実施要領のとおり 実施要領、仕様書等 01スマート市役所構築業務実施要領[PDF:296KB] 02スマート市役所構築業務仕様書[PDF:186KB] 03スマート市役所構築業務機能要件表[XLSX:139KB] 公募型プロポーザル参加表明書(様式第1号)[DOCX:16.1KB] 事業者概要書(様式第2号)[DOCX:9.19KB] 業務実績調書(様式第3号)[DOCX:10.1KB] 質問書(様式第4号)[DOC:31.5KB] 辞退届(様式第5号)[DOCX:15.3KB] 質問に対する回答 質問受付期日 令和8年11月27日(金)まで お問い合わせ 企画財務部 企画課 住所: 埼玉県羽生市東6丁目15番地 TEL: 048-561-1121 FAX: 048-563-2322 E-Mail: kikaku@city.hanyu.lg.jp PDFの閲覧にはAdobe社の無償のソフトウェア「Adobe Acrobat Reader」が必要です。下記のAdobe Acrobat Readerダウンロードページから入手してください。 Adobe Acrobat Readerダウンロード",
+    "budget": 506.0,
+    "status": "unknown",
+    "sourceSystem": "municipality_direct",
+    "sourceUrl": "https://www.city.hanyu.lg.jp/docs/2026112000040/",
+    "officialSourceUrl": "https://www.city.hanyu.lg.jp/docs/2026112000040/",
+    "lastChecked": "2026-11-25",
+    "dataQuality": "official",
+    "theme": [
+      "広報・広告"
+    ],
+    "dentsuFitScore": 30,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [
+      "pr_communications"
+    ],
+    "dentsuCategoryLabels": [
+      "広報・PR・コミュニケーション"
+    ],
+    "dentsuSignals": [
+      "情報発信",
+      "プロポーザル"
+    ],
+    "classificationVersion": 2,
+    "attachments": [
+      {
+        "name": "01スマート市役所構築業務実施要領[PDF：296KB]",
+        "url": "https://www.city.hanyu.lg.jp/docs/2026112000040/file_contents/file_202611205194846_3.pdf"
+      },
+      {
+        "name": "02スマート市役所構築業務仕様書[PDF：186KB]",
+        "url": "https://www.city.hanyu.lg.jp/docs/2026112000040/file_contents/file_202611205194846_2.pdf"
+      },
+      {
+        "name": "03スマート市役所構築業務機能要件表[XLSX：139KB]",
+        "url": "https://www.city.hanyu.lg.jp/docs/2026112000040/file_contents/file_202611205194846_1.xlsx"
+      },
+      {
+        "name": "公募型プロポーザル参加表明書（様式第1号）[DOCX：16.1KB]",
+        "url": "https://www.city.hanyu.lg.jp/docs/2026112000040/file_contents/yousiki1.docx"
+      },
+      {
+        "name": "事業者概要書（様式第2号）[DOCX：9.19KB]",
+        "url": "https://www.city.hanyu.lg.jp/docs/2026112000040/file_contents/yousiki2.docx"
+      },
+      {
+        "name": "業務実績調書（様式第3号）[DOCX：10.1KB]",
+        "url": "https://www.city.hanyu.lg.jp/docs/2026112000040/file_contents/yousiki3.docx"
+      },
+      {
+        "name": "質問書（様式第4号）[DOC：31.5KB]",
+        "url": "https://www.city.hanyu.lg.jp/docs/2026112000040/file_contents/yousiki4.doc"
+      },
+      {
+        "name": "辞退届（様式第5号）[DOCX：15.3KB]",
+        "url": "https://www.city.hanyu.lg.jp/docs/2026112000040/file_contents/yousiki5.docx"
       }
     ],
     "sourceCount": 1,
