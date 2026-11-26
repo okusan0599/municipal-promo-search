@@ -1,5 +1,52 @@
 [
   {
+    "id": "c669364441dae9f0de",
+    "area": "北関東",
+    "region": "群馬県",
+    "municipality": "富岡市",
+    "organization": "群馬県富岡市",
+    "noticeDate": "2026-11-26",
+    "deadline": "2026-11-26",
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 38,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [
+      "content_media"
+    ],
+    "dentsuCategoryLabels": [
+      "メディア・コンテンツ・動画"
+    ],
+    "dentsuSignals": [
+      "編集",
+      "業務委託"
+    ],
+    "title": "令和8年度 都市構造再編集中支援事業 上州富岡駅北地区 デキ型電気機関車移設・運搬業務委託",
+    "summary": "令和8年度 都市構造再編集中支援事業 上州富岡駅北地区 デキ型電気機関車移設・運搬業務委託 無し提出期間・質疑は、電子メールでお送りください。 (送付先アドレスは上記「提出方法」記載と同じ)書式は問いません。 メール送信後は、受信確認のため下記までご連絡ください。 ・回答は、富岡市ホームページ上に掲載します。 個別には回答いたしませんので、あらかじめご了承ください。 前払金中間前払い部分払・入札金額は、消費税及び地方消費税相当額を除くこと。 履行期間が複数年にわたる場合は、履行期間を通して算定した金額とすること。 公告日 公告番号入札方法 再度入札件名履行場所業務内容 設計図書のとおり履行期間予定価格(消費税及び地方消費税相当額を除く。)最低制限価格参加資格要件 連絡先:入札参加申請質疑締切日時提出方法提出書類回答期限日時・その他契約等の方法については、富岡市例規集及び富岡市条件付一般競争入札(事後審査方式)取扱要領に基づく。 ",
+    "status": "soon",
+    "sourceUrl": "https://www.city.tomioka.lg.jp/www/contents/1794872339853/simple/26400543k.pdf",
+    "sourceName": "群馬県富岡市",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [
+      {
+        "name": "（PDF／903KB）",
+        "url": "https://www.city.tomioka.lg.jp/www/contents/1794872339853/simple/26400543s.pdf"
+      }
+    ],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "10",
+    "cityCode": "102105"
+  },
+  {
     "id": "efa0659a973cf8faa2",
     "area": "甲信越",
     "region": "山梨県",
@@ -31,7 +78,7 @@
     "sourceUrl": "https://www.city.minami-alps.yamanashi.jp/fs/1/4/7/4/6/5/_/19_____________.pdf",
     "sourceName": "山梨県南アルプス市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "5082000058 (ZIP 4.15MB)",
@@ -73,7 +120,7 @@
     "sourceUrl": "https://www.city.kuwana.lg.jp/documents/12755/r901koukoku.pdf",
     "sourceName": "三重県桑名市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：742KB）",
@@ -86,13 +133,13 @@
     "cityCode": "242055"
   },
   {
-    "id": "eb39d4523a4b86a907",
-    "area": "九州",
-    "region": "鹿児島県",
-    "municipality": "鹿児島市",
-    "organization": "鹿児島県鹿児島市",
-    "noticeDate": "2026-11-20",
-    "deadline": "2026-11-27",
+    "id": "f68cff77a3948fe0dc",
+    "area": "",
+    "region": "",
+    "municipality": "科学技術振興機構様",
+    "organization": "科学技術振興機構様",
+    "noticeDate": "2026-11-25",
+    "deadline": "2026-12-02",
     "presentationDate": null,
     "tenderDate": null,
     "openingDate": null,
@@ -106,86 +153,18 @@
     "dentsuFitLevel": "low",
     "dentsuCategories": [],
     "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "業務委託",
-      "除外:電気工事",
-      "除外:物品購入",
-      "除外:輸送"
-    ],
-    "title": "歴史景観エリア親水水路ライトアップ業務委託(その2)契約に係る制限付き一般競争入札(公告)",
-    "summary": "歴史景観エリア親水水路ライトアップ業務委託(その2)契約に係る制限付き一般競争入札(公告) 告 示 第1282号令和8年11月20日鹿児島市長 下 鶴 隆 央歴史景観エリア親水水路ライトアップ業務委託(その2)契約に係る制限付き一般競争入札について(公告)歴史景観エリア親水水路ライトアップ業務委託(その2)契約に係る制限付き一般競争入札を下記のとおり行うことについて、本入札に参加する者に必要な資格を地方自治法施行令(昭和22年政令第16号)第167条の5第1項及び第167条の5の2の規定に基づき次のとおり定めたので、同令第167条の5第2項及び第167条の6第1項並びに鹿児島市契約規則(昭和60年規則第25号)第3条の規定により公告します。なお、この契約に係る制限付き一般競争入札に参加する資格を得ようとする者は、下記の要領により制限付き一般競争入札参加資格審査申請書及び関係書類を提出してください。記1 入札に付する事項(1) 業",
+    "dentsuSignals": [],
+    "title": "J-Cloud4セキュリティ恒久対策（Entra ID監視・管理ツールの作成および棚卸作業） 一式",
+    "summary": "J-Cloud4セキュリティ恒久対策(Entra ID監視・管理ツールの作成および棚卸作業) 一式 J-Cloud4セキュリティ恒久対策(Entra ID監視・管理ツールの作成および棚卸作業) 一式 仕様書(J-Cloud4セキュリティ恒久対策(Entra ID監視・管理ツールの作成および棚卸作業)).pdf 入札説明書(J-Cloud4セキュリティ恒久対策(Entra ID監視・管理ツールの作成および棚卸作業)).pdf 各種様式(J-Cloud4セキュリティ恒久対策(Entra ID監視・管理ツールの作成および棚卸作業)).zip 提案書作成要領(J-Cloud4セキュリティ恒久対策(Entra ID監視・管理ツールの作成および棚卸作業)).zip 【本公告に関する問い合わせ先】 東京都千代田区四番町5番地3 サイエンスプラザ 国立研究開発法人科学技術振興機構 経理部調達室 調達第一課 担当:島津 郁美 TEL:03-521",
     "status": "soon",
-    "sourceUrl": "https://www.city.kagoshima.lg.jp/kensetu/toshikeikaku/toshikeikan/documents/r8-1282.pdf",
-    "sourceName": "鹿児島県鹿児島市",
+    "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/46_2026_173.html",
+    "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "仕様書（PDF：258KB）",
-        "url": "https://www.city.kagoshima.lg.jp/kensetu/toshikeikaku/toshikeikan/documents/shiyousho.pdf"
-      },
-      {
-        "name": "図面（PDF：6,335KB）",
-        "url": "https://www.city.kagoshima.lg.jp/kensetu/toshikeikaku/toshikeikan/documents/zumen.pdf"
-      },
-      {
-        "name": "見積用閲覧設計書（PDF：333KB）",
-        "url": "https://www.city.kagoshima.lg.jp/kensetu/toshikeikaku/toshikeikan/documents/sekkeisho.pdf"
-      }
-    ],
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [],
     "category": "役務",
-    "procedureType": "制限付き一般競争入札",
-    "lgCode": "46",
-    "cityCode": "462012"
-  },
-  {
-    "id": "d797edad4318b52f31",
-    "area": "中国",
-    "region": "広島県",
-    "municipality": "広島県",
-    "organization": "広島県",
-    "noticeDate": "2026-11-20",
-    "deadline": "2026-12-01",
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 0,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "除外:廃棄物"
-    ],
-    "title": "令和８年度広島港漂流・漂着収集ごみの運搬及び処分委託業務（広島港湾振興事務所）",
-    "summary": "令和8年度広島港漂流・漂着収集ごみの運搬及び処分委託業務(広島港湾振興事務所) 公 告次のとおり一般競争入札に付すこととしたので、広島県契約規則(昭和 39 年広島県規則第32 号)第 16 条の規定により公告する。なお、本件は、広島県物品等電子入札システム(以下「電子入札システム」という。)を利用して行う電子入札案件であり、電子入札システムを利用して参加する場合は、入札に関する手続については、広島県物品等電子入札システム利用者規約(以下「電子入札システム利用者規約」という。)に従って行わなければなりません。令和8年 11 月 20 日広島県広島港湾振興事務所長 廣中 伸孝1 調達内容(1) 業務名令和8年度広島港漂流・漂着収集ごみの運搬及び処分委託業務(2) 業務の仕様等入札説明書及び仕様書による。(3) 履行期間契約締結の日から令和9年3月 19 日まで(4) 履行場所仕様書に記載のとおり。(5) 入札方法総価で入札に付する",
-    "status": "soon",
-    "sourceUrl": "https://www.pref.hiroshima.lg.jp/uploaded/life/1156913_9860939_misc.pdf",
-    "sourceName": "広島県",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "入札説明書 (PDFファイル)(103KB)",
-        "url": "https://www.pref.hiroshima.lg.jp/uploaded/life/1156913_9860940_misc.pdf"
-      },
-      {
-        "name": "業務委託契約書（案） (PDFファイル)(730KB)",
-        "url": "https://www.pref.hiroshima.lg.jp/uploaded/life/1156913_9860942_misc.pdf"
-      },
-      {
-        "name": "仕様書 (PDFファイル)(266KB)",
-        "url": "https://www.pref.hiroshima.lg.jp/uploaded/life/1156913_9860943_misc.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "一般競争入札",
-    "lgCode": "34",
+    "procedureType": "",
+    "lgCode": "",
     "cityCode": ""
   },
   {
@@ -216,7 +195,7 @@
     "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2027/200162.htm",
     "sourceName": "京都府京都市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -256,7 +235,7 @@
     "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2027/200163.htm",
     "sourceName": "京都府京都市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -296,7 +275,7 @@
     "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2027/200164.htm",
     "sourceName": "京都府京都市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -336,7 +315,7 @@
     "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2027/200165.htm",
     "sourceName": "京都府京都市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -376,7 +355,7 @@
     "sourceUrl": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/buppin/./2027/200168.htm",
     "sourceName": "京都府京都市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -425,7 +404,7 @@
     "sourceUrl": "https://www.city.kagoshima.lg.jp/kikikanri/documents/01koukoku_1.pdf",
     "sourceName": "鹿児島県鹿児島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "仕様書（PDF：113KB）",
@@ -440,127 +419,6 @@
     "procedureType": "制限付き一般競争入札",
     "lgCode": "46",
     "cityCode": "462012"
-  },
-  {
-    "id": "64db52f994b1f9e0f4",
-    "area": "中国",
-    "region": "広島県",
-    "municipality": "広島県",
-    "organization": "広島県",
-    "noticeDate": "2026-11-20",
-    "deadline": "2026-12-03",
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 0,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [],
-    "title": "停止処分者講習・更新時講習等委託業務",
-    "summary": "停止処分者講習・更新時講習等委託業務 広島県警察本部公告第228号次のとおり一般競争入札に付すこととしたので、広島県契約規則(昭和39年広島県規則第32号)第16条の規定により公告する。令和8年11月20日広島県警察本部長 森 本 敦 司1 調達内容(1) 業務名停止処分者講習・更新時講習委託業務(2) 業務の仕様等入札説明書及び仕様書による。(3) 履行期間令和9年1月1日から令和9年3月31日まで(4) 履行場所広島市佐伯区石内南三丁目1番1号 広島県運転免許センターほか22か所等(5) 入札方法ア 停止処分者講習講習種別(短期講習、中期講習、長期講習)イ 更新時講習講習種別(優良運転者講習、一般運転者講習、違反運転者講習、初回更新者講習、オンライン講習(教本等配布))上記ア・イに掲げる講習区分ごとの1人当たりの単価に、履行期間中における講習区分ごとの予定受講者数をそれぞれ乗じて算出した総合計金額で入札に付する(ただし、契約",
-    "status": "soon",
-    "sourceUrl": "https://www.pref.hiroshima.lg.jp/uploaded/life/1157415_9863429_misc.pdf",
-    "sourceName": "広島県",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "入札説明書等 (その他のファイル)(5.62MB)",
-        "url": "https://www.pref.hiroshima.lg.jp/uploaded/life/1157415_9863431_misc.zip"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "一般競争入札",
-    "lgCode": "34",
-    "cityCode": ""
-  },
-  {
-    "id": "41370d79e429683428",
-    "area": "東海",
-    "region": "愛知県",
-    "municipality": "名古屋市",
-    "organization": "国土交通省中部地方整備局",
-    "noticeDate": "2026-11-20",
-    "deadline": "2026-12-03",
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 26,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [
-      "events_experience"
-    ],
-    "dentsuCategoryLabels": [
-      "イベント・体験設計"
-    ],
-    "dentsuSignals": [
-      "式典"
-    ],
-    "title": "令和８年度 岐阜国道事務所開通式典業務",
-    "summary": "令和8年度 岐阜国道事務所開通式典業務 入 札 公 告次のとおり一般競争入札に付します。 令和8年11月20日分任支出負担行為担当官中部地方整備局岐阜国道事務所長 杉﨑 光広1 競争入札に付する事項(1)件 名 令和8年度 岐阜国道事務所開通式典業務(電子調達システム対象案件)(2)仕様等本案件は岐阜国道事務所が実施する式典に関する会場設営、会場設営に供される物品の提供等を行うものであり、詳細は仕様書による。 (3)履行期間契約締結の翌日から令和9年3月31日まで(4)履行場所岐阜県各務原市内(5)入札方法落札決定に当たっては、入札書に記載された金額に当該金額の100分の10に相当する額を加算した金額(当該金額に1円未満の端数があるときは、その端数金額を切り捨てた金額とする。)をもって落札価格とするので、入札者は、消費税及び地方消費税に係る課税事業者であるか免税事業者であるかを問わず、見積もった契約希望金額の110分の100に相",
-    "status": "soon",
-    "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/f20wRrJ5rD20261119_6.pdf",
-    "sourceName": "国土交通省中部地方整備局",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "23",
-    "cityCode": "231002"
-  },
-  {
-    "id": "338a51a2a1328f3d15",
-    "area": "南関東",
-    "region": "神奈川県",
-    "municipality": "川崎市",
-    "organization": "国立研究開発法人新エネルギー・産業技術総合開発機構",
-    "noticeDate": "2026-11-20",
-    "deadline": "2026-12-03",
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 0,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [],
-    "title": "文献データベース使用権の調達",
-    "summary": "文献データベース使用権の調達 1入札公告2026年11月20日国立研究開発法人新エネルギー・産業技術総合開発機構契約担当職理事 吉岡 正嗣次のとおり一般競争入札(最低価格落札方式)に付します。 1. 競争入札に付する事項(1) 件名文献データベース使用権の調達(2) 仕様等入札説明書によります。 (3) 履行期間2027年4月1日から2028年3月31日(4) 入札方法入札金額は1か月当たりの金額で行います。 落札決定に当たっては、入札書に記載された金額のうちリバースチャージ方式対象費用以外の費用については当該金額の100分の10に相当する額を加算した金額(当該金額に1円未満の端数があるときは、その端数金額を切り捨てるものとする。)をもって落札価格としますので、入札者は消費税及び地方消費税に係る課税事業者であるか免税事業者であるかを問わず、見積もった金額のうちリバースチャージ方式対象費用以外の費用については110分の100に相当",
-    "status": "soon",
-    "sourceUrl": "https://www.nedo.go.jp/content/800075254.pdf",
-    "sourceName": "国立研究開発法人新エネルギー・産業技術総合開発機構",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "仕様書（165KB）",
-        "url": "https://www.nedo.go.jp/content/800075255.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "一般競争入札",
-    "lgCode": "14",
-    "cityCode": "141305"
   },
   {
     "id": "89c9ffd731cb1ac5e1",
@@ -593,7 +451,7 @@
     "sourceUrl": "https://www.city.nara.lg.jp/soshiki/107/279851.html",
     "sourceName": "奈良県奈良市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "入札公告文 [PDFファイル／173KB]",
@@ -647,7 +505,7 @@
     "sourceUrl": "https://www.city.kagoshima.lg.jp/kankyo/kankyo/saien/documents/kokuzibunn1.pdf",
     "sourceName": "鹿児島県鹿児島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "閲覧設計図書（PDF：865KB）",
@@ -695,7 +553,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/46_2026_161.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -737,7 +595,7 @@
     "sourceUrl": "https://www.pref.miyazaki.lg.jp/sogoseisaku/kense/chotatsu/20261028175953.html",
     "sourceName": "宮崎県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "入札公告（PDF：81KB）",
@@ -791,7 +649,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026043613.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "1",
@@ -833,7 +691,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026043448.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "1",
@@ -873,7 +731,7 @@
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/VzB7N73JcD20261117_24.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -920,7 +778,7 @@
     "sourceUrl": "https://www.city.koriyama.lg.jp/uploaded/attachment/133698.pdf",
     "sourceName": "福島県郡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "募集要項 [PDFファイル／153KB]",
@@ -978,7 +836,7 @@
     "sourceUrl": "https://www.city.koriyama.lg.jp/uploaded/attachment/133693.pdf",
     "sourceName": "福島県郡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "募集要項 [PDFファイル／194KB]",
@@ -1029,7 +887,7 @@
     "sourceUrl": "https://www.city.kato.lg.jp/section/nyuusatu/order/20261125order/./20261217/./20261217_09_2026095100_nyusatsu.pdf",
     "sourceName": "兵庫県加東市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "設計書等",
@@ -1072,7 +930,7 @@
     "sourceUrl": "https://www.city.kato.lg.jp/section/nyuusatu/order/20261125order/./20261217/./20261217_08_2026101700_nyusatsu.pdf",
     "sourceName": "兵庫県加東市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "設計書等",
@@ -1115,7 +973,7 @@
     "sourceUrl": "https://www.city.kato.lg.jp/section/nyuusatu/order/20261125order/./20261217/./20261217_07_2026106500_nyusatsu.pdf",
     "sourceName": "兵庫県加東市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "設計書等",
@@ -1157,7 +1015,7 @@
     "sourceUrl": "https://www.city.hino.lg.jp/_res/projects/default_project/_page_/001/008/613/245-0.pdf",
     "sourceName": "東京都日野市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -1194,7 +1052,7 @@
     "sourceUrl": "https://www.shichigahama.com/benricho/oshirase/assets/%E2%91%A0%E5%85%AC%E5%91%8A%EF%BC%88%E4%BB%A4%E5%92%8C8%E5%B9%B4%E5%BA%A6%E7%B7%9A%E4%B8%8B%E5%85%AC%E5%9C%92%E3%81%BB%E3%81%8B%E6%A8%B9%E6%9C%A8%E4%BC%90%E6%8E%A1%E5%8F%8A%E3%81%B3%E5%89%AA%E5%AE%9A%E6%A5%AD%E5%8B%99%E5%A7%94%E8%A8%97%EF%BC%89.pdf",
     "sourceName": "宮城県七ヶ浜町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "・事業仕様書PDF版",
@@ -1240,12 +1098,63 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/46_2026_172.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
     "lgCode": "",
     "cityCode": ""
+  },
+  {
+    "id": "f16c291b0586891720",
+    "area": "九州",
+    "region": "鹿児島県",
+    "municipality": "鹿児島市",
+    "organization": "鹿児島県鹿児島市",
+    "noticeDate": "2026-11-26",
+    "deadline": "2026-12-08",
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 0,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "業務委託",
+      "除外:土木工事"
+    ],
+    "title": "唐湊墓地草刈伐採及び防草シート設置業務委託契約に係る制限付き一般競争入札（公告）",
+    "summary": "唐湊墓地草刈伐採及び防草シート設置業務委託契約に係る制限付き一般競争入札(公告) 告 示 第1295号令和8年11月26日鹿児島市長 下 鶴 隆 央唐湊墓地草刈伐採及び防草シート設置業務委託契約に係る制限付き一般競争入札について(公告)唐湊墓地草刈伐採及び防草シート設置業務委託契約に係る制限付き一般競争入札を下記のとおり行うことについて、本入札に参加する者に必要な資格を地方自治法施行令(昭和22年政令第16号)第167条の5第1項及び第167条の5の2の規定に基づき次のとおり定めたので、同令第167条の5第2項及び第167条の6第1項並びに鹿児島市契約規則(昭和60年規則第25号)第3条の規定により公告します。なお、この契約に係る制限付き一般競争入札に参加する資格を得ようとする者は、下記の要領により制限付き一般競争入札参加資格審査申請書及び関係書類を提出してください。記1 入札に付する事項(1) 業務名唐湊墓地草刈伐採及び防草シ",
+    "status": "open",
+    "sourceUrl": "https://www.city.kagoshima.lg.jp/kankyo/kankyo/saien/documents/01_kokuji.pdf",
+    "sourceName": "鹿児島県鹿児島市",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [
+      {
+        "name": "仕様書（PDF：160KB）",
+        "url": "https://www.city.kagoshima.lg.jp/kankyo/kankyo/saien/documents/03shiyousho.pdf"
+      },
+      {
+        "name": "設計書（PDF：2,723KB）",
+        "url": "https://www.city.kagoshima.lg.jp/kankyo/kankyo/saien/documents/04_sekkeisho.pdf"
+      },
+      {
+        "name": "図面（PDF：423KB）",
+        "url": "https://www.city.kagoshima.lg.jp/kankyo/kankyo/saien/documents/05_zumen.pdf"
+      }
+    ],
+    "category": "役務",
+    "procedureType": "制限付き一般競争入札",
+    "lgCode": "46",
+    "cityCode": "462012"
   },
   {
     "id": "855a201329366436f8",
@@ -1275,7 +1184,7 @@
     "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/46_2026_171.html",
     "sourceName": "科学技術振興機構様",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -1312,7 +1221,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026044039.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "1",
@@ -1354,7 +1263,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026043918.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "1",
@@ -1396,7 +1305,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026042406.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "1",
@@ -1443,7 +1352,7 @@
     "sourceUrl": "https://www.city.zushi.kanagawa.jp/_res/projects/default_project/_page_/001/004/649/8koukoku_gesuidousougouzisinntaisakutaisinnsinndanntou.pdf",
     "sourceName": "神奈川県逗子市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "02_図面一式 （PDF 5.9 MB）",
@@ -1458,6 +1367,83 @@
     "procedureType": "",
     "lgCode": "14",
     "cityCode": "142085"
+  },
+  {
+    "id": "ac4f28fbcb011f7a40",
+    "area": "東北",
+    "region": "宮城県",
+    "municipality": "仙台市",
+    "organization": "気象庁仙台管区気象台",
+    "noticeDate": "2026-11-26",
+    "deadline": "2026-12-09",
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 12,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "業務委託"
+    ],
+    "title": "航空気象観測通報業務委託",
+    "summary": "航空気象観測通報業務委託 入 札 公 告1.競争入札に付する事項(1) 件 名 航空気象観測通報業務委託(電子入札及び契約対象案件)(2) 仕 様 仕様書のとおり(3) 履行期間 令和9年4月1日 ~ 令和10年3月31日(4) 履行場所 仕様書のとおり2.競争に参加する者に必要な資格(1) 予算決算及び会計令(以下「予決令」という。)第70条の規定に該当しない者であること。なお、未成年者、被保佐人又は被補助人であって、契約締結のために必要な同意を得ている者は、同条中、特別の理由がある場合に該当する。(2) 予決令第71条の規定に該当しない者であること。(3) 令和7・8・9年度国土交通省競争参加資格(全省庁統一規格)「役務の提供等」の等級が「A」、「B」、「C」又は「D」に格付されて東北地域の競争参加資格を有する者。(4) 警察当局から、暴力団員が実質的に経営を支配する者又はこれに準ずるものとして、国土交通省公共事業等からの排",
+    "status": "open",
+    "sourceUrl": "https://www.data.jma.go.jp/sendai/information/nyusatsu/3-5nyusatu/r9/nyumono9_1.pdf",
+    "sourceName": "気象庁仙台管区気象台",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [
+      {
+        "name": "令和8年12月9日",
+        "url": "https://www.data.jma.go.jp/sendai/information/nyusatsu/3-5nyusatu/r9/monosetumeisyo9_1.pdf"
+      }
+    ],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "04",
+    "cityCode": "041009"
+  },
+  {
+    "id": "69cc86dee63175221f",
+    "area": "近畿",
+    "region": "滋賀県",
+    "municipality": "甲良町",
+    "organization": "滋賀県甲良町",
+    "noticeDate": "2026-11-25",
+    "deadline": "2026-12-10",
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 0,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [],
+    "title": "物品・役務 第21号 甲良西こども園電話交換機等購入 (PDFファイル: 156.1KB)",
+    "summary": "物品・役務 第21号 甲良西こども園電話交換機等購入 (PDFファイル: 156.1KB) 甲良町公告第 48 号甲良町長 寺本 純二(1) 業務名(2) 履行場所甲良町大字呉竹地先(甲良西こども園)(3) 履行期限(納入期限)(4) 業務内容(調達内容)(5) 予定価格(入札比較価格)(1)(2)ア.イ.ウ.エ.ア.(3)(4)仕様書に定める資格を有するもの次に掲げる要件を満たす事業所条件付一般競争入札公告1.業務概要等事後公表とする。 令和8年11月25日令和8年度 物品・役務 第21号 下記業務について条件付一般競争入札を行うので、地方自治法施行令(昭和22年政令第16号)第167条の6の規定に基づき下記のとおり公告する。 既存電話設備の経年劣化により、故障や不具合が発生していることから安定した通信環境の確保を図るため更新を行う。 甲良西こども園電話交換機等購入(以下「対象業務」という。)令和 9年3月19日2.入札参加に",
+    "status": "open",
+    "sourceUrl": "https://www.kouratown.jp/material/files/group/8/koukoku_butsueki21_1.pdf",
+    "sourceName": "滋賀県甲良町",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "25",
+    "cityCode": "254428"
   },
   {
     "id": "9c448c09ec9b677b77",
@@ -1491,7 +1477,7 @@
     "sourceUrl": "https://www.kouratown.jp/material/files/group/8/koukoku_butsueki19_1.pdf",
     "sourceName": "滋賀県甲良町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -1526,7 +1512,7 @@
     "sourceUrl": "https://www.kouratown.jp/material/files/group/8/koukoku_butsueki20.pdf",
     "sourceName": "滋賀県甲良町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -1561,7 +1547,7 @@
     "sourceUrl": "https://www.kouratown.jp/material/files/group/8/koukoku_butsueki21.pdf",
     "sourceName": "滋賀県甲良町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -1598,7 +1584,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/75218/01_mishuen_jisshiyoryo.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "（別紙2）未就園児家庭訪問事業業務委託仕様書（案）（PDF：210KB）",
@@ -1640,7 +1626,7 @@
     "sourceUrl": "https://keiyaku.city.okayama.jp/webftp/itaku/2026042287.pdf",
     "sourceName": "岡山県岡山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "1",
@@ -1682,7 +1668,7 @@
     "sourceUrl": "https://www.city.kagoshima.lg.jp/kankyo/kankyo/saien/documents/kokokubun.pdf",
     "sourceName": "鹿児島県鹿児島市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "閲覧設計図書（PDF：561KB）",
@@ -1738,12 +1724,59 @@
     "sourceUrl": "https://www.cbr.mlit.go.jp/contract/buppin/bukoukoku/data/pdf/0xFf4Iskkw20261124_2.pdf",
     "sourceName": "国土交通省中部地方整備局",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
     "lgCode": "23",
     "cityCode": "231002"
+  },
+  {
+    "id": "66f205ee7eb87a62b8",
+    "area": "九州",
+    "region": "鹿児島県",
+    "municipality": "鹿児島市",
+    "organization": "鹿児島県鹿児島市",
+    "noticeDate": "2026-11-26",
+    "deadline": "2026-12-15",
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 0,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "業務委託",
+      "除外:物品購入"
+    ],
+    "title": "麻しん風しん混合第2期等予防接種予診票作成等業務委託契約に係る制限付き一般競争入札（公告）",
+    "summary": "麻しん風しん混合第2期等予防接種予診票作成等業務委託契約に係る制限付き一般競争入札(公告) 告 示 第1294号令和8年11月26日鹿児島市長 下 鶴 隆 央麻しん風しん混合第2期等予防接種予診票作成等業務委託契約に係る制限付き一般競争入札について(公告)麻しん風しん混合第2期等予防接種予診票作成等業務委託契約に係る制限付き一般競争入札に参加する者に必要な資格を、地方自治法施行令(昭和22年政令第16号)第167条の5第1項及び第167条の5の2の規定に基づき次のとおり定めたので、同令第167条の5第2項及び第167条の6第1項並びに鹿児島市契約規則(昭和60年規則第25号)第3条の規定により公告します。記1 入札に付する業務名等(1) 業務名麻しん風しん混合第2期等予防接種予診票作成等業務(2) 契約期間契約締結の日から令和9年3月31日(水)まで(3) 業務概要予診票等の作成、封入封かん及び発送業務2 入札に参加する者に必要",
+    "status": "open",
+    "sourceUrl": "https://www.city.kagoshima.lg.jp/kenkofukushi/hokenjo/hoyobo-kan/shise/nyusatsu/kokuji/documents/01_koukokubun_1.pdf",
+    "sourceName": "鹿児島県鹿児島市",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [
+      {
+        "name": "仕様書（PDF：382KB）",
+        "url": "https://www.city.kagoshima.lg.jp/kenkofukushi/hokenjo/hoyobo-kan/shise/nyusatsu/kokuji/documents/02_siyousyo_mr2konhpvtaijyo_3.pdf"
+      },
+      {
+        "name": "情報セキュリティ対策チェックシート（PDF：367KB）、",
+        "url": "https://www.city.kagoshima.lg.jp/kenkofukushi/hokenjo/hoyobo-kan/shise/nyusatsu/kokuji/documents/03_securitycheck_1.pdf"
+      }
+    ],
+    "category": "役務",
+    "procedureType": "制限付き一般競争入札",
+    "lgCode": "46",
+    "cityCode": "462012"
   },
   {
     "id": "c344d88fc50192e178",
@@ -1775,7 +1808,7 @@
     "sourceUrl": "https://www.city.kasumigaura.lg.jp/data/doc/1795500020_doc_203_0.pdf",
     "sourceName": "茨城県かすみがうら市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -1812,96 +1845,12 @@
     "sourceUrl": "https://www.city.kasumigaura.lg.jp/data/doc/1795500016_doc_203_0.pdf",
     "sourceName": "茨城県かすみがうら市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
     "lgCode": "08",
     "cityCode": "082309"
-  },
-  {
-    "id": "739713cd4b35a0ea78",
-    "area": "南関東",
-    "region": "東京都",
-    "municipality": "江東区",
-    "organization": "東京都江東区",
-    "noticeDate": "2026-11-19",
-    "deadline": "2026-12-17",
-    "presentationDate": "2027-01-07",
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": 4424.2,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 12,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "企画提案"
-    ],
-    "title": "江東区男女共同参画推進センター窓口等業務委託に係る公募型プロポーザルの実施について",
-    "summary": "江東区男女共同参画推進センター窓口等業務委託に係る公募型プロポーザルの実施について 1江東区男女共同参画推進センター窓口等業務委託プロポーザル実施要領1. 事業の趣旨・目的江東区男女共同参画推進センターは、「江東区男女共同参画及び多様性の尊重を推進する条例(平成16年条例第1号第12条)」に基づき、区民及び事業者による男女共同参画及び多様性を尊重する社会の形成に向けた取組を総合的に支援する拠点施設として設置されている。 本事業は、江東区男女共同参画推進センターの設置目的を踏まえ、利用者ニーズに的確に対応した事業運営を実現するため、男女共同参画及び多様性尊重の推進に関する専門性や運営ノウハウを有する事業者を公募型プロポーザル方式により選定し、質の高い施設運営及び事業実施を推進するものである。 2. 業務概要(1) 業務名 江東区男女共同参画推進センター窓口等業務委託(2) 業務内容 別紙「江東区男女共同参画推進センター窓口等業務委",
-    "status": "open",
-    "sourceUrl": "https://www.city.koto.lg.jp/055201/documents/1danjyo-implementationguideline.pdf",
-    "sourceName": "東京都江東区",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "仕様書（PDF：277KB）（別ウィンドウで開きます）",
-        "url": "https://www.city.koto.lg.jp/055201/documents/2danjyo-specifications_1.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "13",
-    "cityCode": "131083"
-  },
-  {
-    "id": "2ff616b84efe5dd931",
-    "area": "南関東",
-    "region": "東京都",
-    "municipality": "千代田区",
-    "organization": "独立行政法人日本芸術文化振興会",
-    "noticeDate": "2026-11-20",
-    "deadline": "2026-12-18",
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 12,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "業務委託"
-    ],
-    "title": "令和９年度国立能楽堂建築設備等総合管理業務委託",
-    "summary": "令和9年度国立能楽堂建築設備等総合管理業務委託 入札公告次のとおり一般競争入札に付します。 令和8年11月20日独立行政法人日本芸術文化振興会国立能楽堂長 中尾 健一1.調達概要(1)件 名 令和9年度国立能楽堂建築設備等総合管理業務委託(2)履行場所 東京都渋谷区千駄ヶ谷4丁目18番1号(国立能楽堂構内)(3)概 要 本件は、国立能楽堂内の建築設備等について、安全かつ良好な状態を維持するために、継続的な運転・監視・点検等の保守業務を委託するものである。 (4)履行期間 令和9年4月1日(木)から令和10年3月31日(金)まで2.競争参加資格(1)独立行政法人日本芸術文化振興会会計規程第16条及び第17条の規定に該当しない者であること。 なお、未成年者、被保佐人又は被補助人であって、契約締結のために必要な同意を得ている者は、同条中、特別の理由がある場合に該当する。 (2)独立行政法人日本芸術文化振興会一般競争(指名競争)参加資格",
-    "status": "open",
-    "sourceUrl": "https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/11/kokoku_R9_kenchikusetsubi.pdf",
-    "sourceName": "独立行政法人日本芸術文化振興会",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "入札説明書等 (345.73KB)",
-        "url": "https://www.ntj.jac.go.jp/assets/files/03_chotatsu/noh/2026/11/setsumeisho_R9_kenchikusetsubi.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "一般競争入札",
-    "lgCode": "13",
-    "cityCode": "131016"
   },
   {
     "id": "aab441374389a2a894",
@@ -1933,12 +1882,47 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e079.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
     "lgCode": "",
     "cityCode": ""
+  },
+  {
+    "id": "6f2700b2e7eebe44f3",
+    "area": "中国",
+    "region": "広島県",
+    "municipality": "広島市",
+    "organization": "海上保安庁第六管区海上保安本部",
+    "noticeDate": "2026-11-26",
+    "deadline": "2026-12-18",
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 0,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [],
+    "title": "２０メートル型巡視艇定検修理（２０２６−０１１）",
+    "summary": "20メートル型巡視艇定検修理(2026−011) 支出負担行為担当官第六管区海上保安本部長 池上 浩之1.競争入札に付する事項(1)契約件名 20メートル型巡視艇定検修理(2026-011)(2)契約の内容 仕様書のとおり(3)納入(履行)期限(4)納入(履行)場所 受注造船所(5)入札の方式2.競争に参加する者に必要な資格(2)予決令第71条の規定に該当しない者であること。 (5)当管区等が実施する技術審査に合格した者又は技術審査を申請し合格した者に限る。 3.契約条項等を示す場所、契約及び入札等に関する問い合わせ先広島県広島市南区宇品海岸3-10-17 第六管区海上保安本部 経理補給部経理課 入札審査係電話(082)251-5111 内線2223・2224・22254.証明書等の提出期限、提出方法(1)提出期限(2)提出方法 電子調達システムによる。 紙入札方式で参加するものは上記3.に提出すること。 (3)提出書類 1電子",
+    "status": "open",
+    "sourceUrl": "https://www.kaiho.mlit.go.jp/06kanku/keirihokyuu/keiho_hp/02_nyuusatu/19_kouji-08/20261126-F100.pdf",
+    "sourceName": "海上保安庁第六管区海上保安本部",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "34",
+    "cityCode": "341002"
   },
   {
     "id": "4512071706e05f344c",
@@ -1970,7 +1954,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/75395/01jisshiyoryo.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "（別紙2）仕様書（案）（PDF：217KB）",
@@ -2012,7 +1996,7 @@
     "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/75396/01jisshiyoryo.pdf",
     "sourceName": "東京都江戸川区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "（別紙2）仕様書（案）（PDF：208KB）",
@@ -2023,6 +2007,41 @@
     "procedureType": "",
     "lgCode": "13",
     "cityCode": "131237"
+  },
+  {
+    "id": "9478d3845147dd0429",
+    "area": "",
+    "region": "",
+    "municipality": "国立研究開発法人農業・食品産業技術総合研究機構",
+    "organization": "国立研究開発法人農業・食品産業技術総合研究機構",
+    "noticeDate": "2026-11-26",
+    "deadline": "2026-12-23",
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 0,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [],
+    "title": "令和8年度下期観音台第3事業場作業環境測定業務",
+    "summary": "令和8年度下期観音台第3事業場作業環境測定業務 入 札 公 告 次のとおり一般競争入札に付します。 令和8年11月26日 国立研究開発法人 農業・食品産業技術総合研究機構本部管理本部 観音台第3管理部長 藤原 修 (押 印 省 略)1 競争に付す事項(1)件名 及び 数量 令和8年度下期観音台第3事業場作業環境測定業務 1式(2)仕様 ・ 規格等 入札説明書による。 (3)履 行 期 限 令和9年3月26日(4)履 行 場 所 入札説明書による。 2 競争参加資格(1) 契約事務実施規則(以下「実施規則」という。)第8条の規定に該当しない者であること。なお、未成年者、被保佐人又は被補助人であって、契約締結のために必要な同意を得ている者は、同条中、特別の事由がある場合に該当する。 (2) 実施規則第9条の規定に該当しない者であること。 (3) 令和7・8・9年度の国立研究開発法人農業・食品産業技術総合研究機構(以下「農研機構」とい",
+    "status": "open",
+    "sourceUrl": "https://www.naro.go.jp/supply/files/08e080.pdf",
+    "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "",
+    "cityCode": ""
   },
   {
     "id": "b5a32085600cabfc33",
@@ -2054,7 +2073,7 @@
     "sourceUrl": "https://www.pref.saga.lg.jp/kiji003110905/3_110905_up_rres0ton.pdf",
     "sourceName": "佐賀県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "入札説明書",
@@ -2073,43 +2092,6 @@
     "procedureType": "",
     "lgCode": "41",
     "cityCode": ""
-  },
-  {
-    "id": "61944551c6079953e8",
-    "area": "南関東",
-    "region": "東京都",
-    "municipality": "世田谷区",
-    "organization": "東京都世田谷区",
-    "noticeDate": "2026-11-19",
-    "deadline": "2027-01-12",
-    "presentationDate": "2026-11-19",
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 12,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "プロポーザル"
-    ],
-    "title": "世田谷区障害者夜間・休日虐待通報ダイヤル業務及び世田谷区緊急時バックアップセンター夜間運営業務委託におけるプロポーザルの実施について",
-    "summary": "世田谷区障害者夜間・休日虐待通報ダイヤル業務及び世田谷区緊急時バックアップセンター夜間運営業務委託におけるプロポーザルの実施について 1世田谷区障害者夜間・休日虐待通報ダイヤル業務及び世田谷区緊急時バックアップセンター夜間運営業務委託における公募型プロポーザル実施要領1 事業概要(1)件名世田谷区障害者夜間・休日虐待通報ダイヤル業務及び世田谷区緊急時バックアップセンター夜間運営業務委託(2)目的1 障害者夜間・休日虐待通報ダイヤル業務夜間や休日における障害者への虐待に関する通報・届出を受ける専門電話窓口を設置、またFAXによる通報・届出を受信することで、障害者への虐待を早期に発見し、虐待を受けた障害者の迅速かつ適切な対応や保護、養護者に対する適切な支援等につなげることを目的とする。 2 緊急時バックアップセンター夜間運営業務「障害者の日常生活及び社会生活を総合的に支援するための法律」第77条第4項及び世田谷区緊急時バックアップセ",
-    "status": "open",
-    "sourceUrl": "https://www.city.setagaya.lg.jp/documents/37003/youryou.pdf",
-    "sourceName": "東京都世田谷区",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "13",
-    "cityCode": "131121"
   },
   {
     "id": "7024a604c725ea4bc5",
@@ -2139,7 +2121,7 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e082.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -2174,12 +2156,54 @@
     "sourceUrl": "https://www.naro.go.jp/supply/files/08e081.pdf",
     "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
     "lgCode": "",
     "cityCode": ""
+  },
+  {
+    "id": "da4186fbd5f984abed",
+    "area": "南関東",
+    "region": "東京都",
+    "municipality": "世田谷区",
+    "organization": "東京都世田谷区",
+    "noticeDate": "2026-11-26",
+    "deadline": "2027-01-15",
+    "presentationDate": "2026-11-26",
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 12,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "プロポーザル"
+    ],
+    "title": "『朝学習・国語・教科「日本語」に係る教材作成及び添削等業務委託（単価契約）』に関する公募型プロポーザルの実施について",
+    "summary": "『朝学習・国語・教科「日本語」に係る教材作成及び添削等業務委託(単価契約)』に関する公募型プロポーザルの実施について 公募型プロポーザル方式に係る手続き開始のお知らせ次のとおり、提案書の提出を求めます。 なお、本業務に係る契約の締結は、当該業務に係る令和9年度予算が成立し、予算の配当がなされることを条件とするものです。 令和8年11月26日世 田 谷 区1 業務概要(1)件名朝学習・国語・教科「日本語」に係る教材作成及び添削等業務委託(単価契約)(2)目的朝の学習時間等(10分程度)を活用して、新聞の社説の要約等の学習により、区立中学校生徒の社会への関心を高めるとともに、情報を読み取り表現する力等のことばの力を高める朝学習・国語・教科「日本語」を実施する。 実施にあたり、教材となるワークシートの作成及び生徒が要約を記入したワークシートの添削等業務を委託する。 (3)業務内容1朝学習・国語・教科「日本語」の教材となるワークシート(",
+    "status": "open",
+    "sourceUrl": "https://www.city.setagaya.lg.jp/documents/37232/koukoku.pdf",
+    "sourceName": "東京都世田谷区",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [
+      {
+        "name": "実施要領（PDF：270KB）",
+        "url": "https://www.city.setagaya.lg.jp/documents/37232/youryou.pdf"
+      }
+    ],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "13",
+    "cityCode": "131121"
   },
   {
     "id": "8a791286b098fe5673",
@@ -2216,7 +2240,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/36868/01.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "02_SNS相談システム導入運用保守_プロポーザル提案要求仕様書（PDF：1,334KB）",
@@ -2227,6 +2251,59 @@
     "procedureType": "",
     "lgCode": "13",
     "cityCode": "131121"
+  },
+  {
+    "id": "ff389a9ebdee409ef5",
+    "area": "中国",
+    "region": "鳥取県",
+    "municipality": "鳥取県",
+    "organization": "鳥取県",
+    "noticeDate": "2026-11-26",
+    "deadline": "2027-01-25",
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 0,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "業務委託",
+      "除外:電気工事",
+      "除外:設備保守",
+      "除外:保守点検"
+    ],
+    "title": "【調達公告】鳥取県企業局東部事務所における監視・操作業務委託 一式",
+    "summary": "【調達公告】鳥取県企業局東部事務所における監視・操作業務委託 一式 制限付一般競争入札(地方自治法施行令(昭和22年政令第16号。以下「政令」という。)第167条の5の2の規定により参加者の資格を定めて行う一般競争入札をいう。)を行うので、政令第 167条の6第1項の規定に基づき、次のとおり公告する。令和8年11月26日鳥取県知事 平 井 伸 治1 調達内容(1)業務の名称及び数量鳥取県企業局東部事務所における監視・操作業務委託 一式(2)業務の仕様入札説明書による。(3)業務の期間契約締結日から令和12年3月31日まで(4)入札方法ア 入札は、紙入札により行う。イ 契約に当たっては、入札書に記載された金額をもって契約金額とするので、消費税及び地方消費税の額を含めた契約申込金額とすること(消費税不課税、非課税のものを除く。)。 課税事業者にあっては、内訳として消費税及び地方消費税の額を含め記載すること。なお、本件入札説明書15(",
+    "status": "open",
+    "sourceUrl": "https://www.pref.tottori.lg.jp///secure/1443163/01koukoku.pdf",
+    "sourceName": "鳥取県",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [
+      {
+        "name": "入札説明書 (pdf:115KB)",
+        "url": "https://www.pref.tottori.lg.jp///secure/1443163/02setsumei.pdf"
+      },
+      {
+        "name": "委託仕様書 (pdf:1230KB)",
+        "url": "https://www.pref.tottori.lg.jp///secure/1443163/04shiyosho.pdf"
+      },
+      {
+        "name": "金抜設計書 (pdf:56KB)",
+        "url": "https://www.pref.tottori.lg.jp///secure/1443163/05kinnuki.pdf"
+      }
+    ],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "31",
+    "cityCode": ""
   },
   {
     "id": "b6f99c0cc74d99a808",
@@ -2264,7 +2341,7 @@
     "sourceUrl": "https://www.city.setagaya.lg.jp/documents/37105/1-0_zisshiyoryokensetsumeisyo.pdf",
     "sourceName": "東京都世田谷区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "別紙「仕様書（案）」（PDF：1,158KB）",
@@ -2283,6 +2360,41 @@
     "procedureType": "",
     "lgCode": "13",
     "cityCode": "131121"
+  },
+  {
+    "id": "a430f68885c71d6eff",
+    "area": "",
+    "region": "",
+    "municipality": "科学技術振興機構様",
+    "organization": "科学技術振興機構様",
+    "noticeDate": "2026-11-26",
+    "deadline": "2027-02-08",
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 0,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [],
+    "title": "R9年度～R11年度 企業調査に係る役務提供業務（インターネットオンラインサービス） 一式",
+    "summary": "R9年度~R11年度 企業調査に係る役務提供業務(インターネットオンラインサービス) 一式 R9年度~R11年度 企業調査に係る役務提供業務(インターネットオンラインサービス) 一式 仕様書(企業調査に係る役務提供業務(インターネットオンラインサービス)).pdf 入札説明書(R9年度~R11年度 企業調査に係る役務提供業務(インターネットオンラインサービス)) .pdf 各種様式(R9年度~R11年度 企業調査に係る役務提供業務(インターネットオンラインサービ...) .zip 【本公告に関する問い合わせ先】 東京都千代田区五番町7 K’s五番町 国立研究開発法人科学技術振興機構 経理部調達室 調達第二課 担当:宮島 理恵 TEL:03-3512-3535 E-mail:keiyaku5@jst.go.jp 政府調達(WTO)に関する事項 調達機関番号 813 所在地番号 13 公告番号 第8-301 号 品目分類番号 71 ",
+    "status": "open",
+    "sourceUrl": "https://choutatsu.jst.go.jp/kankouju/47_2026_25.html",
+    "sourceName": "科学技術振興機構様",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "",
+    "cityCode": ""
   },
   {
     "id": "11af9066ca3790df90",
@@ -2315,55 +2427,12 @@
     "sourceUrl": "https://www.city.saku.nagano.jp/machizukuri/jigyosha/nyusatsu/keiyakugai/013920261120154207266.files/zissi.pdf",
     "sourceName": "長野県佐久市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
     "lgCode": "20",
     "cityCode": "202177"
-  },
-  {
-    "id": "e6779ace08d1fd480a",
-    "area": "南関東",
-    "region": "東京都",
-    "municipality": "江戸川区",
-    "organization": "東京都江戸川区",
-    "noticeDate": "2026-11-19",
-    "deadline": null,
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": 26860.0,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 0,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "プロポーザル",
-      "除外:改修工事"
-    ],
-    "title": "江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託プロポーザルの実施",
-    "summary": "江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託プロポーザルの実施 江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託プロポーザル実 施 要 項令和8年11月江戸川区1江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託プロポーザル実施要項1 目的江戸川区立鹿本・上一色地域統合中学校の改築にあたり、基本設計及び実施設計業務には、学校及び発注者等の考え方に柔軟に対応し、パートナーとなり得る豊富な実績と確かな技術力を有している必要がある。 また、江戸川区は昨今の建設費の高騰に対応すべく、改築工事費の抑制及び施工効率を高めた計画(以下「ベースプラン」)を作成した。 これらを踏まえ、優れた提案能力を持つ設計者を選定するためにプロポーザルを実施するものである。 2 業務の概要(1) 業務名江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託(以下「本業務",
-    "status": "unknown",
-    "sourceUrl": "https://www.city.edogawa.tokyo.jp/documents/75397/1_shikamoto_kamiisshiki_jisshiyoko.pdf",
-    "sourceName": "東京都江戸川区",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "江戸川区立鹿本・上一色地域統合中学校改築工事基本設計及び実施設計業務委託仕様書（PDF：232KB）",
-        "url": "https://www.city.edogawa.tokyo.jp/documents/75397/3_shikamoto_kamiisshiki_sekkeishiyosho.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "13",
-    "cityCode": "131237"
   },
   {
     "id": "70b47b61bfcd3072c4",
@@ -2393,7 +2462,7 @@
     "sourceUrl": "https://www.p-portal.go.jp/pps-web-biz/UAA01/OAA0101",
     "sourceName": "防衛省",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -2431,7 +2500,7 @@
     "sourceUrl": "https://www.city.tamura.lg.jp/soshiki/3/assets/261120%E6%9D%A1%E4%BB%B6%E4%BB%98%E3%81%8D%E5%85%A5%E6%9C%AD%E5%85%AC%E5%91%8A.pdf",
     "sourceName": "福島県田村市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -2468,7 +2537,7 @@
     "sourceUrl": "https://www.city.sayama.saitama.jp/jigyo/nyusatsu/hacchukeiyaku/nyusatukoukoku/hachyuanken/202611201.files/8-384_koukoku.pdf",
     "sourceName": "埼玉県狭山市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "入札説明書（PDF・71KB）",
@@ -2523,7 +2592,7 @@
     "sourceUrl": "https://www.city.uonuma.lg.jp/nyusatu/261203/003461/00346101.pdf",
     "sourceName": "新潟県魚沼市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "【令8単施委-26号】位置図",
@@ -2573,7 +2642,7 @@
     "sourceUrl": "https://www.city.uonuma.lg.jp/nyusatu/261203/003759/00375901.pdf",
     "sourceName": "新潟県魚沼市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "令8現単交委第12号 仕様書",
@@ -2624,7 +2693,7 @@
     "sourceUrl": "https://www.city.uonuma.lg.jp/nyusatu/261203/003732/00373201.pdf",
     "sourceName": "新潟県魚沼市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "【令8現単有機委第20号】仕様書",
@@ -2676,7 +2745,7 @@
     "sourceUrl": "https://www.city.yokkaichi.mie.jp/new_water/wp/wp-content/uploads/2026/11/D010kokoku.pdf",
     "sourceName": "三重県四日市市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "［仕様書］",
@@ -2735,7 +2804,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00373871/3_73871_525290_up_2jydntb4.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "02 仕様書（PDF：723.8キロバイト）",
@@ -2750,330 +2819,6 @@
     "procedureType": "",
     "lgCode": "43",
     "cityCode": "431001"
-  },
-  {
-    "id": "2698f7cdaa01f93089",
-    "area": "東北",
-    "region": "岩手県",
-    "municipality": "盛岡市",
-    "organization": "国家公安委員会（警察庁）岩手県警察",
-    "noticeDate": "2026-11-20",
-    "deadline": null,
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 12,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "業務委託"
-    ],
-    "title": "【県】入札公告（令和8年11月20日公表）盛岡西地区建築設備等・外壁点検業務委託",
-    "summary": "【県】入札公告(令和8年11月20日公表)盛岡西地区建築設備等・外壁点検業務委託 次のとおり一般競争入札に付する。 令和8年11月20日岩手県知事 達 増 拓 也1 一般競争入札に付する事項(1) 業務名盛岡西地区建築設備等・外壁点検業務委託(2) 業務の仕様等盛岡市等に存する職員宿舎等にかかる建築設備等・外壁点検業務詳細は、入札説明書による。 (3) 履行期間100日間(4) 履行場所盛岡市青山三丁目40番15号ほか(5) 入札方法入札金額については、業務に要する一切の費用を含めた額とする。 落札決定に当たっては、入札書に記載された金額に当該金額の100分の10に相当する額を加算した金額(当該金額に1円未満の端数があるときは、その端数金額を切り捨てた金額)をもって落札価格とするので、入札者は、消費税及び地方消費税に係る課税事業者であるか免税事業者であるかを問わず、見積もった契約希望金額の110分の100に相当する金額を入札書に",
-    "status": "unknown",
-    "sourceUrl": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/891/s_kaikei_morinisi01.pdf",
-    "sourceName": "国家公安委員会（警察庁）岩手県警察",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "入札説明書 （PDF 179.8KB）",
-        "url": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/891/s_kaikei_morinisi02.pdf"
-      },
-      {
-        "name": "点検業務委託仕様書 （PDF 6.7MB）",
-        "url": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/891/s_kaikei_morinisi04.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "03",
-    "cityCode": "032018"
-  },
-  {
-    "id": "54c3f52d8aa008e07e",
-    "area": "東北",
-    "region": "岩手県",
-    "municipality": "盛岡市",
-    "organization": "国家公安委員会（警察庁）岩手県警察",
-    "noticeDate": "2026-11-20",
-    "deadline": null,
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 12,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "業務委託"
-    ],
-    "title": "【県】入札公告（令和8年11月20日公表）盛岡地区建築物点検業務委託",
-    "summary": "【県】入札公告(令和8年11月20日公表)盛岡地区建築物点検業務委託 次のとおり一般競争入札に付する。 令和8年11月20日岩手県知事 達 増 拓 也1 一般競争入札に付する事項(1) 業務名盛岡地区建築物点検業務委託(2) 業務の仕様等盛岡市等に存する職員宿舎等にかかる建築物点検業務詳細は、入札説明書による。 (3) 履行期間100日間(4) 履行場所盛岡市内丸9番5ほか(5) 入札方法入札金額については、業務に要する一切の費用を含めた額とする。 落札決定に当たっては、入札書に記載された金額に当該金額の100分の10に相当する額を加算した金額(当該金額に1円未満の端数があるときは、その端数金額を切り捨てた金額)をもって落札価格とするので、入札者は、消費税及び地方消費税に係る課税事業者であるか免税事業者であるかを問わず、見積もった契約希望金額の110分の100に相当する金額を入札書に記載すること。 2 入札参加資格要件等次に示す",
-    "status": "unknown",
-    "sourceUrl": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/890/s_kaikei_morioka01.pdf",
-    "sourceName": "国家公安委員会（警察庁）岩手県警察",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "入札説明書 （PDF 178.2KB）",
-        "url": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/890/s_kaikei_morioka02.pdf"
-      },
-      {
-        "name": "点検業務委託仕様書 （PDF 518.2KB）",
-        "url": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/890/s_kaikei_morioka04.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "03",
-    "cityCode": "032018"
-  },
-  {
-    "id": "d46521746b6e2f0d11",
-    "area": "東北",
-    "region": "岩手県",
-    "municipality": "盛岡市",
-    "organization": "国家公安委員会（警察庁）岩手県警察",
-    "noticeDate": "2026-11-20",
-    "deadline": null,
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 12,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "業務委託"
-    ],
-    "title": "【県】入札公告（令和8年11月20日公表）県南地区建築設備等点検業務委託",
-    "summary": "【県】入札公告(令和8年11月20日公表)県南地区建築設備等点検業務委託 次のとおり一般競争入札に付する。 令和8年11月20日岩手県知事 達 増 拓 也1 一般競争入札に付する事項(1) 業務名県南地区建築設備等点検業務委託(2) 業務の仕様等花巻市等に存する職員宿舎等にかかる建築設備等点検業務詳細は、入札説明書による。 (3) 履行期間100日間(4) 履行場所花巻市下小舟渡309番2ほか(5) 入札方法入札金額については、業務に要する一切の費用を含めた額とする。 落札決定に当たっては、入札書に記載された金額に当該金額の100分の10に相当する額を加算した金額(当該金額に1円未満の端数があるときは、その端数金額を切り捨てた金額)をもって落札価格とするので、入札者は、消費税及び地方消費税に係る課税事業者であるか免税事業者であるかを問わず、見積もった契約希望金額の110分の100に相当する金額を入札書に記載すること。 2 入札参",
-    "status": "unknown",
-    "sourceUrl": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/889/s_keikei_kennan01.pdf",
-    "sourceName": "国家公安委員会（警察庁）岩手県警察",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "入札説明書 （PDF 180.2KB）",
-        "url": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/889/s_keikei_kennan02.pdf"
-      },
-      {
-        "name": "点検業務委託仕様書 （PDF 361.6KB）",
-        "url": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/889/s_keikei_kennan04.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "03",
-    "cityCode": "032018"
-  },
-  {
-    "id": "5c8473955a164afc96",
-    "area": "東北",
-    "region": "岩手県",
-    "municipality": "盛岡市",
-    "organization": "国家公安委員会（警察庁）岩手県警察",
-    "noticeDate": "2026-11-20",
-    "deadline": null,
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 12,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "業務委託"
-    ],
-    "title": "【県】入札公告（令和8年11月20日公表）県北地区建築設備等・外壁点検業務委託",
-    "summary": "【県】入札公告(令和8年11月20日公表)県北地区建築設備等・外壁点検業務委託 次のとおり一般競争入札に付する。 令和8年11月20日岩手県知事 達 増 拓 也1 一般競争入札に付する事項(1) 業務名県北地区建築設備等・外壁点検業務委託(2) 業務の仕様等岩手町等に存する職員宿舎等にかかる建築設備等・外壁点検業務詳細は、入札説明書による。 (3) 履行期間100日間(4) 履行場所岩手町大字五日市第11地割53番3ほか(5) 入札方法入札金額については、業務に要する一切の費用を含めた額とする。 落札決定に当たっては、入札書に記載された金額に当該金額の100分の10に相当する額を加算した金額(当該金額に1円未満の端数があるときは、その端数金額を切り捨てた金額)をもって落札価格とするので、入札者は、消費税及び地方消費税に係る課税事業者であるか免税事業者であるかを問わず、見積もった契約希望金額の110分の100に相当する金額を入札書",
-    "status": "unknown",
-    "sourceUrl": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/888/s_kaikei_kenpoku01.pdf",
-    "sourceName": "国家公安委員会（警察庁）岩手県警察",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "入札説明書 （PDF 180.1KB）",
-        "url": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/888/s_kaikei_kenpoku02.pdf"
-      },
-      {
-        "name": "点検業務委託仕様書 （PDF 4.7MB）",
-        "url": "https://www.pref.iwate.jp/kenkei/_res/projects/project_kenkei/_page_/003/002/888/s_kaikei_kenpoku04.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "03",
-    "cityCode": "032018"
-  },
-  {
-    "id": "785fd87bcacdfba855",
-    "area": "近畿",
-    "region": "兵庫県",
-    "municipality": "三田市",
-    "organization": "兵庫県三田市",
-    "noticeDate": "2026-11-20",
-    "deadline": null,
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 0,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "業務委託",
-      "除外:給食"
-    ],
-    "title": "制限付一般競争入札情報(三幼委第5号 三田市立認定こども園給食調理(外部搬入)業務委託)",
-    "summary": "制限付一般競争入札情報(三幼委第5号 三田市立認定こども園給食調理(外部搬入)業務委託) 三田市公告第150号入札公告下記の業務について制限付一般競争入札を実施するので、三田市契約事務規則(平成17年三田市規則第7号)第7条の規定により公告する。 令和8年11月20日三田市長 田 村 克 也1 入札対象業務(1)委託番号 三幼委第5号(2)委託業務名 三田市立認定こども園給食調理(外部搬入)業務(3)履行(搬入)期間 令和9年4月1日~令和12年3月31日(4)予定価格 公表しない(5)最低制限価格 設定しない(6)契約保証金 免除(7)入札保証金 免除2 入札参加資格次の条件をすべて満たす者。 (1)この公告の日において、入札等参加資格者名簿(物品・役務提供等)に登録のある者であること。 (2)この公告の日において、兵庫県または近隣府県の知事から食品衛生法(昭和22年法律第233号)第55条の規定に基づく「飲食店営業」の営業の",
-    "status": "unknown",
-    "sourceUrl": "https://www.city.sanda.lg.jp/material/files/group/157/R8ninnteikodomoennkyuusyoku_koukoku.pdf",
-    "sourceName": "兵庫県三田市",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "入札等説明書(PDFファイル:76.7KB)",
-        "url": "https://www.city.sanda.lg.jp/material/files/group/157/R8ninnteikodomoennkyuusyoku_nyuusatusetumei.pdf"
-      },
-      {
-        "name": "仕様書(PDFファイル:223.1KB)",
-        "url": "https://www.city.sanda.lg.jp/material/files/group/157/R8ninnteikodomoenkyuusyoku_siyousyo.pdf"
-      },
-      {
-        "name": "入札明細書(PDFファイル:22.3KB)",
-        "url": "https://www.city.sanda.lg.jp/material/files/group/157/R8ninnteikodomoennkyuusyoku_nyuusatumeisai.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "28",
-    "cityCode": "282197"
-  },
-  {
-    "id": "158a176019a7cc2512",
-    "area": "近畿",
-    "region": "兵庫県",
-    "municipality": "三田市",
-    "organization": "兵庫県三田市",
-    "noticeDate": "2026-11-20",
-    "deadline": null,
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 0,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "業務委託",
-      "除外:輸送"
-    ],
-    "title": "制限付一般競争入札情報(三幼委第4号 三田市立認定こども園通園バス運行業務委託)",
-    "summary": "制限付一般競争入札情報(三幼委第4号 三田市立認定こども園通園バス運行業務委託) 三田市公告第149号入札公告下記の業務委託について制限付一般競争入札を実施するので、三田市契約事務規則(平成17年三田市規則第7号)第7条の規定により公告する。 令和8年11月20日三田市長 田 村 克 也1 入札対象業務(1)業務委託番号 三幼委第4号(2)業務委託名 三田市立認定こども園通園バス運行業務委託(3)履行期間 契約日 から 令和12年3月31日 まで(4)予定価格 公表しない(5)最低制限価格 設定しない(6)契約保証金 契約金額の100分の10(三田市内に本社本店を有する契約者は100分の3)千円未満切り上げ(7)入札保証金 免除(8)業務委託料の支払契約書の定めにより、月ごとに請求により支払う。 2 入札参加資格次の条件をすべて満たす者。 (1)この公告の日において、三田市の入札等参加資格者名簿(物品・役務提供等)の希望取引業種",
-    "status": "unknown",
-    "sourceUrl": "https://www.city.sanda.lg.jp/material/files/group/157/R8tuuennbasuunnkougyoumu_koukoku.pdf",
-    "sourceName": "兵庫県三田市",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "入札等説明書(PDFファイル:77.1KB)",
-        "url": "https://www.city.sanda.lg.jp/material/files/group/157/R8tuuennbasuunnkougyoumu_nyuusatusetumei.pdf"
-      },
-      {
-        "name": "仕様書(PDFファイル:130.3KB)",
-        "url": "https://www.city.sanda.lg.jp/material/files/group/157/R8tuuennbasuunkougyoumu_siyousyo.pdf"
-      },
-      {
-        "name": "入札明細書(PDFファイル:23.2KB)",
-        "url": "https://www.city.sanda.lg.jp/material/files/group/157/R8tuuennbasuunnkougyoumu_nyuusatumeisai.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "28",
-    "cityCode": "282197"
-  },
-  {
-    "id": "60866a414bae7c9536",
-    "area": "近畿",
-    "region": "兵庫県",
-    "municipality": "相生市",
-    "organization": "兵庫県相生市",
-    "noticeDate": "2026-11-20",
-    "deadline": null,
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 0,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "業務委託",
-      "除外:清掃"
-    ],
-    "title": "準用河川西後明川浚渫業務委託 [PDFファイル／109KB]",
-    "summary": "準用河川西後明川浚渫業務委託 [PDFファイル/109KB] 相生市制限付一般競争入札公告委託番号 委第19号委託名 準用河川西後明川浚渫業務委託履行場所 相生市 若狭野町上松 地内履行期間 契約締結の日から令和9年2月26日委託業務概要 準用河川西後明川浚渫業務委託 掘削工 掘削 処分工 河川等掘削工 清掃・除草 処分工V=130.0m3一式A=650.0m2一式予定価格 2,509,000円 (消費税抜き)担当課 建設農林部 都市整備課最低制限価格 相生市変動型最低制限価格制度事務取扱要領による。 入札参加資格 (1)相生市制限付一般競争入札実施要領第3条による。(2)公告日から開札日までの間、兵庫県から指名停止を受けていない者。 (3)土木一式工事において競争入札に参加する資格を有する者。 (4)土木一式工事に係る建設業の許可を受けている者。 (5)建設業法に規定する、土木一式工事に係る経営事項審査結果の総合評点が市内に本",
-    "status": "unknown",
-    "sourceUrl": "https://www.city.aioi.lg.jp/uploaded/attachment/25982.pdf",
-    "sourceName": "兵庫県相生市",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "28",
-    "cityCode": "282081"
   },
   {
     "id": "2394625baf5ebcc42e",
@@ -3106,7 +2851,7 @@
     "sourceUrl": "https://www.city.machida.tokyo.jp/jigyousha/nyusatsu/puropo/kobogata/kyodo_proposal.files/01_setumeisyo.pdf",
     "sourceName": "東京都町田市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "2 町田市福祉輸送サービス共同配車センター運営業務委託仕様書（PDF・525KB）",
@@ -3152,7 +2897,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/49/jisshiyouryouR8dokusyo2kaime.pdf",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "仕様書 (PDFファイル: 355.2KB)",
@@ -3199,7 +2944,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00373871/3_73871_525473_up_bsi7wzkq.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "02 仕様書（PDF：723.8キロバイト）",
@@ -3245,7 +2990,7 @@
     "sourceUrl": "https://www.pref.akita.lg.jp/uploads/public/archive_0000061207_00/01_%E5%85%AC%E5%91%8A%E6%96%87.pdf",
     "sourceName": "秋田県",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "特記仕様書（PDF） [99KB]",
@@ -3299,7 +3044,7 @@
     "sourceUrl": "https://www.ncchd.go.jp/assets/20261125_01.pdf",
     "sourceName": "国立研究開発法人国立成育医療研究センター",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -3336,7 +3081,7 @@
     "sourceUrl": "https://www.city.atami.lg.jp/_res/projects/default_project/_page_/001/019/328/20k.pdf",
     "sourceName": "静岡県熱海市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "特に定めた契約条件 （PDF 37.6KB）",
@@ -3390,7 +3135,7 @@
     "sourceUrl": "https://www.city.kasukabe.lg.jp/jigyoshamuke/nyusatsu_keiyaku/nyusatsukokokuichiran/49/39265.html",
     "sourceName": "埼玉県春日部市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "仕様書(PDFファイル:1.3MB)",
@@ -3432,7 +3177,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/86/jissiyoryouu.zip",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -3469,7 +3214,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/51/19007.pdf",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "仕様書 (PDFファイル: 144.1KB)",
@@ -3515,7 +3260,7 @@
     "sourceUrl": "https://www.city.chikuma.lg.jp/material/files/group/11/081208-03.pdf",
     "sourceName": "長野県千曲市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "一般競争入札",
@@ -3552,7 +3297,7 @@
     "sourceUrl": "https://www.town.mie-kihoku.lg.jp/wp-content/uploads/2026/11/koukokuR8-35.pdf",
     "sourceName": "三重県紀北町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "・仕様書",
@@ -3608,7 +3353,7 @@
     "sourceUrl": "https://www.town.yosano.lg.jp/assets/kokoku_21.pdf",
     "sourceName": "京都府与謝野町",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "執務室無線ネットワーク機器等賃貸借業務仕様書.pdf (100.2KB)",
@@ -3671,7 +3416,7 @@
     "sourceUrl": "https://www.city.kumamoto.jp/kiji00373786/3_73786_524085_up_axcy2hjm.pdf",
     "sourceName": "熊本県熊本市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "01_仕様書等交付申請書（様式第1号）（ワード：23.7キロバイト）",
@@ -3686,6 +3431,171 @@
     "procedureType": "",
     "lgCode": "43",
     "cityCode": "431001"
+  },
+  {
+    "id": "a1c5baf780869c41cb",
+    "area": "中国",
+    "region": "山口県",
+    "municipality": "柳井市",
+    "organization": "独立行政法人国立病院機構柳井医療センター",
+    "noticeDate": "2026-11-26",
+    "deadline": null,
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 0,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "業務委託",
+      "除外:清掃"
+    ],
+    "title": "清掃業務委託 一式の入札公告について",
+    "summary": "清掃業務委託 一式の入札公告について 管理番号 4-10-10-10-001 - 1 -入 札 公 告次 の と お り 一 般 競 争 入 札 に 付 し ま す 。令和8 年 1 1 月 26日経 理 責 任 者独 立 行 政 法 人 国 立 病 院 機 構柳 井 医 療 セ ン タ ー 院 長 宮地 隆史◎ 調 達 機 関 番 号 597 ◎ 所 在 地 番 号 35○第1 1 7 23号(N o . 1 1 7 23)1 調 達 内 容(1) 品 目 分 類 番 号 75(2) 購 入 等 件 名 及 び 数 量 清 掃 業 務 委託 一式(3) 調 達 案 件 の 仕 様 等入 札 説 明 書 及 び 仕 様 書 に よ る 。(4) 履 行 期 間令和9 年 5 月 1 日 か ら 令 和 12年 4 月 30 日 ま で 。(5) 履 行 場 所 独 立 行 政 法 人 国 立 病 院 機 構 柳 井医 療 セ ン",
+    "status": "unknown",
+    "sourceUrl": "https://yanai.hosp.go.jp/uploads/file/nyusatsu/20261126.pdf",
+    "sourceName": "独立行政法人国立病院機構柳井医療センター",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "35",
+    "cityCode": "352128"
+  },
+  {
+    "id": "f1f483b3ece90b98cf",
+    "area": "近畿",
+    "region": "兵庫県",
+    "municipality": "明石市",
+    "organization": "兵庫県明石市",
+    "noticeDate": "2026-11-26",
+    "deadline": null,
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 12,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "業務委託"
+    ],
+    "title": "【制限付一般競争入札】船上城跡埋蔵文化財発掘調査業務委託（11月26日発注）",
+    "summary": "【制限付一般競争入札】船上城跡埋蔵文化財発掘調査業務委託(11月26日発注) 1明文ス第1073号2026 年(令和8年)11 月 26 日明石市長 丸谷 聡子(公印省略 文化・スポーツ室)制限付一般競争入札の実施について制限付一般競争入札(郵便方式)を実施するので、地方自治法施行令(昭和22年政令第16号)第167条の6及び明石市契約規則(平成5年規則第10号)第5条の規定に基づき、下記の通り公告する。 記1 対象業務(1) 業 務 名 船上城跡埋蔵文化財発掘調査業務委託(2) 業務場所 明石市林2丁目(別紙「調査範囲」のとおり)(3) 業務概要 埋蔵文化財発掘調査 一式(4) 履行期間 契約締結日の翌日から2026年12月28日(月)まで2 入札参加要件(参加者は、次のすべての要件に該当していること。)(1) 明石市入札参加資格者名簿(物品・サービス)に契約の種類が調査で登録されており、かつ、業務区分が埋蔵文化財で登録されて",
+    "status": "unknown",
+    "sourceUrl": "https://www.city.akashi.lg.jp/documents/40669/03_funagejou_koukoku.pdf",
+    "sourceName": "兵庫県明石市",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [
+      {
+        "name": "仕様書（PDF：69KB）",
+        "url": "https://www.city.akashi.lg.jp/documents/40669/13_funagejou_siyou.pdf"
+      },
+      {
+        "name": "共通仕様書（PDF：109KB）",
+        "url": "https://www.city.akashi.lg.jp/documents/40669/15_funagejou_general.pdf"
+      },
+      {
+        "name": "特記仕様書（PDF：80KB）",
+        "url": "https://www.city.akashi.lg.jp/documents/40669/16_funagejou_special.pdf"
+      }
+    ],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "28",
+    "cityCode": "282031"
+  },
+  {
+    "id": "06b9fa0c262497fb87",
+    "area": "",
+    "region": "",
+    "municipality": "国立研究開発法人農業・食品産業技術総合研究機構",
+    "organization": "国立研究開発法人農業・食品産業技術総合研究機構",
+    "noticeDate": "2026-11-26",
+    "deadline": null,
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 0,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [],
+    "title": "ゲノム解析業務",
+    "summary": "ゲノム解析業務 次のとおり一般競争入札に付します。 国立研究開発法人農業・食品産業技術総合研究機構本部管理本部九州沖縄管理部長 近江 俊輔(押印省略)1 競争に付す事項(1) ゲノム解析業務 1式(2) 詳細は入札説明書による。 (3)(4) 国立研究開発法人農業・食品産業技術総合研究機構合志研究拠点(九州沖縄農業研究センター)(熊本県合志市須屋2421)2 競争参加資格(1)(2)(3)(4)(5)(6)(7)3 入札手続等(1) 担当部局〒861-1192 熊本県合志市須屋2421農研機構 本部 管理本部 九州沖縄管理部 会計課会計チーム(調達担当) 石田 勉電話 096-242-7721 FAX 096-249-1002 E-mail 9tyoutatsu@ml.affrc.go.jp(2) 入札説明書の交付期間、場所及び方法(3)(4)(5)(必着)(6)農研機構 合志研究拠点(九州沖縄農業研究センター)共同研究棟(I)",
+    "status": "unknown",
+    "sourceUrl": "https://www.naro.go.jp/supply/files/08e083.pdf",
+    "sourceName": "国立研究開発法人農業・食品産業技術総合研究機構",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "",
+    "cityCode": ""
+  },
+  {
+    "id": "af3078edce3c1f043f",
+    "area": "近畿",
+    "region": "奈良県",
+    "municipality": "五條市",
+    "organization": "奈良県五條市",
+    "noticeDate": "2026-11-26",
+    "deadline": "1989-04-01",
+    "presentationDate": null,
+    "tenderDate": null,
+    "openingDate": null,
+    "deliveryDate": null,
+    "budget": null,
+    "theme": [
+      "その他クリエイティブ"
+    ],
+    "classificationVersion": 2,
+    "dentsuFitScore": 12,
+    "dentsuFitLevel": "low",
+    "dentsuCategories": [],
+    "dentsuCategoryLabels": [],
+    "dentsuSignals": [
+      "業務委託"
+    ],
+    "title": "【入札公告】ADサーバ構成機器設置業務委託",
+    "summary": "【入札公告】ADサーバ構成機器設置業務委託 1入札説明書入札公告に基づく条件付一般競争入札については、五條市契約規則その他関係法令に定めるもののほか、この入札説明書によるものとする。 1 公告日 令和8年11月2日2 入札件名 ADサーバ構成機器設置業務委託3 入札参加資格の審査に必要な書類この入札に参加を希望する者は、入札公告第2に掲げる入札参加資格を有することの確認を受けるため、五條市物品・役務入札参加資格に係る登録業者は下記(1)の1~3の書類を提出しなければならない。 なお、期限までに規定の必要書類を提出しない者又は入札参加資格がないと認められた者は、この条件付一般競争入札に参加することができない。 (1)提出書類1 一般競争入札参加資格確認申請書(様式1)2 契約履行実績証明書(様式1の2)※実績証明書に記載した契約の契約書等(受注形態、内容等が記載された契約書等)の写しを添付して下さい。 3 適合規格確認票(様式1の",
+    "status": "closed",
+    "sourceUrl": "https://www.city.gojo.lg.jp/material/files/group/1/20261112_setsumeisyo.pdf",
+    "sourceName": "奈良県五條市",
+    "sourceSystem": "官公需情報ポータルサイト検索API",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
+    "attachments": [
+      {
+        "name": "＜五條市＞ADサーバ仕様書(R8.11.12修正） (PDFファイル: 1.2MB)",
+        "url": "https://www.city.gojo.lg.jp/material/files/group/1/20261112_shiyosyo.pdf"
+      }
+    ],
+    "category": "役務",
+    "procedureType": "",
+    "lgCode": "29",
+    "cityCode": "292079"
   },
   {
     "id": "d108b6e29a0dc26647",
@@ -3715,7 +3625,7 @@
     "sourceUrl": "https://www.hkd.mlit.go.jp/rm/keiyaku/f6h4sv0000000i3g-att/qc4ic800000008zq.pdf",
     "sourceName": "国土交通省北海道開発局留萌開発建設部",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [],
     "category": "役務",
     "procedureType": "",
@@ -3752,7 +3662,7 @@
     "sourceUrl": "https://www.city.kuroishi.aomori.jp/shisei/nyusatsu/files/madoguchi_system_youryou.pdf",
     "sourceName": "青森県黒石市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "黒石市窓口システム構築等業務委託仕様書",
@@ -3794,7 +3704,7 @@
     "sourceUrl": "https://www.city.kuroishi.aomori.jp/shisei/nyusatsu/files/kokuhohyojun_system_youryou.pdf",
     "sourceName": "青森県黒石市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "国民健康保険市町村事務処理標準システム導入業務委託仕様書",
@@ -3837,7 +3747,7 @@
     "sourceUrl": "https://www.city.kuroishi.aomori.jp/shisei/nyusatsu/files/01_line_jisshiyouryou.pdf",
     "sourceName": "青森県黒石市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "黒石市公式LINE構築・運用支援業務委託仕様書",
@@ -3879,7 +3789,7 @@
     "sourceUrl": "https://www.city.kuroishi.aomori.jp/shisei/nyusatsu/files/jissjiyouryou.pdf",
     "sourceName": "青森県黒石市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "仕様書",
@@ -3923,7 +3833,7 @@
     "sourceUrl": "https://www.city.toshima.lg.jp/documents/58429/01_boshuuyoukou.pdf",
     "sourceName": "東京都豊島区",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "【別紙1】参考仕様書（PDF：983KB）",
@@ -3974,7 +3884,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/32/seisouzissiyouryou.pdf",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "仕様書 (PDFファイル: 122.0KB)",
@@ -3985,57 +3895,6 @@
     "procedureType": "一般競争入札",
     "lgCode": "27",
     "cityCode": "272230"
-  },
-  {
-    "id": "03138468941492199d",
-    "area": "北海道",
-    "region": "北海道",
-    "municipality": "北海道",
-    "organization": "北海道",
-    "noticeDate": "2026-11-20",
-    "deadline": "2026-11-20",
-    "presentationDate": null,
-    "tenderDate": null,
-    "openingDate": null,
-    "deliveryDate": null,
-    "budget": null,
-    "theme": [
-      "その他クリエイティブ"
-    ],
-    "classificationVersion": 2,
-    "dentsuFitScore": 30,
-    "dentsuFitLevel": "low",
-    "dentsuCategories": [],
-    "dentsuCategoryLabels": [],
-    "dentsuSignals": [
-      "イベント",
-      "観光"
-    ],
-    "title": "【終了しました】令和８年度（2026年度）介護事業所等及び介護施設等に対するサービス継続支援事業費に係る事務委託業務 一般競争入札の実施について",
-    "summary": "【終了しました】令和8年度(2026年度)介護事業所等及び介護施設等に対するサービス継続支援事業費に係る事務委託業務 一般競争入札の実施について 【終了しました】令和8年度(2026年度)介護事業所等及び介護施設等に対するサービス継続支援事業費に係る事務委託業務 一般競争入札の実施について - 保健福祉部福祉局高齢者保健福祉課 // window.rsConf = { general: { usePost: true } }; window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-EBLH2TMM2V'); 読み上げる Foreign Language メインコンテンツへ移動 北海道トップ カテゴリから探す 公募・意見募集 申請",
-    "status": "closed",
-    "sourceUrl": "https://www.pref.hokkaido.lg.jp/hf/khf/250530.html",
-    "sourceName": "北海道",
-    "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:36+00:00",
-    "attachments": [
-      {
-        "name": "北海道告示第10365号 (PDF 164KB)",
-        "url": "https://www.pref.hokkaido.lg.jp/fs/1/3/0/9/6/5/7/0/_/%E5%8C%97%E6%B5%B7%E9%81%93%E5%91%8A%E7%A4%BA%E7%AC%AC10365%E5%8F%B7.pdf"
-      },
-      {
-        "name": "北海道告示第10366号 (PDF 141KB)",
-        "url": "https://www.pref.hokkaido.lg.jp/fs/1/3/0/6/4/4/0/1/_/%E5%8C%97%E6%B5%B7%E9%81%93%E5%91%8A%E7%A4%BA%E7%AC%AC10366%E5%8F%B7.pdf"
-      },
-      {
-        "name": "16_委託契約に関する留意事項 (PDF 498KB)",
-        "url": "https://www.pref.hokkaido.lg.jp/fs/1/3/0/7/8/8/5/3/_/10_%E4%BA%8B%E6%A5%AD%E8%80%85%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E7%95%99%E6%84%8F%E4%BA%8B%E9%A0%85.pdf"
-      }
-    ],
-    "category": "役務",
-    "procedureType": "",
-    "lgCode": "01",
-    "cityCode": ""
   },
   {
     "id": "67544cdb1fd7108e4f",
@@ -4069,7 +3928,7 @@
     "sourceUrl": "https://www.city.kadoma.osaka.jp/material/files/group/48/R8huron_jissiyouryou.pdf",
     "sourceName": "大阪府門真市",
     "sourceSystem": "官公需情報ポータルサイト検索API",
-    "lastChecked": "2026-11-26T11:00:35+00:00",
+    "lastChecked": "2026-11-26T20:14:01+00:00",
     "attachments": [
       {
         "name": "仕様書 (PDFファイル: 5.4MB)",
