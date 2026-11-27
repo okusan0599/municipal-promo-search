@@ -1,15 +1,15 @@
 {
   "state": "completed",
-  "started_at": "2026-11-26T20:13:48+00:00",
-  "updated_at": "2026-11-26T20:21:50+00:00",
+  "started_at": "2026-11-27T02:56:26+00:00",
+  "updated_at": "2026-11-27T03:04:22+00:00",
   "mode": "github-actions-json",
   "seed": null,
   "kkj": {
     "count": 90,
     "status": {
       "state": "completed",
-      "started_at": "2026-11-26T20:13:48+00:00",
-      "updated_at": "2026-11-26T20:14:01+00:00",
+      "started_at": "2026-11-27T02:56:27+00:00",
+      "updated_at": "2026-11-27T02:56:33+00:00",
       "source": "官公需情報ポータルサイト検索API",
       "query_groups_total": 1,
       "query_groups_completed": 1,
@@ -24,29 +24,29 @@
   },
   "discovery": {
     "processed": 100,
-    "succeeded": 72,
-    "failed": 28,
+    "succeeded": 83,
+    "failed": 17,
     "sourcesAdded": 0,
-    "historySourcesAdded": 31
+    "historySourcesAdded": 14
   },
   "direct": {
     "processed": 50,
-    "succeeded": 45,
-    "failed": 5,
-    "projects": 132,
-    "unchanged": 9,
-    "historySourcesAdded": 121
+    "succeeded": 50,
+    "failed": 0,
+    "projects": 163,
+    "unchanged": 13,
+    "historySourcesAdded": 146
   },
   "history": {
     "processed": 30,
     "succeeded": 28,
     "failed": 2,
-    "awards": 4,
-    "documents": 44,
-    "unchanged": 8
+    "awards": 0,
+    "documents": 43,
+    "unchanged": 16
   },
-  "statusNormalized": 0,
-  "historyLinkedProjects": 16,
+  "statusNormalized": 43,
+  "historyLinkedProjects": 0,
   "coverage": {
     "municipalities": 1788,
     "municipalitiesVisited": 1787,
@@ -55,7 +55,7 @@
     "sources": 6955,
     "projects": 5703,
     "projectsWithDeadline": 1811,
-    "historySources": 8021,
+    "historySources": 8031,
     "historyMunicipalities": 538,
     "historyAwards": 1912,
     "historyLinkedProjects": 567
@@ -68,7 +68,7 @@
     "sources": 6955,
     "projects": 5703,
     "projectsWithDeadline": 1811,
-    "historySources": 8021,
+    "historySources": 8031,
     "historyMunicipalities": 538,
     "historyAwards": 1912,
     "historyLinkedProjects": 567,
