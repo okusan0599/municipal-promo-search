@@ -6834,7 +6834,7 @@
     "coveredYears": [],
     "sourceType": "result",
     "title": "電子入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"3898-660fe9b5c343a\"",
@@ -10772,7 +10772,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果（令和8年度）",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": null,
@@ -11111,7 +11111,7 @@
     ],
     "sourceType": "result",
     "title": "入札結果",
-    "discoveryMethod": "procurement_page",
+    "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
     "etag": "\"0c2ef931\"",
@@ -18018,9 +18018,9 @@
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r6/11084.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:39+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:37+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:39+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:37+00:00",
     "coveredYears": [
       2024
     ],
@@ -18030,17 +18030,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 27 Aug 2026 03:49:30 GMT",
-    "contentHash": "53c8f9f207ee6e2d6759619f74d9712bf6bf48dc6b2c39cad133388a42b586d2"
+    "lastModified": "Fri, 13 Nov 2026 08:45:38 GMT",
+    "contentHash": "ca341390a07f03088f7fa06a9b5637b16b79c1492586684a55c670256e06ecb1"
   },
   {
     "id": "c3914b52f4e897db",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r6/11085.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:39+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:38+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:39+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:38+00:00",
     "coveredYears": [
       2024
     ],
@@ -18050,17 +18050,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 27 Aug 2026 03:49:30 GMT",
-    "contentHash": "b2b50095965885a517667b7d2a253a41021fbf1e2edb79449c3e63883c4a639b"
+    "lastModified": "Fri, 13 Nov 2026 08:45:38 GMT",
+    "contentHash": "fe528d0fa080139659cee7847c170db447bb08c90b15273b2a4ed0c9c0a8d551"
   },
   {
     "id": "6ee0b08f49b17a63",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r6/11086.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:40+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:40+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:39+00:00",
     "coveredYears": [
       2024
     ],
@@ -18070,17 +18070,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 27 Aug 2026 03:49:30 GMT",
-    "contentHash": "e97dc72b998e575dfb613489cfeac324f7fd3aef33a30fdeabedd9066bc0205a"
+    "lastModified": "Fri, 13 Nov 2026 08:45:38 GMT",
+    "contentHash": "32c5a97bed3cd60b5ee42cc4f8c46fd0381b99483e96cb2601037a6bd14a7144"
   },
   {
     "id": "41723ec7c69df405",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r7/13563.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:41+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:39+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:41+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:39+00:00",
     "coveredYears": [
       2025
     ],
@@ -18090,17 +18090,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 27 Aug 2026 03:48:46 GMT",
-    "contentHash": "c4160fa19b3bfab0b1c71d56540e7f557bd9277cf0e0b4284b0d6efc9b7cc419"
+    "lastModified": "Fri, 13 Nov 2026 08:44:53 GMT",
+    "contentHash": "d27962ce7e0a92f282dc390586611328243530915f282c4a44325f6af092d595"
   },
   {
     "id": "2268c8eaad16e0f5",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r7/13564.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:41+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:40+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:41+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:40+00:00",
     "coveredYears": [
       2025
     ],
@@ -18110,17 +18110,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Thu, 27 Aug 2026 03:48:47 GMT",
-    "contentHash": "d24e83cca00bf24bf0c25e69e33350d9805af1ba9dca939208ccfd037b8ed016"
+    "lastModified": "Fri, 13 Nov 2026 08:44:53 GMT",
+    "contentHash": "bd866e312e10792c3cf3cb26164f4b076319d06f5f151f21a8fa141d535cf7f1"
   },
   {
     "id": "ab7b5928ed01a345",
     "municipalityCode": "016446",
     "url": "https://www.town.hokkaido-ikeda.lg.jp/sangyo/nyusatsu-keiyaku/nyusatsukekka-r8/14664.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:42+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:41+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:42+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:41+00:00",
     "coveredYears": [
       2026
     ],
@@ -18130,17 +18130,17 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Tue, 06 Oct 2026 07:30:02 GMT",
-    "contentHash": "b4d3573d072bb121a0f7fd7428013b89746bfd9f42da282611bc5648882e7b29"
+    "lastModified": "Wed, 18 Nov 2026 04:00:02 GMT",
+    "contentHash": "b921cf41409e4ce1c38404de412342491fef8a4d0903980dc5fde6cd0fde638d"
   },
   {
     "id": "50cd85b920e7561f",
     "municipalityCode": "016918",
     "url": "https://betsukai.jp/sangyo/nyusatsu/result/R1/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:43+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:42+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:43+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:42+00:00",
     "coveredYears": [
       2000
     ],
@@ -18151,16 +18151,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "f3ecf82e4e4ab336f0b8c51d02332c5bf2f46c7185d8eac702c1c73ccefcff12"
+    "contentHash": "4ec4d4424b8a543577195a80898bde4c21070006f711e03cb88c3811f437715e"
   },
   {
     "id": "4753ad505da1999e",
     "municipalityCode": "016918",
     "url": "https://betsukai.jp/sangyo/nyusatsu/result/R2/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:44+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:44+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:44+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:44+00:00",
     "coveredYears": [
       2000,
       2020
@@ -18172,16 +18172,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "009446406b88194c20f613af9d35d2672dec4022cc8a535a89e0561ef42c81ea"
+    "contentHash": "6d89d39bf7d7cf1589781dd33a9726652bfd73a36192954cef602ce2f5128aa2"
   },
   {
     "id": "04ed84af193b91d7",
     "municipalityCode": "016918",
     "url": "https://betsukai.jp/sangyo/nyusatsu/result/R3/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:45+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:45+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:45+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:45+00:00",
     "coveredYears": [
       2000,
       2021
@@ -18193,16 +18193,16 @@
     "active": true,
     "etag": null,
     "lastModified": null,
-    "contentHash": "88e02c638333d0c94e6b29af12317a81b42e6b813f9e34a9856ab1d784c32437"
+    "contentHash": "841f0567a87461c5b4286d66c6410454ece60717e812f732f4c40d9d1255ee57"
   },
   {
     "id": "1f0f24c42a9add19",
     "municipalityCode": "016918",
     "url": "https://betsukai.jp/sangyo/nyusatsu/result/R4/",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:46+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:46+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:46+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:46+00:00",
     "coveredYears": [
       2000,
       2022
@@ -18212,18 +18212,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"b3422f0c\"",
+    "etag": null,
     "lastModified": null,
-    "contentHash": "f9ca1013904c02d3c9eed242787ac8bcaea46ce17ab3ce785f4cef2d605ba40a"
+    "contentHash": "0dc94637f4d7ea19c3b59aab8e9d7a37a14dc653a671dd2d80e09ecbd097ef46"
   },
   {
     "id": "61e20dcfd08cf020",
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/keiyaku/20250403.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:46+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:47+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:46+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:47+00:00",
     "coveredYears": [
       2008,
       2025
@@ -18235,16 +18235,16 @@
     "active": true,
     "etag": "\"618c-659d49701c940\"",
     "lastModified": "Tue, 25 Aug 2026 00:57:41 GMT",
-    "contentHash": "05ca00eb5de6c24581f9d466ce5d47b5422fed748cd563f10970e66145822994"
+    "contentHash": "81710f2ce5f5026e97303380c4bdf9a8f1e33a777f3e016e34575bdad886ffa4"
   },
   {
     "id": "4e09833620556267",
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/keiyaku/20260402.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:47+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:48+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:47+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:48+00:00",
     "coveredYears": [
       2008,
       2026
@@ -18254,18 +18254,18 @@
     "discoveryMethod": "result_archive_link",
     "priority": 1,
     "active": true,
-    "etag": "\"5490-65deee043314e\"",
-    "lastModified": "Fri, 16 Oct 2026 06:00:06 GMT",
-    "contentHash": "df328880d138d3ab49767409491e187d28238deef431a857cfe1e18d08f08897"
+    "etag": "\"578f-6612bd8abf413\"",
+    "lastModified": "Thu, 26 Nov 2026 11:00:06 GMT",
+    "contentHash": "90e7efaa53a0db9fc7d5186f79aa8d86e992f390581d3559254a157753a23532"
   },
   {
     "id": "0a16f374677219dc",
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/documents/11033/kouhyousyo99.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:48+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:49+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:48+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:49+00:00",
     "coveredYears": [
       2024
     ],
@@ -18283,9 +18283,9 @@
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/documents/11033/kouhyousyo98.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:49+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:49+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:50+00:00",
     "coveredYears": [
       2024
     ],
@@ -18303,9 +18303,9 @@
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/documents/11033/kouhyousyo97.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:50+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:50+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:50+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:50+00:00",
     "coveredYears": [
       2024
     ],
@@ -18323,9 +18323,9 @@
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/documents/11033/kouhyousyo96.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:50+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:51+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:50+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:51+00:00",
     "coveredYears": [
       2024
     ],
@@ -18343,9 +18343,9 @@
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/documents/11033/kouhyousyo95.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:51+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:51+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:52+00:00",
     "coveredYears": [
       2024
     ],
@@ -18363,9 +18363,9 @@
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/documents/12122/kouhyousyo060.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:52+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:52+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:52+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:52+00:00",
     "coveredYears": [
       2025
     ],
@@ -18383,9 +18383,9 @@
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/documents/12122/kouhyousyo059.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:53+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:53+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:53+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:53+00:00",
     "coveredYears": [
       2025
     ],
@@ -18403,9 +18403,9 @@
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/documents/12122/kouhyousyo058.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:53+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:53+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:54+00:00",
     "coveredYears": [
       2025
     ],
@@ -18423,9 +18423,9 @@
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/documents/12122/kouhyousyo057.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:53+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:54+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:53+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:54+00:00",
     "coveredYears": [
       2025
     ],
@@ -108583,9 +108583,9 @@
     "municipalityCode": "404471",
     "url": "https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/03_sangayama_zyumoku.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:35+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:35+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:34+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "03_三箇山道路公園樹木・草刈管理業務（PDF：83KB）",
@@ -108601,9 +108601,9 @@
     "municipalityCode": "404471",
     "url": "https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/04_tosikouen_zyumoku_no1.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:36+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:34+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:36+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:34+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "04_都市公園樹木管理業務その１（PDF：82KB）",
@@ -108619,9 +108619,9 @@
     "municipalityCode": "404471",
     "url": "https://www.town.chikuzen.fukuoka.jp/S025/010/010/010/007/20250403_nyuusatukekka/05_tosikouen_zyumoku_no2.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:37+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:35+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:37+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:35+00:00",
     "coveredYears": [],
     "sourceType": "result_pdf",
     "title": "05_都市公園樹木管理業務その２（PDF：85KB）",
@@ -108637,9 +108637,9 @@
     "municipalityCode": "262137",
     "url": "https://www.city.nantan.kyoto.jp/www/town/124/007/000/index_93988.html",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T18:50:38+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:36+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T18:50:38+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:36+00:00",
     "coveredYears": [],
     "sourceType": "result",
     "title": "南丹市新庁舎太陽光発電設備設置事業に係るプロポーザル審査結果について",
@@ -108647,8 +108647,8 @@
     "priority": 1,
     "active": true,
     "etag": null,
-    "lastModified": "Wed, 21 Oct 2026 00:49:03 GMT",
-    "contentHash": "c3f9db5cd6d6a51c1250044274403990d716bed479ecf1ebf0797266657830bc"
+    "lastModified": "Fri, 30 Oct 2026 05:17:06 GMT",
+    "contentHash": "5e8e481adf4c6b9aeb98c6a6353e7de8f5aeb755c291fe794a3f02c789bbcde4"
   },
   {
     "id": "938ac2156b6f0a21",
@@ -125777,9 +125777,9 @@
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/documents/14832/kouhyousyo1015.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T22:33:51+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:55+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T22:33:51+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:55+00:00",
     "coveredYears": [
       2026
     ],
@@ -125797,9 +125797,9 @@
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/documents/14832/kouhyousyo1008.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T22:33:52+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:56+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T22:33:52+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:56+00:00",
     "coveredYears": [
       2026
     ],
@@ -125817,9 +125817,9 @@
     "municipalityCode": "462161",
     "url": "https://www.city.hioki.kagoshima.jp/documents/14832/kouhyousyo1001.pdf",
     "failureCount": 0,
-    "lastSuccessAt": "2026-10-21T22:33:52+00:00",
+    "lastSuccessAt": "2026-11-28T13:18:57+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": "2026-10-24T22:33:52+00:00",
+    "nextCrawlAt": "2026-12-01T13:18:57+00:00",
     "coveredYears": [
       2026
     ],
@@ -138502,30 +138502,40 @@
     "municipalityCode": "062065",
     "url": "https://www.city.sagae.yamagata.jp/jigyou/nyusatsu/nyusatsukekka.files/R8kamiki_itaku.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-11-28T13:18:32+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-12-01T13:18:32+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年度上半期入札結果（委託）（PDF：627KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"9cced-65ef189e2e3cb\"",
+    "lastModified": "Thu, 29 Oct 2026 02:35:53 GMT",
+    "contentHash": "11ef22fe16c1de671daa775f5308d29020f407857a47d15904a779f861e8370b"
   },
   {
     "id": "f8c1a9a80da6648f",
     "municipalityCode": "062065",
     "url": "https://www.city.sagae.yamagata.jp/jigyou/nyusatsu/nyusatsukekka.files/R8kamiki_kouzi.pdf",
     "failureCount": 0,
-    "lastSuccessAt": null,
+    "lastSuccessAt": "2026-11-28T13:18:33+00:00",
     "lastFailureAt": null,
-    "nextCrawlAt": null,
-    "coveredYears": [],
+    "nextCrawlAt": "2026-12-01T13:18:33+00:00",
+    "coveredYears": [
+      2026
+    ],
     "sourceType": "result_pdf",
     "title": "令和8年度上半期入札結果（建設工事）（PDF：905KB）",
     "discoveryMethod": "result_archive_link",
     "priority": 1,
-    "active": true
+    "active": true,
+    "etag": "\"e258c-65ef1882c9e9d\"",
+    "lastModified": "Thu, 29 Oct 2026 02:35:25 GMT",
+    "contentHash": "bc7c7c9cc655a538b5a9fceb7d038874cd2d4d2bab3c2b469d1c1f378368f051"
   },
   {
     "id": "21e273e9d8ca677c",
@@ -138585,6 +138595,81 @@
     "title": "令和8年度大玉村",
     "discoveryMethod": "result_archive_link",
     "priority": 3,
+    "active": true
+  },
+  {
+    "id": "b779e125d1879256",
+    "municipalityCode": "462161",
+    "url": "https://www.city.hioki.kagoshima.jp/documents/14832/kouhyousyo1126.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年11月26日開札結果（PDF：146KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "8dcfba20aa1e0d01",
+    "municipalityCode": "462161",
+    "url": "https://www.city.hioki.kagoshima.jp/documents/14832/kouhyousyo1119.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年11月19日開札結果（PDF：144KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "b525428816dcd366",
+    "municipalityCode": "462161",
+    "url": "https://www.city.hioki.kagoshima.jp/documents/14832/kouhyousyo1112.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年11月12日開札結果（PDF：110KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "7f8d72e9d21b72a5",
+    "municipalityCode": "462161",
+    "url": "https://www.city.hioki.kagoshima.jp/documents/14832/kouhyousyo1105.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年11月5日開札結果（PDF：118KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
+    "active": true
+  },
+  {
+    "id": "6ba8166ee441456b",
+    "municipalityCode": "462161",
+    "url": "https://www.city.hioki.kagoshima.jp/documents/14832/kouhyousyo1029.pdf",
+    "failureCount": 0,
+    "lastSuccessAt": null,
+    "lastFailureAt": null,
+    "nextCrawlAt": null,
+    "coveredYears": [],
+    "sourceType": "result_pdf",
+    "title": "令和8年10月29日開札結果（PDF：119KB）",
+    "discoveryMethod": "result_archive_link",
+    "priority": 1,
     "active": true
   }
 ]
